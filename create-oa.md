@@ -23,7 +23,7 @@ chủ](https://oa.zalo.me/home)</ins> của Zalo Official Account
 _Chọn "Tạo Official Account ngay" để đăng ký tài khoản Zalo OA_
 
 **Lưu ý**: Tên OA sẽ là brandname hiển thị của Doanh nghiệp tới người
-dùng Zalo
+dùng Zalo OA 
 
 _Xem hướng dẫn chi tiết đăng ký tài khoản Zalo OA <ins> [tại
 đây](https://oa.zalo.me/home/resources/guides/huong-dan-dang-ky-tai-khoan-zalo-official-account-doanh-nghiep_61)</ins>_
