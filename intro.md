@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Zalo Notification Service (ZNS) là giải pháp gửi thông báo từ Zalo Official Account (OA) của doanh nghiệp tới khách hàng trên nền tảng Zalo. ZNS gồm các thành phần chính như:
 
-- Zalo Cloud Account (ZCA)
+- Zalo Cloud Account (ZCA) hello minh trí 
 - Official Account (OA)
 - Ứng dụng (App)
 - ZNS Template
