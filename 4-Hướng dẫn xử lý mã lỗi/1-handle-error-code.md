@@ -1,7 +1,7 @@
 ---
 id: handle-error-code
 title: Cách xử lý mã lỗi
-slug: /guidelines/handle-error-code
+slug: /handle-error-code
 ---
 
 ## Tổng quan

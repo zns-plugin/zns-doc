@@ -1,7 +1,7 @@
 ---
 id: set-up
 title: Các bước thiết lập ban đầu để gửi ZNS
-slug: /guidelines/set-up
+slug: /set-up
 ---
 
 ![alt_text](../images/set-up/1.jpg "image_tooltip")

@@ -1,7 +1,7 @@
 ---
 id: zns-api
 title: Gửi ZNS thông qua API
-slug: /guidelines/zns-api
+slug: /zns-api
 ---
 
 ## Tổng quan

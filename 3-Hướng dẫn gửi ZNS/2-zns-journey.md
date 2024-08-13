@@ -1,7 +1,7 @@
 ---
 id: zns-journey-api
 title: Gửi ZNS Journey qua API
-slug: /guidelines/zns-journey-api
+slug: /zns-journey-api
 ---
 
 ## Tổng quan
