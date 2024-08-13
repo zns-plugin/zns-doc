@@ -1,16 +1,16 @@
 ---
 id: set-up
 title: Các bước thiết lập ban đầu để gửi ZNS
-sidebar_position: 1
+slug: /guidelines/set-up
 ---
 
-![alt_text](images/set-up/1.jpg "image_tooltip")
+![alt_text](../images/set-up/1.jpg "image_tooltip")
 
 ## Bước 1: Đăng ký tài khoản Zalo Official Account (OA)
 
 Doanh nghiệp truy cập vào [trang chủ](https://oa.zalo.me/home) của Zalo Official Account (OA) và nhấp chọn “Tạo Official Account ngay" để đăng ký tài khoản OA.
 
-![alt_text](images/set-up/2_1.png "image create OA")
+![alt_text](../images/set-up/2_1.png "image create OA")
 
 _Chọn “Tạo Official Account ngay” để đăng ký tài khoản Zalo OA_
 

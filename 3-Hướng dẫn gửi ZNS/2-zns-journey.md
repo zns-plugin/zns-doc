@@ -1,7 +1,7 @@
 ---
 id: zns-journey-api
 title: Gửi ZNS Journey qua API
-sidebar_position: 3
+slug: /guidelines/zns-journey-api
 ---
 
 ## Tổng quan
@@ -16,7 +16,7 @@ sidebar_position: 3
 
 Để gửi ZNS Journey, cần thực hiện các bước sau:
 
-![alt_text](images/zns-journey/1_1.png "zns-journey-steps")
+![alt_text](../images/zns-journey/1_1.png "zns-journey-steps")
 
 ### (1) Khởi tạo Journey token
 

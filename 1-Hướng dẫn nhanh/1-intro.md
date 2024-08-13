@@ -1,7 +1,7 @@
 ---
 id: intro
 title: Tổng quan về Zalo Notification Service
-sidebar_position: 1
+slug: /guidelines/intro
 ---
 
 ## Tổng quan
@@ -14,7 +14,7 @@ Zalo Notification Service (ZNS) là giải pháp gửi thông báo từ Zalo Off
 - ZNS Template
 - ZNS API
 
-![alt_text](images/zns.jpg "image_tooltip")
+![alt_text](../images/zns.jpg "image_tooltip")
 
 ## Giới thiệu về các thành phần của ZNS {#giới-thiệu-về-các-thành-phần-của-zns}
 
