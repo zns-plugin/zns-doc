@@ -1,7 +1,7 @@
 ---
 id: intro
 title: Tổng quan về Zalo Notification Service
-slug: /guidelines/intro
+slug: /intro
 ---
 
 ## Tổng quan

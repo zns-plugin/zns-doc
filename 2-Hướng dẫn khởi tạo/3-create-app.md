@@ -1,7 +1,7 @@
 ---
 id: create-app
 title: Hướng dẫn khởi tạo Ứng dụng
-slug: /guidelines/create-app
+slug: /create-app
 ---
 
 ## Giới thiệu Ứng dụng (App)

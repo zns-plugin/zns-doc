@@ -1,7 +1,7 @@
 ---
 id: create-oa
 title: Hướng dẫn khởi tạo Official Account
-slug: /guidelines/create-oa
+slug: /create-oa
 ---
 
 ## Giới thiệu tài khoản Zalo Official Account (OA)
