@@ -1,7 +1,7 @@
 ---
 id: create-app
 title: Hướng dẫn khởi tạo Ứng dụng
-sidebar_position: 6
+slug: /guidelines/create-app
 ---
 
 ## Giới thiệu Ứng dụng (App)

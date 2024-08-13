@@ -1,7 +1,7 @@
 ---
 id: zns-api
 title: Gửi ZNS thông qua API
-sidebar_position: 2
+slug: /guidelines/zns-api
 ---
 
 ## Tổng quan
@@ -14,7 +14,7 @@ sidebar_position: 2
 
 Để thực hiện gửi ZNS API và quản lý trạng thái thông tin ZNS, thực hiện các bước sau:
 
-![alt_text](images/zns-api/1_1.png "zns api step")
+![alt_text](../images/zns-api/1_1.png "zns api step")
 
 ### (1) Gửi ZNS API
 

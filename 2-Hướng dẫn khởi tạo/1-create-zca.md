@@ -1,7 +1,7 @@
 ---
 id: create-zca
 title: Hướng dẫn khởi tạo Zalo Cloud Account
-sidebar_position: 3
+slug: /guidelines/create-zca
 ---
 
 ## Giới thiệu tài khoản Zalo Cloud Account (ZCA)
