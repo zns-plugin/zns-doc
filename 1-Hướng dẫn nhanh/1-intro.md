@@ -1,56 +1,68 @@
 ---
 id: intro
-title: Tổng quan về Zalo Notification Service
+title: Giới thiệu về Zalo Notification Service  
 slug: /intro
 ---
 
-## Tổng quan
+# <p style="text-align: center;">Giới thiệu về Zalo Notification Service</p>
+## Giới thiệu chung
 
-Zalo Notification Service (ZNS) là giải pháp gửi thông báo từ Zalo Official Account (OA) của doanh nghiệp tới khách hàng trên nền tảng Zalo. ZNS gồm các thành phần chính như:
+<p align="center">
+    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/a8aabaadafd05da4589bb98f01340984.jpg">
 
-- Zalo Cloud Account (ZCA)
-- Official Account (OA)
-- Ứng dụng (App)
-- ZNS Template
-- ZNS API
 
-![alt_text](../images/zns.jpg "image_tooltip")
+Zalo Notification Service (ZNS) là dịch vụ gửi thông báo chăm sóc khách hàng đến số điện thoại khách hàng trên Zalo, vận hành theo phương thức gọi API giữa các máy chủ. Dịch vụ nằm trong bộ giải pháp dành cho nhóm tài khoản Official Account (OA). 
 
-## Giới thiệu về các thành phần của ZNS {#giới-thiệu-về-các-thành-phần-của-zns}
+Tìm hiểu thêm về lợi ích của ZNS cho doanh nghiệp tại đây: 
 
-### 1. ZCA
+* [Ứng dụng của ZNS dành cho doanh nghiệp](https://zalo.cloud/blog?page=1&listCategory=%5BQBU97NEGMDQWRDZZQ6%5D)
+* [Ưu điểm của ZNS](https://zalo.cloud/blog/4-diem-noi-bat-trong-tinh-nang-cua-zns/kgu48mb6b6bg6e67p)
 
-**Zalo Cloud Account (ZCA) **là công cụ quản lý số dư tiền để sử dụng tính năng tính phí của các tài khoản Zalo Official Account - Doanh Nghiệp (OA) và các ứng dụng ủy quyền của Doanh Nghiệp (App). ZCA có các chức năng chính như:
 
-- Quản lý chi tiêu
-- Quản lý việc sử dụng các dịch vụ
-- Quản lý giao dịch
-- Trả phí các dịch vụ
-- Quản lý tài sản
-- Quản lý chất lượng gửi tin
+## Giới thiệu về mẫu tin ZNS 
 
-### 2. OA
+<p align="center">
+    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/e83158978eda91ff9f2138ab5b4b1b12.png">
 
-**Zalo Official Account doanh nghiệp (OA)** là tài khoản chính thức của doanh nghiệp trên Zalo, giúp doanh nghiệp và khách hàng/người quan tâm tương tác với nhau dễ dàng hơn. Khi thực hiện gửi ZNS, tên OA sẽ đại diện xuất hiện trong thông báo được gửi đến người dùng Zalo.
 
-Tài khoản ZCA cần liên kết với OA để ủy quyền sử dụng các tính năng trả phí. Để liên kết OA, bạn cần có quyền Quản trị viên của OA đó.
+Khác so với các tin nhắn thông thường, tin ZNS bao gồm các hình thức đa dạng như logo, hình ảnh, tham số, v.v... và các yếu tố tương tác chăm sóc khách hàng như nút thao tác gọi điện, dẫn đến website doanh nghiệp, đánh giá sao, nút thanh toán nhanh. Các mẫu ZNS này được chủ động thiết kế bởi doanh nghiệp trên công cụ nằm trong gói dịch vụ, hoặc qua yêu cầu đặc biệt đến đội ngũ ZNS.  
 
-### 3. App
+<p align="center">
+    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/c9f4eeed48e6cb3f953c039319189c5e.png">
 
-**Ứng dụng (App)** là đơn vị đại diện của OA để thực hiện việc gửi thông báo ZNS đến người dùng Zalo. Một Ứng dụng có thể thay mặt nhiều OA thực hiện gửi thông báo ZNS đến khách hàng.
 
-Ứng dụng cần liên kết với ZCA để sử dụng các tính năng trả phí. Để liên kết với ZCA, bạn cần có quyền Quản trị viên của ứng dụng.
+Các mẫu tin ZNS được kiểm duyệt trước khi gửi để đảm bảo tính chuyên nghiệp, uy tín của doanh nghiệp OA và nền tảng Zalo. Ngoài ra, để tránh tình trạng tin rác và thưởng cho các doanh nghiệp có chất lượng gửi tin cao, hệ thống áp dụng các quy định ưu đãi hoặc penalty về mục đích gửi tin và số lượng tin, dựa trên phản hồi của người nhận.
 
-### 4. ZNS Template
+<p align="center">
+    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/8691c39ca588f806ddab951d10302640.png">
 
-ZNS Template API cho phép gửi thông báo CSKH thông qua API đến khách hàng của Doanh nghiệp đang sử dụng Zalo trong điều kiện đáp ứng đủ các tiêu chuẩn về <ins>[chính sách dịch vụ](https://zalo.cloud/terms)</ins> được quy định. Để gửi được ZNS Template API, OA cần tạo và gửi duyệt template ZNS trước.
+<p align="center">
+    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/bea78159766e45b3722b223ab326ebe5.png">
 
-ZNS cung cấp nhiều loại Template khác nhau để phục vụ việc tương tác với người dùng một cách linh hoạt gồm OTP, ZNS dạng bảng, ZNS văn bản, ZNS đánh giá dịch vụ,...
+<p style="text-align: center;"> (Công cụ theo dõi hạn mức & chất lượng gửi tin trên ZCA) </p>
 
-### 5. ZNS API
 
-ZNS API là các phương thức được cung cấp bởi ZNS cho phép Doanh nghiệp tăng cường khả năng tương tác và tiếp cận người dùng thông qua Zalo.
+## Bắt đầu sử dụng dịch vụ ZNS
+**Bước 1.** Để sử dụng ZNS, trước hết, doanh nghiệp cần thiết lập và liên kết/ủy quyền các tài khoản sau: 
 
-Xem chi tiết các API Zalo cung cấp <ins>[tại đây](https://developers.zalo.me/docs/api/zalo-notification-service-api/bat-dau/gioi-thieu-zalo-notification-service-api-post-5198)</ins>
+* **[Zalo Cloud Account (ZCA)](https://account.zalo.cloud/)**: công cụ quản lý chi tiêu và vận hành các dịch vụ ZNS & OA.
 
-_Để bắt đầu sử dụng ZNS, vui lòng xem chi tiết <ins>[tại đây](/set-up)</ins>_
+
+<p align="center">
+    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/f8374081adbb04f41b46dd65ee437ea1.png">
+<center>(Quản lý chi tiêu trong ZCA)</center>
+<p align="center">
+    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/a81292a810bf5f06c44e40c730cf1256.png">
+
+<p style="text-align: center;"> (Tạo mẫu ZNS trong ZCA)  </p>
+
+* **[Zalo Official Account (OA)](https://oa.zalo.me/)**: tài khoản chính thức của doanh nghiệp trên Zalo, giúp doanh nghiệp và khách hàng/người quan tâm tương tác với nhau dễ dàng hơn.  
+
+* **[Ứng dụng (App)](https://developers.zalo.me/createapp)**: công cụ đại diện cho một hoặc nhiều OA gửi thông báo ZNS. 
+
+**Bước 2.** Sau khi thiết lập các tài khoản, doanh nghiệp tiến hành tạo mẫu tin ZNS trên công cụ tạo mẫu ZNS trên ZCA. Sau khi tạo mẫu tin, doanh nghiệp tiến hành gửi duyệt. Mẫu ZNS sẽ được đánh giá phê duyệt bởi Zalo trong vòng 2-3 ngày làm việc. 
+
+<p align="center">
+    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/e6dc58c88cd316922c7f77244128ec91.png">
+
+**Bước 3.** Thiết lập [ZNS API](https://developers.zalo.me/docs/zalo-notification-service/bat-dau/gioi-thieu-zalo-notification-service-api) hoặc gửi theo chiến dịch, và gửi ZNS đến người nhận.
