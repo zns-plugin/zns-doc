@@ -1,68 +1,72 @@
 ---
 id: intro
-title: Giới thiệu về Zalo Notification Service  
+title: Giới thiệu về Zalo Notification Service
 slug: /intro
 ---
 
-# <p style="text-align: center;">Giới thiệu về Zalo Notification Service</p>
+# <p style={{textAlign: 'center'}}>Giới thiệu về Zalo Notification Service</p>
+
 ## Giới thiệu chung
 
-<p align="center">
-    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/a8aabaadafd05da4589bb98f01340984.jpg">
+<p style={{ textAlign: "center" }}>
+  <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/a8aabaadafd05da4589bb98f01340984.jpg" />
+</p>
+Zalo Notification Service (ZNS) là dịch vụ gửi thông báo chăm sóc khách hàng đến
+số điện thoại khách hàng trên Zalo, vận hành theo phương thức gọi API giữa các máy
+chủ. Dịch vụ nằm trong bộ giải pháp dành cho nhóm tài khoản Official Account (OA).
 
+Tìm hiểu thêm về lợi ích của ZNS cho doanh nghiệp tại đây:
 
-Zalo Notification Service (ZNS) là dịch vụ gửi thông báo chăm sóc khách hàng đến số điện thoại khách hàng trên Zalo, vận hành theo phương thức gọi API giữa các máy chủ. Dịch vụ nằm trong bộ giải pháp dành cho nhóm tài khoản Official Account (OA). 
+- [Ứng dụng của ZNS dành cho doanh nghiệp](https://zalo.cloud/blog?page=1&listCategory=%5BQBU97NEGMDQWRDZZQ6%5D)
+- [Ưu điểm của ZNS](https://zalo.cloud/blog/4-diem-noi-bat-trong-tinh-nang-cua-zns/kgu48mb6b6bg6e67p)
 
-Tìm hiểu thêm về lợi ích của ZNS cho doanh nghiệp tại đây: 
+## Giới thiệu về mẫu tin ZNS
 
-* [Ứng dụng của ZNS dành cho doanh nghiệp](https://zalo.cloud/blog?page=1&listCategory=%5BQBU97NEGMDQWRDZZQ6%5D)
-* [Ưu điểm của ZNS](https://zalo.cloud/blog/4-diem-noi-bat-trong-tinh-nang-cua-zns/kgu48mb6b6bg6e67p)
+<p style={{textAlign: 'center'}}>
+    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/e83158978eda91ff9f2138ab5b4b1b12.png" />
 
+Khác so với các tin nhắn thông thường, tin ZNS bao gồm các hình thức đa dạng như logo, hình ảnh, tham số, v.v... và các yếu tố tương tác chăm sóc khách hàng như nút thao tác gọi điện, dẫn đến website doanh nghiệp, đánh giá sao, nút thanh toán nhanh. Các mẫu ZNS này được chủ động thiết kế bởi doanh nghiệp trên công cụ nằm trong gói dịch vụ, hoặc qua yêu cầu đặc biệt đến đội ngũ ZNS.
 
-## Giới thiệu về mẫu tin ZNS 
-
-<p align="center">
-    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/e83158978eda91ff9f2138ab5b4b1b12.png">
-
-
-Khác so với các tin nhắn thông thường, tin ZNS bao gồm các hình thức đa dạng như logo, hình ảnh, tham số, v.v... và các yếu tố tương tác chăm sóc khách hàng như nút thao tác gọi điện, dẫn đến website doanh nghiệp, đánh giá sao, nút thanh toán nhanh. Các mẫu ZNS này được chủ động thiết kế bởi doanh nghiệp trên công cụ nằm trong gói dịch vụ, hoặc qua yêu cầu đặc biệt đến đội ngũ ZNS.  
-
-<p align="center">
-    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/c9f4eeed48e6cb3f953c039319189c5e.png">
-
+</p>
+<p style={{textAlign: 'center'}}>
+    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/c9f4eeed48e6cb3f953c039319189c5e.png" />
 
 Các mẫu tin ZNS được kiểm duyệt trước khi gửi để đảm bảo tính chuyên nghiệp, uy tín của doanh nghiệp OA và nền tảng Zalo. Ngoài ra, để tránh tình trạng tin rác và thưởng cho các doanh nghiệp có chất lượng gửi tin cao, hệ thống áp dụng các quy định ưu đãi hoặc penalty về mục đích gửi tin và số lượng tin, dựa trên phản hồi của người nhận.
 
-<p align="center">
-    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/8691c39ca588f806ddab951d10302640.png">
-
-<p align="center">
-    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/bea78159766e45b3722b223ab326ebe5.png">
-
-<p style="text-align: center;"> (Công cụ theo dõi hạn mức & chất lượng gửi tin trên ZCA) </p>
-
+</p>
+<p style={{textAlign: 'center'}}>
+    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/8691c39ca588f806ddab951d10302640.png" />
+</p>
+<p style={{textAlign: 'center'}}>
+    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/bea78159766e45b3722b223ab326ebe5.png" />
+</p>
+<p style={{textAlign: 'center'}}>
+  (Công cụ theo dõi hạn mức & chất lượng gửi tin trên ZCA){" "}
+</p>
 
 ## Bắt đầu sử dụng dịch vụ ZNS
-**Bước 1.** Để sử dụng ZNS, trước hết, doanh nghiệp cần thiết lập và liên kết/ủy quyền các tài khoản sau: 
 
-* **[Zalo Cloud Account (ZCA)](https://account.zalo.cloud/)**: công cụ quản lý chi tiêu và vận hành các dịch vụ ZNS & OA.
+**Bước 1.** Để sử dụng ZNS, trước hết, doanh nghiệp cần thiết lập và liên kết/ủy quyền các tài khoản sau:
 
+- **[Zalo Cloud Account (ZCA)](https://account.zalo.cloud/)**: công cụ quản lý chi tiêu và vận hành các dịch vụ ZNS & OA.
 
-<p align="center">
-    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/f8374081adbb04f41b46dd65ee437ea1.png">
+<p style={{ textAlign: "center" }}>
+  <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/f8374081adbb04f41b46dd65ee437ea1.png" />
+</p>
 <center>(Quản lý chi tiêu trong ZCA)</center>
-<p align="center">
-    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/a81292a810bf5f06c44e40c730cf1256.png">
+<p style={{ textAlign: "center" }}>
+  <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/a81292a810bf5f06c44e40c730cf1256.png" />
+</p>
+<p style={{ textAlign: "center" }}> (Tạo mẫu ZNS trong ZCA) </p>
 
-<p style="text-align: center;"> (Tạo mẫu ZNS trong ZCA)  </p>
+- **[Zalo Official Account (OA)](https://oa.zalo.me/)**: tài khoản chính thức của doanh nghiệp trên Zalo, giúp doanh nghiệp và khách hàng/người quan tâm tương tác với nhau dễ dàng hơn.
 
-* **[Zalo Official Account (OA)](https://oa.zalo.me/)**: tài khoản chính thức của doanh nghiệp trên Zalo, giúp doanh nghiệp và khách hàng/người quan tâm tương tác với nhau dễ dàng hơn.  
+- **[Ứng dụng (App)](https://developers.zalo.me/createapp)**: công cụ đại diện cho một hoặc nhiều OA gửi thông báo ZNS.
 
-* **[Ứng dụng (App)](https://developers.zalo.me/createapp)**: công cụ đại diện cho một hoặc nhiều OA gửi thông báo ZNS. 
+**Bước 2.** Sau khi thiết lập các tài khoản, doanh nghiệp tiến hành tạo mẫu tin ZNS trên công cụ tạo mẫu ZNS trên ZCA. Sau khi tạo mẫu tin, doanh nghiệp tiến hành gửi duyệt. Mẫu ZNS sẽ được đánh giá phê duyệt bởi Zalo trong vòng 2-3 ngày làm việc.
 
-**Bước 2.** Sau khi thiết lập các tài khoản, doanh nghiệp tiến hành tạo mẫu tin ZNS trên công cụ tạo mẫu ZNS trên ZCA. Sau khi tạo mẫu tin, doanh nghiệp tiến hành gửi duyệt. Mẫu ZNS sẽ được đánh giá phê duyệt bởi Zalo trong vòng 2-3 ngày làm việc. 
-
-<p align="center">
-    <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/e6dc58c88cd316922c7f77244128ec91.png">
-
-**Bước 3.** Thiết lập [ZNS API](https://developers.zalo.me/docs/zalo-notification-service/bat-dau/gioi-thieu-zalo-notification-service-api) hoặc gửi theo chiến dịch, và gửi ZNS đến người nhận.
+<p style={{ textAlign: "center" }}>
+  <img src="https://stc-oa.zdn.vn/uploads/2024/08/15/e6dc58c88cd316922c7f77244128ec91.png" />
+</p>
+**Bước 3.** Thiết lập [ZNS API](https://developers.zalo.me/docs/zalo-notification-service/bat-dau/gioi-thieu-zalo-notification-service-api)
+hoặc gửi theo chiến dịch, và gửi ZNS đến người nhận.
