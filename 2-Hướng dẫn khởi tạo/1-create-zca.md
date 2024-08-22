@@ -1,66 +1,33 @@
 ---
-id: create-zca
-title: Hướng dẫn khởi tạo Zalo Cloud Account
-slug: /create-zca
+id: account-info
+title: Thông tin tài khoản
+slug: /account-info
 ---
 
-## Giới thiệu tài khoản Zalo Cloud Account (ZCA)
+# <p style={{textAlign: 'center'}}>Hướng dẫn kiểm tra và điều chỉnh thông tin trên tài khoản ZCA
 
-Zalo Cloud Account (ZCA) là tài khoản quản lý số dư để sử dụng các tính
-năng tính phí của các tài khoản Zalo Official Account - Doanh Nghiệp
-(OA) và các Ứng dụng ủy quyền của OA (App ID) như:
+Zalo Cloud sẽ liên tục kiểm tra tự động toàn bộ tài khoản Zalo Cloud Account (ZCA) trên hệ thống, nếu có dấu hiệu bất thường như các thông tin được cung cấp không được xác thực hoặc không trùng khớp với thông tin trên Cổng thông tin quốc gia về đăng ký doanh nghiệp,… thì chúng tôi sẽ tạm ngưng các dịch vụ và tạm khóa tài khoản ZCA đó. Vì vậy, doanh nghiệp cần đảm bảo thông tin cung cấp trên tài khoản ZCA là hoàn toàn chính xác.  
 
-- Gửi tương tác chủ động đến người quan tâm OA
+Để kiểm tra/chỉnh sửa thông tin, Quý khách vui lòng truy cập vào [[tài khoản ZCA]](https://account.zalo.cloud/spending/overview). Tại mục **“Cài đặt”**, chọn **“Thông tin tài khoản”**  
 
-- Gửi thông báo Zalo Notification Service (ZNS)
+Để điều chỉnh lại thông tin, Quý khách vui lòng chọn **"Chỉnh sửa"**. Sau khi đã điều chỉnh lại thông tin, chọn **"Cập nhật thông tin"**
 
-## Hướng dẫn đăng ký tài khoản ZCA
+<p style={{textAlign: 'center'}}>
+    <img src="https://stc-oa.zdn.vn/uploads/2024/08/22/88d01acdb9b6f60f60fa9a1c6f2ac989.png" />
+</p>
 
-**_Lưu ý:_** chỉ có số điện thoại chưa sở hữu tài khoản ZCA (vai trò Quản trị
-viên cấp cao), mới có thể truy cập vào trang tạo tài khoản ZCA.
+<p style={{textAlign: 'center'}}>
+    <img src="https://stc-oa.zdn.vn/uploads/2024/08/22/497f5da3e06dd3cc6905ba10f5c5762f.png" />
+</p>
 
-### Bước 1: Truy cập vào trang tạo tài khoản ZCA <ins>[tại đây](https://account.zalo.cloud/account/create?utm_source=oa&utm_medium=blog)</ins>
+**Lưu ý:** Mã khách hàng chính là mã tài khoản ZCA (gọi tắt là mã ZCA, ví dụ: ZCA-123456). Khi có yêu cầu hỗ trợ liên quan đến nạp tiền và hoá đơn hoặc các thao tác khác trên tài khoản ZCA, Quý khách vui lòng gửi kèm mã tài khoản ZCA đến đội ngũ chăm sóc khách hàng của Zalo Cloud qua đại chỉ email **support@zalo.cloud** để được kiểm tra và hỗ trợ nhanh nhất.
 
-Đăng nhập từ Zalo cá nhân và điền tên Zalo Cloud Account
+*Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua địa chỉ email support@zalo.cloud. Đội ngũ CSKH của Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo.*
 
-![alt_text](https://stc-oa.zdn.vn/uploads/2023/06/13/8424360bbbb609152e8c67bd275959d4.png "image create ZCA")
 
-**_Lưu ý:_**
 
-- _Chỉ hỗ trợ tên tài khoản ZCA không dấu và không có ký tự đặc biệt._
 
-- _Khuyến khích sử dụng tên tài khoản ZCA liên quan đến tên doanh
-  nghiệp._
 
-- _Tên tài khoản ZCA không thể thay đổi sau khi đã tạo thành công._
 
-### Bước 2 : Điền thông tin doanh nghiệp
 
-Doanh nghiệp điền đầy đủ và chính xác thông tin doanh nghiệp. (Tên Công
-ty, Mã số thuế, Địa chỉ công ty, Tên người đại diện, Số điện thoại liên
-hệ, Email liên hệ.)
 
-![alt_text](https://stc-oa.zdn.vn/uploads/2023/06/13/81fce556589a3e73a53197d33bb2d583.png "image Fill info OA")
-
-### Bước 3: Kết nối với tài khoản Zalo Official Account của Doanh Nghiệp
-
-![alt_text](https://stc-oa.zdn.vn/uploads/2023/06/13/4ecd3835961520660f81679f5c2983d1.png "image connect ZCA")
-
-### Bước 4: Kết nối với ứng dụng
-
-**Lưu ý**: Trong trường hợp Doanh nghiệp chưa có Ứng dụng, chọn "Tạo ứng
-dụng" → hệ thống sẽ tạo 1 ứng dụng dưới tên ZCA của Doanh nghiệp. Quý
-khách có thể bỏ qua bằng cách nhấn "Tiếp tục" nếu không có nhu cầu
-liên kết ứng dụng.
-
-Trường hợp Doanh nghiệp đã có ứng dụng, chọn "Kết nối"  →  "Tiếp tục".
-
-![alt_text](https://stc-oa.zdn.vn/uploads/2023/06/13/b05a3a5003b9cc642bfe8cf9904df892.png "image connect App")
-
-### Bước 5: Đồng ý với Quyền riêng tư & Điều khoản và hoàn thành quy trình
-
-![alt_text](https://stc-oa.zdn.vn/uploads/2023/06/13/0915a769da94cad7d157a2e3ccee032f.png "image agreement")
-
-Nếu có bất kỳ yêu cầu hỗ trợ, quý khách có thể liên hệ với đội ngũ hỗ
-trợ và chăm sóc khách hàng của Zalo Cloud qua email:
-**support@zalo.cloud**
