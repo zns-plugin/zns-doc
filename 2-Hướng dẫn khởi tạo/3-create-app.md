@@ -12,7 +12,9 @@ Doanh nghiệp có thể huỷ liên kết giữa Ứng dụng (AppID) với tà
 
 Trong mục **"Cài đặt"** chọn **"Quản lý tài sản"** → **"Liên kết ứng dụng"**. Xác định AppID cần huỷ liên kết 
 
-
+<p style={{textAlign: 'center'}}>
+    <img src="https://stc-oa.zdn.vn/uploads/2024/08/27/5fa491cbf496040dfa791614a1f39824.png" />
+</p>
 
 
 
