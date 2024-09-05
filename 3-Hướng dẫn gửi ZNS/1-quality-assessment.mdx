@@ -16,15 +16,108 @@ Quyền lợi gửi ZNS của OA sẽ được thể hiện qua 2 yếu tố:
 
 * Nội dung ZNS có thể gửi 
 
-**A.1 - Số lượng ZNS có thể gửi mỗi ngày (Daily quota)** 
+### A.1 - Số lượng ZNS có thể gửi mỗi ngày (Daily quota)
 
 Quyền lợi gửi ZNS của OA sẽ được thể hiện theo từng mốc của chỉ số **“Số lượng ZNS có thể gửi mỗi ngày (Daily quota)”**, mỗi mốc sẽ có quyền lợi tương ứng như bảng bên dưới: 
 
 <p style={{textAlign: 'center'}}>
-    <img src="https://stc-oa.zdn.vn/uploads/2024/08/30/1bbd2428b20521fa1f2edcb2af114500.png" />
+    <img src="https://stc-oa.zdn.vn/uploads/2024/09/05/a5934e8a0062d54bd006196291996491.png" />
 </p>
 
-<p align="center">Xem thêm [Quy định chung khi kiểm duyệt mẫu ZNS](https://zalo.cloud/news/quy-dinh-chung-khi-kiem-duyet-mau-tin-zns/baujzpyvjjrz7776m)</p>
+<div>
+    Xem thêm [Quy định chung khi kiểm duyệt mẫu ZNS](https://zalo.cloud/news/quy-dinh-chung-khi-kiem-duyet-mau-tin-zns/baujzpyvjjrz7776m)
+</div>
+
+### A.2 - Cơ chế gửi và nhận ZNS template thuộc Tag 3 Hậu mãi
+
+<p style={{textAlign: 'center'}}>
+    <img src="https://stc-oa.zdn.vn/uploads/2024/09/05/3ca4c4e2f480de74e85da33d4751b3a7.png" />
+</p>
+
+## B. Chất lượng gửi ZNS của Zalo Official Account (OA)
+
+### B.1 - Cơ chế đánh giá chất lượng - xét duyệt tăng/giảm hạn mức
+
+Chất lượng gửi ZNS của OA sẽ được chia làm 3 mức độ, ứng với các quyền lợi như sau:
+
+<p style={{textAlign: 'center'}}>
+    <img src="https://stc-oa.zdn.vn/uploads/2024/09/05/5b780846735c063bba9509131651db38.png" />
+</p>
+
+Khởi đầu, Zalo OA của doanh nghiệp sẽ chỉ được gửi các mẫu thông báo ZNS có cấp độ thấp (Tag 1 và Tag 2). Sau đó, dựa theo chất lượng gửi ZNS, hệ thống sẽ tự động điều chỉnh cho phép OA gửi các loại nội dung ở cấp độ cao hơn:
+
+<p style={{textAlign: 'center'}}>
+    <img src="https://stc-oa.zdn.vn/uploads/2024/09/05/51f55fc66b331defc5f46ebcd268fe21.png" />
+</p>
+
+**<u>Lưu ý đặc biệt:</u>**
+
+* Quyền lợi gửi ZNS của OA sẽ được đánh giá **mỗi ngày** *(trừ giai đoạn chờ sau khi thay đổi hạn mức)*.
+
+    * Khi có sự thay đổi về hạn mức quyền lợi (tăng hoặc giảm hạn mức/cấp độ gửi tin tối đa), sẽ áp dụng thời gian chờ cho lần đánh giá để xét duyệt thay đổi quyền lợi kế tiếp.
+
+    * Thời gian chờ kéo dài 7 ngày, từ ngày OA có sự thay đổi về hạn mức quyền lợi.
+
+    * Đây là khoảng thời gian vừa đủ để đội ngũ hỗ trợ khách hàng và phát triển sản phẩm của Zalo có thể đánh giá chính xác về khả năng gửi ZNS của doanh nghiệp tại hạn mức quyền lợi mới.
+
+    * Với OA chưa có lịch sử sử dụng dịch vụ ZNS, việc gửi ZNS đầu tiên vào ngày D sẽ kích hoạt cơ chế đánh giá chất lượng từ D+1, đợt đánh giá đầu tiên sẽ thực hiện sau thời gian chờ (7 ngày) vào ngày D+8.
+
+* Nếu chất lượng gửi ZNS của OA thường xuyên ở mức **Kém**, bên cạnh việc giảm quyền lợi gửi, Zalo có thể đưa ra quyết định tạm ngưng cung cấp dịch vụ ZNS cho doanh nghiệp cho đến khi doanh nghiệp cam kết cải thiện chất lượng gửi thông báo.
+
+* Chất lượng của OA được xác định bởi **Tỉ lệ báo xấu** trong khoảng thời gian đánh giá chất lượng tương ứng.
+
+    * Tỉ lệ báo xấu an toàn được để xuất là =<0.1%
+    * Xem thêm: [Báo xấu mẫu thông báo ZNS được ghi nhận khi nào?](https://zalo.cloud/blog/bao-xau-mau-tin-thong-bao-zns-duoc-ghi-nhan-khi-nao/yku9nm97wyd7nm8aab)
+
+### B.2 - Cơ chế xử lý vi phạm (penalty) tự động:
+
+Với mục đích giảm thiểu rủi ro ảnh hưởng đến trải nghiệm của người dùng cuối (end-user) trong các trường hợp tỉ lệ báo xấu (report) của OA tăng cao đột ngột trong thời gian ngắn, hệ thống sẽ có cơ chế phạt (penalty) với các trường hợp này.
+
+**<u>Điều kiện:</u>** **[Tổng số lượng report trong ngày] > [2% x Daily quota hiện tại của OA]**
+
+**<u>Action:</u>** ***OA sẽ bị hạ 1 mức daily quota (diễn ra tối đa 1 lần/ngày)***
+
+**Chi tiết:**
+
+* Chạy song song với cơ chế tăng/giảm hạn mức daily quota (Cơ chế ở mục B.1).
+
+* Không bị ảnh hưởng bởi thời gian chờ 7 ngày sau khi tăng/giảm hạn mức.
+
+* Trong khoảng thời gian từ 00:00 đến 24:00 mỗi ngày, cơ chế penalty diễn ra tối đa 1 lần.
+
+* Tần suất đánh giá: Mỗi giờ.
+
+* Khung thời gian đánh giá: từ đầu ngày đến thời điểm hiện tại.
+
+## C. Hướng dẫn xem báo cáo chất lượng gửi ZNS trên tài khoản Zalo Clound Account (ZCA)
+
+Khi bắt đầu hoạt động gửi thông báo ZNS, Zalo Official Account (OA) của doanh nghiệp sẽ chỉ được gửi ZNS có cấp độ thấp (Tag 1 và Tag 2). Sau đó, dựa theo chất lượng gửi ZNS, hệ thống sẽ tự động điều chỉnh cho phép OA gửi các loại nội dung ở cấp độ cao hơn (Tag 3: Hậu mãi).
+
+Xem thêm [Hướng dẫn xem báo cáo chất lượng gửi ZNS trên tài khoản ZCA](https://zalo.cloud/blog/huong-dan-xem-bao-cao-chat-luong-gui-zns-tren-tai-khoan-zca-/baudd7d9nmvjd9pjav)
+
+## D. Truy xuất thông tin chất lượng và quyền lợi gửi ZNS qua API
+
+Những thông tin về chất lượng và quyền lợi gửi ZNS của OA có thể được truy xuất qua các API như sau:
+
+
+| Thông tin                                              | API                                                                                                                                                                                |
+| -------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Số lượng thông báo ZNS có thể gửi mỗi ngày             | [Lấy thông tin quota thông báo ZNS](https://developers.zalo.me/docs/zalo-notification-service/truy-xuat-thong-tin/lay-thong-tin-quota-zns)                                         |
+| Loại nội dung ZNS có thể gửi                           | [Lấy thông tin loại nội dung ZNS được phép gửi](https://developers.zalo.me/docs/zalo-notification-service/truy-xuat-thong-tin/lay-thong-tin-loai-noi-dung-zns-duoc-phep-gui)       |
+| Chất lượng gửi thông báo ZNS của OA                    | [Lấy thông tin chất lượng gửi ZNS hiện tại của OA](https://developers.zalo.me/docs/zalo-notification-service/truy-xuat-thong-tin/lay-thong-tin-chat-luong-gui-zns-hien-tai-cua-oa) |
+| Chất lượng gửi ZNS của thông báo (template) ZNS cụ thể | [Lấy thông tin chi tiết template](https://developers.zalo.me/docs/zalo-notification-service/truy-xuat-thong-tin/lay-thong-tin-chi-tiet-template)                                   |
+
+*Nếu còn bất kì thắc mắc nào liên quan đến cơ chế đánh giá chất lượng và quyền lợi gửi ZNS, Quý khách có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua địa chỉ email: support@zalo.cloud*
+
+
+
+
+
+
+
+
+
+
 
 
 
