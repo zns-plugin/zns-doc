@@ -14,10 +14,12 @@ Với tinh thần luôn luôn lắng nghe và thấu hiểu nhu cầu của khá
 Với phương thức hay dạng template truyền thống, người dùng cuối (user) phải thao tác nhiều bước để thực hiện thao tác thanh toán.   
 Template **ZNS Yêu cầu thanh toán** mới, hỗ trợ nút **Thanh toán ngay**, cho phép user thao tác thanh toán thuận lợi, hạn chế rủi ro do lỗi chủ quan.
 
-![](https://stc-oa.zdn.vn/uploads/b023e9d92376a4030d41ae2ab384ab7e.jpg)
+<p style={{ textAlign: "center" }}>
+  <img src="https://stc-oa.zdn.vn/uploads/b023e9d92376a4030d41ae2ab384ab7e.jpg" />
+</p>
 
 
-## 2. Cấu trúc của Template** **ZNS Yêu cầu thanh toán (Payment Request)
+## 2. Cấu trúc của Template ZNS Yêu cầu thanh toán (Payment Request)
 
 Cấu trúc của **ZNS Yêu cầu thanh toán** bao gồm:
 
@@ -26,28 +28,35 @@ Cấu trúc của **ZNS Yêu cầu thanh toán** bao gồm:
 
 Mẫu template này áp dụng các **Quy định chung khi kiểm duyệt mẫu ZNS**, quý khách có thể xem thêm [**tại đây**](https://zalo.cloud/news/quy-dinh-chung-khi-kiem-duyet-mau-tin-zns/baujzpyvjjrz7776m).
 
-![](https://stc-oa.zdn.vn/uploads/3c1a1704c72b6d016219d55bb7da9a51.png)
+<p style={{ textAlign: "center" }}>
+  <img src="https://stc-oa.zdn.vn/uploads/3c1a1704c72b6d016219d55bb7da9a51.png" />
+</p>
 
-## 3. Thao tác của người dùng khi thanh toán với** **ZNS Yêu cầu thanh toán (Payment Request)
+
+## 3. Thao tác của người dùng khi thanh toán với ZNS Yêu cầu thanh toán (Payment Request)
 
 Để tiện lợi cho user tiến hành thanh toán bằng nhiều ngân hàng khác nhau, Zalo đã tiến hành liên kết với nhiều ngân hàng lớn tại Việt Nam.
 
 Khi user chọn thanh toán bằng một ngân hàng đã liên kết với Zalo, tất cả thông tin về tài khoản thụ hưởng như ngân hàng, số tài khoản, số tiền, ghi chú,… đều sẽ được tự động đồng bộ, đồng thời dẫn sang Ứng dụng của ngân hàng tương ứng. User sẽ không cần sao chép thủ công các thông tin này nữa.  
   
  
+<p style={{ textAlign: "center" }}>
+  <img src="https://stc-oa.zdn.vn/uploads/dec12d9541d01ee0ce583f7385f8e34a.png" />
+</p>
 
-![](https://stc-oa.zdn.vn/uploads/dec12d9541d01ee0ce583f7385f8e34a.png)
+*<p align="center">Các bước thao tác của người dùng (Người dùng chọn chuyển tiền bằng với ngân hàng đã liên kết Zalo)</p>*
 
-_Các bước thao tác của người dùng (Người dùng chọn chuyển tiền bằng với ngân hàng đã liên kết Zalo)_
 
-![](https://stc-oa.zdn.vn/uploads/71fbfbbce1a22e87365b407bb14cb114.png)
+<p style={{ textAlign: "center" }}>
+  <img src="https://stc-oa.zdn.vn/uploads/71fbfbbce1a22e87365b407bb14cb114.png" />
+</p>
 
-_Các bước thao tác của người dùng (Người dùng chọn chuyển tiền bằng ngân hàng chưa liên kết Zalo)_
+*<p align="center">Các bước thao tác của người dùng (Người dùng chọn chuyển tiền bằng ngân hàng chưa liên kết Zalo)</p>*
 
 **Lưu ý:**
 
 *   Nếu user chọn thanh toán bằng ngân hàng chưa liên kết với Zalo, user sẽ cần chủ động thao tác để sao chép các thông tin thanh toán.
-*   Khi user click nút “Thanh toán ngay”, Zalo sẽ hiển thị những Ngân hàng có Ứng dụng (App) đã được cài đặt trên thiết bị của người dùng
+*   Khi user click nút **“Thanh toán ngay”**, Zalo sẽ hiển thị những Ngân hàng có Ứng dụng (App) đã được cài đặt trên thiết bị của người dùng.
 *   Các ngân hàng đã liên kết với Zalo sẽ có biểu tượng phía bên phải ![](https://stc-oa.zdn.vn/uploads/0f14ebd01e5692c664fa6d1c21238efe.png)
 *   Danh sách các ngân hàng đã liên kết với Zalo (Cập nhật đến 18/07/2024, xem thêm tại [LINK](https://help.zalo.me/huong-dan/chuyen-muc/nhan-tin-va-goi/nhan-tin/ho-tro-chuyen-khoan-ngan-hang-nhanh-ngay-tu-tin-nhan-zalo/?gidzl=vXOz5NyfZJlY3peJUZ-CDE8EEnrbCOarzGfg6JbaZMIaNsaVD3MDDVW8FXmmPOnc-Wa-J32f28OVVIwCEm&gidzl=tCXnRm2TAG3GrtXg18ie3zFVUcOOZYzOdjn-OqhUB0Z9stip7OylNfoFAp9Ctta9dzyWCMFbP61T2fKc1W&gidzl=jKQIK0M9EcMmKP9I1PyxQxLRaLmVc3eu-LZ12H_AEp3-39PLJfyzO_vGbLD9n3nc-G2JKcI4zfa00eOuPm)):
     1.  Ngân hàng TMCP Kỹ thương Việt Nam (Techcombank)
@@ -68,14 +77,16 @@ Mẫu template này áp dụng các **Quy định chung khi kiểm duyệt mẫu
 
 **Hướng dẫn đăng ký mẫu ZNS Yêu cầu thanh toán:** 
 
-1\. Tại [Zalo Cloud Account (ZCA)](https://account.zalo.cloud/) > truy cập [Tạo mẫu ZNS](https://account.zalo.cloud/tool/zns/createTemplate) > Chọn **ZNS yêu cầu thanh toán**
+**Bước 1:** Tại [Zalo Cloud Account (ZCA)](https://account.zalo.cloud/) > truy cập [Tạo mẫu ZNS](https://account.zalo.cloud/tool/zns/createTemplate) > Chọn **ZNS yêu cầu thanh toán**
 
   
 ![](https://stc-oa.zdn.vn/uploads/89dc23844aab407eb8edb1c0524cdda4.png)
 
-2\. Với **ZNS yêu cầu thanh toán**, quý khách cần sử dụng Logo. Ngoài ra, quý khách có thể tùy chỉnh số lượng Văn bản và Bảng, sử dụng tùy chọn CTA theo nhu cầu.
 
-3\. Điền thông tin thanh toán (thông tin tài khoản thụ hưởng):
+**Bước 2:** Với **ZNS yêu cầu thanh toán**, quý khách cần sử dụng Logo. Ngoài ra, quý khách có thể tùy chỉnh số lượng Văn bản và Bảng, sử dụng tùy chọn CTA theo nhu cầu.
+
+
+**Bước 3:** Điền thông tin thanh toán (thông tin tài khoản thụ hưởng):
 
   
 ![](https://stc-oa.zdn.vn/uploads/de3ca369d5707b4b0a770de9534b086b.png)
