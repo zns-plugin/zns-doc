@@ -184,7 +184,7 @@ title: Cài đặt kĩ thuật trong mẫu thông báo ZNS
         <p style="margin-left:0px;">Tối đa: 35 ký tự / dòng&nbsp;</p>
         <p style="margin-left:0px;">Cột Nội dung:&nbsp;</p>
         <p style="margin-left:0px;">Tối thiểu: 3 ký tự / 1 dòng&nbsp;</p>
-        <p style="margin-left:0px;">Tối đa: 257 ký tự / 1 dòng&nbsp;</p>
+        <p style="margin-left:0px;">Tối đa: 90 ký tự / 1 dòng&nbsp;</p>
       </td>
       <td>
         <p style="margin-left:0px;">&nbsp;-</p>
