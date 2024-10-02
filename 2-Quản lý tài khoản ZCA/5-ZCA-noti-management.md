@@ -4,11 +4,11 @@ title: Tính Năng Quản Lý Thông Báo Cho Tài Khoản Zalo Cloud Account
 slug: /tinh-nang-quan-ly-thong-bao-cho-tai-khoan-ZCA
 ---
 
-# <p style="text-align: center">Tính năng Quản lý thông báo cho tài khoản Zalo Cloud Account</p>
+# <p align="center">Tính năng Quản lý thông báo cho tài khoản Zalo Cloud Account</p>
 
 Với tinh thần luôn luôn lắng nghe và thấu hiểu khách hàng, đội ngũ nghiên cứu và phát triển sản phẩm Zalo Cloud chính thức ra mắt tính năng mới, cho phép Quản trị viên của Zalo Cloud Account có thể quản lý các hạng mục thông báo về dịch vụ. Đây là một tính năng hữu ích và tiện lợi cho Quý đối tác trong quá trình vận hành và sử dụng dịch vụ của Zalo Cloud.
 
-## 1. Phân loại các hạn mục thông báo
+## 1. Phân loại các hạng mục thông báo
 
 <table>
   <tbody>
@@ -145,7 +145,7 @@ Với tinh thần luôn luôn lắng nghe và thấu hiểu khách hàng, đội
       <td>
         <p style="margin-left:0px;">
           <span style="color:rgb(0,0,0);">
-            Thông báo trạng thái mẫu ZNS (được duyệt, từ chối, bị khóa):{" "}
+            Thông báo trạng thái mẫu ZNS (được duyệt, từ chối, bị khóa):
             <strong>Xuyên đêm</strong>
           </span>
         </p>
@@ -154,7 +154,7 @@ Với tinh thần luôn luôn lắng nghe và thấu hiểu khách hàng, đội
         </p>
         <p style="margin-left:0px;">
           <span style="color:rgb(0,0,0);">
-            Thông báo quyền lợi gửi ZNS:{" "}
+            Thông báo quyền lợi gửi ZNS:
             <strong>
               Trong&nbsp;giờ hành chính 9H30-18H tất cả ngày trong tuần
             </strong>
@@ -176,7 +176,7 @@ Khi chọn **“Bật”** nhận tin thông báo, Quý khách sẽ bắt đầu
   <img src="https://stc-oa.zdn.vn/uploads/9fceb5dd051fe39799ec67a86ce9e010.png" />
 </p>
 
-_<p style={{ textAlign: "center" }}>Mẫu tin thông báo ZNS - Loại thông báo: Thông báo về ZNS (Trạng thái xét duyệt mẫu ZNS)</p>_
+_<p align="center">Mẫu tin thông báo ZNS - Loại thông báo: Thông báo về ZNS (Trạng thái xét duyệt mẫu ZNS)</p>_
 
 ### b. Quản lý việc nhận thông báo 
 
@@ -188,23 +188,23 @@ Sau khi bật thông báo, user sẽ nhận tin ZNS để có thể đưa ra hư
   <img src="https://stc-oa.zdn.vn/uploads/b0fe8f329326382b129c970ddb1d3713.png" />
 </p>
 
-_<p style={{ textAlign: "center" }}>Giao diện Quản lý thông báo (Tài khoản trả sau)</p>_
+_<p align="center">Giao diện Quản lý thông báo (Tài khoản trả sau)</p>_
 
 <p style={{ textAlign: "center" }}>
   <img src="https://stc-oa.zdn.vn/uploads/aba4c4b328c3388768c21f3186bbdffb.png" />
 </p>
 
-_<p style={{ textAlign: "center" }}>Giao diện Quản lý thông báo (Tài khoản trả trước) </p>_
+_<p align="center">Giao diện Quản lý thông báo (Tài khoản trả trước)</p>_
 
-**Cách điều chỉnh: Truy cập** [**Zalo Cloud Account (ZCA)**](https://account.zalo.cloud/) **> Cài đặt >** [**Quản lý thông báo**](https://account.zalo.cloud/setting/notification)
+**Cách điều chỉnh: Truy cập** [**Zalo Cloud Account (ZCA)**](https://account.zalo.cloud/) → **Cài đặt** → [**Quản lý thông báo**](https://account.zalo.cloud/setting/notification)
 
-Tại đây **Quản trị viên & Quản trị viên cấp cao** của tài khoản Zalo Cloud Account có thể chỉnh sửa cài đặt thông báo:
+Tại đây **Quản trị viên và Quản trị viên cấp cao** của tài khoản Zalo Cloud Account có thể chỉnh sửa cài đặt thông báo:
 
 - Bật/tắt việc nhận thông báo
 - Chọn người nhận thông báo
 - Tùy chỉnh cài đặt của các loại thông báo (\*)
 
-(\*) Với loại Thông báo số dư tài khoản (Tài khoản Trả trước) & Thông báo hạn mức tài khoản (Tài khoản Trả sau), Quý khách có thể tự cài đặt ngưỡng nhận thông báo phù hợp với nhu cầu của doanh nghiệp.
+*(\*) Với loại Thông báo số dư tài khoản (Tài khoản Trả trước) & Thông báo hạn mức tài khoản (Tài khoản Trả sau), Quý khách có thể tự cài đặt ngưỡng nhận thông báo phù hợp với nhu cầu của doanh nghiệp.*
 
 <table>
   <tbody>
