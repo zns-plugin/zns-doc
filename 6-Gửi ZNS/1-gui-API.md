@@ -94,11 +94,11 @@ Có 2 hình thức gửi thông báo ZNS:
   <img src="https://stc-oa.zdn.vn/uploads/046b14d8a00bee14b617f6dc541a2bd0.png" />
 </p>
 
-_<p style={{ textAlign: "center" }}>Sequence diagram API giữa Đối tác gửi tin, Zalo server và người nhận ZNS</p>_
+_<p align="center">Sequence diagram API giữa Đối tác gửi tin, Zalo server và người nhận ZNS</p>_
 
 **Miêu tả chi tiết:**
 
-### **(1) Gửi request API** theo hướng dẫn [**tại đây**](https://developers.zalo.me/docs/zalo-notification-service/gui-tin-zns/gui-zns) và [**lấy Access Token**](https://stc-developers.zdn.vn/docs/v2/official-account/bat-dau/xac-thuc-va-uy-quyen-cho-ung-dung-new) (Mã định danh để gửi ZNS) theo 1 trong 2 cách sau:
+### **(1) Gửi request API** theo hướng dẫn tại [**ĐÂY**](https://developers.zalo.me/docs/zalo-notification-service/gui-tin-zns/gui-zns) và [**lấy Access Token**](https://stc-developers.zdn.vn/docs/v2/official-account/bat-dau/xac-thuc-va-uy-quyen-cho-ung-dung-new) (Mã định danh để gửi ZNS) theo 1 trong 2 cách sau:
 
 - Công cụ [API explorer](https://developers.zalo.me/docs/api/official-account-api/xac-thuc-va-uy-quyen/cach-2-xac-thuc-voi-cong-cu-api-explorer/phuong-thuc-lay-oa-access-token-su-dung-cong-cu-api-explorer-post-5004): _Dành cho Admin của OA/Ứng dụng lấy mã xác thực gửi tin._
 - [Giao thức OAuth:](https://developers.zalo.me/docs/api/official-account-api/xac-thuc-va-uy-quyen/cach-1-xac-thuc-voi-giao-thuc-oauth/yeu-cau-cap-moi-oa-access-token-post-4307) _Dành cho người có kiến thức về lập trình, hoặc khi Doanh nghiệp sử dụng Ứng dụng của bên thứ 3._
@@ -212,7 +212,7 @@ Sau khi yêu cầu được gửi đi, máy chủ Zalo sẽ phản hồi với c
 }
 ```
 
-Xem chi tiết hơn về cấu trúc của request và response [**tại đây**](https://developers.zalo.me/docs/api/zalo-notification-service-api/gui-zns/gui-zns-post-5208)
+_Xem chi tiết hơn về cấu trúc của request và response tại [**ĐÂY**](https://developers.zalo.me/docs/api/zalo-notification-service-api/gui-zns/gui-zns-post-5208)_
 
 ### **(3) Sự kiện gửi ZNS** [](https://zalo.cloud/zns/guidelines/zns-api#3-s%E1%BB%B1-ki%E1%BB%87n-g%E1%BB%ADi-zns)
 
@@ -338,6 +338,6 @@ Nếu ZNS được gửi thành công trên thiết bị của người dùng, t
   </tbody>
 </table>
 
-Xem thêm chi tiết sự kiện [**tại đây.**](https://developers.zalo.me/docs/api/zalo-notification-service-api/webhook/su-kien-nguoi-dung-nhan-thong-bao-zns-post-5235)
+Xem thêm chi tiết sự kiện tại [**ĐÂY**](https://developers.zalo.me/docs/api/zalo-notification-service-api/webhook/su-kien-nguoi-dung-nhan-thong-bao-zns-post-5235).
 
 _Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
