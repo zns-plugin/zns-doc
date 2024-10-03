@@ -8,7 +8,7 @@ slug: /cap-nhat-moi-zns-voucher-template-ra-mat-tren-zca
 
 Với tinh thần luôn luôn lắng nghe và thấu hiểu nhu cầu của khách hàng muốn trải nghiệm mua sắm thuận tiện và dễ dàng, đội ngũ nghiên cứu và phát triển sản phẩm Zalo Notification Service (ZNS) chính thức ra mắt mẫu ZNS dạng Voucher như một giải pháp toàn diện, giúp khách hàng dễ dàng nhận biết và sử dụng ưu đãi một cách thông minh.
 
-**Dự kiến ra mắt tại Zalo Cloud Account (ZCA) từ ngày 08/08/2024**
+***<p align ="center">Dự kiến ra mắt tại Zalo Cloud Account (ZCA) từ ngày 08/08/2024.</p>***
 
 ## 1. ZNS Voucher Template là gì?
 
@@ -64,7 +64,7 @@ Thời gian nhắc hạn sử dụng được mặc định là 24 giờ trướ
 - Để đảm bảo quyền riêng tư và trải nghiệm của người dùng Zalo, thời gian nhắc hẹn bắt buộc thuộc khung thời gian 6AM - 8PM. Nếu ngoài khung giờ này, hệ thống tự động thực hiện remind vào 5PM trước ngày hết hạn Voucher
   - Ví dụ: HSD Voucher: 10 PM ngày 25/04/2024
   - 24H trước HSD là 10 PM 24/04/2024 => Ngoài khung thời gian nhắc hẹn của hệ thống
-  - \=> Hệ thống tự động remind vào 5PM 24/04/2024
+  - Hệ thống tự động remind vào 5PM 24/04/2024
 
 ## 4. Tính năng phóng to hiển thị QR code / Barcode
 
