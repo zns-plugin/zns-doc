@@ -5,7 +5,7 @@ title: Hướng dẫn gửi API
 
 # <p style="text-align: center">Hướng dẫn gửi API</p>
 
-## I. Giới thiệu về các phương thức gửi ZNS
+## A. Giới thiệu về các phương thức gửi ZNS
 
 Có 2 hình thức gửi thông báo ZNS:
 
@@ -88,7 +88,7 @@ Có 2 hình thức gửi thông báo ZNS:
   </tbody>
 </table>
 
-## II. Hướng dẫn gửi API
+## B. Hướng dẫn gửi API
 
 <p style={{ textAlign: "center" }}>
   <img src="https://stc-oa.zdn.vn/uploads/046b14d8a00bee14b617f6dc541a2bd0.png" />
