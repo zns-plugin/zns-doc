@@ -46,7 +46,7 @@ _Xem thêm bài viết Tham số (Param) là gì? Thế nào là một tham số
 
 **Bước 1:** Tạo nút liên kết (CTA) với tham số tương ứng và lưu nút thao tác.
 
-- **Đối với đường dẫn liên kết:**Tham số cần nằm ở phần path của URL, không được trùng với tham số đã sử dụng trong các phần khác của tin ZNS, và dữ liệu tham số mặc định thuộc data type URL (200). Quý khách cần đảm bảo dữ liệu truyền về được mã hóa chuẩn UTF-8 trước khi truyền vào.
+- **Đối với đường dẫn liên kết:** Tham số cần nằm ở phần path của URL, không được trùng với tham số đã sử dụng trong các phần khác của tin ZNS, và dữ liệu tham số mặc định thuộc data type URL (200). Quý khách cần đảm bảo dữ liệu truyền về được mã hóa chuẩn UTF-8 trước khi truyền vào.
 
 ![](https://stc-oa.zdn.vn/uploads/2491f598361639034facc83b0b157ec5.png)
 
