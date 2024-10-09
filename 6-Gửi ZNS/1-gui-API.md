@@ -13,7 +13,9 @@ Có 2 hình thức gửi thông báo ZNS:
 
 2.      **Gửi theo chiến dịch** (Không qua API)
 
-<table>
+<div align="center">
+  <table>
+    <table>
   <tbody>
     <tr>
       <td style="border:1.0pt solid black;height:15.0pt;padding:0in 5.4pt;vertical-align:top;width:225.75pt;">
@@ -87,6 +89,8 @@ Có 2 hình thức gửi thông báo ZNS:
     </tr>
   </tbody>
 </table>
+</table>
+</div>
 
 ## B. Hướng dẫn gửi API
 
@@ -107,7 +111,9 @@ _<p align="center">Sequence diagram API giữa Đối tác gửi tin, Zalo serve
 
 Sau khi yêu cầu được gửi đi, máy chủ Zalo sẽ phản hồi với các thông tin sau:
 
-<table>
+<div align="center">
+  <table>
+    <table>
   <tbody>
     <tr>
       <td style="border:1.0pt solid black;height:15.0pt;padding:0in 5.4pt;vertical-align:top;width:103.5pt;">
@@ -194,6 +200,8 @@ Sau khi yêu cầu được gửi đi, máy chủ Zalo sẽ phản hồi với c
     </tr>
   </tbody>
 </table>
+</table>
+</div>
 
 **Example response**
 
@@ -226,7 +234,9 @@ Nếu request thành công, tin ZNS sẽ được gửi tới người dùng:
 
 Nếu ZNS được gửi thành công trên thiết bị của người dùng, thì một sự kiện sẽ được gửi tới URL webhook của Doanh nghiệp.
 
-<table>
+<div align="center">
+  <table>
+    <table>
   <tbody>
     <tr>
       <td style="border:1.0pt solid black;height:15.0pt;padding:0in 5.4pt;vertical-align:top;width:72.8pt;">
@@ -337,6 +347,8 @@ Nếu ZNS được gửi thành công trên thiết bị của người dùng, t
     </tr>
   </tbody>
 </table>
+</table>
+</div>
 
 Xem thêm chi tiết sự kiện tại [**ĐÂY**](https://developers.zalo.me/docs/api/zalo-notification-service-api/webhook/su-kien-nguoi-dung-nhan-thong-bao-zns-post-5235).
 
