@@ -15,7 +15,7 @@ Thiết kế logo theo tiêu chuẩn của Zalo Cloud sẽ giúp mẫu ZNS của
 **1. Canh lề trái: thẳng hàng với các dòng đầu tiên của nội dung**
 
 <p style={{ textAlign: "center" }}>
-  <img src="https://stc-oa.zdn.vn/uploads/fe87464bbafeea5bbcdae6b11225a8fb.png" />
+  <img src="https://stc-oa.zdn.vn/uploads/2024/10/09/57b4edee22b209316ee2a0128cc9af31.png" />
 </p>
 
 **2. Kích thước như sau: đơn vị pixels**
