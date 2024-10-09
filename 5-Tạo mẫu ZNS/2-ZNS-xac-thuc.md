@@ -27,7 +27,9 @@ Doanh nghiệp có thể sao chép mã xác thực từ thông báo ZNS. Thông 
 
 Bên cạnh những nội dung mặc định, doanh nghiệp cũng có thể chỉnh sửa nội dung ZNS gửi kèm mã xác thực.
 
-<table>
+<div align="center">
+  <table>
+    <table>
   <tbody>
     <tr>
       <td>
@@ -160,6 +162,8 @@ Bên cạnh những nội dung mặc định, doanh nghiệp cũng có thể ch�
     </tr>
   </tbody>
 </table>
+</table>
+</div>
 
 **Lưu ý:** Mẫu tin ZNS Xác thực không hỗ trợ sử dụng nút CTA. Trong trường hợp xác thực tài khoản, doanh nghiệp có thể ngoại lệ gửi thông báo đến khách hàng chưa phát sinh giao dịch với OA.
 
@@ -167,7 +171,7 @@ Bên cạnh những nội dung mặc định, doanh nghiệp cũng có thể ch�
   <img src="https://stc-oa.zdn.vn/uploads/0fda1184d57035a621a484d173c4f1ab.png" />
 </p>
 
-_<p align="center">(Hình ảnh minh hoạ mẫu tin ZNS Xác thực ở cả 2 giao diện sáng và tối)</p>_
+_<p align="center">Hình ảnh minh hoạ mẫu tin ZNS Xác thực ở cả 2 giao diện sáng và tối</p>_
 
 ## 3. Hướng dẫn tạo mẫu tin ZNS Xác thực trên trang tài khoản ZCA:
 
