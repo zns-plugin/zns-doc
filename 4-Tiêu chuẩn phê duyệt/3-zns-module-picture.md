@@ -209,11 +209,11 @@ Xem thêm cách [Thiết lập mục đích gửi khi tạo mẫu ZNS](https://z
 
 ![](https://stc-oa.zdn.vn/uploads/66c1e3c91ea8667cadaf8b9c527ed6e5.jpg)
 
-**Ví dụ về kích thước chữ đề xuất**
+**Ví dụ về kích thước chữ đề xuất:**
 
 ![](https://stc-oa.zdn.vn/uploads/781d7e7c6b8c095fce9ee112d9a86b51.jpg)
 
-_<p style={{textAlign: 'center'}}>Với kích thước ảnh 1140px x 640px - kích thước thành phần chữ đề xuất ở mức tối thiểu 42pt - tối ưu nhất 56pt</p>_
+*<p align="center">Với kích thước ảnh 1140px x 640px - kích thước thành phần chữ đề xuất ở mức tối thiểu 42pt - tối ưu nhất 56pt</p>*
 
 Các kích thước thành phần chữ không yêu cầu bắt buộc tương tự, nhưng cần đảm bảo các quy đinh và chính sách của sản phẩm ZNS.
 
