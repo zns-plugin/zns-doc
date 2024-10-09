@@ -1084,7 +1084,9 @@ Các mẫu template ZNS mục đích Chúc mừng Lễ Tết / Chương trình h
 - **Bắt buộc** kèm thông tin quà tặng/voucher/chương trình hợp lệ trong nội dung template ZNS
 - Danh sách các dịp Lễ Tết áp dụng:
 
-<table>
+<div align="center">
+  <table>
+    <table>
   <tbody>
     <tr>
       <td>
@@ -1292,6 +1294,8 @@ Các mẫu template ZNS mục đích Chúc mừng Lễ Tết / Chương trình h
     </tr>
   </tbody>
 </table>
+</table>
+</div>
 
 **Lưu ý:**
 
