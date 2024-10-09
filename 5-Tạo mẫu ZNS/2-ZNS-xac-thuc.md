@@ -1,6 +1,6 @@
 ---
 id: cach-su-dung-va-ung-dung-cua-mau-tin-zns-xac-thuc
-title: Cách sử dụng và ứng dụng của mẫu tin ZNS xác thực
+title: Cách sử dụng và ứng dụng của mẫu tin ZNS Xác thực
 slug: /cach-su-dung-va-ung-dung-cua-mau-tin-zns-xac-thuc
 ---
 
