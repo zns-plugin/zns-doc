@@ -8,9 +8,7 @@ slug: /coi-che-danh-gia-chat-luong-va-quyen-loi-gui-zns
 
 Trong hoạt động gửi thông báo chăm sóc khách hàng qua Zalo, tỷ lệ báo xấu (phản hồi tiêu cực) của người nhận thông báo Zalo Notification Services sẽ ảnh hưởng đến quyền lợi của doanh nghiệp vì liên quan trực tiếp đến số lượng ZNS gửi mỗi ngày cũng như loại nội dung thông báo có thể gửi. Để có thể nắm các thông tin về cơ chế đánh giá chất lượng và quyền lợi gửi ZNS từ Zalo Cloud chính xác nhất, quý doanh nghiệp vui lòng tham khảo bài viết sau đây.
 
-
 ## A. Quyền lợi gửi ZNS của OA
-
 
 ### A.1 - Số lượng ZNS có thể gửi mỗi ngày (Daily quota)
 
@@ -24,23 +22,20 @@ Trong hoạt động gửi thông báo chăm sóc khách hàng qua Zalo, tỷ l�
 </table>
 </div>
 
-*<p align="center">Xem thêm [Quy định chung khi kiểm duyệt mẫu ZNS](https://zalo.cloud/news/quy-dinh-chung-khi-kiem-duyet-mau-tin-zns/baujzpyvjjrz7776m).</p>*
-
+_<p align="center">Xem thêm [Quy định chung khi kiểm duyệt mẫu ZNS](https://zalo.cloud/news/quy-dinh-chung-khi-kiem-duyet-mau-tin-zns/baujzpyvjjrz7776m).</p>_
 
 ### A.2 - Cơ chế gửi và nhận ZNS template tag Hậu mãi
 
 <table><tbody><tr><td><p style="margin-left:0px;text-align:center;"><strong>Phân loại</strong></p></td><td><p style="margin-left:0px;text-align:center;"><strong>Chi tiết cơ chế</strong></p></td><td><p style="text-align:center;"><strong>Diễn giải, ví dụ,…</strong></p></td></tr><tr><td><strong>Hạn mức nhận ZNS tag Hậu mãi của User mỗi tháng</strong></td><td><p style="margin-left:0px;text-align:center;">Mỗi đối tượng nhận tin (user) nhận <strong>tối đa </strong><span style="background-color:hsl(60,75%,60%);"><strong>4</strong></span><strong> ZNS tag Hậu mãi/tháng</strong> từ 1 OA</p></td><td><p>User A có SĐT 0123456789:</p><ul><li>User A nhận <u>tối đa 4</u> ZNS tag Hậu mãi mỗi tháng từ OA Brand name X</li><li>User A nhận <u>tối đa 4</u> ZNS tag Hậu mãi mỗi tháng từ OA Ngân hàng Y</li><li>Số lượng ZNS tag Giao dịch và Chăm sóc khách hàng mà user A có thể nhận mỗi tháng từ cả 2 OA X và OA Y là không giới hạn</li></ul></td></tr><tr><td><strong>Hạn mức gửi ZNS Hậu mãi của OA mỗi ngày&nbsp;</strong><br><span style="color:hsl(270, 75%, 60%);"><i>(Dự kiến ngừng hỗ trợ từ 01/11/2024)</i></span></td><td>Số ZNS tag Hậu mãi gửi ra <strong>không quá </strong><span style="background-color:hsl(60,75%,60%);"><strong>25%</strong></span><strong> daily quota hiện tại</strong> của OA</td><td><p>OA Brand name A có daily quota đạt mốc 100,000:</p><ul><li>Số lượng ZNS tag Hậu mãi tối đa A có thể gửi mỗi ngày là 100,000 x 25% = 25,000 ZNS tag Hậu mãi</li><li>Số lượng ZNS (ở tất cả các tag bao hồm cả tag Hậu mãi) là 100,000 ZNS / ngày</li></ul></td></tr><tr><td><strong>Hạn mức gửi ZNS hậu mãi của OA theo tháng (Promotion Quota)</strong><br><span style="background-color:hsl(60,75%,60%);"><strong>(Dự kiến áp dụng từ 01/11/2024)</strong></span></td><td><strong>Promotion Quota = 1/6 * (Tổng số ZNS Giao dịch và ZNS CSKH đã gửi thành công trong hai tháng trước đó)</strong><br><br>Promotion Quota sẽ được điều chỉnh theo công thức trên vào ngày đầu tiên của mỗi tháng</td><td><p>OA Brand name A có daily quota ở mốc 50,000</p><ul><li>Tháng 9: OA đã gửi thành công <strong>tổng 10,000 ZNS Giao dịch và CSKH</strong></li><li>Tháng 10: OA đã gửi thành công <strong>tổng 50,000 ZNS Giao dịch và CSKH</strong></li></ul><p>=&gt; Hạn mức ZNS hậu mãi tối đa trong tháng 11 của A được tính theo công thức là:&nbsp;<strong>Promotion Quota = 1/6 * (10,000+50,000) = 10,000</strong>&nbsp;<br>=&gt; A có thể gửi tối đa 10,000 ZNS hậu mãi trong tháng 11.</p></td></tr></tbody></table>
 
-Với mục đích tối ưu hóa sản phẩm và mang đến trải nghiệm tốt hơn cho người dùng cuối, **từ 0H ngày 01/11/2024 (dự kiến)**, cơ chế đánh giá chất lượng và quyền lợi gửi tin dịch vụ ZNS sẽ có những điều chỉnh sau: 
+Với mục đích tối ưu hóa sản phẩm và mang đến trải nghiệm tốt hơn cho người dùng cuối, **từ 0H ngày 01/11/2024 (dự kiến)**, cơ chế đánh giá chất lượng và quyền lợi gửi tin dịch vụ ZNS sẽ có những điều chỉnh sau:
 
-*   **Bổ sung chỉ số "Hạn mức gửi ZNS hậu mãi của OA theo tháng" - Promotion Quota** (bỏ “Hạn mức gửi ZNS Hậu mãi của OA mỗi ngày”). 
-    **Công thức tính Promotion Quota = 1/6 \* (Tổng số ZNS Giao dịch và ZNS CSKH đã gửi thành công trong hai tháng trước đó)**
-*   Khi OA lần đầu tiên được gửi ZNS hậu mãi, mức Promotion Quota của tháng đó sẽ tự động được tăng thêm 10,000. 
-*   Promotion Quota sẽ được điều chỉnh theo công thức trên vào ngày đầu tiên của mỗi tháng.
-     
+- **Bổ sung chỉ số "Hạn mức gửi ZNS hậu mãi của OA theo tháng" - Promotion Quota** (bỏ “Hạn mức gửi ZNS Hậu mãi của OA mỗi ngày”).
+  **Công thức tính Promotion Quota = 1/6 \* (Tổng số ZNS Giao dịch và ZNS CSKH đã gửi thành công trong hai tháng trước đó)**
+- Khi OA lần đầu tiên được gửi ZNS hậu mãi, mức Promotion Quota của tháng đó sẽ tự động được tăng thêm 10,000.
+- Promotion Quota sẽ được điều chỉnh theo công thức trên vào ngày đầu tiên của mỗi tháng.
 
 ## B. Chất lượng gửi ZNS của Zalo Official Account (OA)
-
 
 ### B.1 - Cơ chế đánh giá chất lượng - xét duyệt tăng/giảm hạn mức
 
@@ -48,8 +43,7 @@ Chất lượng gửi ZNS của OA sẽ được chia làm 3 mức độ, ứng 
 
 <table><tbody><tr><td><p style="margin-left:0px;text-align:center;"><strong>Mức độ&nbsp;</strong></p></td><td><p style="margin-left:0px;text-align:center;"><strong>Tỷ lệ báo xấu của người nhận với ZNS đã gửi&nbsp;</strong></p></td><td><p style="margin-left:0px;text-align:center;"><strong>Quy định về quyền lợi&nbsp;</strong></p></td></tr><tr><td><p style="margin-left:0px;text-align:center;"><strong>Tốt</strong>&nbsp;</p></td><td><p style="margin-left:0px;text-align:center;">Nhỏ hơn hoặc bằng mức tiêu chuẩn của hệ thống.&nbsp;</p></td><td><p style="margin-left:0px;text-align:center;">Được xét duyệt tăng quyền lợi.&nbsp;</p></td></tr><tr><td><p style="margin-left:0px;text-align:center;"><strong>Trung bình</strong>&nbsp;</p></td><td><p style="margin-left:0px;text-align:center;">Cao hơn mức tiêu chuẩn nhưng vẫn nằm trong mức giới hạn cho phép.&nbsp;</p></td><td><p style="margin-left:0px;text-align:center;">Giữ nguyên quyền lợi cho đến khi chất lượng được cải thiện. Nếu duy trì thời gian dài ở mức này có thể dẫn đến việc giảm quyền lợi.&nbsp;</p></td></tr><tr><td><p style="margin-left:0px;text-align:center;"><strong>Kém</strong>&nbsp;</p></td><td><p style="margin-left:0px;text-align:center;">Vượt mức giới hạn cho phép.&nbsp;</p></td><td><p style="margin-left:0px;text-align:center;">Giảm quyền lợi. Ngoài ra, các mẫu ZNS ở mức kém sẽ bị vô hiệu hoá.&nbsp;</p></td></tr></tbody></table>
 
-
-Khởi đầu, Zalo OA của doanh nghiệp sẽ chỉ được gửi các mẫu thông báo ZNS có cấp độ thấp. Sau đó, dựa theo chất lượng gửi ZNS, hệ thống sẽ tự động điều chỉnh cho phép OA gửi các loại nội dung ở cấp độ cao hơn: 
+Khởi đầu, Zalo OA của doanh nghiệp sẽ chỉ được gửi các mẫu thông báo ZNS có cấp độ thấp. Sau đó, dựa theo chất lượng gửi ZNS, hệ thống sẽ tự động điều chỉnh cho phép OA gửi các loại nội dung ở cấp độ cao hơn:
 
 <div align="center">
   <table>
@@ -57,50 +51,45 @@ Khởi đầu, Zalo OA của doanh nghiệp sẽ chỉ được gửi các mẫu
 </table>
 </div>
 
+**Lưu ý đặc biệt:**
 
-**Lưu ý đặc biệt:** 
-
-*   Quyền lợi gửi ZNS của OA sẽ được đánh giá **mỗi ngày** _(trừ giai đoạn chờ sau khi thay đổi hạn mức)_.
-    *   Khi có sự thay đổi về hạn mức quyền lợi (tăng hoặc giảm hạn mức/cấp độ gửi tin tối đa), sẽ áp dụng thời gian chờ cho lần đánh giá để xét duyệt thay đổi quyền lợi kế tiếp.
-    *   Thời gian chờ kéo dài 7 ngày, từ ngày OA có sự thay đổi về hạn mức quyền lợi.
-    *   Đây là khoảng thời gian vừa đủ để đội ngũ hỗ trợ khách hàng và phát triển sản phẩm của Zalo có thể đánh giá chính xác về khả năng gửi ZNS của doanh nghiệp tại hạn mức quyền lợi mới.
-    *   Với OA chưa có lịch sử sử dụng dịch vụ ZNS, việc gửi ZNS đầu tiên vào ngày D sẽ kích hoạt cơ chế đánh giá chất lượng từ D+1, đợt đánh giá đầu tiên sẽ thực hiện sau thời gian chờ (7 ngày) vào ngày D+8.
-*   Nếu chất lượng gửi ZNS của OA thường xuyên ở mức **Kém**, bên cạnh việc giảm quyền lợi gửi, Zalo có thể đưa ra quyết định tạm ngừng cung cấp dịch vụ ZNS cho doanh nghiệp cho đến khi doanh nghiệp cam kết cải thiện chất lượng gửi thông báo.
-*   Chất lượng của OA được xác định bởi Tỉ lệ báo xấu trong khoảng thời gian đánh giá chất lượng tương ứng.
-    *   Tỉ lệ báo xấu an toàn mỗi ngày được đề xuất là <0.1% để không bị giảm Chất lượng của OA
-    *   Xem thêm: [Báo xấu mẫu thông báo ZNS được ghi nhận khi nào](https://zalo.cloud/blog/bao-xau-mau-tin-thong-bao-zns-duoc-ghi-nhan-khi-nao/yku9nm97wyd7nm8aab)
-*   Các template ID có tỉ lệ báo xấu được hệ thống đánh giá là vượt mức báo xấu và mức độ báo xấu cho phép sẽ tự động bị khóa (disabled) để đảm bảo trải nghiệm của người dùng.
-    *   Việc khóa các template này diễn ra độc lập với việc xác định Chất lượng OA.
+- Quyền lợi gửi ZNS của OA sẽ được đánh giá **mỗi ngày** _(trừ giai đoạn chờ sau khi thay đổi hạn mức)_.
+  - Khi có sự thay đổi về hạn mức quyền lợi (tăng hoặc giảm hạn mức/cấp độ gửi tin tối đa), sẽ áp dụng thời gian chờ cho lần đánh giá để xét duyệt thay đổi quyền lợi kế tiếp.
+  - Thời gian chờ kéo dài 7 ngày, từ ngày OA có sự thay đổi về hạn mức quyền lợi.
+  - Đây là khoảng thời gian vừa đủ để đội ngũ hỗ trợ khách hàng và phát triển sản phẩm của Zalo có thể đánh giá chính xác về khả năng gửi ZNS của doanh nghiệp tại hạn mức quyền lợi mới.
+  - Với OA chưa có lịch sử sử dụng dịch vụ ZNS, việc gửi ZNS đầu tiên vào ngày D sẽ kích hoạt cơ chế đánh giá chất lượng từ D+1, đợt đánh giá đầu tiên sẽ thực hiện sau thời gian chờ (7 ngày) vào ngày D+8.
+- Nếu chất lượng gửi ZNS của OA thường xuyên ở mức **Kém**, bên cạnh việc giảm quyền lợi gửi, Zalo có thể đưa ra quyết định tạm ngừng cung cấp dịch vụ ZNS cho doanh nghiệp cho đến khi doanh nghiệp cam kết cải thiện chất lượng gửi thông báo.
+- Chất lượng của OA được xác định bởi Tỉ lệ báo xấu trong khoảng thời gian đánh giá chất lượng tương ứng.
+  - Tỉ lệ báo xấu an toàn mỗi ngày được đề xuất là <0.1% để không bị giảm Chất lượng của OA
+  - Xem thêm: [Báo xấu mẫu thông báo ZNS được ghi nhận khi nào](https://zalo.cloud/blog/bao-xau-mau-tin-thong-bao-zns-duoc-ghi-nhan-khi-nao/yku9nm97wyd7nm8aab)
+- Các template ID có tỉ lệ báo xấu được hệ thống đánh giá là vượt mức báo xấu và mức độ báo xấu cho phép sẽ tự động bị khóa (disabled) để đảm bảo trải nghiệm của người dùng.
+  - Việc khóa các template này diễn ra độc lập với việc xác định Chất lượng OA.
 
 ### **B.2 - Cơ chế xử lý vi phạm (penalty) tự động - Áp dụng bổ sung từ 0H ngày 12/03/2024**
 
 Với mục đích giảm thiểu rủi ro ảnh hưởng đến trải nghiệm của user trong các trường hợp tỉ lệ báo xấu (report) của OA tăng cao đột ngột trong thời gian ngắn, hệ thống sẽ có cơ chế phạt (penalty) với các trường hợp này.
 
-* ***Điều kiện: Khi \[Tổng số lượng report trong ngày\] > \[2% x Daily quota hiện tại của OA\]***
+- **_Điều kiện: Khi \[Tổng số lượng report trong ngày\] > \[2% x Daily quota hiện tại của OA\]_**
 
-* **Action: OA sẽ bị hạ 1 mức daily quota (diễn ra tối đa 1 lần/ngày)**
+- **Action: OA sẽ bị hạ 1 mức daily quota (diễn ra tối đa 1 lần/ngày)**
 
 **Chi tiết:**
 
-*   Chạy song song với cơ chế tăng/giảm hạn mức daily quota (Cơ chế ở mục B.1).​
-*   Không bị ảnh hưởng bởi thời gian chờ 7 ngày sau khi tăng/giảm hạn mức.​
-*   Trong khoảng thời gian 00:00 – 24:00 mỗi ngày, cơ chế penalty diễn ra tối đa 1 lần.​
-*   Tần suất đánh giá: Mỗi giờ.​
-*   Khung thời gian đánh giá: từ đầu ngày đến thời điểm hiện tại.
-
+- Chạy song song với cơ chế tăng/giảm hạn mức daily quota (Cơ chế ở mục B.1).​
+- Không bị ảnh hưởng bởi thời gian chờ 7 ngày sau khi tăng/giảm hạn mức.​
+- Trong khoảng thời gian 00:00 – 24:00 mỗi ngày, cơ chế penalty diễn ra tối đa 1 lần.​
+- Tần suất đánh giá: Mỗi giờ.​
+- Khung thời gian đánh giá: từ đầu ngày đến thời điểm hiện tại.
 
 ## C. Hướng dẫn xem báo cáo chất lượng gửi ZNS trên tài khoản Zalo Cloud Account (ZCA)
 
-
-Khi bắt đầu hoạt động gửi thông báo ZNS, Zalo Official Account (OA) của doanh nghiệp sẽ chỉ được gửi ZNS có cấp độ thấp. Sau đó, dựa theo chất lượng gửi ZNS, hệ thống sẽ tự động điều chỉnh cho phép OA gửi các loại nội dung ở cấp độ cao hơn. 
+Khi bắt đầu hoạt động gửi thông báo ZNS, Zalo Official Account (OA) của doanh nghiệp sẽ chỉ được gửi ZNS có cấp độ thấp. Sau đó, dựa theo chất lượng gửi ZNS, hệ thống sẽ tự động điều chỉnh cho phép OA gửi các loại nội dung ở cấp độ cao hơn.
 
 Xem thêm [Hướng dẫn xem báo cáo chất lượng gửi ZNS trên tài khoản ZCA](https://zalo.cloud/blog/huong-dan-xem-bao-cao-chat-luong-gui-zns-tren-tai-khoan-zca-/baudd7d9nmvjd9pjav).
 
-
 ## D. Truy xuất thông tin chất lượng và quyền lợi gửi ZNS qua API
 
-
-Những thông tin về chất lượng và quyền lợi gửi ZNS của OA có thể được truy xuất qua các API như sau: 
+Những thông tin về chất lượng và quyền lợi gửi ZNS của OA có thể được truy xuất qua các API như sau:
 
 <div align="center">
   <table>
@@ -108,4 +97,4 @@ Những thông tin về chất lượng và quyền lợi gửi ZNS của OA có
 </table>
 </div>
 
-_Nếu còn bất kì thắc mắc nào liên quan đến cơ chế đánh giá chất lượng và quyền lợi gửi ZNS, quý khách có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)
+*Nếu còn bất kì thắc mắc nào liên quan đến cơ chế đánh giá chất lượng và quyền lợi gửi ZNS, quý khách có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua email:* [_support@zalo.cloud_](mailto:support@zalo.cloud)
