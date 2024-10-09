@@ -205,8 +205,9 @@ Tại đây **Quản trị viên và Quản trị viên cấp cao** của tài k
 - Tùy chỉnh cài đặt của các loại thông báo (\*)
 
 *(\*) Với loại Thông báo số dư tài khoản (Tài khoản Trả trước) & Thông báo hạn mức tài khoản (Tài khoản Trả sau), Quý khách có thể tự cài đặt ngưỡng nhận thông báo phù hợp với nhu cầu của doanh nghiệp.*
-
-<table>
+<div align="center">
+  <table>
+    <table>
   <tbody>
     <tr>
       <td>
@@ -268,5 +269,7 @@ Tại đây **Quản trị viên và Quản trị viên cấp cao** của tài k
     </tr>
   </tbody>
 </table>
+</table>
+</div>
 
 _Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
