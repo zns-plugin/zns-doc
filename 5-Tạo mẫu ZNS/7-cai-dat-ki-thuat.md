@@ -1,11 +1,12 @@
 ---
 id: cai-dat-ki-thuat-trong-mau-thong-bao-zns
 title: Cài đặt kĩ thuật trong mẫu thông báo ZNS
+slug: /cai-dat-ki-thuat-trong-mau-thong-bao-zns
 ---
 
 # <p align="center">Cài đặt kĩ thuật trong mẫu thông báo ZNS</p>
 
-## I. Cài đặt kĩ thuật trong ZNS Tùy chỉnh
+## 1. Cài đặt kĩ thuật trong mẫu thông báo ZNS Tùy chỉnh
 
 <table>
   <tbody>
@@ -315,7 +316,7 @@ title: Cài đặt kĩ thuật trong mẫu thông báo ZNS
   </tbody>
 </table>
 
-## II. Cài đặt kĩ thuật trong ZNS Xác thực
+## 2. Cài đặt kĩ thuật trong mẫu thông báo ZNS Xác thực
 
 Để đảm bảo trải nghiệm của người dùng và thuận lợi trong việc đăng ký template, các mẫu template ZNS xác thực sẽ chỉ có thể điều chỉnh phần thông tin bên dưới:
 
@@ -325,7 +326,9 @@ title: Cài đặt kĩ thuật trong mẫu thông báo ZNS
 
 _<p align="center">Phần có thể điều chỉnh</p>_
 
-<table>
+<div align="center">
+  <table>
+    <table>
   <tbody>
     <tr>
       <td>
@@ -435,10 +438,14 @@ _<p align="center">Phần có thể điều chỉnh</p>_
     </tr>
   </tbody>
 </table>
+</table>
+</div>
 
-## III. Cài đặt kĩ thuật trong ZNS Đánh giá dịch vụ
+## 3. Cài đặt kĩ thuật trong mẫu thông báo ZNS Đánh giá dịch vụ
 
-<table>
+<div align="center">
+  <table>
+    <table>
   <tbody>
     <tr>
       <td>
@@ -567,5 +574,7 @@ _<p align="center">Phần có thể điều chỉnh</p>_
     </tr>
   </tbody>
 </table>
+</table>
+</div>
 
 _Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
