@@ -8,13 +8,13 @@ slug: /cap-nhat-moi-zns-voucher-template-ra-mat-tren-zca
 
 Với tinh thần luôn luôn lắng nghe và thấu hiểu nhu cầu của khách hàng muốn trải nghiệm mua sắm thuận tiện và dễ dàng, đội ngũ nghiên cứu và phát triển sản phẩm Zalo Notification Service (ZNS) chính thức ra mắt mẫu ZNS dạng Voucher như một giải pháp toàn diện, giúp khách hàng dễ dàng nhận biết và sử dụng ưu đãi một cách thông minh.
 
-***<p align ="center">Dự kiến ra mắt tại Zalo Cloud Account (ZCA) từ ngày 08/08/2024.</p>***
+**_<p align ="center">Dự kiến ra mắt tại Zalo Cloud Account (ZCA) từ ngày 08/08/2024.</p>_**
 
 ## 1. ZNS Voucher Template là gì?
 
 ZNS Voucher Template là một công cụ thông báo ưu đãi đầy đủ thông tin và dễ sử dụng. Với ZNS Voucher Template, doanh nghiệp không chỉ giúp khách hàng dễ dàng nhận biết và sử dụng ưu đãi mà còn tránh được sự nhầm lẫn giữa các loại thông báo khác nhau, dẫn đến việc bỏ lỡ các cơ hội ưu đãi.
 
-<p style={{ textAlign: "center" }}>
+<p  align="center">
   <img src="https://stc-oa.zdn.vn/uploads/6c33e8889e245c4b72bb3f823b34aa7d.jpeg" />
 </p>
 
@@ -22,7 +22,7 @@ ZNS Voucher Template là một công cụ thông báo ưu đãi đầy đủ th�
 
 Thông báo ZNS Voucher có cấu trúc tương tự các loại ZNS khác và đi kèm thành phần mới, đó là Voucher Template. Voucher Template tập trung vào việc kích thích sự tương tác và thuận tiện cho người dùng. Với hai thao tác đơn giản là **Lưu vào ví QR** và **Copy Mã Voucher**, khách hàng có thể dễ dàng sử dụng ưu đãi mọi lúc mọi nơi.
 
-<p style={{ textAlign: "center" }}>
+<p  align="center">
   <img src="https://stc-oa.zdn.vn/uploads/e2670f0f397c44af09e3dbe75e8b49d5.jpeg" />
 </p>
   
@@ -33,7 +33,7 @@ Khi nhận mẫu thông báo ZNS Voucher, nếu người dùng chủ động tha
 
 Sau đó, khi có nhu cầu tra cứu các mã Voucher đã lưu, người dùng chủ động truy cập “Ví QR” và chọn **Voucher** muốn xem chi tiết.
 
-<p style={{ textAlign: "center" }}>
+<p  align="center">
   <img src="https://stc-oa.zdn.vn/uploads/eef3a99a3aa9e08f72a480831d830944.jpeg" />
 </p>
 
@@ -43,7 +43,7 @@ Không chỉ có thể sử dụng mã voucher như một thẻ có mã khuyến
 
 Chỉ cần Click vào **Mã Voucher (phần được hiển thị nổi bật với màu xanh)**, màn hình sẽ hiển thị thông báo **“Đã sao chép mã”** khi mã Voucher được sao chép thành công.
 
-<p style={{ textAlign: "center" }}>
+<p  align="center">
   <img src="https://stc-oa.zdn.vn/uploads/2dcf4000391375d3f67b80eff3ba92a4.png)![](https://stc-oa.zdn.vn/uploads/4713c1001bf8c655c0832587bc14122e.png" />
 </p>
  
@@ -54,7 +54,7 @@ Khi người dùng chủ động chọn “**Lưu vào ví QR**”, hệ thống
 
 Thời gian nhắc hạn sử dụng được mặc định là 24 giờ trước thời gian Voucher hết hạn để đảm bảo khách hàng sẽ không bỏ lỡ cơ hội sử dụng ưu đãi của mình.
 
-<p style={{ textAlign: "center" }}>
+<p  align="center">
   <img src="https://stc-oa.zdn.vn/uploads/c45c62536419b46a172de3f1f0853b49.png" />
 </p>
 
@@ -70,7 +70,7 @@ Thời gian nhắc hạn sử dụng được mặc định là 24 giờ trướ
 
 Với mục đích để khách hàng cuối và doanh nghiệp thuận tiện trong việc quan sát và quét mã, tính năng phóng to hiển thị với các ZNS voucher sử dụng QR code và Barcode đã được tối ưu.
 
-<p style={{ textAlign: "center" }}>
+<p  align="center">
   <img src="https://stc-oa.zdn.vn/uploads/d5401e9907295fc0efa207fc4ee1a65e.png" />
 </p>
 

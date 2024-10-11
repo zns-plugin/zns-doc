@@ -320,7 +320,7 @@ slug: /cai-dat-ki-thuat-trong-mau-thong-bao-zns
 
 Để đảm bảo trải nghiệm của người dùng và thuận lợi trong việc đăng ký template, các mẫu template ZNS xác thực sẽ chỉ có thể điều chỉnh phần thông tin bên dưới:
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/a189495869baa3713e5fce019dd6d199.png" />
 </p>
 

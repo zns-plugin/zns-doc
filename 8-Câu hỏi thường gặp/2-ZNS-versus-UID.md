@@ -20,7 +20,7 @@ _Xem thêm_ [_Tổng quan về Tin nhắn UID_](https://developers.zalo.me/docs/
 
 - _Tương tác với OA được định nghĩa là một trong các hành động sau: Quan tâm OA, Gửi tin nhắn đến OA, Gọi đến OA hoặc chấp nhận cuộc gọi từ OA, Nhấn menu tương tác nhanh / menu Dịch vụ / CTA của OA Chatbot_
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/e43edff97adce6a8a03a680c9b347642.png" />
 </p>
 
@@ -263,21 +263,21 @@ Dịch vụ thông báo ZNS và Tin UID cung cấp dịch vụ đa dạng để 
 
 ## III. Một số trường hợp ứng dụng ZNS
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/fe12844e8136aedbf9de497cb23b2280.png" />
 </p>
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/6c5f0fa13650452167552f421536c387.png" />
 </p>
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/4565c49f8bc9f5de67ba8bf4d3855105.png" />
 </p>
 
 ## IV. Một số trường hợp sử dụng Tin UID
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/39eed5a495e2580694b1aa165203f8a8.png" />
 </p>
 

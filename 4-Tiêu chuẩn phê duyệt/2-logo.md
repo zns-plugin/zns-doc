@@ -14,13 +14,13 @@ Thiết kế logo theo tiêu chuẩn của Zalo Cloud sẽ giúp mẫu ZNS của
 
 **1. Canh lề trái: thẳng hàng với các dòng đầu tiên của nội dung**
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/2024/10/09/57b4edee22b209316ee2a0128cc9af31.png" />
 </p>
 
 **2. Kích thước như sau: đơn vị pixels**
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/a913c189963f9ef8dddd580c1fb5cec5.png" />
 </p>
 
@@ -31,7 +31,7 @@ Thiết kế logo theo tiêu chuẩn của Zalo Cloud sẽ giúp mẫu ZNS của
 - **BẮT BUỘC** sử dụng logo trắng (logo âm bản) để tạo trải nghiệm tốt nhất đối với người dùng cuối.
 - **BẮT BUỘC** có nền trong suốt (clear/transparent)
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/22807af5d5e7be1cb25450f981f8502f.png" />
 </p>
 
@@ -208,13 +208,13 @@ Doanh nghiệp có thể theo dõi và quản lý các logo đã được tải 
 
 **Bước 1:** Truy cập vào tài khoản ZCA tại [**ĐÂY**](https://account.zalo.cloud/QBU7GBG7N6WDDJAA8/spending/overview) → **“Công cụ” → “Dịch vụ ZNS”**.
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/1076997b62f8dc88885d319cb59e49e4.png" />
 </p>
 
 **Bước 2:** Ở mục “**Thiết kế nội dung”**, chọn “**Quản lý logo”** để xem danh sách logo đã tải tương ứng với ứng dụng và OA.
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/d8a782ac4e74973a621f1bed2c498205.png" />
 </p>
 

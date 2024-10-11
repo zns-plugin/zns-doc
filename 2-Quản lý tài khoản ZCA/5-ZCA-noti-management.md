@@ -172,7 +172,7 @@ Với tinh thần luôn luôn lắng nghe và thấu hiểu khách hàng, đội
 
 Khi chọn **“Bật”** nhận tin thông báo, Quý khách sẽ bắt đầu nhận được thông báo điều chỉnh tương ứng của loại đó ở các tài khoản theo phân quyền đã cài đặt
 
-<p style={{ textAlign: "center" }}>
+<p  align="center">
   <img src="https://stc-oa.zdn.vn/uploads/9fceb5dd051fe39799ec67a86ce9e010.png" />
 </p>
 
@@ -184,13 +184,13 @@ _<p align="center">Mẫu tin thông báo ZNS - Loại thông báo: Thông báo v
 
 Sau khi bật thông báo, user sẽ nhận tin ZNS để có thể đưa ra hướng xử lý phù hợp và nhanh nhất để tối ưu vận hành khi sử dụng dịch vụ của Zalo Cloud.
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/b0fe8f329326382b129c970ddb1d3713.png" />
 </p>
 
 _<p align="center">Giao diện Quản lý thông báo (Tài khoản trả sau)</p>_
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/aba4c4b328c3388768c21f3186bbdffb.png" />
 </p>
 
@@ -204,7 +204,8 @@ Tại đây **Quản trị viên và Quản trị viên cấp cao** của tài k
 - Chọn người nhận thông báo
 - Tùy chỉnh cài đặt của các loại thông báo (\*)
 
-*(\*) Với loại Thông báo số dư tài khoản (Tài khoản Trả trước) & Thông báo hạn mức tài khoản (Tài khoản Trả sau), Quý khách có thể tự cài đặt ngưỡng nhận thông báo phù hợp với nhu cầu của doanh nghiệp.*
+_(\*) Với loại Thông báo số dư tài khoản (Tài khoản Trả trước) & Thông báo hạn mức tài khoản (Tài khoản Trả sau), Quý khách có thể tự cài đặt ngưỡng nhận thông báo phù hợp với nhu cầu của doanh nghiệp._
+
 <div align="center">
   <table>
     <table>

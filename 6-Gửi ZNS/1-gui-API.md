@@ -94,7 +94,7 @@ Có 2 hình thức gửi thông báo ZNS:
 
 ## B. Hướng dẫn gửi API
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/046b14d8a00bee14b617f6dc541a2bd0.png" />
 </p>
 

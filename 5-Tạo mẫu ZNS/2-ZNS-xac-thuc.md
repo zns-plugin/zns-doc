@@ -12,7 +12,7 @@ Với tinh thần luôn luôn lắng nghe và thấu hiểu nhu cầu của khá
 
 ZNS Xác thực là mã xác thực một lần được gửi đến người dùng Zalo thông qua dịch vụ Zalo Notification Service (ZNS). Với mục đích xác nhận đăng nhập các ứng dụng online, thông báo về quá trình tạo hoặc thay đổi trạng thái người dùng (gửi mã xác thực cho khách hàng tạo tài khoản mới, xác nhận đổi mật khẩu, xác thực tài khoản, xác thực giao dịch,…)
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/bc9ff84938b6177ec056ad11aabbd7f2.png" />
 </p>
 
@@ -167,7 +167,7 @@ Bên cạnh những nội dung mặc định, doanh nghiệp cũng có thể ch�
 
 **Lưu ý:** Mẫu tin ZNS Xác thực không hỗ trợ sử dụng nút CTA. Trong trường hợp xác thực tài khoản, doanh nghiệp có thể ngoại lệ gửi thông báo đến khách hàng chưa phát sinh giao dịch với OA.
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/0fda1184d57035a621a484d173c4f1ab.png" />
 </p>
 
