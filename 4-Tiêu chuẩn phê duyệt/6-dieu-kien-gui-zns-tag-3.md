@@ -25,7 +25,9 @@ Xem thêm hướng dẫn [Thiết lập mục đích gửi khi tạo mẫu ZNS](
 
 Quý doanh nghiệp cần đảm bảo yêu cầu sau:
 
+<div class="table">
 <table><tbody><tr><td><p style="margin-left:0px;text-align:center;"><span style="background-color:hsl(180,75%,60%);"><strong><p align="center">Sau 0H ngày 12/03/2024</p></strong>&nbsp;</span></p></td></tr><tr><td><span style="color:rgb(18,19,23);">Zalo OA đang được cấp phép gửi ở Cấp độ 3 (Tra cứu tại trang </span><a target="_blank" rel="noopener noreferrer" href="https://account.zalo.cloud/RZUPB7MA6RKY9VGZ/tool/zns/report/quality"><span style="color:hsl(210,75%,60%);"><u>Chất lượng gửi ZNS</u></span><span style="color:rgb(18,19,23);"> trên ZCA</span></a><span style="color:rgb(18,19,23);"> hoặc sử dụng </span><a target="_blank" rel="noopener noreferrer" href="https://developers.zalo.me/docs/zalo-notification-service/truy-xuat-thong-tin/lay-thong-tin-loai-noi-dung-zns-duoc-phep-gui"><span style="color:hsl(210,75%,60%);"><u>API để lấy thông tin loại nội dung ZNS được phép gửi</u></span></a><span style="color:rgb(18,19,23);">)&nbsp;</span></td></tr></tbody></table>
+</div>
 
 _<p align="center">Xem thêm [Cơ chế đánh giá chất lượng và quyền lợi gửi ZNS](https://zalo.cloud/blog/co-che-danh-gia-chat-luong-va-quyen-loi-gui-zns/rzu6k97e8vkbnmereg).</p>_
 

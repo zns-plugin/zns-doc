@@ -28,6 +28,7 @@ _Xem thêm_ [_Tổng quan về Tin nhắn UID_](https://developers.zalo.me/docs/
 
 Dịch vụ thông báo ZNS và Tin UID cung cấp dịch vụ đa dạng để Doanh nghiệp có thể sử dụng từng loại dịch vụ tùy theo nhu cầu và mục đích sử dụng:
 
+<div class="table">
 <table>
   <tbody>
     <tr>
@@ -260,6 +261,7 @@ Dịch vụ thông báo ZNS và Tin UID cung cấp dịch vụ đa dạng để 
     </tr>
   </tbody>
 </table>
+</div>
 
 ## III. Một số trường hợp ứng dụng ZNS
 

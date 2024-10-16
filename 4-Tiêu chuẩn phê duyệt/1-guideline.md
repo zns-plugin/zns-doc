@@ -13,7 +13,7 @@ Zalo Cloud có quyền từ chối các mẫu template có nội dung chưa ph�
 
 ## 1. Yêu cầu tổng quan
 
-<table>
+<div class="table"><table>
   <tbody>
     <tr>
       <td>
@@ -427,6 +427,7 @@ Zalo Cloud có quyền từ chối các mẫu template có nội dung chưa ph�
     </tr>
   </tbody>
 </table>
+</div>
 
 > **Ghi chú:**  
 > (1) Đối với các trường hợp logo không khớp với tên OA​  
@@ -446,6 +447,7 @@ Zalo Cloud có quyền từ chối các mẫu template có nội dung chưa ph�
 
 Xem thêm chi tiết về tổng quan cập nhật [Đơn giản hóa phân loại mục đích (Tag) của mẫu thông báo ZNS](https://zalo.cloud/news/don-gian-hoa-phan-loai-muc-dich-cua-mau-thong-bao-zns/qbu9wweyzyzapqemn4)
 
+<div class="table">
 <table>
   <tbody>
     <tr>
@@ -1040,6 +1042,7 @@ Xem thêm chi tiết về tổng quan cập nhật [Đơn giản hóa phân lo�
     </tr>
   </tbody>
 </table>
+</div>
 
 > _**Lưu ý khi**_ _**xác định tag của mẫu template ZNS**\_\_**:**_
 >
@@ -1353,37 +1356,36 @@ Với mẫu template Tag 3 (Hậu mãi):
 
 Với mẫu template Tag 3 (Hậu mãi), doanh nghiệp bắt buộc cung cấp đầy đủ các văn bản/giấy phép hợp lệ sau:
 
-* Giấy chứng nhận đăng ký kinh doanh;
-* GXN ngành nghề;
-* Chứng nhận đại lý/ Hợp đồng mua bán/ Hóa đơn mua hàng của thuốc;
-* Giấy chứng nhận đủ điều kiện kinh doanh dược;
-* GXN thuốc không kê đơn hoặc Công văn mô tả về thành phần thuốc và xác định đây là thuốc không kê đơn
+- Giấy chứng nhận đăng ký kinh doanh;
+- GXN ngành nghề;
+- Chứng nhận đại lý/ Hợp đồng mua bán/ Hóa đơn mua hàng của thuốc;
+- Giấy chứng nhận đủ điều kiện kinh doanh dược;
+- GXN thuốc không kê đơn hoặc Công văn mô tả về thành phần thuốc và xác định đây là thuốc không kê đơn
 
-***Lưu ý:***
+**_Lưu ý:_**
 
-* Các loại thuốc không kê đơn nhưng được cơ quan nhà nước có thẩm quyền khuyến cáo hạn chế sử dụng hoặc sử dụng có sự giám sát của thầy thuốc sẽ KHÔNG ĐƯỢC đăng ký các mục đích ở tag 3.
-
+- Các loại thuốc không kê đơn nhưng được cơ quan nhà nước có thẩm quyền khuyến cáo hạn chế sử dụng hoặc sử dụng có sự giám sát của thầy thuốc sẽ KHÔNG ĐƯỢC đăng ký các mục đích ở tag 3.
 
 **i. Các nhóm sản phẩm khác cấm/không hỗ trợ đăng ký template ZNS Tag 3 với mục đích quảng bá, đề xuất, mời sử dụng cho khách hàng cũ:**
 
-* Sản phẩm sữa thay thế sữa mẹ dùng cho trẻ dưới 24 tháng tuổi, sản phẩm dinh dưỡng bổ sung dùng cho trẻ dưới 06 tháng tuổi, bình bú và vú ngậm nhân tạo.
-* Thuốc trái phép, thuốc theo toa hoặc thuốc kích thích. 
-* Thuốc kê đơn; thuốc không kê đơn nhưng được cơ quan nhà nước có thẩm quyền khuyến cáo hạn chế sử dụng hoặc sử dụng có sự giám sát của thầy thuốc.
-* Các loại sản phẩm, hàng hóa có tính chất kích dục. Đồ chơi tình dục hoặc các sản phẩm tập trung vào khoái cảm tình dục (bao cao su tăng khoái cảm, gel bôi trơn, nước hoa kích thích hưng phấn…).
-* Các sản phẩm hoặc dịch vụ người lớn.
-* Sản phẩm thuốc lá và liên quan đến thuốc lá.
-* Vũ khí, đạn dược, chất gây cháy nổ và các loại sản phẩm, hàng hóa có tính chất kích động bạo lực.
-* Các dịch vụ, ấn bản phẩm (sách, báo, trò chơi điện tử, trang thông tin điện tử…) không có giấy phép phát hành.
-* Thiết bị, phần mềm ngụy trang dùng để ghi âm, ghi hình khi chưa được cấp hoặc bị thu hồi Giấy chứng nhận đủ điều kiện về an ninh, trật tự.
-* Sản phẩm liên quan đến thực vật rừng, động vật rừng nguy cấp, quý, hiếm.
-* Dịch vụ kinh doanh, cung ứng dịch vụ vàng và ngoại hối trong nước và nước ngoài mà chưa được Ngân hàng Nhà nước Việt Nam chấp thuận bằng văn bản.
-* Các sản phẩm và dịch vụ tài chính có các cách quảng bá/đề xuất/giới thiệu gây nhầm lẫn hoặc lừa đảo, chẳng hạn như quyền chọn nhị phân, phát hành tiền ảo lần đầu tiên ra công chúng, hoặc các vấn đề về đồng tiền ảo nói chung, đấu giá kiểu thầu hoặc các mô hình kinh doanh tương tự khác.
-* Quảng bá mô hình kinh doanh kiếm lời nhanh mà chỉ phải đầu tư ít một cách bất hợp lý, bao gồm nhưng không giới hạn cơ hội tiếp thị đa cấp, cơ hội thu nhập nhưng không mô tả đầy đủ mô hình kinh doanh hoặc sản phẩm liên quan và không yêu cầu nhiều nhưng hứa hẹn mức thù lao cao một cách bất hợp lý.
-* Mô hình đầu tư hợp đồng kỳ nghỉ (timeshare).
-* Các trò chơi có tính may rủi (cá cược thể thao, bingo hoặc poker, bet.).
-* Các sản phẩm hàng giả, hàng nhái làm cho người dùng nhầm lẫn với nhãn hiệu nổi tiếng đang có trên thị trường
-* Các sản phẩm có tính chất mê tín dị đoan.
-* Các sản phẩm, hàng hóa, dịch vụ cấm quảng cáo/quảng bá khác do Chính phủ hoặc cơ quan có thẩm quyền quy định khi có phát sinh trên thực tế.
-* Các sản phẩm khác mà Zalo Cloud nhận định là không an toàn, không phù hợp với người dùng theo quy định và đánh giá riêng hoặc theo tư vấn của đội ngũ pháp lý.
+- Sản phẩm sữa thay thế sữa mẹ dùng cho trẻ dưới 24 tháng tuổi, sản phẩm dinh dưỡng bổ sung dùng cho trẻ dưới 06 tháng tuổi, bình bú và vú ngậm nhân tạo.
+- Thuốc trái phép, thuốc theo toa hoặc thuốc kích thích.
+- Thuốc kê đơn; thuốc không kê đơn nhưng được cơ quan nhà nước có thẩm quyền khuyến cáo hạn chế sử dụng hoặc sử dụng có sự giám sát của thầy thuốc.
+- Các loại sản phẩm, hàng hóa có tính chất kích dục. Đồ chơi tình dục hoặc các sản phẩm tập trung vào khoái cảm tình dục (bao cao su tăng khoái cảm, gel bôi trơn, nước hoa kích thích hưng phấn…).
+- Các sản phẩm hoặc dịch vụ người lớn.
+- Sản phẩm thuốc lá và liên quan đến thuốc lá.
+- Vũ khí, đạn dược, chất gây cháy nổ và các loại sản phẩm, hàng hóa có tính chất kích động bạo lực.
+- Các dịch vụ, ấn bản phẩm (sách, báo, trò chơi điện tử, trang thông tin điện tử…) không có giấy phép phát hành.
+- Thiết bị, phần mềm ngụy trang dùng để ghi âm, ghi hình khi chưa được cấp hoặc bị thu hồi Giấy chứng nhận đủ điều kiện về an ninh, trật tự.
+- Sản phẩm liên quan đến thực vật rừng, động vật rừng nguy cấp, quý, hiếm.
+- Dịch vụ kinh doanh, cung ứng dịch vụ vàng và ngoại hối trong nước và nước ngoài mà chưa được Ngân hàng Nhà nước Việt Nam chấp thuận bằng văn bản.
+- Các sản phẩm và dịch vụ tài chính có các cách quảng bá/đề xuất/giới thiệu gây nhầm lẫn hoặc lừa đảo, chẳng hạn như quyền chọn nhị phân, phát hành tiền ảo lần đầu tiên ra công chúng, hoặc các vấn đề về đồng tiền ảo nói chung, đấu giá kiểu thầu hoặc các mô hình kinh doanh tương tự khác.
+- Quảng bá mô hình kinh doanh kiếm lời nhanh mà chỉ phải đầu tư ít một cách bất hợp lý, bao gồm nhưng không giới hạn cơ hội tiếp thị đa cấp, cơ hội thu nhập nhưng không mô tả đầy đủ mô hình kinh doanh hoặc sản phẩm liên quan và không yêu cầu nhiều nhưng hứa hẹn mức thù lao cao một cách bất hợp lý.
+- Mô hình đầu tư hợp đồng kỳ nghỉ (timeshare).
+- Các trò chơi có tính may rủi (cá cược thể thao, bingo hoặc poker, bet.).
+- Các sản phẩm hàng giả, hàng nhái làm cho người dùng nhầm lẫn với nhãn hiệu nổi tiếng đang có trên thị trường
+- Các sản phẩm có tính chất mê tín dị đoan.
+- Các sản phẩm, hàng hóa, dịch vụ cấm quảng cáo/quảng bá khác do Chính phủ hoặc cơ quan có thẩm quyền quy định khi có phát sinh trên thực tế.
+- Các sản phẩm khác mà Zalo Cloud nhận định là không an toàn, không phù hợp với người dùng theo quy định và đánh giá riêng hoặc theo tư vấn của đội ngũ pháp lý.
 
 _Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._

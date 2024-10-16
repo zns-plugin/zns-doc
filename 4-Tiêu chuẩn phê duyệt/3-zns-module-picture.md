@@ -36,6 +36,7 @@ Hình ảnh là một thành phần của nội dung template, vì vậy, nội 
 
 ## B. Quy định về kỹ thuật
 
+<div class="table">
 <table>
   <tbody>
     <tr>
@@ -86,11 +87,15 @@ Hình ảnh là một thành phần của nội dung template, vì vậy, nội 
     </tr>
   </tbody>
 </table>
+</div>
 
-![](https://stc-oa.zdn.vn/uploads/603daeeaf36857e16181f8ea4484e320.jpg)
+<p align="center">
+  <img src="https://stc-oa.zdn.vn/uploads/603daeeaf36857e16181f8ea4484e320.jpg" />
+</p>
 
 ## C. Quy định về mục đích
 
+<div class="table">
 <table>
   <tbody>
     <tr>
@@ -109,11 +114,13 @@ Hình ảnh là một thành phần của nội dung template, vì vậy, nội 
     </tr>
   </tbody>
 </table>
+</div>
 
 Xem thêm cách [Thiết lập mục đích gửi khi tạo mẫu ZNS](https://zalo.cloud/blog/thiet-lap-muc-dich-gui-khi-tao-mau-zns/erug88djjgrd9r7zzj)
 
 ## D. Quy định về hình thức của module hình ảnh
 
+<div class="table">
 <table>
   <tbody>
     <tr>
@@ -206,6 +213,7 @@ Xem thêm cách [Thiết lập mục đích gửi khi tạo mẫu ZNS](https://z
     </tr>
   </tbody>
 </table>
+</div>
 
 ![](https://stc-oa.zdn.vn/uploads/66c1e3c91ea8667cadaf8b9c527ed6e5.jpg)
 
@@ -213,12 +221,13 @@ Xem thêm cách [Thiết lập mục đích gửi khi tạo mẫu ZNS](https://z
 
 ![](https://stc-oa.zdn.vn/uploads/781d7e7c6b8c095fce9ee112d9a86b51.jpg)
 
-*<p align="center">Với kích thước ảnh 1140px x 640px - kích thước thành phần chữ đề xuất ở mức tối thiểu 42pt - tối ưu nhất 56pt</p>*
+_<p align="center">Với kích thước ảnh 1140px x 640px - kích thước thành phần chữ đề xuất ở mức tối thiểu 42pt - tối ưu nhất 56pt</p>_
 
 Các kích thước thành phần chữ không yêu cầu bắt buộc tương tự, nhưng cần đảm bảo các quy đinh và chính sách của sản phẩm ZNS.
 
 ## E. Quy định về thương hiệu trong ảnh
 
+<div class="table">
 <table>
   <tbody>
     <tr>
@@ -252,11 +261,13 @@ Các kích thước thành phần chữ không yêu cầu bắt buộc tương t
     </tr>
   </tbody>
 </table>
+</div>
 
 ## F. Quy định chung về nội dung
 
 ![](https://stc-oa.zdn.vn/uploads/1d9642c58783e247d539156292d6f66c.jpg)
 
+<div class="table">
 <table>
   <tbody>
     <tr>
@@ -370,5 +381,6 @@ Các kích thước thành phần chữ không yêu cầu bắt buộc tương t
     </tr>
   </tbody>
 </table>
+</div>
 
 _Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._

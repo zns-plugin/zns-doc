@@ -27,8 +27,7 @@ Doanh nghiệp có thể sao chép mã xác thực từ thông báo ZNS. Thông 
 
 Bên cạnh những nội dung mặc định, doanh nghiệp cũng có thể chỉnh sửa nội dung ZNS gửi kèm mã xác thực.
 
-<div align="center">
-  <table>
+<div class="table" align="center">
     <table>
   <tbody>
     <tr>
@@ -161,7 +160,6 @@ Bên cạnh những nội dung mặc định, doanh nghiệp cũng có thể ch�
       </td>
     </tr>
   </tbody>
-</table>
 </table>
 </div>
 

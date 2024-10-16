@@ -10,6 +10,7 @@ Với tinh thần luôn luôn lắng nghe và thấu hiểu khách hàng, đội
 
 ## 1. Phân loại các hạng mục thông báo
 
+<div class="table">
 <table>
   <tbody>
     <tr>
@@ -165,6 +166,7 @@ Với tinh thần luôn luôn lắng nghe và thấu hiểu khách hàng, đội
     </tr>
   </tbody>
 </table>
+</div>
 
 ## 2. Chi tiết sử dụng
 
@@ -206,8 +208,7 @@ Tại đây **Quản trị viên và Quản trị viên cấp cao** của tài k
 
 _(\*) Với loại Thông báo số dư tài khoản (Tài khoản Trả trước) & Thông báo hạn mức tài khoản (Tài khoản Trả sau), Quý khách có thể tự cài đặt ngưỡng nhận thông báo phù hợp với nhu cầu của doanh nghiệp._
 
-<div align="center">
-  <table>
+<div class="table" align="center">
     <table>
   <tbody>
     <tr>
@@ -269,7 +270,6 @@ _(\*) Với loại Thông báo số dư tài khoản (Tài khoản Trả trướ
       </td>
     </tr>
   </tbody>
-</table>
 </table>
 </div>
 

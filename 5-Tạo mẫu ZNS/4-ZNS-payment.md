@@ -13,7 +13,7 @@ Với tinh thần luôn luôn lắng nghe và thấu hiểu nhu cầu của khá
 Với phương thức hay dạng template truyền thống, người dùng cuối (user) phải thao tác nhiều bước để thực hiện thao tác thanh toán.   
 Template **ZNS Yêu cầu thanh toán** mới, hỗ trợ nút **Thanh toán ngay**, cho phép user thao tác thanh toán thuận lợi, hạn chế rủi ro do lỗi chủ quan.
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/b023e9d92376a4030d41ae2ab384ab7e.jpg" />
 </p>
 
@@ -26,7 +26,7 @@ Cấu trúc của **ZNS Yêu cầu thanh toán** bao gồm:
 
 Mẫu template này áp dụng các **Quy định chung khi kiểm duyệt mẫu ZNS**, quý khách có thể xem thêm tại [**ĐÂY**](https://zalo.cloud/news/quy-dinh-chung-khi-kiem-duyet-mau-tin-zns/baujzpyvjjrz7776m).
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/3c1a1704c72b6d016219d55bb7da9a51.png" />
 </p>
 
@@ -36,13 +36,13 @@ Mẫu template này áp dụng các **Quy định chung khi kiểm duyệt mẫu
 
 Khi user chọn thanh toán bằng một ngân hàng đã liên kết với Zalo, tất cả thông tin về tài khoản thụ hưởng như ngân hàng, số tài khoản, số tiền, ghi chú,… đều sẽ được tự động đồng bộ, đồng thời dẫn sang Ứng dụng của ngân hàng tương ứng. User sẽ không cần sao chép thủ công các thông tin này nữa.
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/dec12d9541d01ee0ce583f7385f8e34a.png" />
 </p>
 
 _<p align="center">Các bước thao tác của người dùng (Người dùng chọn chuyển tiền bằng với ngân hàng đã liên kết Zalo)</p>_
 
-<p style={{ textAlign: "center" }}>
+<p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/71fbfbbce1a22e87365b407bb14cb114.png" />
 </p>
 
@@ -123,245 +123,246 @@ _Chi tiết quy định xem tại_ [_Quy định chung khi kiểm duyệt mẫu 
 
 BIN viết tắt cho Bank Identification Number - Mã định danh ngân hàng theo Ngân hàng Nhà nước Việt Nam.
 
-<div align="center">
+<div class="table" align="center">
   <table>
-    <table>
-  <tbody>
-    <tr>
-      <td>
-        <strong>BIN Code</strong>
-      </td>
-      <td>
-        <strong>Tên ngân hàng</strong>
-      </td>
-    </tr>
-    <tr>
-      <td>970425&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP An Bình (ABBANK)</td>
-    </tr>
-    <tr>
-      <td>970416&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Á Châu (ACB)</td>
-    </tr>
-    <tr>
-      <td>970405&nbsp;&nbsp;</td>
-      <td>Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam (Agribank)</td>
-    </tr>
-    <tr>
-      <td>970409&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Bắc Á (BacABank)</td>
-    </tr>
-    <tr>
-      <td>970438&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Bảo Việt (BaoVietBank)</td>
-    </tr>
-    <tr>
-      <td>970418&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV)</td>
-    </tr>
-    <tr>
-      <td>546034&nbsp;&nbsp;</td>
-      <td>Ngân hàng số CAKE by VPBank (CAKE)</td>
-    </tr>
-    <tr>
-      <td>970444&nbsp;&nbsp;</td>
-      <td>Ngân hàng TM TNHH MTV Xây dựng Việt Nam (CBBank)</td>
-    </tr>
-    <tr>
-      <td>422589&nbsp;&nbsp;</td>
-      <td>Ngân hàng TNHH MTV CIMB Việt Nam (CIMB)</td>
-    </tr>
-    <tr>
-      <td>970446&nbsp;&nbsp;</td>
-      <td>Ngân hàng Hợp tác xã Việt Nam (COOPBANK)</td>
-    </tr>
-    <tr>
-      <td>796500&nbsp;&nbsp;</td>
-      <td>DBS Bank Ltd - Chi nhánh TP. Hồ Chí Minh (DBSBank)</td>
-    </tr>
-    <tr>
-      <td>970406&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Đông Á (DongABank)</td>
-    </tr>
-    <tr>
-      <td>970431&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Xuất Nhập khẩu Việt Nam (Eximbank)</td>
-    </tr>
-    <tr>
-      <td>970408&nbsp;&nbsp;</td>
-      <td>Ngân hàng Thương mại TNHH MTV Dầu Khí Toàn Cầu (GPBank)</td>
-    </tr>
-    <tr>
-      <td>970437&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP PT Thành phố Hồ Chí Minh (HDBank)</td>
-    </tr>
-    <tr>
-      <td>970442&nbsp;&nbsp;</td>
-      <td>Ngân hàng TNHH MTV Hong Leong Việt Nam (HongLeong)</td>
-    </tr>
-    <tr>
-      <td>458761&nbsp;&nbsp;</td>
-      <td>Ngân hàng TNHH MTV HSBC (Việt Nam) (HSBC)</td>
-    </tr>
-    <tr>
-      <td>970456&nbsp;&nbsp;</td>
-      <td>
-        Ngân hàng Công nghiệp Hàn Quốc - Chi nhánh TP. Hồ Chí Minh (IBKHCM)
-      </td>
-    </tr>
-    <tr>
-      <td>970455&nbsp;&nbsp;</td>
-      <td>Ngân hàng Công nghiệp Hàn Quốc - Chi nhánh Hà Nội (IBKHN)</td>
-    </tr>
-    <tr>
-      <td>970434&nbsp;&nbsp;</td>
-      <td>Ngân hàng TNHH Indovina (IndovinaBank)</td>
-    </tr>
-    <tr>
-      <td>668888&nbsp;&nbsp;</td>
-      <td>Ngân hàng Đại chúng TNHH Kasikornbank (KBank)</td>
-    </tr>
-    <tr>
-      <td>970452&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Kiên Long (KienLongBank)</td>
-    </tr>
-    <tr>
-      <td>970463&nbsp;&nbsp;</td>
-      <td>Ngân hàng Kookmin - Chi nhánh Tp. Hồ Chí Minh (KookminHCM)</td>
-    </tr>
-    <tr>
-      <td>970462&nbsp;&nbsp;</td>
-      <td>Ngân hàng Kookmin - Chi nhánh Hà Nội (KookminHN)</td>
-    </tr>
-    <tr>
-      <td>970449&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Bưu Điện Liên Việt (LienVietPostBank)</td>
-    </tr>
-    <tr>
-      <td>970422&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Quân đội (MBBank)</td>
-    </tr>
-    <tr>
-      <td>970426&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Hàng Hải (MSB)</td>
-    </tr>
-    <tr>
-      <td>970428&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Nam Á (NamABank)</td>
-    </tr>
-    <tr>
-      <td>970419&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Quốc Dân (NCB)</td>
-    </tr>
-    <tr>
-      <td>801011&nbsp;&nbsp;</td>
-      <td>Ngân hàng Nonghyup - Chi nhánh Hà Nội (Nonghyup)</td>
-    </tr>
-    <tr>
-      <td>970448&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Phương Đông (OCB)</td>
-    </tr>
-    <tr>
-      <td>970414&nbsp;&nbsp;</td>
-      <td>Ngân hàng Thương mại TNHH MTV Đại Dương (Oceanbank)</td>
-    </tr>
-    <tr>
-      <td>970430&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Xăng dầu Petrolimex (PGBank)</td>
-    </tr>
-    <tr>
-      <td>970439&nbsp;&nbsp;</td>
-      <td>Ngân hàng TNHH MTV Public Việt Nam (PublicBank)</td>
-    </tr>
-    <tr>
-      <td>970412&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Đại Chúng Việt Nam (PVcomBank)</td>
-    </tr>
-    <tr>
-      <td>970403&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Sài Gòn Thương Tín (Sacombank)</td>
-    </tr>
-    <tr>
-      <td>970400&nbsp;</td>
-      <td>Ngân hàng TMCP Sài Gòn Công Thương (SaigonBank)</td>
-    </tr>
-    <tr>
-      <td>970429&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Sài Gòn (SCB)</td>
-    </tr>
-    <tr>
-      <td>970440&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Đông Nam Á (SeABank)</td>
-    </tr>
-    <tr>
-      <td>970443&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Sài Gòn - Hà Nội (SHB)</td>
-    </tr>
-    <tr>
-      <td>970424&nbsp;&nbsp;</td>
-      <td>Ngân hàng TNHH MTV Shinhan Việt Nam (ShinhanBank)</td>
-    </tr>
-    <tr>
-      <td>970410&nbsp;&nbsp;</td>
-      <td>Ngân hàng Standard Chartered Việt Nam (Standard Chartered)</td>
-    </tr>
-    <tr>
-      <td>970407&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Kỹ thương Việt Nam (Techcombank)</td>
-    </tr>
-    <tr>
-      <td>970423&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Tiên Phong (TPBank)</td>
-    </tr>
-    <tr>
-      <td>546035&nbsp;&nbsp;</td>
-      <td>Ngân hàng số Ubank by VPBank (Ubank)</td>
-    </tr>
-    <tr>
-      <td>970458&nbsp;&nbsp;</td>
-      <td>
-        Ngân hàng United Overseas - Chi nhánh TP. Hồ Chí Minh (United Overseas)
-      </td>
-    </tr>
-    <tr>
-      <td>970441&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Quốc tế Việt Nam (VIB)</td>
-    </tr>
-    <tr>
-      <td>970427&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Việt Á (VietABank)</td>
-    </tr>
-    <tr>
-      <td>970433&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Việt Nam Thương Tín (VietBank)</td>
-    </tr>
-    <tr>
-      <td>970454&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Bản Việt (BVBank)</td>
-    </tr>
-    <tr>
-      <td>970436&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Ngoại Thương Việt Nam (Vietcombank)</td>
-    </tr>
-    <tr>
-      <td>970415&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Công thương Việt Nam (VietinBank)</td>
-    </tr>
-    <tr>
-      <td>970432&nbsp;&nbsp;</td>
-      <td>Ngân hàng TMCP Việt Nam Thịnh Vượng (VPBank)</td>
-    </tr>
-    <tr>
-      <td>970421&nbsp;&nbsp;</td>
-      <td>Ngân hàng Liên doanh Việt - Nga (VRB)</td>
-    </tr>
-    <tr>
-      <td>970457&nbsp;&nbsp;</td>
-      <td>Ngân hàng TNHH MTV Woori Việt Nam (Woori)</td>
-    </tr>
-  </tbody>
-</table>
-</table>
+    <tbody>
+      <tr>
+        <td>
+          <strong>BIN Code</strong>
+        </td>
+        <td>
+          <strong>Tên ngân hàng</strong>
+        </td>
+      </tr>
+      <tr>
+        <td>970425&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP An Bình (ABBANK)</td>
+      </tr>
+      <tr>
+        <td>970416&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Á Châu (ACB)</td>
+      </tr>
+      <tr>
+        <td>970405&nbsp;&nbsp;</td>
+        <td>
+          Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam (Agribank)
+        </td>
+      </tr>
+      <tr>
+        <td>970409&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Bắc Á (BacABank)</td>
+      </tr>
+      <tr>
+        <td>970438&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Bảo Việt (BaoVietBank)</td>
+      </tr>
+      <tr>
+        <td>970418&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV)</td>
+      </tr>
+      <tr>
+        <td>546034&nbsp;&nbsp;</td>
+        <td>Ngân hàng số CAKE by VPBank (CAKE)</td>
+      </tr>
+      <tr>
+        <td>970444&nbsp;&nbsp;</td>
+        <td>Ngân hàng TM TNHH MTV Xây dựng Việt Nam (CBBank)</td>
+      </tr>
+      <tr>
+        <td>422589&nbsp;&nbsp;</td>
+        <td>Ngân hàng TNHH MTV CIMB Việt Nam (CIMB)</td>
+      </tr>
+      <tr>
+        <td>970446&nbsp;&nbsp;</td>
+        <td>Ngân hàng Hợp tác xã Việt Nam (COOPBANK)</td>
+      </tr>
+      <tr>
+        <td>796500&nbsp;&nbsp;</td>
+        <td>DBS Bank Ltd - Chi nhánh TP. Hồ Chí Minh (DBSBank)</td>
+      </tr>
+      <tr>
+        <td>970406&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Đông Á (DongABank)</td>
+      </tr>
+      <tr>
+        <td>970431&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Xuất Nhập khẩu Việt Nam (Eximbank)</td>
+      </tr>
+      <tr>
+        <td>970408&nbsp;&nbsp;</td>
+        <td>Ngân hàng Thương mại TNHH MTV Dầu Khí Toàn Cầu (GPBank)</td>
+      </tr>
+      <tr>
+        <td>970437&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP PT Thành phố Hồ Chí Minh (HDBank)</td>
+      </tr>
+      <tr>
+        <td>970442&nbsp;&nbsp;</td>
+        <td>Ngân hàng TNHH MTV Hong Leong Việt Nam (HongLeong)</td>
+      </tr>
+      <tr>
+        <td>458761&nbsp;&nbsp;</td>
+        <td>Ngân hàng TNHH MTV HSBC (Việt Nam) (HSBC)</td>
+      </tr>
+      <tr>
+        <td>970456&nbsp;&nbsp;</td>
+        <td>
+          Ngân hàng Công nghiệp Hàn Quốc - Chi nhánh TP. Hồ Chí Minh (IBKHCM)
+        </td>
+      </tr>
+      <tr>
+        <td>970455&nbsp;&nbsp;</td>
+        <td>Ngân hàng Công nghiệp Hàn Quốc - Chi nhánh Hà Nội (IBKHN)</td>
+      </tr>
+      <tr>
+        <td>970434&nbsp;&nbsp;</td>
+        <td>Ngân hàng TNHH Indovina (IndovinaBank)</td>
+      </tr>
+      <tr>
+        <td>668888&nbsp;&nbsp;</td>
+        <td>Ngân hàng Đại chúng TNHH Kasikornbank (KBank)</td>
+      </tr>
+      <tr>
+        <td>970452&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Kiên Long (KienLongBank)</td>
+      </tr>
+      <tr>
+        <td>970463&nbsp;&nbsp;</td>
+        <td>Ngân hàng Kookmin - Chi nhánh Tp. Hồ Chí Minh (KookminHCM)</td>
+      </tr>
+      <tr>
+        <td>970462&nbsp;&nbsp;</td>
+        <td>Ngân hàng Kookmin - Chi nhánh Hà Nội (KookminHN)</td>
+      </tr>
+      <tr>
+        <td>970449&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Bưu Điện Liên Việt (LienVietPostBank)</td>
+      </tr>
+      <tr>
+        <td>970422&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Quân đội (MBBank)</td>
+      </tr>
+      <tr>
+        <td>970426&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Hàng Hải (MSB)</td>
+      </tr>
+      <tr>
+        <td>970428&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Nam Á (NamABank)</td>
+      </tr>
+      <tr>
+        <td>970419&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Quốc Dân (NCB)</td>
+      </tr>
+      <tr>
+        <td>801011&nbsp;&nbsp;</td>
+        <td>Ngân hàng Nonghyup - Chi nhánh Hà Nội (Nonghyup)</td>
+      </tr>
+      <tr>
+        <td>970448&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Phương Đông (OCB)</td>
+      </tr>
+      <tr>
+        <td>970414&nbsp;&nbsp;</td>
+        <td>Ngân hàng Thương mại TNHH MTV Đại Dương (Oceanbank)</td>
+      </tr>
+      <tr>
+        <td>970430&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Xăng dầu Petrolimex (PGBank)</td>
+      </tr>
+      <tr>
+        <td>970439&nbsp;&nbsp;</td>
+        <td>Ngân hàng TNHH MTV Public Việt Nam (PublicBank)</td>
+      </tr>
+      <tr>
+        <td>970412&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Đại Chúng Việt Nam (PVcomBank)</td>
+      </tr>
+      <tr>
+        <td>970403&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Sài Gòn Thương Tín (Sacombank)</td>
+      </tr>
+      <tr>
+        <td>970400&nbsp;</td>
+        <td>Ngân hàng TMCP Sài Gòn Công Thương (SaigonBank)</td>
+      </tr>
+      <tr>
+        <td>970429&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Sài Gòn (SCB)</td>
+      </tr>
+      <tr>
+        <td>970440&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Đông Nam Á (SeABank)</td>
+      </tr>
+      <tr>
+        <td>970443&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Sài Gòn - Hà Nội (SHB)</td>
+      </tr>
+      <tr>
+        <td>970424&nbsp;&nbsp;</td>
+        <td>Ngân hàng TNHH MTV Shinhan Việt Nam (ShinhanBank)</td>
+      </tr>
+      <tr>
+        <td>970410&nbsp;&nbsp;</td>
+        <td>Ngân hàng Standard Chartered Việt Nam (Standard Chartered)</td>
+      </tr>
+      <tr>
+        <td>970407&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Kỹ thương Việt Nam (Techcombank)</td>
+      </tr>
+      <tr>
+        <td>970423&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Tiên Phong (TPBank)</td>
+      </tr>
+      <tr>
+        <td>546035&nbsp;&nbsp;</td>
+        <td>Ngân hàng số Ubank by VPBank (Ubank)</td>
+      </tr>
+      <tr>
+        <td>970458&nbsp;&nbsp;</td>
+        <td>
+          Ngân hàng United Overseas - Chi nhánh TP. Hồ Chí Minh (United
+          Overseas)
+        </td>
+      </tr>
+      <tr>
+        <td>970441&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Quốc tế Việt Nam (VIB)</td>
+      </tr>
+      <tr>
+        <td>970427&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Việt Á (VietABank)</td>
+      </tr>
+      <tr>
+        <td>970433&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Việt Nam Thương Tín (VietBank)</td>
+      </tr>
+      <tr>
+        <td>970454&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Bản Việt (BVBank)</td>
+      </tr>
+      <tr>
+        <td>970436&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Ngoại Thương Việt Nam (Vietcombank)</td>
+      </tr>
+      <tr>
+        <td>970415&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Công thương Việt Nam (VietinBank)</td>
+      </tr>
+      <tr>
+        <td>970432&nbsp;&nbsp;</td>
+        <td>Ngân hàng TMCP Việt Nam Thịnh Vượng (VPBank)</td>
+      </tr>
+      <tr>
+        <td>970421&nbsp;&nbsp;</td>
+        <td>Ngân hàng Liên doanh Việt - Nga (VRB)</td>
+      </tr>
+      <tr>
+        <td>970457&nbsp;&nbsp;</td>
+        <td>Ngân hàng TNHH MTV Woori Việt Nam (Woori)</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 _Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của Zalo Cloud qua email: support@zalo.cloud. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._

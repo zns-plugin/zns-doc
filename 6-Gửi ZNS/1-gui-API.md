@@ -13,8 +13,7 @@ Có 2 hình thức gửi thông báo ZNS:
 
 2.      **Gửi theo chiến dịch** (Không qua API)
 
-<div align="center">
-  <table>
+<div class="table" align="center">
     <table>
   <tbody>
     <tr>
@@ -89,7 +88,6 @@ Có 2 hình thức gửi thông báo ZNS:
     </tr>
   </tbody>
 </table>
-</table>
 </div>
 
 ## B. Hướng dẫn gửi API
@@ -111,8 +109,7 @@ _<p align="center">Sequence diagram API giữa Đối tác gửi tin, Zalo serve
 
 Sau khi yêu cầu được gửi đi, máy chủ Zalo sẽ phản hồi với các thông tin sau:
 
-<div align="center">
-  <table>
+<div class="table" align="center">
     <table>
   <tbody>
     <tr>
@@ -200,7 +197,6 @@ Sau khi yêu cầu được gửi đi, máy chủ Zalo sẽ phản hồi với c
     </tr>
   </tbody>
 </table>
-</table>
 </div>
 
 **Example response**
@@ -234,8 +230,7 @@ Nếu request thành công, tin ZNS sẽ được gửi tới người dùng:
 
 Nếu ZNS được gửi thành công trên thiết bị của người dùng, thì một sự kiện sẽ được gửi tới URL webhook của Doanh nghiệp.
 
-<div align="center">
-  <table>
+<div class="table" align="center">
     <table>
   <tbody>
     <tr>
@@ -346,7 +341,6 @@ Nếu ZNS được gửi thành công trên thiết bị của người dùng, t
       </td>
     </tr>
   </tbody>
-</table>
 </table>
 </div>
 

@@ -8,6 +8,7 @@ slug: /cai-dat-ki-thuat-trong-mau-thong-bao-zns
 
 ## 1. Cài đặt kĩ thuật trong mẫu thông báo ZNS Tùy chỉnh
 
+<div class="table">
 <table>
   <tbody>
     <tr>
@@ -315,6 +316,7 @@ slug: /cai-dat-ki-thuat-trong-mau-thong-bao-zns
     </tr>
   </tbody>
 </table>
+</div>
 
 ## 2. Cài đặt kĩ thuật trong mẫu thông báo ZNS Xác thực
 
@@ -326,8 +328,7 @@ slug: /cai-dat-ki-thuat-trong-mau-thong-bao-zns
 
 _<p align="center">Phần có thể điều chỉnh</p>_
 
-<div align="center">
-  <table>
+<div class="table" align="center">
     <table>
   <tbody>
     <tr>
@@ -438,13 +439,11 @@ _<p align="center">Phần có thể điều chỉnh</p>_
     </tr>
   </tbody>
 </table>
-</table>
 </div>
 
 ## 3. Cài đặt kĩ thuật trong mẫu thông báo ZNS Đánh giá dịch vụ
 
-<div align="center">
-  <table>
+<div class="table" align="center">
     <table>
   <tbody>
     <tr>
@@ -573,7 +572,6 @@ _<p align="center">Phần có thể điều chỉnh</p>_
       </td>
     </tr>
   </tbody>
-</table>
 </table>
 </div>
 

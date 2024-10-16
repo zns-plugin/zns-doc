@@ -44,7 +44,7 @@ Không chỉ có thể sử dụng mã voucher như một thẻ có mã khuyến
 Chỉ cần Click vào **Mã Voucher (phần được hiển thị nổi bật với màu xanh)**, màn hình sẽ hiển thị thông báo **“Đã sao chép mã”** khi mã Voucher được sao chép thành công.
 
 <p  align="center">
-  <img src="https://stc-oa.zdn.vn/uploads/2dcf4000391375d3f67b80eff3ba92a4.png)![](https://stc-oa.zdn.vn/uploads/4713c1001bf8c655c0832587bc14122e.png" />
+  <img src="https://stc-oa.zdn.vn/uploads/2dcf4000391375d3f67b80eff3ba92a4.png" />
 </p>
  
 
@@ -97,7 +97,9 @@ _Xem thêm:_ [_Hướng dẫn các quy định xét duyệt Template ZNS chứa 
 
 **Lưu ý về thông tin voucher:**
 
+<div class="table">
 <table><tbody><tr><td><p style="text-align:center;"><strong>Loại thông tin</strong></p></td><td><p style="text-align:center;"><strong>Bắt buộc</strong></p></td><td><p style="text-align:center;"><strong>Cài đặt</strong></p></td><td><p style="text-align:center;"><strong>Ví dụ</strong></p></td></tr><tr><td>Tiêu đề voucher</td><td>Có</td><td>Tham số <strong><u>và/hoặc</u></strong> thông tin cố định</td><td><ul><li>&lt;voucher_name&gt;</li><li>Giảm giá trực tiếp &lt;value&gt;</li><li>Tặng một áo thun unisex size M</li></ul></td></tr><tr><td>Điều kiện áp dụng</td><td>Có</td><td>Tham số <strong><u>và/hoặc</u></strong> thông tin cố định</td><td><ul><li>&lt;voucher_condition&gt;</li><li>Áp dụng duy nhất cho hóa đơn từ &lt;min_order_value&gt;</li><li>Áp dụng cho tất cả đơn hàng</li></ul></td></tr><tr><td>Ngày bắt đầu</td><td>Không</td><td>Tham số <strong><u>hoặc</u></strong> chọn ngày giờ cố định</td><td><ul><li>&lt;start_date&gt;</li><li>Chọn cố định 15/08/2024</li></ul></td></tr><tr><td>Mã voucher</td><td>Có</td><td>Tham số <strong><u>hoặc</u></strong> thông tin mã cố định</td><td><ul><li>&lt;voucher_code&gt;</li><li>ABCDFG56874952889</li></ul></td></tr><tr><td>Hiển thị mã voucher</td><td>Có</td><td><p>Chọn định dạng mã voucher theo nhu cầu:</p><ul><li>Barcode</li><li>QR code</li><li>Text code</li></ul></td><td>&nbsp;</td></tr></tbody></table>
+</div>
 
 ## 6. Chuẩn hóa các template mục đích gửi mã giảm giá, voucher
 
