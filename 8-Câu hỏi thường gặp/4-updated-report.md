@@ -26,7 +26,7 @@ _<p align="center">Giao diện ngừng nhận thông báo</p>_
 
 **Lưu ý**: Sản phẩm và giao diện thực tế có thể được điều chỉnh để đáp ứng yêu cầu vận hành.
 
-# 1. Cơ chế Báo xấu (Report):
+## 1. Cơ chế Báo xấu (Report):
 
 - Các điều chỉnh áp dụng từ **07/01/2025**:
 
@@ -48,7 +48,7 @@ _<p align="center">Giao diện ngừng nhận thông báo</p>_
 
 *Tham khảo thêm* [_Làm thế nào để giảm tỷ lệ báo xấu (report) khi gửi mẫu thông báo ZNS_](https://zalo.cloud/blog/lam-the-nao-de-giam-ty-le-bao-xau-report-khi-gui-mau-thong-bao-zns-/j4uvw9eppb98eka4a9).
 
-# 2. Cơ chế Ngừng nhận thông báo ZNS từ OA:
+## 2. Cơ chế Ngừng nhận thông báo ZNS từ OA:
 
 Các điều chỉnh áp dụng từ **07/01/2025**:
 
