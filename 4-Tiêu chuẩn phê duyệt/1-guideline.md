@@ -374,9 +374,9 @@ Zalo Cloud có quyền từ chối các mẫu template có nội dung chưa ph�
       <td>
         <p>
           Trường hợp nội dung mẫu tin có nhắc đến tên/thương hiệu của doanh
-          nghiệp khác, cần c
+          nghiệp khác, cần
           <span style="color:rgb(0,0,0);">
-            ung cấp thông tin hợp tác xác thực mối quan hệ hợp tác:
+            cung cấp thông tin hợp tác xác thực mối quan hệ hợp tác:
           </span>
         </p>
         <ul>
