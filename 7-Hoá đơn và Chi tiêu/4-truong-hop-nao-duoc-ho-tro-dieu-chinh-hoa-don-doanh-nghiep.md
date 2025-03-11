@@ -1,12 +1,21 @@
 ---
-id: truong-hop-nao-duoc-ho-tro-dieu-chinh-hoa-don-doanh-nghiep_os6wgn96u6dqmam1dixn5wp2
-title: Trường hợp nào được hỗ trợ điều chỉnh hóa đơn doanh nghiệp
+id: truong-hop-nao-duoc-ho-tro-dieu-chinh-hoa-don-doanh-nghiep
+title: Trường hợp nào được hỗ trợ điều chỉnh hóa đơn doanh nghiệp?
+slug: /truong-hop-nao-duoc-ho-tro-dieu-chinh-hoa-don-doanh-nghiep
 ---
+
+# <p align="center">Trường hợp nào được hỗ trợ điều chỉnh hoá đơn doanh nghiệp?</p>
+
+
 Nội dung trên hóa đơn được xuất tự động dựa trên thông tin Quý công ty cung cấp cho Zalo Cloud trước đó trong quá trình nạp tiền. Quý khách có thể đối chiếu lại mục **"Thông tin xuất hóa đơn"**, vì vậy, trong quá trình nạp tiền, vui lòng kiểm tra/điều chỉnh lại chính xác các thông tin để tránh sai sót khi xuất hóa đơn thành công.
 
-![](https://stc-oa.zdn.vn/uploads/5630cdb5b02cf9dc09d97fe724f1a47b.jpg)
+<p align="center">
+  <img src="https://stc-oa.zdn.vn/uploads/5630cdb5b02cf9dc09d97fe724f1a47b.jpg" />
+</p>
 
-_Doanh nghiệp là người thao tác điền thông tin nhận hóa đơn trong quá trình nạp tiền_
+
+_<p align="center">Doanh nghiệp là người thao tác điền thông tin nhận hóa đơn trong quá trình nạp tiền</p>_
+
 
 Hiện tại, Zalo Cloud **CHƯA HỖ TRỢ Điều chỉnh/Xuất lại/Hủy hóa** đơn trong những trường hợp sau: 
 
@@ -32,10 +41,11 @@ Zalo Cloud sẽ chỉ hỗ trợ làm biên bản điều chỉnh hoá đơn đ�
     
 *   Đối với trường hợp điều chỉnh lại cả tên Công ty và địa chỉ, Quý khách vui lòng tạo thêm ô nội dung để điền thông tin.
     
+<p align="center">
+  <img src="https://stc-oa.zdn.vn/uploads/2025/03/11/3762c20f165dd93d15234b9f2456601c.png" />
+</p>
 
-![image.png](https://content.zalo.cloud/uploads/image_06cf7408c3.png)
-
-Xem thêm những lưu ý quan trọng về việc xuất hoá đơn trên Zalo Cloud tại [**đây.**](https://zalo.cloud/blog/nhung-luu-y-quan-trong-ve-viec-xuat-hoa-don-tren-zalo-cloud/vvurkeybbvj7aa6r76)
+Xem thêm những lưu ý quan trọng về việc xuất hoá đơn trên Zalo Cloud tại [**ĐÂY**](https://zalo.cloud/blog/nhung-luu-y-quan-trong-ve-viec-xuat-hoa-don-tren-zalo-cloud/vvurkeybbvj7aa6r76).
 
 Xem thêm tài liệu [Hướng dẫn nạp tiền vào tài khoản ZCA](https://zalo.cloud/blog/huong-dan-nap-tien-vao-tai-khoan-zalo-cloud-account-zca-/dbuegyjqepvn9gk79q).  
  
