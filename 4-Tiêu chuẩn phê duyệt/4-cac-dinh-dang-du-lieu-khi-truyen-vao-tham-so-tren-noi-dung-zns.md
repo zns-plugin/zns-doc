@@ -69,7 +69,7 @@ Sau khi định dạng các tham số, Liên kết (URL) truyền vào CTA sẽ 
 _<p align="center">Xem chi tiết hướng dẫn truyền tham số vào link CTA tại_ [_ĐÂY_](https://zalo.cloud/blog/cap-nhat-tinh-nang-zns-cho-phep-truyen-tham-so-param-vao-nut-thao-tac-cta-/6vuz4a47rd86q99mwd).</p>
 
 
-## 3.Các định dạng dữ liệu khác
+## 3. Các định dạng dữ liệu khác
 
 Dành cho các KH có templates được tạo qua yêu cầu đặc biệt. 
 
@@ -79,7 +79,7 @@ Dành cho các KH có templates được tạo qua yêu cầu đặc biệt. 
 </div>
 
 
-## 4.Hướng dẫn xử lý mã lỗi liên quan thường gặp
+## 4. Hướng dẫn xử lý mã lỗi liên quan thường gặp
 
 Xem thêm chi tiết và hướng dẫn xử lý các mã lỗi tại [ĐÂY](https://zalo.cloud/zns/guidelines/handle-error-code). 
  
