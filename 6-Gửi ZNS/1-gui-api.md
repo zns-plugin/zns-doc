@@ -55,19 +55,20 @@ Sau khi yêu cầu được gửi đi, máy chủ Zalo sẽ phản hồi với c
 
 **Example response**
 
-{  
-    "error": 0,  
-    "message": "Success",  
-    "data": {  
-        "msg\_id": "a4d0243feee163bd3af2"  
-            "sent\_time": "1626926349402",  
-            "quota": {  
-                "dailyQuota": "500",  
-                "remainingQuota": "499"  
-            }  
-    }  
-}  
- 
+```json
+{
+    "error": 0,
+    "message": "Success",
+    "data": {
+        "msg_id": "a4d0243feee163bd3af2"
+            "sent_time": "1626926349402",
+            "quota": {
+                "dailyQuota": "500",
+                "remainingQuota": "499"
+            }
+    }
+}
+```
 
 Xem chi tiết hơn về cấu trúc của request và response tại [**ĐÂY**](https://developers.zalo.me/docs/api/zalo-notification-service-api/gui-zns/gui-zns-post-5208).
 
