@@ -16,7 +16,7 @@ Trong hoạt động gửi thông báo chăm sóc khách hàng qua Zalo, tỷ l�
 
 **Từ 0H ngày 12/03/2024:** Quyền lợi gửi ZNS của OA sẽ được thể hiện theo từng mốc của chỉ số **“Số lượng ZNS có thể gửi mỗi ngày (Daily quota)”** , mỗi mốc sẽ có quyền lợi tương ứng như bảng bên dưới
 
-div class="table" align="center">
+<div class="table" align="center">
       <table>
 <table><tbody><tr><td><p style="margin-left:0px;text-align:center;"><strong>Mốc</strong></p><p style="margin-left:0px;text-align:center;"><strong>(= Daily quota)&nbsp;</strong></p></td><td><p style="margin-left:0px;text-align:center;"><strong>Quyền lợi về các mục đích (Tag) được gửi</strong></p></td><td><p style="margin-left:0px;text-align:center;"><strong>Mô&nbsp;tả&nbsp;</strong></p></td></tr><tr><td><p style="margin-left:0px;">500&nbsp;</p></td><td colspan="1" rowspan="4"><p>Tag 1 - Giao dịch (Transaction)</p><p>Tag 2 - Chăm sóc khách hàng (Customer Care)</p></td><td colspan="1" rowspan="2"><p style="margin-left:0px;">Vùng&nbsp;phạt với những OA bị hạ mốc dưới mốc mặc định</p></td></tr><tr><td><p style="margin-left:0px;">2,000&nbsp;</p></td></tr><tr><td><p style="margin-left:0px;"><span style="background-color:hsl(60,75%,60%);"><strong>5,000&nbsp;</strong></span></p></td><td><p style="margin-left:0px;"><span style="background-color:hsl(60,75%,60%);"><strong>Điểm&nbsp;bắt&nbsp;đầu&nbsp;mặc&nbsp;định</strong></span><br><i>(OA mới được khởi tạo mặc định nằm ở mốc này)&nbsp;</i></p></td></tr><tr><td><p style="margin-left:0px;">10,000&nbsp;</p></td><td><p style="margin-left:0px;">&nbsp;-</p></td></tr><tr><td><p style="margin-left:0px;"><span style="background-color:hsl(90,75%,60%);"><strong>20,000</strong>&nbsp;</span></p></td><td colspan="1" rowspan="4"><p>Tag 1 - Giao dịch (Transaction)</p><p>Tag 2 - Chăm sóc khách hàng (Customer Care)</p><p><span style="background-color:hsl(90,75%,60%);"><strong>Tag 3 - Hậu mãi (Promotion)</strong></span></p></td><td><p style="margin-left:0px;"><span style="background-color:hsl(90,75%,60%);"><strong>Điểm&nbsp;Mở&nbsp;quyền&nbsp;gửi&nbsp;tin (Tag Hậu mãi)&nbsp;</strong></span></p></td></tr><tr><td><p style="margin-left:0px;">50,000&nbsp;</p></td><td><p style="margin-left:0px;">&nbsp;-</p></td></tr><tr><td><p style="margin-left:0px;">100,000&nbsp;</p></td><td><p style="margin-left:0px;">&nbsp;-</p></td></tr><tr><td><p style="margin-left:0px;">500,000&nbsp;</p></td><td><p style="margin-left:0px;">&nbsp;-</p></td></tr></tbody></table>
 </table>
@@ -49,9 +49,11 @@ Chất lượng gửi ZNS của OA sẽ được chia làm 3 mức độ, ứng 
 <div class="table" align="center">
    <table>
 <table><tbody><tr><td><p style="margin-left:0px;text-align:center;"><strong>Mức độ&nbsp;</strong></p></td><td><p style="margin-left:0px;text-align:center;"><strong>Tỷ lệ báo xấu của người nhận với ZNS đã gửi&nbsp;</strong></p></td><td><p style="margin-left:0px;text-align:center;"><strong>Quy định về quyền lợi&nbsp;</strong></p></td></tr><tr><td><p style="margin-left:0px;text-align:center;"><strong>Tốt</strong>&nbsp;</p></td><td><p style="margin-left:0px;text-align:center;">Nhỏ hơn hoặc bằng mức tiêu chuẩn của hệ thống.&nbsp;</p></td><td><p style="margin-left:0px;text-align:center;">Được xét duyệt tăng quyền lợi.&nbsp;</p></td></tr><tr><td><p style="margin-left:0px;text-align:center;"><strong>Trung bình</strong>&nbsp;</p></td><td><p style="margin-left:0px;text-align:center;">Cao hơn mức tiêu chuẩn nhưng vẫn nằm trong mức giới hạn cho phép.&nbsp;</p></td><td><p style="margin-left:0px;text-align:center;">Giữ nguyên quyền lợi cho đến khi chất lượng được cải thiện. Nếu duy trì thời gian dài ở mức này có thể dẫn đến việc giảm quyền lợi.&nbsp;</p></td></tr><tr><td><p style="margin-left:0px;text-align:center;"><strong>Kém</strong>&nbsp;</p></td><td><p style="margin-left:0px;text-align:center;">Vượt mức giới hạn cho phép.&nbsp;</p></td><td><p style="margin-left:0px;text-align:center;">Giảm quyền lợi. Ngoài ra, các mẫu ZNS ở mức kém sẽ bị vô hiệu hoá.&nbsp;</p></td></tr></tbody></table>
+</div>
 
 Khởi đầu, Zalo OA của doanh nghiệp sẽ chỉ được gửi các mẫu thông báo ZNS có cấp độ thấp. Sau đó, dựa theo chất lượng gửi ZNS, hệ thống sẽ tự động điều chỉnh cho phép OA gửi các loại nội dung ở cấp độ cao hơn: 
 
+<div class="table" align="center">
 <table><tbody><tr><td><p style="text-align:center;"><strong>Cơ chế tăng/giảm hạn mức</strong></p></td><td><p style="text-align:center;"><strong>Điều kiện</strong></p></td></tr><tr><td>Tăng 1 hạn mức</td><td><p style="text-align:center;">Chất lượng gửi ZNS trong 7 ngày gần nhất ở mức <strong>Tốt.</strong> &nbsp;(= <span style="color:#538135;"><strong>High)</strong></span></p><p style="text-align:center;"><strong>VÀ / AND</strong></p><p style="text-align:center;">Số lượng tin đã gửi thành công trong 7 ngày gần nhất <strong>= 2 x [Daily quota hiện tại của OA]</strong></p></td></tr><tr><td>Giảm 1 hạn mức</td><td>Chất lượng gửi ZNS trong 7 ngày gần nhất ở mức <strong>Kém</strong> (= <span style="color:#C00000;"><strong>Low)</strong></span></td></tr></tbody></table>
 </div>
 
@@ -74,11 +76,11 @@ Khởi đầu, Zalo OA của doanh nghiệp sẽ chỉ được gửi các mẫu
 
 Với mục đích giảm thiểu rủi ro ảnh hưởng đến trải nghiệm của user trong các trường hợp tỉ lệ báo xấu (report) của OA tăng cao đột ngột trong thời gian ngắn, hệ thống sẽ có cơ chế phạt (penalty) với các trường hợp này.
 
-_**Điều kiện:** **Khi \[Tổng số lượng report trong ngày\] > \[2% x Daily quota hiện tại của OA\]**_​
+***Điều kiện: Khi \[Tổng số lượng report trong ngày\] > \[2% x Daily quota hiện tại của OA\]***
 
-**Action:** **OA sẽ bị hạ 1 mức daily quota (diễn ra tối đa 1 lần/ngày)**​
+**Action: OA sẽ bị hạ 1 mức daily quota (diễn ra tối đa 1 lần/ngày)**
 
-**Chi tiết:**​
+**Chi tiết:**
 
 *   **Hoạt động song song với cơ chế tăng/giảm hạn mức daily quota (Cơ chế ở mục B.1).​**
 *   Không bị ảnh hưởng bởi thời gian chờ 7 ngày sau khi tăng/giảm hạn mức.​
