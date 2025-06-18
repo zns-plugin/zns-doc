@@ -18,29 +18,7 @@ Nhằm hỗ trợ khách hàng khai thác tối đa nội dung/mục đích và 
 
 ## 2. Danh sách các loại Nút thao tác CTA:
 
-Xem thêm tại [**Chính sách Dịch vụ ZNS**](https://zalo.cloud/terms).
-
-<div class="table" align="center">
-      <table border="1" cellspacing="0" cellpadding="6" style="border-collapse:collapse; font-family:Arial; font-size:12px;">
-  <thead style="background-color:#0A68FE; color:white; font-weight:bold;">
-    <tr>
-      <th>Nút thao tác</th>
-      <th>Đơn giá (VND)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>Đến OA doanh nghiệp</td><td align="right">0</td></tr>
-    <tr><td>Mini App doanh nghiệp</td><td align="right">0</td></tr>
-    <tr><td>Đến bài viết OA</td><td align="right">0</td></tr>
-    <tr><td>Website doanh nghiệp</td><td align="right">100</td></tr>
-    <tr><td>Gọi điện</td><td align="right">100</td></tr>
-    <tr><td>Tải ứng dụng</td><td align="right">500</td></tr>
-    <tr><td>Trang phân phối sản phẩm</td><td align="right">500</td></tr>
-    <tr><td>Website/Mini App khác</td><td align="right">400</td></tr>
-    <tr><td>Ứng dụng khác</td><td align="right">700</td></tr>
-  </tbody>
-</table>
-</div>
+Xem thêm tại [**BẢNG GIÁ ZNS**](https://zalo.cloud/zns/pricing).
 
 
 ## 3. Hướng dẫn thêm nút thao tác CTA vào mẫu tin ZNS:
