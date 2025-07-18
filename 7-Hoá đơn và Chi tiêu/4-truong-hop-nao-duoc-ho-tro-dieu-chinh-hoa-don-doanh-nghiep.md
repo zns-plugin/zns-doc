@@ -31,15 +31,17 @@ Zalo Cloud sẽ chỉ hỗ trợ làm biên bản điều chỉnh hoá đơn đ�
 
 [**Tải Biên bản điều chỉnh hóa đơn**](https://adtima.my.salesforce.com/sfc/p/2w000002llxF/a/A70000002YxQ/eV8W2RY0Kyr0NdGao0_hmnLJz7wawtpFdpAhEK.9EBw) (Link đính kèm file)
 
-**Bước 2:** Ký tên, đóng dấu và gửi 2 bản cứng (_kèm bản cứng hóa đơn sai thông tin_) về **địa chỉ**: VNG Campus, Z06 đường số 13, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, Tp.HCM. _**Người nhận: Hoàng Lưu Liên Thư**_ – ThuHLL
+**Bước 2:** Gửi đến email đến Kênh Chăm sóc khách hàng Zalo Cloud tại support@zalo.cloud hoặc support@zalo.solutions theo cú pháp:
+*   Tiêu đề email: [Tên doanh nghiệp] Thông báo điều chỉnh thông tin hóa đơn
+*   Nội dung email:
+    *   OA ID:
+    *   ZCA ID
 
 **Lưu ý:** 
 
-*   Khách hàng vui lòng gửi kèm **hóa đơn cũ, thông tin tên người nhận , số điện thoại và  địa chỉ** để nhận lại bản cứng biên bản điều chỉnh hóa đơn sau khi đã điều chỉnh hoàn tất.
+*   Khi gửi email khách hàng vui lòng đính kèm **Mẫu thông báo hóa đơn điện tử có sai sót đã điền thông tin + hóa đơn cũ cần điều chỉnh**
     
-*   Trong biên bản điều chỉnh, tại ô nội dung “Trước khi điều chỉnh” và “Sau khi điều chỉnh” → Chỉ điền tên Công ty hoặc địa chỉ sai cần và tên Công ty hoặc địa chỉ cần chỉnh sửa lại, không điền lại toàn bộ thông tin.
-    
-*   Đối với trường hợp điều chỉnh lại cả tên Công ty và địa chỉ, Quý khách vui lòng tạo thêm ô nội dung để điền thông tin.
+*   Khách hàng sẽ nhận được Thông báo hóa đơn điện tử có sai sót có chữ kí điện tử bởi Cơ quan Thuế và VNG sau khi cung cấp đầu đủ thông tin hợp lệ sau tối đa **30 ngày làm việc**
     
 <p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/2025/03/11/3762c20f165dd93d15234b9f2456601c.png" />
