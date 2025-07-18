@@ -29,7 +29,7 @@ Zalo Cloud sẽ chỉ hỗ trợ làm biên bản điều chỉnh hoá đơn đ�
 
 **Bước 1:** Tải mẫu **Biên bản điều chỉnh hóa đơn** và điền thông tin yêu cầu điều chỉnh trong biên bản.
 
-[**Tải Biên bản điều chỉnh hóa đơn**](https://adtima.my.salesforce.com/sfc/p/2w000002llxF/a/A70000002YxQ/eV8W2RY0Kyr0NdGao0_hmnLJz7wawtpFdpAhEK.9EBw) (Link đính kèm file)
+[**Tải Biên bản điều chỉnh hóa đơn**](https://adtima.my.salesforce.com/sfc/p/#2w000002llxF/a/A70000002YxQ/eV8W2RY0Kyr0NdGao0_hmnLJz7wawtpFdpAhEK.9EBw) (Link đính kèm file)
 
 **Bước 2:** Gửi đến email đến Kênh Chăm sóc khách hàng Zalo Cloud tại support@zalo.cloud hoặc support@zalo.solutions theo cú pháp:
 *   **Tiêu đề email**: [Tên doanh nghiệp] Thông báo điều chỉnh thông tin hóa đơn
