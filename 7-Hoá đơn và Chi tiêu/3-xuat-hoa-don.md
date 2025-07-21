@@ -35,18 +35,19 @@ _<p align="center">Giao diện màn hình yêu cầu điền các thông tin đ�
 
 _Lưu ý:_
 
-*   **Dự kiến từ ngày 19/07/2025, hệ thống Zalo Cloud Account sẽ tiến hành áp dụng xuất hóa đơn tự động cho tất cả khoản nạp thành công theo thông tin như sau:**
-    
-    <table class="ck-table-resized"><colgroup><col style="width:14.54%;"><col style="width:37.25%;"><col style="width:48.21%;"></colgroup><tbody><tr><td><strong>Xuất hóa đơn</strong></td><td><p style="text-align:center;"><strong>Thao tác</strong></p></td><td><p style="text-align:center;"><strong>Thông tin xuất hóa đơn</strong></p></td></tr><tr><td rowspan="3"><span style="background-color:#ffecb3;">Xuất hóa đơn tự động cho tất cả trường hợp</span></td><td><span style="background-color:#dcedc8;">Bấm chọn "Xuất hóa đơn" <strong><u>VÀ</u></strong> có điền cụm "HDDN" trong nội dung chuyển khoản/nạp tiền</span></td><td><span style="background-color:#dcedc8;">Lấy thông tin xuất hoá đơn được chọn tại phần Yêu cầu xuất hoá đơn trước khi nạp tiền thành công</span></td></tr><tr><td><span style="background-color:#bbdefb;">Bấm chọn "Xuất hóa đơn" <strong><u>nhưng không điền cụm</u></strong> &nbsp;"HDDN" trong nội dung chuyển khoản/nạp tiền</span></td><td rowspan="2"><span style="background-color:#bbdefb;">Lấy thông tin xuất hóa đơn theo </span><a target="_blank" rel="noopener noreferrer" href="https://account.zalo.cloud/setting/info"><span style="background-color:#bbdefb;">Thông tin tài khoản ZCA hiện tại</span></a></td></tr><tr><td><span style="background-color:#bbdefb;">Không chọn "Xuất hóa đơn"</span></td></tr></tbody></table>
-    
-*   **Vui lòng đảm bảo thông tin xuất hóa đơn và thông tin tài khoản chính xác trước khi tiến hành nạp tiền để hóa đơn được xuất đúng theo nhu cầu của quý khách.**
-*   _Cách cập nhật Thông tin tài khoản ZCA:_  
-    Truy cập và đăng nhập [**Zalo Cloud Account**](https://account.zalo.cloud/) cần sử dụng > Chọn [**"Thông tin tài khoản"**](https://account.zalo.cloud/setting/info) tại thanh menu bên trái > Chọn **"Chỉnh sửa"**  
-    **Kiểm tra và điều chỉnh thông tin nếu có** > Chọn **"Điều chỉnh thông tin"** để lưu lại.  
-     
-*   ![image.png](https://content.zalo.cloud/uploads/image_58ceba507f.png)
+- **Dự kiến từ ngày 19/07/2025, hệ thống Zalo Cloud Account sẽ tiến hành áp dụng xuất hóa đơn tự động cho tất cả khoản nạp thành công theo thông tin như sau:**
+
+  <table class="ck-table-resized"><colgroup><col style="width:14.54%;"><col style="width:37.25%;"><col style="width:48.21%;"></colgroup><tbody><tr><td><strong>Xuất hóa đơn</strong></td><td><p style="text-align:center;"><strong>Thao tác</strong></p></td><td><p style="text-align:center;"><strong>Thông tin xuất hóa đơn</strong></p></td></tr><tr><td rowspan="3"><span style="background-color:#ffecb3;">Xuất hóa đơn tự động cho tất cả trường hợp</span></td><td><span style="background-color:#dcedc8;">Bấm chọn "Xuất hóa đơn" <strong><u>VÀ</u></strong> có điền cụm "HDDN" trong nội dung chuyển khoản/nạp tiền</span></td><td><span style="background-color:#dcedc8;">Lấy thông tin xuất hoá đơn được chọn tại phần Yêu cầu xuất hoá đơn trước khi nạp tiền thành công</span></td></tr><tr><td><span style="background-color:#bbdefb;">Bấm chọn "Xuất hóa đơn" <strong><u>nhưng không điền cụm</u></strong> &nbsp;"HDDN" trong nội dung chuyển khoản/nạp tiền</span></td><td rowspan="2"><span style="background-color:#bbdefb;">Lấy thông tin xuất hóa đơn theo </span><a target="_blank" rel="noopener noreferrer" href="https://account.zalo.cloud/setting/info"><span style="background-color:#bbdefb;">Thông tin tài khoản ZCA hiện tại</span></a></td></tr><tr><td><span style="background-color:#bbdefb;">Không chọn "Xuất hóa đơn"</span></td></tr></tbody></table>
+
+- **Vui lòng đảm bảo thông tin xuất hóa đơn và thông tin tài khoản chính xác trước khi tiến hành nạp tiền để hóa đơn được xuất đúng theo nhu cầu của quý khách.**
+- _Cách cập nhật Thông tin tài khoản ZCA:_  
+  Truy cập và đăng nhập [**Zalo Cloud Account**](https://account.zalo.cloud/) cần sử dụng > Chọn [**"Thông tin tài khoản"**](https://account.zalo.cloud/setting/info) tại thanh menu bên trái > Chọn **"Chỉnh sửa"**  
+  **Kiểm tra và điều chỉnh thông tin nếu có** > Chọn **"Điều chỉnh thông tin"** để lưu lại.
+
+- ![image.png](https://content.zalo.cloud/uploads/image_58ceba507f.png)
 
 ## 2. Khách hàng vui lòng tham khảo với kế toán doanh nghiệp trước khi nạp tiền trực tuyến/chuyển khoản bằng tài khoản cá nhân.
+
 Tùy mỗi doanh nghiệp sẽ có quy định về việc sử dụng tài khoản cá nhân trong các giao dịch công việc riêng, **vui lòng tham vấn bộ phận kế toán của doanh nghiệp trước khi tiến hành nạp tiền bằng tài khoản cá nhân**.
 _Zalo Cloud không can thiệp hay bắt buộc về loại hình tài khoản (cá nhân hay công ty) cho các giao dịch nạp tiền._
 
@@ -59,7 +60,6 @@ _Zalo Cloud không can thiệp hay bắt buộc về loại hình tài khoản (
 **Zalo Cloud chỉ hỗ trợ điều chỉnh thông tin hóa đơn sau khi xuất với một số trường hợp.**
 
 Xem thêm tại [Trường hợp nào được hỗ trợ điều chỉnh hoá đơn doanh nghiệp?](https://zalo.cloud/zns/guidelines/truong-hop-nao-duoc-ho-tro-dieu-chinh-hoa-don-doanh-nghiep)
-
 
 ## 5. Hiện tại, Zalo Cloud chưa hỗ trợ hủy/điều chỉnh/xuất lại hóa đơn trong những trường hợp sau:
 
