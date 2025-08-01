@@ -75,9 +75,9 @@ Xem thêm tại [Trường hợp nào được hỗ trợ điều chỉnh hoá �
 
 ## 7. Tra cứu hoá đơn_:
 
-- Hoá đơn sẽ được gửi về địa chỉ email nhận hoá đơn (trong trường hợp người nhận chọn nhận hoá đơn khi nạp tiền) hoặc email ZCA (khi người nhận chọn không nhận hoá đơn khi nạp tiền)
+- Hoá đơn sẽ được gửi về địa chỉ **email nhận hoá đơn** (trong trường hợp người nhận chọn nhận hoá đơn khi nạp tiền) hoặc **email tài khoản ZCA** (trong trường hợp người nhận chọn không nhận hoá đơn khi nạp tiền)
 - Quý khách có thể tra cứu hoá đơn trực tiếp trên ZCA tại mục **"Quản lý hoá đơn"**
-Xem thêm tại bài viết:  [**Tra cứu hóa đơn nạp tiền dễ dàng hơn bao giờ hết cùng ZCA **](https://zalo.solutions/blog/tra-cuu-hoa-don-nap-tien-de-dang-hon-bao-gio-het-cung-zca/it5rfsbhdopyqprwa9n9l20y)
+Xem thêm tại bài viết:  [**Tra cứu hóa đơn nạp tiền dễ dàng hơn bao giờ hết cùng ZCA**](https://zalo.solutions/blog/tra-cuu-hoa-don-nap-tien-de-dang-hon-bao-gio-het-cung-zca/it5rfsbhdopyqprwa9n9l20y)
 - ![image.png](https://content.zalo.cloud/uploads/image_1e731713ee.png)
 
 ## CÁC LƯU Ý CHUNG:
