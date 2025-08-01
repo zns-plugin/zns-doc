@@ -73,6 +73,13 @@ Xem thêm tại [Trường hợp nào được hỗ trợ điều chỉnh hoá �
 
 - Theo Nghị định 70/2025/NĐ-CP, tất cả các giao dịch nạp tiền ZCA sẽ được xuất hoá đơn. Nếu khách hàng quên chọn Nhận hoá đơn/ quên ghi "HDDN" tại nội dung chuyển khoản, Zalo Cloud sẽ xuất hoá đơn theo thông tin ZCA, (xem tại phần 1). Chi tiết xem tại bài viết: [**Thông báo: Về việc xuất hóa đơn GTGT theo Nghị định 70/2025/NĐ-CP**](https://zalo.cloud/news/thong-bao-ve-viec-xuat-hoa-don-gtgt-theo-nghi-dinh-702025ndcp-/jyp1dyqrqzphnvlqcafugni9)
 
+## 7. Tra cứu hoá đơn_:
+
+- Hoá đơn sẽ được gửi về địa chỉ email nhận hoá đơn (trong trường hợp người nhận chọn nhận hoá đơn khi nạp tiền) hoặc email ZCA (khi người nhận chọn không nhận hoá đơn khi nạp tiền)
+- Quý khách có thể tra cứu hoá đơn trực tiếp trên ZCA tại mục **"Quản lý hoá đơn"**
+Xem thêm tại bài viết:  [**Tra cứu hóa đơn nạp tiền dễ dàng hơn bao giờ hết cùng ZCA **](https://zalo.solutions/blog/tra-cuu-hoa-don-nap-tien-de-dang-hon-bao-gio-het-cung-zca/it5rfsbhdopyqprwa9n9l20y)
+- ![image.png](https://content.zalo.cloud/uploads/image_1e731713ee.png)
+
 ## CÁC LƯU Ý CHUNG:
 
 - Đối với khách hàng có nhu cầu xuất hóa đơn, vui lòng chọn mục **"Xuất hóa đơn"**, điền đầy đủ thông tin xuất hóa đơn trước khi tiến hành nạp tiền
