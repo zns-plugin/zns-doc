@@ -84,6 +84,6 @@ Xem thêm tại bài viết:  [**Tra cứu hóa đơn nạp tiền dễ dàng h�
 
 - Đối với khách hàng có nhu cầu xuất hóa đơn, vui lòng chọn mục **"Xuất hóa đơn"**, điền đầy đủ thông tin xuất hóa đơn trước khi tiến hành nạp tiền
 - Zalo Cloud sẽ **KHÔNG chịu trách nhiệm** cho bất kỳ mất mát nào có thể xảy ra đối với trường hợp Khách hàng chuyển khoản sai **Số tài khoản thụ hưởng và Tên tài khoản thụ hưởng** Zalo Cloud cung cấp.
-- **Hóa đơn sẽ được xuất trong vòng ngày**, Quý khách vui lòng kiểm tra email nhận hoá đơn..
+- **Hóa đơn sẽ được xuất trong ngày làm việc kế tiếp**, Quý khách vui lòng kiểm tra email nhận hoá đơn..
 
 _Nếu có bất kì thắc mắc nào, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
