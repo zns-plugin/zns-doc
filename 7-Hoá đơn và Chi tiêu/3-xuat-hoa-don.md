@@ -10,7 +10,7 @@ Zalo Cloud hỗ trợ khách hàng xuất hóa đơn cho số tiền nạp vào 
 
 ## 1. Đối với tất cả các hình thức nạp tiền, quý khách hàng cần lưu ý về thông tin xuất hóa đơn: [**Nạp tiền trực tuyến**](https://zalo.cloud/blog/huong-dan-nap-tien-vao-zalo-cloud-account-bang-phuong-thuc-nap-truc-tuyen/8bujyrzbeg498j8jw4)**,** [**Chuyển khoản nhanh**](https://zalo.cloud/blog/huong-dan-nap-tien-vao-zca-bang-phuong-thuc-chuyen-khoan-nhanh/wkugnnbdeezmjpnz4w)
 
-- **Dự kiến từ ngày 19/07/2025, hệ thống ZCA sẽ tiến hành áp dụng xuất hóa đơn tự động cho tất cả khoản nạp thành công theo thông tin như sau:**
+**Từ ngày 19/07/2025, hệ thống ZCA sẽ tiến hành áp dụng xuất hóa đơn tự động cho tất cả khoản nạp thành công theo thông tin như sau:**
 
 <table class="ck-table-resized"><colgroup><col style="width:18%;"><col style="width:33.68%;"><col style="width:48.32%;"></colgroup><tbody><tr><td><strong>Xuất hóa đơn</strong></td><td><p style="text-align:center;"><strong>Thao tác</strong></p></td><td><p style="text-align:center;"><strong>Thông tin xuất hóa đơn</strong></p></td></tr><tr><td rowspan="3">Xuất hóa đơn tự động cho tất cả trường hợp</td><td>Bấm chọn "Xuất hóa đơn" <strong><u>VÀ</u></strong> có điền cụm "HDDN" trong nội dung chuyển khoản/nạp tiền</td><td>Lấy thông tin xuất hoá đơn được chọn tại phần Yêu cầu xuất hoá đơn trước khi nạp tiền thành công</td></tr><tr><td>Bấm chọn "Xuất hóa đơn" <strong><u>nhưng không điền cụm</u></strong> &nbsp;"HDDN" trong nội dung chuyển khoản/nạp tiền</td><td rowspan="2">Lấy thông tin xuất hóa đơn theo <a target="_blank" rel="noopener noreferrer" href="https://account.zalo.cloud/setting/info">Thông tin tài khoản ZCA hiện tại</a></td></tr><tr><td>Không chọn "Xuất hóa đơn"</td></tr></tbody></table>
 
