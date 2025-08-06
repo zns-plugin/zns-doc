@@ -20,13 +20,6 @@ Khách hàng luôn cần chú ý kiểm tra và nhập chính xác các thông t
 - Họ tên
 - Email nhận hóa đơn
 
-**Nếu Khách hàng có nhu cầu nhận hóa đơn cho khoản tiền nạp, Khách hàng cần phải đồng thời làm 2 bước sau:**
-
-- **Chọn "Xuất hoá đơn" và nhập đúng Nội dung chuyển khoản là “HDDN” (Hóa đơn doanh nghiệp).**
-- **Nhập chính xác Nội dung chuyển khoản là “HDDN” (Hóa đơn doanh nghiệp)**
-
-**Nếu thiếu một trong hai bước trên, hệ thống Zalo Cloud sẽ ghi nhận Khách hàng không có nhu cầu nhận hóa đơn cho giao dịch nạp tiền này.**
-
 <p style={{ textAlign: "center" }}>
   <img src="https://stc-oa.zdn.vn/uploads/5630cdb5b02cf9dc09d97fe724f1a47b.jpg" />
 </p>
@@ -69,14 +62,10 @@ Xem thêm tại [Trường hợp nào được hỗ trợ điều chỉnh hoá �
 - Khách hàng thay đổi thông tin xuất hóa đơn mà không có thông báo với bộ phận Chăm sóc khách hàng Zalo Cloud qua email: [support@zalo.cloud](mailto:support@zalo.cloud)
 - Zalo Cloud chỉ cho phép điều chỉnh với nội dung địa chỉ xuất hóa đơn và tên doanh nghiệp (không thay đổi pháp nhân khác). Nội dung còn lại là nội dung mặc định (tên hàng hóa/sản phẩm, đơn vị tính, số lượng,...) và Zalo Cloud không cho phép thay đổi nội dung.
 
-## 6. Nếu khách hàng quên chọn Nhận hóa đơn _**(Nạp tiền trực tuyến hoặc chuyển khoản nhanh)**_:
+## 6. Tra cứu hoá đơn_:
 
-- Theo Nghị định 70/2025/NĐ-CP, tất cả các giao dịch nạp tiền ZCA sẽ được xuất hoá đơn. Nếu khách hàng quên chọn Nhận hoá đơn/ quên ghi "HDDN" tại nội dung chuyển khoản, Zalo Cloud sẽ xuất hoá đơn theo thông tin ZCA, (xem tại phần 1). Chi tiết xem tại bài viết: [**Thông báo: Về việc xuất hóa đơn GTGT theo Nghị định 70/2025/NĐ-CP**](https://zalo.cloud/news/thong-bao-ve-viec-xuat-hoa-don-gtgt-theo-nghi-dinh-702025ndcp-/jyp1dyqrqzphnvlqcafugni9)
-
-## 7. Tra cứu hoá đơn_:
-
-- Hoá đơn sẽ được gửi về địa chỉ **email nhận hoá đơn** (trong trường hợp người nhận chọn nhận hoá đơn khi nạp tiền) hoặc **email tài khoản ZCA** (trong trường hợp người nhận chọn không nhận hoá đơn khi nạp tiền)
-- Quý khách có thể tra cứu hoá đơn trực tiếp trên ZCA tại mục **"Quản lý hoá đơn"**
+- Hoá đơn sẽ được gửi về địa chỉ **email nhận hoá đơn** (trong trường hợp người nhận chọn nhận hoá đơn khi nạp tiền) hoặc **email tài khoản ZCA** (trong trường hợp người nhận chọn không nhận hoá đơn khi nạp tiền) vào ngày làm việc kế tiếp kể từ ngày giao dịch được ghi nhận thành công
+- Quý khách có thể tra cứu hoá đơn trực tiếp trên ZCA tại mục **"Quản lý hoá đơn"** vào ngày làm việc kế sau đó
 Xem thêm tại bài viết:  [**Tra cứu hóa đơn nạp tiền dễ dàng hơn bao giờ hết cùng ZCA**](https://zalo.solutions/blog/tra-cuu-hoa-don-nap-tien-de-dang-hon-bao-gio-het-cung-zca/it5rfsbhdopyqprwa9n9l20y)
 - ![image.png](https://content.zalo.cloud/uploads/image_1e731713ee.png)
 
@@ -84,6 +73,5 @@ Xem thêm tại bài viết:  [**Tra cứu hóa đơn nạp tiền dễ dàng h�
 
 - Đối với khách hàng có nhu cầu xuất hóa đơn, vui lòng chọn mục **"Xuất hóa đơn"**, điền đầy đủ thông tin xuất hóa đơn trước khi tiến hành nạp tiền
 - Zalo Cloud sẽ **KHÔNG chịu trách nhiệm** cho bất kỳ mất mát nào có thể xảy ra đối với trường hợp Khách hàng chuyển khoản sai **Số tài khoản thụ hưởng và Tên tài khoản thụ hưởng** Zalo Cloud cung cấp.
-- **Hóa đơn sẽ được xuất trong ngày làm việc kế tiếp**, Quý khách vui lòng kiểm tra email nhận hoá đơn..
 
 _Nếu có bất kì thắc mắc nào, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
