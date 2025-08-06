@@ -23,9 +23,8 @@ _Lưu ý:_
   - Họ tên
   - Email nhận hóa đơn 
     <p style={{ textAlign: "center" }}>
-  <img src="https://content.zalo.cloud/uploads/68747470733a2f2f7374632d6f612e7a646e2e766e2f75706c6f6164732f35363330636462356230326366396463303964393766653732346631613437622e6a7067_edffeadd82.jpg" />
-</p>
-_<p align="center">Giao diện màn hình yêu cầu điền các thông tin để xuất hóa đơn</p>_
+
+- ![image.png](https://content.zalo.cloud/uploads/68747470733a2f2f7374632d6f612e7a646e2e766e2f75706c6f6164732f35363330636462356230326366396463303964393766653732346631613437622e6a7067_edffeadd82.jpg)
 - _Cách cập nhật Thông tin tài khoản ZCA:_  
   Truy cập và đăng nhập [**Zalo Cloud Account**](https://account.zalo.cloud/) cần sử dụng > Chọn [**"Thông tin tài khoản"**](https://account.zalo.cloud/setting/info) tại thanh menu bên trái > Chọn **"Chỉnh sửa"**  
   **Kiểm tra và điều chỉnh thông tin nếu có** > Chọn **"Điều chỉnh thông tin"** để lưu lại.
