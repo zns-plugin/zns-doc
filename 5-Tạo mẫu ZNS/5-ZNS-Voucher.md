@@ -8,7 +8,7 @@ slug: /cap-nhat-moi-zns-voucher-template-ra-mat-tren-zca
 
 Với tinh thần luôn luôn lắng nghe và thấu hiểu nhu cầu của khách hàng muốn trải nghiệm mua sắm thuận tiện và dễ dàng, đội ngũ nghiên cứu và phát triển sản phẩm Zalo Notification Service (ZNS) chính thức ra mắt mẫu ZNS dạng Voucher như một giải pháp toàn diện, giúp khách hàng dễ dàng nhận biết và sử dụng ưu đãi một cách thông minh.
 
-**_<p align ="center">Dự kiến ra mắt tại Zalo Cloud Account (ZCA) từ ngày 08/08/2024.</p>_**
+**_<p align ="center">Ra mắt tại ZCA từ ngày 08/08/2024.</p>_**
 
 ## 1. ZNS Voucher Template là gì?
 
@@ -78,13 +78,13 @@ _<p align="center">Hình ảnh chỉ có tính chất minh họa giao diện</p>
 
 ## 5. Cách đăng ký mẫu thông báo ZNS Voucher?
 
-**Dự kiến ra mắt tại Zalo Cloud Account (ZCA) từ ngày 08/08/2024**
+**Ra mắt tại ZCA từ ngày 08/08/2024**
 
 Mẫu template này áp dụng các **Quy định chung khi kiểm duyệt mẫu ZNS**, quý khách có thể xem thêm [**tại đây**](https://zalo.cloud/news/quy-dinh-chung-khi-kiem-duyet-mau-tin-zns/baujzpyvjjrz7776m).
 
 **Hướng dẫn đăng ký mẫu ZNS Yêu cầu thanh toán:**
 
-**Bước 1:** Tại [Zalo Cloud Account (ZCA)](https://account.zalo.cloud/) > truy cập [Tạo mẫu ZNS](https://account.zalo.cloud/tool/zns/createTemplate) > Chọn **ZNS voucher**
+**Bước 1:** Tại [Tài khoản ZCA](https://account.zalo.cloud/) > truy cập [Tạo mẫu ZNS](https://account.zalo.cloud/tool/zns/createTemplate) > Chọn **ZNS voucher**
 
 ![](https://stc-oa.zdn.vn/uploads/65258d42ad7117759ddb5921fe5e180c.png)
 
@@ -109,4 +109,4 @@ _Xem thêm:_ [_Hướng dẫn các quy định xét duyệt Template ZNS chứa 
 
 _Chi tiết quy định xem tại_ [_Quy định chung khi kiểm duyệt mẫu ZNS_](https://zalo.cloud/news/quy-dinh-chung-khi-kiem-duyet-mau-tin-zns/baujzpyvjjrz7776m) _(Mục 1: Yêu cầu tổng quan > Thiết lập)_
 
-_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của Zalo Cloud qua email: support@zalo.cloud. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
+_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của Zalo Business Solutions qua email: support@zalo.solutions. Đội ngũ CSKH Zalo Business Solutions sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
