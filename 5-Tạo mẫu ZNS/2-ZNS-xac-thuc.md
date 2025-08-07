@@ -18,7 +18,7 @@ ZNS Xác thực là mã xác thực một lần được gửi đến người d
 
 ## 2. Cấu trúc của một mẫu tin ZNS Xác thực:
 
-Doanh nghiệp sử dụng mẫu ZNS Xác thực mặc định trên tài khoản Zalo Cloud Account và cấu trúc mặc định của 1 mẫu tin ZNS Xác thực bao gồm:
+Doanh nghiệp sử dụng mẫu ZNS Xác thực mặc định trên tài khoản ZCA và cấu trúc mặc định của 1 mẫu tin ZNS Xác thực bao gồm:
 
 - Logo OA
 - Thông tin **“Mã xác thực của bạn là &lt;otp&gt;”**
@@ -193,8 +193,8 @@ _**Bước 4:**_ Tại trang **“Khai báo nội dung”**, chọn loại ZNS *
 
 ![](https://stc-oa.zdn.vn/uploads/3436683c88056aabccb842978f11d2a8.png)
 
-_**Bước 5:**_ Nhập nội dung truyền vào tham số, tick vào mục **“đồng ý với Điều khoản và Chính sách sử dụng của Zalo Cloud”** rồi nhấn **“Hoàn thành”**.
+_**Bước 5:**_ Nhập nội dung truyền vào tham số, tick vào mục **“đồng ý với Điều khoản và Chính sách sử dụng của Zalo Business Solutions”** rồi nhấn **“Hoàn thành”**.
 
 ![](https://stc-oa.zdn.vn/uploads/da993decbb75dbdc27f768d08ee12218.png)
 
-_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
+_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Business Solutions qua email:_ [_support@zalo.solutions_](mailto:support@zalo.solutions)_. Đội ngũ CSKH Zalo Business Solutions sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
