@@ -366,3 +366,5 @@ BIN viết tắt cho Bank Identification Number - Mã định danh ngân hàng t
 </div>
 
 _Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của Zalo Business Solutions qua email: support@zalo.solutions. Đội ngũ CSKH Zalo Business Solutions sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
+
+_**Lưu ý:**_ _Từ 06/08/2025,_ _**Zalo Cloud c**__hính thức đổi tên thành_ _**Zalo Business Solutions.**_ _Việc ra mắt thương hiệu Zalo Business Solutions (ZBS) là sự thay đổi về mặt nhận diện thương hiệu, không làm thay đổi về mặt pháp lý đối với các hoạt động, giao dịch và cam kết đã có trước đây dưới tên gọi Zalo Cloud._
