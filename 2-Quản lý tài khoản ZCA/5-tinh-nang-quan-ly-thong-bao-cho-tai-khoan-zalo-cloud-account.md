@@ -1,12 +1,12 @@
 ---
 id: tinh-nang-quan-ly-thong-bao-cho-tai-khoan-zalo-cloud-account
-title: Tính Năng Quản Lý Thông Báo Cho Tài Khoản Zalo Cloud Account
+title: Tính Năng Quản Lý Thông Báo Cho Tài Khoản ZCA
 slug: /tinh-nang-quan-ly-thong-bao-cho-tai-khoan-zalo-cloud-account
 ---
 
-# <p align="center">Tính năng Quản lý thông báo cho tài khoản Zalo Cloud Account</p>
+# <p align="center">Tính năng Quản lý thông báo cho tài khoản ZCA</p>
 
-Với tinh thần luôn luôn lắng nghe và thấu hiểu khách hàng, đội ngũ nghiên cứu và phát triển sản phẩm Zalo Cloud chính thức ra mắt tính năng mới, cho phép Quản trị viên của Zalo Cloud Account có thể quản lý các hạng mục thông báo về dịch vụ. Đây là một tính năng hữu ích và tiện lợi cho Quý đối tác trong quá trình vận hành và sử dụng dịch vụ của Zalo Cloud. 
+Với tinh thần luôn luôn lắng nghe và thấu hiểu khách hàng, đội ngũ nghiên cứu và phát triển sản phẩm Zalo Business Solutions chính thức ra mắt tính năng mới, cho phép Quản trị viên của Zalo Cloud Account có thể quản lý các hạng mục thông báo về dịch vụ. Đây là một tính năng hữu ích và tiện lợi cho Quý đối tác trong quá trình vận hành và sử dụng dịch vụ của Zalo Business Solutions. 
 
 ## 1. Phân loại các hạn mục thông báo
 
@@ -30,9 +30,9 @@ _<p align="center">Mẫu tin thông báo ZNS - Loại thông báo: Thông báo v
 
 ### b. Quản lý việc nhận thông báo 
 
-Để đáp ứng nhu cầu riêng biệt của các Doanh nghiệp, Zalo Cloud cho phép người dùng tự điều chỉnh việc nhận từng loại thông báo theo các hạng mục
+Để đáp ứng nhu cầu riêng biệt của các Doanh nghiệp, Zalo Business Solutions cho phép người dùng tự điều chỉnh việc nhận từng loại thông báo theo các hạng mục
 
-Sau khi bật thông báo, user sẽ nhận tin ZNS để có thể đưa ra hướng xử lý phù hợp và nhanh nhất để tối ưu vận hành khi sử dụng dịch vụ của Zalo Cloud.
+Sau khi bật thông báo, user sẽ nhận tin ZNS để có thể đưa ra hướng xử lý phù hợp và nhanh nhất để tối ưu vận hành khi sử dụng dịch vụ của Zalo Business Solutions.
 
 <p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/b0fe8f329326382b129c970ddb1d3713.png" />
@@ -46,7 +46,7 @@ _<p align="center">Giao diện Quản lý thông báo (Tài khoản trả sau)</
 
 _<p align="center">Giao diện Quản lý thông báo (Tài khoản trả trước)</p>_
 
-**Cách điều chỉnh: Truy cập** [**Zalo Cloud Account (ZCA)**](https://account.zalo.cloud/) → **Cài đặt** → [**Quản lý thông báo**](https://account.zalo.cloud/setting/notification)
+**Cách điều chỉnh: Truy cập** [**ZCA**](https://account.zalo.cloud/) → **Cài đặt** → [**Quản lý thông báo**](https://account.zalo.cloud/setting/notification)
 
 Tại đây **Quản trị viên và Quản trị viên cấp cao** của tài khoản Zalo Cloud Account có thể chỉnh sửa cài đặt thông báo:
 
@@ -61,4 +61,4 @@ _(\*) Với loại Thông báo số dư tài khoản (Tài khoản Trả trướ
 <table><tbody><tr><td><p style="margin-left:0px;text-align:center;"><strong>Thông báo số dư tài khoản&nbsp;</strong>&nbsp;</p><p style="margin-left:0px;text-align:center;"><strong>(Tài khoản Trả trước)</strong>&nbsp;</p></td><td><p style="margin-left:0px;text-align:center;"><strong>Thông báo hạn mức tài khoản&nbsp;</strong>&nbsp;</p><p style="margin-left:0px;text-align:center;"><strong>(Tài khoản Trả sau)</strong>&nbsp;</p></td></tr><tr><td><p style="margin-left:0px;"><img class="image_resized" style="width:331px;" src="https://stc-oa.zdn.vn/uploads/6cda5bac7f16b51273bc6281db943a0f.png">&nbsp;</p></td><td><p style="margin-left:0px;"><img class="image_resized" style="width:333px;" src="https://stc-oa.zdn.vn/uploads/cffe4bd6c72753fc9fe05720b705e0f8.png">&nbsp;</p></td></tr><tr><td><p style="margin-left:0px;"><img class="image_resized" style="width:330px;" src="https://stc-oa.zdn.vn/uploads/52a9535f5b5e70f611b4565dedab0f9b.png">&nbsp;</p></td><td><p style="margin-left:0px;"><img class="image_resized" style="width:338px;" src="https://stc-oa.zdn.vn/uploads/32e9c359ca499507e6365d5e7650edf4.png">&nbsp;</p></td></tr></tbody></table>
 </div>
 
-_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
+_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của Zalo Business Solutions qua email:_ [_support@zalo.solutions_](mailto:support@zalo.solutions)_. Đội ngũ CSKH Zalo Business Solutions sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
