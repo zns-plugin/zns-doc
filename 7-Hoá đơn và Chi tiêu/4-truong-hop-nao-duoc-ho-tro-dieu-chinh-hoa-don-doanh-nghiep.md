@@ -23,7 +23,7 @@ Hiện tại, Zalo Business Solutions **CHƯA HỖ TRỢ Điều chỉnh/Xuất 
 *   Khách hàng thay đổi thông tin pháp nhân (doanh nghiệp) thành doanh nghiệp khác, hoặc chuyển thông tin pháp nhân (doanh nghiệp) trên hóa đơn sang thông tin pháp nhân chi nhánh thuộc doanh nghiệp;
 *   Hóa đơn cá nhân muốn đổi thành hóa đơn doanh nghiệp.
 
-**Nếu hóa đơn sai mã số thuế, thay đổi thông tin pháp nhân và các nội dung mặc định khác (tên hàng hóa/sản phẩm, đơn vị tính, số lượng,...) thì Zalo Cloud sẽ không hỗ trợ làm biên bản điều chỉnh trong bất kỳ trường hợp nào.**
+**Nếu hóa đơn sai mã số thuế, thay đổi thông tin pháp nhân và các nội dung mặc định khác (tên hàng hóa/sản phẩm, đơn vị tính, số lượng,...) thì Zalo Business Solutions sẽ không hỗ trợ làm biên bản điều chỉnh trong bất kỳ trường hợp nào.**
 
 Zalo Business Solutions sẽ chỉ hỗ trợ làm biên bản điều chỉnh hoá đơn đối với trường hợp thông tin trên hoá đơn sai tên công ty (Chỉ áp dụng loại hình hóa đơn doanh nghiệp), hoặc địa chỉ xuất hóa đơn,  Quý khách vui lòng thực hiện các bước sau:
 
