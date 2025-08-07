@@ -6,7 +6,7 @@ slug: /phan-quyen-quan-li-ZCA
 
 # <p align="center">Phân quyền Quản lý thành viên trên tài khoản ZCA</p>
 
-Zalo Cloud Account (ZCA) là tài khoản quản lý số dư để sử dụng các tính năng tính phí của các tài khoản Zalo Official Account - Doanh Nghiệp (OA) và dịch vụ Zalo Notification Service (ZNS). Lưu ý: Mỗi số điện thoại chỉ được làm Quản trị viên cấp cao của tối đa 1 tài khoản ZCA.
+ZCA là tài khoản quản lý số dư để sử dụng các tính năng tính phí của các tài khoản Zalo Official Account - Doanh Nghiệp (OA) và dịch vụ Zalo Notification Service (ZNS). Lưu ý: Mỗi số điện thoại chỉ được làm Quản trị viên cấp cao của tối đa 1 tài khoản ZCA.
 
 ## 1. Phân quyền thành viên trên tài khoản ZCA
 
@@ -25,7 +25,7 @@ Trong trường hợp Quý khách cần thay đổi **"Quản trị viên cấp 
 
 Quý khách có thể kiểm tra Danh sách thành viên hiện tại trên tài khoản ZCA theo hướng dẫn chi tiết như sau:
 
-**Bước 1:** Truy cập vào trang tài khoản [**Zalo Cloud Account**](https://account.zalo.cloud/spending/overview)
+**Bước 1:** Truy cập vào trang tài khoản [**ZCA**](https://account.zalo.cloud/spending/overview)
 
 **Bước 2:** Chọn mục **“Quản lý thành viên”**
 
@@ -57,4 +57,4 @@ Nếu Quý khách muốn _**xoá thành viên**_ khỏi tài khoản ZCA, tại 
   <img src="https://stc-oa.zdn.vn/uploads/9ef00ab2b87152f3d5290ea3e2edebb9.png" />
 </p>
 
-_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
+_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Business Solutions qua email:_ [_support@zalo.solutions_](mailto:support@zalo.solutions)_. Đội ngũ CSKH Zalo Business Solutions sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
