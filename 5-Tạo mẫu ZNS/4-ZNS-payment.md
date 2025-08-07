@@ -71,7 +71,7 @@ Mẫu template này áp dụng các **Quy định chung khi kiểm duyệt mẫu
 
 **Hướng dẫn đăng ký mẫu ZNS Yêu cầu thanh toán:**
 
-**Bước 1:** Tại [Zalo Cloud Account (ZCA)](https://account.zalo.cloud/) → Truy cập [Tạo mẫu ZNS](https://account.zalo.cloud/tool/zns/createTemplate) → Chọn **ZNS yêu cầu thanh toán**
+**Bước 1:** Tại [Tài khoản ZCA](https://account.zalo.cloud/) → Truy cập [Tạo mẫu ZNS](https://account.zalo.cloud/tool/zns/createTemplate) → Chọn **ZNS yêu cầu thanh toán**
 
 ![](https://stc-oa.zdn.vn/uploads/89dc23844aab407eb8edb1c0524cdda4.png)
 
