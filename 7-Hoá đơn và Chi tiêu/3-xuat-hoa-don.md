@@ -6,7 +6,7 @@ slug: /nhung-luu-y-quan-trong-ve-viec-xuat-hoa-don-tren-zalo-cloud
 
 # <p align="center">Những lưu ý quan trọng về việc xuất hoá đơn trên Zalo Cloud</p>
 
-Zalo Cloud hỗ trợ khách hàng xuất hóa đơn cho số tiền nạp vào tài khoản ZCA (Zalo Cloud Account). Khách hàng vui lòng xem kỹ các quy định xuất hóa đơn của Zalo Cloud như theo thông tin bên dưới.
+Zalo Business Solutions hỗ trợ khách hàng xuất hóa đơn cho số tiền nạp vào tài khoản ZCA. Khách hàng vui lòng xem kỹ các quy định xuất hóa đơn như theo thông tin bên dưới.
 
 ## 1. Đối với tất cả các hình thức nạp tiền, quý khách hàng cần lưu ý về thông tin xuất hóa đơn: [**Nạp tiền trực tuyến**](https://zalo.cloud/blog/huong-dan-nap-tien-vao-zalo-cloud-account-bang-phuong-thuc-nap-truc-tuyen/8bujyrzbeg498j8jw4)**,** [**Chuyển khoản nhanh**](https://zalo.cloud/blog/huong-dan-nap-tien-vao-zca-bang-phuong-thuc-chuyen-khoan-nhanh/wkugnnbdeezmjpnz4w)
 
@@ -31,7 +31,7 @@ Zalo Cloud hỗ trợ khách hàng xuất hóa đơn cho số tiền nạp vào 
 ## 2. Khách hàng vui lòng tham khảo với kế toán doanh nghiệp trước khi nạp tiền trực tuyến/chuyển khoản bằng tài khoản cá nhân.
 
 Tùy mỗi doanh nghiệp sẽ có quy định về việc sử dụng tài khoản cá nhân trong các giao dịch công việc riêng, **vui lòng tham vấn bộ phận kế toán của doanh nghiệp trước khi tiến hành nạp tiền bằng tài khoản cá nhân**.
-_Zalo Cloud không can thiệp hay bắt buộc về loại hình tài khoản (cá nhân hay công ty) cho các giao dịch nạp tiền._
+_Zalo Business Solutions không can thiệp hay bắt buộc về loại hình tài khoản (cá nhân hay công ty) cho các giao dịch nạp tiền._
 
 ## 3. Số tiền trên hoá đơn sẽ được xuất tương ứng với mỗi giao dịch nạp tiền thành công
 
@@ -39,17 +39,17 @@ _Zalo Cloud không can thiệp hay bắt buộc về loại hình tài khoản (
 
 ## 4. Về việc hỗ trợ điều chỉnh thông tin hóa đơn sau khi xuất
 
-**Zalo Cloud chỉ hỗ trợ điều chỉnh thông tin hóa đơn sau khi xuất với một số trường hợp.**
+**Zalo Business Solutions chỉ hỗ trợ điều chỉnh thông tin hóa đơn sau khi xuất với một số trường hợp.**
 
 Xem thêm tại [Trường hợp nào được hỗ trợ điều chỉnh hoá đơn doanh nghiệp?](https://zalo.cloud/zns/guidelines/truong-hop-nao-duoc-ho-tro-dieu-chinh-hoa-don-doanh-nghiep)
 
-## 5. Hiện tại, Zalo Cloud chưa hỗ trợ hủy/điều chỉnh/xuất lại hóa đơn trong những trường hợp sau:
+## 5. Hiện tại, Zalo Business Solutions chưa hỗ trợ hủy/điều chỉnh/xuất lại hóa đơn trong những trường hợp sau:
 
 - Khách hàng cung cấp sai thông tin sai mã số thuế
 - Khách hàng thay đổi thông tin pháp nhân (doanh nghiệp) thành doanh nghiệp khác, hoặc chuyển hóa đơn sang thông tin sang chi nhánh
 - Hóa đơn cá nhân muốn đổi thành hóa đơn doanh nghiệp
 - Khách hàng thay đổi thông tin xuất hóa đơn mà không có thông báo với bộ phận Chăm sóc khách hàng Zalo Cloud qua email: [support@zalo.cloud](mailto:support@zalo.cloud)
-- Zalo Cloud chỉ cho phép điều chỉnh với nội dung địa chỉ xuất hóa đơn và tên doanh nghiệp (không thay đổi pháp nhân khác). Nội dung còn lại là nội dung mặc định (tên hàng hóa/sản phẩm, đơn vị tính, số lượng,...) và Zalo Cloud không cho phép thay đổi nội dung.
+- Zalo Business Solutions chỉ cho phép điều chỉnh với nội dung địa chỉ xuất hóa đơn và tên doanh nghiệp (không thay đổi pháp nhân khác). Nội dung còn lại là nội dung mặc định (tên hàng hóa/sản phẩm, đơn vị tính, số lượng,...) và không cho phép thay đổi nội dung.
 
 ## 6. Tra cứu hoá đơn_:
 
@@ -61,6 +61,6 @@ Xem thêm tại bài viết:  [**Tra cứu hóa đơn nạp tiền dễ dàng h�
 ## CÁC LƯU Ý CHUNG:
 
 - Đối với khách hàng có nhu cầu xuất hóa đơn, vui lòng chọn mục **"Xuất hóa đơn"**, điền đầy đủ thông tin xuất hóa đơn trước khi tiến hành nạp tiền
-- Zalo Cloud sẽ **KHÔNG chịu trách nhiệm** cho bất kỳ mất mát nào có thể xảy ra đối với trường hợp Khách hàng chuyển khoản sai **Số tài khoản thụ hưởng và Tên tài khoản thụ hưởng** Zalo Cloud cung cấp.
+- Zalo Business Solutions sẽ **KHÔNG chịu trách nhiệm** cho bất kỳ mất mát nào có thể xảy ra đối với trường hợp Khách hàng chuyển khoản sai **Số tài khoản thụ hưởng và Tên tài khoản thụ hưởng** Zalo Business Solutions cung cấp.
 
-_Nếu có bất kì thắc mắc nào, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
+_Nếu có bất kì thắc mắc nào, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Business Solutions qua email:_ [_support@zalo.solutions_](mailto:support@zalo.solutions)_. Đội ngũ CSKH Zalo Business Solutions sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
