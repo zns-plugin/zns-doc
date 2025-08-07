@@ -64,3 +64,5 @@ Xem thêm tại bài viết:  [**Tra cứu hóa đơn nạp tiền dễ dàng h�
 - Zalo Business Solutions sẽ **KHÔNG chịu trách nhiệm** cho bất kỳ mất mát nào có thể xảy ra đối với trường hợp Khách hàng chuyển khoản sai **Số tài khoản thụ hưởng và Tên tài khoản thụ hưởng** Zalo Business Solutions cung cấp.
 
 _Nếu có bất kì thắc mắc nào, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Business Solutions qua email:_ [_support@zalo.solutions_](mailto:support@zalo.solutions)_. Đội ngũ CSKH Zalo Business Solutions sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
+
+_**Lưu ý:**_ _Từ 06/08/2025,_ _**Zalo Cloud c**__hính thức đổi tên thành_ _**Zalo Business Solutions.**_ _Việc ra mắt thương hiệu Zalo Business Solutions (ZBS) là sự thay đổi về mặt nhận diện thương hiệu, không làm thay đổi về mặt pháp lý đối với các hoạt động, giao dịch và cam kết đã có trước đây dưới tên gọi Zalo Cloud._
