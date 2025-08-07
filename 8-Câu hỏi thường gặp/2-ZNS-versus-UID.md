@@ -283,4 +283,4 @@ Dịch vụ thông báo ZNS và Tin UID cung cấp dịch vụ đa dạng để 
   <img src="https://stc-oa.zdn.vn/uploads/39eed5a495e2580694b1aa165203f8a8.png" />
 </p>
 
-_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
+_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Business Solutions qua email:_ [_support@zalo.solutions_](mailto:support@zalo.solutions)_. Đội ngũ CSKH Zalo Business Solutions sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
