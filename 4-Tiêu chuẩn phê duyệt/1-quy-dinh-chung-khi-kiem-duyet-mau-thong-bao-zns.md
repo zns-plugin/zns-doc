@@ -9,7 +9,7 @@ slug: /quy-dinh-chung-khi-kiem-duyet-mau-zns
 Bước đầu tiên để bắt đầu sử dụng dịch vụ chăm sóc khách hàng Zalo Notification Service (ZNS) là chuẩn bị nội dung mẫu template và gửi đến bộ phận kiểm duyệt. Thao tác này cần thực hiện để đảm bảo tính toàn diện, xác minh mục đích sử dụng và đảm bảo hình ảnh doanh nghiệp được trình bày một cách chuyên nghiệp, nhằm tạo ấn tượng tốt nhất đối với người dùng cuối.
 
 Nội dung mẫu template cần đảm bảo tất cả các yêu cầu được liệt kê về **Yêu cầu tổng quan,** **Yêu cầu theo mục đích, Quy định bổ sung với các mục đích đặc biệt & Yêu cầu và quy định với các nhóm ngành/nhóm sản phẩm đặc biệt** tương ứng  
-Zalo Cloud có quyền từ chối các mẫu template có nội dung chưa phù hợp, thiếu thông tin thể hiện rõ ràng bối cảnh và mục đích mẫu tin.
+Zalo Business Solutions có quyền từ chối các mẫu template có nội dung chưa phù hợp, thiếu thông tin thể hiện rõ ràng bối cảnh và mục đích mẫu tin.
 
 ## 1. Yêu cầu tổng quan
 
@@ -109,7 +109,7 @@ Các mẫu template ZNS mục đích Chúc mừng sinh nhật khách hàng thân
         \- Giấy phép hành nghề  
         \- Giấy phép kinh doanh  
         \- Giấy phép quảng cáo dịch vụ tương ứng (do liên quan đến xâm lấn)
-    *   Đồng thời, Zalo Cloud có thể yêu cầu cung cấp các thông tin khác tùy theo nhu cầu
+    *   Đồng thời, Zalo Business Solutions có thể yêu cầu cung cấp các thông tin khác tùy theo nhu cầu
 
 **b. Nhóm ngành kinh doanh sản phẩm sinh lý, phẫu thuật thẩm mỹ sinh lý:**
 
@@ -184,4 +184,4 @@ Lưu ý: 
 *   Các sản phẩm, hàng hóa, dịch vụ cấm quảng cáo/quảng bá khác do Chính phủ hoặc cơ quan có thẩm quyền quy định khi có phát sinh trên thực tế.
 *   Các sản phẩm khác mà Zalo Cloud nhận định là không an toàn, không phù hợp với người dùng theo quy định và đánh giá riêng hoặc theo tư vấn của đội ngũ pháp lý.
 
-_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
+_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Business Solutions qua email: support@zalo.solutions. Đội ngũ CSKH Zalo Business Solutions sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
