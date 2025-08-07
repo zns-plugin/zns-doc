@@ -1,10 +1,10 @@
 ---
 id: nhung-luu-y-quan-trong-ve-viec-xuat-hoa-don-tren-zalo-cloud
-title: Những lưu ý quan trọng về việc xuất hoá đơn trên Zalo Cloud
+title: Những lưu ý quan trọng về việc xuất hoá đơn trên ZCA
 slug: /nhung-luu-y-quan-trong-ve-viec-xuat-hoa-don-tren-zalo-cloud
 ---
 
-# <p align="center">Những lưu ý quan trọng về việc xuất hoá đơn trên Zalo Cloud</p>
+# <p align="center">Những lưu ý quan trọng về việc xuất hoá đơn trên ZCA</p>
 
 Zalo Business Solutions hỗ trợ khách hàng xuất hóa đơn cho số tiền nạp vào tài khoản ZCA. Khách hàng vui lòng xem kỹ các quy định xuất hóa đơn như theo thông tin bên dưới.
 
@@ -48,7 +48,7 @@ Xem thêm tại [Trường hợp nào được hỗ trợ điều chỉnh hoá �
 - Khách hàng cung cấp sai thông tin sai mã số thuế
 - Khách hàng thay đổi thông tin pháp nhân (doanh nghiệp) thành doanh nghiệp khác, hoặc chuyển hóa đơn sang thông tin sang chi nhánh
 - Hóa đơn cá nhân muốn đổi thành hóa đơn doanh nghiệp
-- Khách hàng thay đổi thông tin xuất hóa đơn mà không có thông báo với bộ phận Chăm sóc khách hàng Zalo Cloud qua email: [support@zalo.cloud](mailto:support@zalo.cloud)
+- Khách hàng thay đổi thông tin xuất hóa đơn mà không có thông báo với bộ phận Chăm sóc khách hàng Zalo Business Solutions qua email: [support@zalo.solutions](mailto:support@zalo.solutions)
 - Zalo Business Solutions chỉ cho phép điều chỉnh với nội dung địa chỉ xuất hóa đơn và tên doanh nghiệp (không thay đổi pháp nhân khác). Nội dung còn lại là nội dung mặc định (tên hàng hóa/sản phẩm, đơn vị tính, số lượng,...) và không cho phép thay đổi nội dung.
 
 ## 6. Tra cứu hoá đơn_:
