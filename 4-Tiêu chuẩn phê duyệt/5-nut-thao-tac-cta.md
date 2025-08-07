@@ -6,7 +6,7 @@ slug: /nut-thao-tac-cta
 
 # <p align ="center">Nút thao tác CTA trong mẫu thông báo ZNS</p>
 
-Nhằm hỗ trợ khách hàng khai thác tối đa nội dung/mục đích và tối ưu hóa dịch vụ Zalo Notification Service (ZNS), Zalo Cloud giới thiệu nút thao tác (CTA) trong nội dung thông báo ZNS. Bài viết này sẽ hướng dẫn quý khách triển khai tính năng này hiệu quả nhất. 
+Nhằm hỗ trợ khách hàng khai thác tối đa nội dung/mục đích và tối ưu hóa dịch vụ Zalo Notification Service (ZNS), Zalo Business Solutions giới thiệu nút thao tác (CTA) trong nội dung thông báo ZNS. Bài viết này sẽ hướng dẫn quý khách triển khai tính năng này hiệu quả nhất. 
 
 ## 1. Giới thiệu về nút thao tác CTA:
 
@@ -38,7 +38,7 @@ Xem thêm tại [**BẢNG GIÁ ZNS**](https://zalo.cloud/zns/pricing).
 
 ## 4. Hướng dẫn thêm nút thao tác CTA vào mẫu tin ZNS:
 
-Để có thể hỗ trợ doanh nghiệp cá nhân hóa (customize) đường dẫn gửi cho từng người dùng, Zalo Cloud chính thức mở tích hợp khả năng truyền tham số (param) vào nút thao tác (CTA) khi tạo mẫu ZNS. Tính năng này phù hợp cho nhiều doanh nghiệp thuộc nhiều ngành hàng với các nhu cầu tiêu biểu bao gồm nhưng không giới hạn như: 
+Để có thể hỗ trợ doanh nghiệp cá nhân hóa (customize) đường dẫn gửi cho từng người dùng, Zalo Business Solutions chính thức mở tích hợp khả năng truyền tham số (param) vào nút thao tác (CTA) khi tạo mẫu ZNS. Tính năng này phù hợp cho nhiều doanh nghiệp thuộc nhiều ngành hàng với các nhu cầu tiêu biểu bao gồm nhưng không giới hạn như: 
 
 *   Gửi đường dẫn định danh theo dõi đơn hàng/quá trình giao dịch
 *   Gửi đường dẫn định danh các loại hóa đơn/hợp đồng
@@ -73,4 +73,4 @@ Với các dữ liệu truyền vào tham số (param) trong nút thao tác (CTA
 
 Tham khảo Bảng mã lỗi khi sử dụng dịch vụ Zalo Notification Service tại [**ĐÂY**](https://developers.zalo.me/docs/api/zalo-notification-service-api/phu-luc/bang-ma-loi-post-5233). 
 
-_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
+_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của Zalo Business Solutions qua email:_ [_support@zalo.solutions_](mailto:support@zalo.solutions)_. Đội ngũ CSKH Zalo Business Solutions sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
