@@ -7,7 +7,7 @@ slug: /coi-che-danh-gia-chat-luong-va-quyen-loi-gui-zns
 # <p align="center">Cơ chế đánh giá chất lượng và quyền lợi gửi thông báo ZNS</p>
 
 
-Trong hoạt động gửi thông báo chăm sóc khách hàng qua Zalo, tỷ lệ báo xấu (phản hồi tiêu cực) của người nhận thông báo Zalo Notification Services sẽ ảnh hưởng đến quyền lợi của doanh nghiệp vì liên quan trực tiếp đến số lượng ZNS gửi mỗi ngày cũng như loại nội dung thông báo có thể gửi. Để có thể nắm các thông tin về cơ chế đánh giá chất lượng và quyền lợi gửi ZNS từ Zalo Cloud chính xác nhất, quý doanh nghiệp vui lòng tham khảo bài viết sau đây.
+Trong hoạt động gửi thông báo chăm sóc khách hàng qua Zalo, tỷ lệ báo xấu (phản hồi tiêu cực) của người nhận thông báo Zalo Notification Services sẽ ảnh hưởng đến quyền lợi của doanh nghiệp vì liên quan trực tiếp đến số lượng ZNS gửi mỗi ngày cũng như loại nội dung thông báo có thể gửi. Để có thể nắm các thông tin về cơ chế đánh giá chất lượng và quyền lợi gửi ZNS từ Zalo Business Solutions chính xác nhất, quý doanh nghiệp vui lòng tham khảo bài viết sau đây.
 
 
 ## A. Quyền lợi gửi ZNS của OA 
@@ -89,7 +89,7 @@ Với mục đích giảm thiểu rủi ro ảnh hưởng đến trải nghiệm
 *   Khung thời gian đánh giá: từ đầu ngày đến thời điểm hiện tại.
 
 
-## C. Hướng dẫn xem báo cáo chất lượng gửi ZNS trên tài khoản Zalo Cloud Account (ZCA)
+## C. Hướng dẫn xem báo cáo chất lượng gửi ZNS trên tài khoản ZCA
 
 
 Khi bắt đầu hoạt động gửi thông báo ZNS, Zalo Official Account (OA) của doanh nghiệp sẽ chỉ được gửi ZNS có cấp độ thấp. Sau đó, dựa theo chất lượng gửi ZNS, hệ thống sẽ tự động điều chỉnh cho phép OA gửi các loại nội dung ở cấp độ cao hơn. 
@@ -106,4 +106,4 @@ Những thông tin về chất lượng và quyền lợi gửi ZNS của OA có
 <table><tbody><tr><td><p style="margin-left:0px;"><strong>Thông tin&nbsp;</strong></p></td><td><p style="margin-left:0px;"><strong>API&nbsp;</strong></p></td></tr><tr><td><p style="margin-left:0px;">Số lượng thông báo ZNS có thể gửi mỗi ngày&nbsp;</p></td><td><p style="margin-left:0px;"><a target="_blank" rel="noopener noreferrer" href="https://developers.zalo.me/docs/api/zalo-notification-service-api/truy-xuat-thong-tin/lay-thong-tin-quota-thong-bao-zns-post-5229"><span style="color:rgb(5,99,193);"><u>Lấy thông tin quota thông báo ZNS</u></span></a>&nbsp;</p></td></tr><tr><td><p style="margin-left:0px;">Loại nội dung ZNS có thể gửi&nbsp;</p></td><td><p style="margin-left:0px;"><a target="_blank" rel="noopener noreferrer" href="https://developers.zalo.me/docs/api/zalo-notification-service-api/truy-xuat-thong-tin/lay-thong-tin-loai-noi-dung-zns-duoc-phep-gui-post-5227"><span style="color:rgb(5,99,193);"><u>Lấy thông tin loại nội dung ZNS được phép gửi</u></span></a>&nbsp;</p></td></tr><tr><td><p style="margin-left:0px;">Chất lượng gửi &nbsp;thông báo ZNS của OA&nbsp;</p></td><td><p style="margin-left:0px;"><a target="_blank" rel="noopener noreferrer" href="https://developers.zalo.me/docs/api/zalo-notification-service-api/truy-xuat-thong-tin/lay-thong-tin-chat-luong-gui-zns-hien-tai-cua-oa-post-5214"><span style="color:rgb(5,99,193);"><u>Lấy thông tin chất lượng gửi ZNS hiện tại của OA</u></span></a>&nbsp;</p></td></tr><tr><td><p style="margin-left:0px;">Chất lượng gửi ZNS của mẫu thong báo (template) ZNS cụ thể&nbsp;</p></td><td><p style="margin-left:0px;"><a target="_blank" rel="noopener noreferrer" href="https://developers.zalo.me/docs/api/zalo-notification-service-api/truy-xuat-thong-tin/lay-thong-tin-chi-tiet-template-post-5222"><span style="color:rgb(5,99,193);"><u>Lấy thông tin chi tiết template</u></span></a>&nbsp;</p></td></tr></tbody></table>
 </div>
 
-_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
+_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của Zalo Business Solutions qua email:_ [_support@zalo.solutions_](mailto:support@zalo.solutions)_. Đội ngũ CSKH Zalo Business Solutions sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
