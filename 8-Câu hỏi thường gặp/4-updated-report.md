@@ -76,5 +76,5 @@ _<p align="center">Giao diện mở nhận lại thông báo tại Trang cài đ
 
 _Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của Zalo Business Solutions qua email:_ [_support@zalo.solutions_](mailto:support@zalo.solutions)_. Đội ngũ CSKH Zalo Business Solutions sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
 
-_**Lưu ý:**_ _Từ 06/08/2025, **Zalo Cloud**_chính thức đổi tên thành **Zalo Business Solutions.** Việc ra mắt thương hiệu Zalo Business Solutions (ZBS) là sự thay đổi về mặt nhận diện thương hiệu, không làm thay đổi về mặt pháp lý đối với các hoạt động, giao dịch và cam kết đã có trước đây dưới tên gọi Zalo Cloud._
+_**Lưu ý:**_ _Từ 06/08/2025, **Zalo Cloud** chính thức đổi tên thành **Zalo Business Solutions.** Việc ra mắt thương hiệu Zalo Business Solutions (ZBS) là sự thay đổi về mặt nhận diện thương hiệu, không làm thay đổi về mặt pháp lý đối với các hoạt động, giao dịch và cam kết đã có trước đây dưới tên gọi Zalo Cloud._
 
