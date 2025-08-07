@@ -7,7 +7,7 @@ slug: /cac-dinh-dang-du-lieu-khi-truyen-vao-tham-so-tren-noi-dung-zns
 # <p align="center">Các định dạng dữ liệu khi truyền vào tham số trên nội dung ZNS</p>
 
 
-Dữ liệu khi truyền vào tham số (param) được hệ thống cài đặt với một số định dạng nhất định. Trong bài viết này, đội ngũ hỗ trợ khách hàng Zalo Cloud sẽ liệt kê các dạng khi truyền vào tham số và cách hiển thị của trên mẫu thông báo ZNS gửi đến người nhận nhằm mục đích giúp đối tác hiểu rõ hơn về cách định dạng dữ liệu trước khi truyền vào tham số cũng như các định dạng sẽ hiển thị của mẫu ZNS khi đến máy người dùng (người nhận mẫu thông báo ZNS).  
+Dữ liệu khi truyền vào tham số (param) được hệ thống cài đặt với một số định dạng nhất định. Trong bài viết này, đội ngũ hỗ trợ khách hàng Zalo Business Solutions sẽ liệt kê các dạng khi truyền vào tham số và cách hiển thị của trên mẫu thông báo ZNS gửi đến người nhận nhằm mục đích giúp đối tác hiểu rõ hơn về cách định dạng dữ liệu trước khi truyền vào tham số cũng như các định dạng sẽ hiển thị của mẫu ZNS khi đến máy người dùng (người nhận mẫu thông báo ZNS).  
 
 Quý khách có thể xem thêm [Tham số (Param) là gì? Thế nào là một tham số đúng quy chuẩn?](https://zalo.cloud/blog/tham-so-param-la-gi-the-nao-la-mot-tham-so-dung-quy-chuan-/4kuprg64gyz88qewg) 
 
@@ -84,4 +84,4 @@ Dành cho các KH có templates được tạo qua yêu cầu đặc biệt. 
 Xem thêm chi tiết và hướng dẫn xử lý các mã lỗi tại [ĐÂY](https://zalo.cloud/zns/guidelines/handle-error-code). 
  
 
-_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua email: [support@zalo.cloud](mailto:support@zalo.cloud). Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
+_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Business Solutions qua email: [support@zalo.solutions](mailto:support@zalo.solutions). Đội ngũ CSKH Zalo Business Solutions sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
