@@ -38,4 +38,4 @@ _**<p align="center">Thời gian gửi tin ZNS \= delivery\_time – sent_time
 Nếu **Thời gian gửi tin ZNS >** **Timeout của loại ZNS**, tin ZNS sẽ không bị tính phí. Còn lại, nếu gửi thành công trong thời gian timeout quy định, tin ZNS sẽ được tính phí như thường lệ.
 
 
-_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
+_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Business Solutions qua email:_ [_support@zalo.solutions_](mailto:support@zalo.solutions)_. Đội ngũ CSKH Zalo Business Solutions sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
