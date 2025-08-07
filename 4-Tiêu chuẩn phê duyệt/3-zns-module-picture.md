@@ -8,7 +8,7 @@ slug: /cac-quy-dinh-xet-duyet-template-zns-chua-module-hinh-anh
 
 Với kế hoạch ra mắt tính năng cho phép bổ sung hình ảnh cho mẫu tin thông báo ZNS để gia tăng tính tương tác giúp doanh nghiệp có thể truyền đạt thông điệp chăm sóc khách hàng của mình - ở đây là người dùng cuối (end-user).
 
-Bộ phận phát triển sản phẩm Zalo Cloud ra bộ Quy định xét duyệt Template ZNS chứa module hình ảnh như bên dưới
+Bộ phận phát triển sản phẩm Zalo Business Solutions ra bộ Quy định xét duyệt Template ZNS chứa module hình ảnh như bên dưới
 
 ## A. Thông tin cơ bản
 
@@ -273,4 +273,4 @@ Các kích thước thành phần chữ không yêu cầu bắt buộc tương t
 </table>
 </div>
 
-_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Cloud qua email:_ [_support@zalo.cloud_](mailto:support@zalo.cloud)_. Đội ngũ CSKH Zalo Cloud sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
+_Nếu có bất kì yêu cầu hỗ trợ, khách hàng có thể liên hệ với đội ngũ Chăm sóc khách hàng của Zalo Business Solutions qua email:_ [_support@zalo.solutions_](mailto:support@zalo.solutions)_. Đội ngũ CSKH Zalo Business Solutions sẽ phản hồi cho khách hàng trong vòng 24h làm việc tiếp theo._
