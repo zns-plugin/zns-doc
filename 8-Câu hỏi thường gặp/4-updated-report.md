@@ -8,24 +8,6 @@ slug: /bao-xau-mau-thong-bao-zns-duoc-ghi-nhan-khi-nao
 
 Để đảm bảo trải nghiệm của người dùng cuối (end-user), user có quyền lựa chọn báo xấu các mẫu thông báo Zalo Notification Service (ZNS) đã nhận để phản ánh chất lượng dịch vụ.
 
-Từ **07/01/2025**, cơ chế và quy trình end-user báo xấu sẽ được điều chỉnh như bên dưới để tối ưu hóa trải nghiệm sử dụng của user.
-
-**Giao diện báo xấu và ngừng nhận thông báo ZNS của người dùng**
-
-<p style={{ textAlign: "center" }}>
-  <img src="https://stc-oa.zdn.vn/uploads/2025/01/09/db33ce7be18a8c88198b087d175c0555.png" />
-</p>
-
-_<p align="center">Giao diện báo xấu</p>_
-
-<p style={{ textAlign: "center" }}>
-  <img src="https://stc-oa.zdn.vn/uploads/2025/01/09/c2da4d81abc6ef27953daad7fc3ba495.png" />
-</p>
-
-_<p align="center">Giao diện ngừng nhận thông báo</p>_
-
-**Lưu ý**: Sản phẩm và giao diện thực tế có thể được điều chỉnh để đáp ứng yêu cầu vận hành.
-
 ## 1. Cơ chế Báo xấu (Report):
 
 - Các điều chỉnh áp dụng từ **07/01/2025**:
@@ -45,18 +27,26 @@ _<p align="center">Giao diện ngừng nhận thông báo</p>_
 **Các lượt báo xấu sau 48 giờ từ lúc user nhận ZNS sẽ không ảnh hưởng đến tỉ lệ report và chất lượng của OA.**
 
 - Ngoài ra, giao diện báo xấu mới sẽ được đồng bộ với giao diện báo xấu của tin UID, bao gồm danh sách lý do báo xấu.
+- *Tham khảo thêm* [_Làm thế nào để giảm tỷ lệ báo xấu (report) khi gửi mẫu thông báo ZNS_](https://zalo.cloud/blog/lam-the-nao-de-giam-ty-le-bao-xau-report-khi-gui-mau-thong-bao-zns-/j4uvw9eppb98eka4a9).
 
-*Tham khảo thêm* [_Làm thế nào để giảm tỷ lệ báo xấu (report) khi gửi mẫu thông báo ZNS_](https://zalo.cloud/blog/lam-the-nao-de-giam-ty-le-bao-xau-report-khi-gui-mau-thong-bao-zns-/j4uvw9eppb98eka4a9).
+### **Giao diện báo xấu và ngừng nhận thông báo ZNS của người dùng**
+<p style={{ textAlign: "center" }}>
+  <img src="https://content.zalo.cloud/uploads/image_b7668ff91a.png" /></p>
+<p align="center">Giao diện khi bấm vào nút "..." góc phải thông báo ZNS</p>
+
+<p style={{ textAlign: "center" }}>
+  <img src="https://content.zalo.cloud/uploads/image_99a5c1ccca.png" /></p>
+<p align="center">Giao diện khi bấm báo xấu tại bong bóng báo xấu bên dưới thông báo ZNS</p>
+
+**Lưu ý**: Sản phẩm và giao diện thực tế có thể được điều chỉnh để đáp ứng yêu cầu vận hànhvà cải thiện trải nghiệm của người dùng cuối.
 
 ## 2. Cơ chế Ngừng nhận thông báo ZNS từ OA:
 
-Các điều chỉnh áp dụng từ **07/01/2025**:
-
-- Thay đổi cơ chế Ngừng nhận thông báo: Cơ chế ngừng nhận mẫu thông báo theo từng phân loại tag và tự động mở nhận lại thông báo sau một khoảng thời gian t sẽ thay đổi. Cụ thể, người dùng có thể lựa chọn ngừng nhận toàn bộ loại thông báo ZNS và phải thực hiện hành động tắt tính năng ngừng nhận thông báo thủ công nếu muốn nhận lại thông báo ZNS.
-- Entry point Ngừng nhận thông báo/Nhận lại thông báo: Người dùng có thể truy cập tính nắng ngừng nhận/nhận lại thông báo ZNS tại hai điểm:
-- Giao diện báo xấu (ngay khi user thao tác báo xấu).
-- Trang cài đặt của Official Account (OA) _**(dự kiến cập nhật vào Tháng 02/2025).**_
-- Ngoài ra, giao diện Ngừng nhận thông báo ZNS sẽ được đồng bộ với giao diện Ngừng nhận tin UID từ OA, nhằm mang đến trải nghiệm đồng nhất.
+*   Khi đã thiết lập thành công việc cài đặt ngừng nhận thông báo từ OA, nếu muốn nhận lại thông báo ZNS, người dùng cần chủ động truy cập trang Quản lý tương tác OA và bật lại nút đồng ý nhận Thông báo từ OA.
+*   Các điểm (Entry point) Ngừng nhận thông báo/Nhận lại thông báo: Người dùng có thể truy cập tính nắng ngừng nhận/nhận lại thông báo ZNS tại hai điểm:
+    *   Trang cài đặt của Official Account (OA) > Chọn "Quản lý tương tác"**.**
+    *   Giao diện báo xấu (ngay khi user thao tác báo xấu) (ngừng hỗ trợ từ 27/08/2025).
+*   Ngoài ra, giao diện Ngừng nhận thông báo ZNS sẽ được đồng bộ với giao diện Ngừng nhận tin UID từ OA, nhằm mang đến trải nghiệm đồng nhất.
 
 <p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/2025/01/09/2a3bf36c22cb3cb664886f39a7c70e6d.png" />
