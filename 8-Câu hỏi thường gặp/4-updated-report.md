@@ -38,7 +38,7 @@ slug: /bao-xau-mau-thong-bao-zns-duoc-ghi-nhan-khi-nao
   <img src="https://content.zalo.cloud/uploads/image_99a5c1ccca.png" /></p>
 <p align="center">Giao diện khi bấm báo xấu tại bong bóng báo xấu bên dưới thông báo ZNS</p>
 
-**Lưu ý**: Sản phẩm và giao diện thực tế có thể được điều chỉnh để đáp ứng yêu cầu vận hànhvà cải thiện trải nghiệm của người dùng cuối.
+**Lưu ý**: Sản phẩm và giao diện thực tế có thể được điều chỉnh để đáp ứng yêu cầu vận hành và cải thiện trải nghiệm của người dùng cuối.
 
 ## 2. Cơ chế Ngừng nhận thông báo ZNS từ OA:
 
