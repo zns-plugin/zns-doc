@@ -27,19 +27,19 @@ Hiện tại, Zalo Business Solutions **CHƯA HỖ TRỢ Điều chỉnh/Xuất 
 
 Zalo Business Solutions sẽ chỉ hỗ trợ làm biên bản điều chỉnh hoá đơn đối với trường hợp thông tin trên hoá đơn sai tên công ty (Chỉ áp dụng loại hình hóa đơn doanh nghiệp), hoặc địa chỉ xuất hóa đơn,  Quý khách vui lòng thực hiện các bước sau:
 
-**Bước 1:** Tải mẫu **Biên bản điều chỉnh hóa đơn** và điền thông tin yêu cầu điều chỉnh trong biên bản.
+**Bước 1:** Tải mẫu **Thông báo hóa đơn điện tử đã lập sai** và điền thông tin yêu cầu điều chỉnh trong biên bản.
 
-[**Tải Biên bản điều chỉnh hóa đơn**](https://adtima.my.salesforce.com/sfc/p/#2w000002llxF/a/A70000002YxQ/eV8W2RY0Kyr0NdGao0_hmnLJz7wawtpFdpAhEK.9EBw) (Link đính kèm file)
+[**Tải Mẫu Thông báo hóa đơn điện tử đã lập sai**](https://adtima.my.salesforce.com/sfc/p/#2w000002llxF/a/A70000002YxQ/eV8W2RY0Kyr0NdGao0_hmnLJz7wawtpFdpAhEK.9EBw) (Link đính kèm file)
 
-**Bước 2:** Gửi đến email đến Kênh Chăm sóc khách hàng Zalo Business Solutions tại support@zalo.solutions theo cú pháp:
-*   **Tiêu đề email**: [Tên doanh nghiệp] Thông báo điều chỉnh thông tin hóa đơn
-*   **Nội dung email**:
+**Bước 2:** Gửi đến email đến Kênh Chăm sóc khách hàng Zalo Business Solutions tại mẫu: **[Mẫu hỗ trợ Zalo Business Solutions](https://go.zalo.me/SupportZBS )**
+*   **Tiêu đề**: [Tên doanh nghiệp] Thông báo điều chỉnh thông tin hóa đơn
+*   **Nội dung**:
     *   **OA ID**:
     *   **ZCA ID**:
 
 **Lưu ý:** 
 
-*   Khi gửi email khách hàng vui lòng đính kèm **Mẫu thông báo hóa đơn điện tử có sai sót đã điền thông tin + hóa đơn cũ cần điều chỉnh**
+*   Khi gửi yêu cầu khách hàng vui lòng đính kèm **Mẫu thông báo hóa đơn điện tử có sai sót đã điền thông tin + hóa đơn cũ cần điều chỉnh**
     
 *   Khách hàng sẽ nhận được Thông báo hóa đơn điện tử có sai sót có chữ kí điện tử bởi Cơ quan Thuế và VNG sau khi cung cấp đầu đủ thông tin hợp lệ sau tối đa **30 ngày làm việc**
     
