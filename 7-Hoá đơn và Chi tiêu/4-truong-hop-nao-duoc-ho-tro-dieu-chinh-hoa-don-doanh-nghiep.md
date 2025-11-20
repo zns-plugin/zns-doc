@@ -31,7 +31,7 @@ Zalo Business Solutions sẽ chỉ hỗ trợ làm biên bản điều chỉnh h
 
 [**Tải Mẫu Thông báo hóa đơn điện tử đã lập sai**](https://adtima.my.salesforce.com/sfc/p/#2w000002llxF/a/A70000002YxQ/eV8W2RY0Kyr0NdGao0_hmnLJz7wawtpFdpAhEK.9EBw) (Link đính kèm file)
 
-**Bước 2:** Gửi đến email đến Kênh Chăm sóc khách hàng Zalo Business Solutions tại mẫu: **[Mẫu hỗ trợ Zalo Business Solutions](https://go.zalo.me/SupportZBS )**
+**Bước 2:** Gửi đến yêu cầu đến Kênh Chăm sóc khách hàng Zalo Business Solutions tại: **[Mẫu hỗ trợ Zalo Business Solutions](https://go.zalo.me/SupportZBS )**
 *   **Tiêu đề**: [Tên doanh nghiệp] Thông báo điều chỉnh thông tin hóa đơn
 *   **Nội dung**:
     *   **OA ID**:
