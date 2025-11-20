@@ -39,7 +39,7 @@ Zalo Business Solutions sẽ chỉ hỗ trợ làm biên bản điều chỉnh h
 
 **Lưu ý:** 
 
-*   Khi gửi yêu cầu khách hàng vui lòng đính kèm **Mẫu thông báo hóa đơn điện tử có sai sót đã điền thông tin + hóa đơn cũ cần điều chỉnh**
+*   Khi gửi yêu cầu khách hàng vui lòng đính kèm **Mẫu thông báo hóa đơn điện tử đã lập sai đã điền thông tin + hóa đơn cũ cần điều chỉnh**
     
 *   Khách hàng sẽ nhận được Thông báo hóa đơn điện tử có sai sót có chữ kí điện tử bởi Cơ quan Thuế và VNG sau khi cung cấp đầu đủ thông tin hợp lệ sau tối đa **30 ngày làm việc**
     
