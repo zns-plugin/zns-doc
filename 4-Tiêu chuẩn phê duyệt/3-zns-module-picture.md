@@ -1,34 +1,34 @@
 ---
-id: cac-quy-dinh-xet-duyet-template-zns-chua-module-hinh-anh
-title: Các quy định xét duyệt Template ZNS chứa module hình ảnh
-slug: /cac-quy-dinh-xet-duyet-template-zns-chua-module-hinh-anh
+id: cac-quy-dinh-xet-duyet-zbs-template-message-chua-module-hinh-anh
+title: Các quy định xét duyệt Tin nhắn ZBS Template chứa module hình ảnh
+slug: /cac-quy-dinh-xet-duyet-zbs-template-message-chua-module-hinh-anh
 ---
 
-# <p style="text-align: center">Các quy định xét duyệt mẫu thông báo ZNS chứa module hình ảnh</p>
+# <p style="text-align: center">Các quy định xét duyệt mẫu thông báo Tin nhắn ZBS Template  chứa module hình ảnh</p>
 
-Với kế hoạch ra mắt tính năng cho phép bổ sung hình ảnh cho mẫu tin thông báo ZNS để gia tăng tính tương tác giúp doanh nghiệp có thể truyền đạt thông điệp chăm sóc khách hàng của mình - ở đây là người dùng cuối (end-user).
+Với kế hoạch ra mắt tính năng cho phép bổ sung hình ảnh cho Tin nhắn ZBS Template để gia tăng tính tương tác giúp doanh nghiệp có thể truyền đạt thông điệp chăm sóc khách hàng của mình - ở đây là người dùng cuối (end-user).
 
-Bộ phận phát triển sản phẩm Zalo Business Solutions ra bộ Quy định xét duyệt Template ZNS chứa module hình ảnh như bên dưới
+Bộ phận phát triển sản phẩm Zalo Business Solutions ra bộ Quy định xét duyệt Tin nhắn ZBS Template chứa module hình ảnh như bên dưới
 
 ## A. Thông tin cơ bản
 
 ### 1. Định nghĩa
 
-- Module hình ảnh là tập hợp một hoặc nhiều ảnh trong nội dung mẫu tin ZNS. Module hình ảnh được đính kèm vào template, là một thành phần của template.
+- Module hình ảnh là tập hợp một hoặc nhiều ảnh trong nội dung Tin nhắn ZBS Template. Module hình ảnh được đính kèm vào tin nhắn, là một thành phần của tin nhắn.
 
-- Template chứa ảnh là template được đính kèm module hình ảnh.
+- Tin nhắn chứa ảnh là tin được đính kèm module hình ảnh.
 
-- **Xem thêm** [**Hướng dẫn Tính Năng Thiết Lập Hình Ảnh Trong Mẫu Tin ZNS**](https://zalo.cloud/news/ra-mat-tinh-nang-thiet-lap-hinh-anh-trong-mau-tin-zns/vvupr9ymqqbvdm96by)
+- **Xem thêm** [**Hướng dẫn Tính Năng Thiết Lập Hình Ảnh Trong Tin nhắn ZBS Template**](https://zalo.solutions/news/ra-mat-tinh-nang-thiet-lap-hinh-anh-trong-mau-tin-zns/vvupr9ymqqbvdm96by)
 
 ### 2. Mục đích của module hình ảnh
 
-- Tăng tương tác, minh họa cho phần nội dung của mẫu tin ZNS. Đồng thời, module hình ảnh giúp tăng nhận diện thương hiệu cho doanh nghiệp.
+- Tăng tương tác, minh họa cho phần nội dung của Tin nhắn ZBS Template. Đồng thời, module hình ảnh giúp tăng nhận diện thương hiệu cho doanh nghiệp.
 
-- Hình ảnh giúp end-user khi nhận được thông báo ZNS có thể nắm bắt được thông tin một cách nhanh chóng hơn.
+- Hình ảnh giúp end-user khi nhận được Tin nhắn ZBS Template có thể nắm bắt được thông tin một cách nhanh chóng hơn.
 
 - Module hình ảnh là thành phần phụ/bổ trợ cho nội dung chính của template.
 
-- Module hình ảnh giúp tăng tỉ lệ và diện tích tương tác của end-user với thông báo ZNS (thông qua click vào ảnh để mở đường link CTA).
+- Module hình ảnh giúp tăng tỉ lệ và diện tích tương tác của end-user với Tin nhắn ZBS Template (thông qua click vào ảnh để mở đường link CTA).
 
 ### 3. Nguyên tắc trọng tâm
 
@@ -71,7 +71,7 @@ Hình ảnh là một thành phần của nội dung template, vì vậy, nội 
     <tr>
       <td>Nút thao tác (CTA)</td>
       <td>
-        Với tất cả các mẫu tin (template) ZNS hình ảnh, bắt buộc có CTA
+        Với tất cả cácTin nhắn ZBS Template hình ảnh, bắt buộc có CTA
         <br />
         Khi bấm vào hình ảnh sẽ được dẫn theo link/số điện thoại tại chút chính
         (CTA 1)
@@ -116,7 +116,7 @@ Hình ảnh là một thành phần của nội dung template, vì vậy, nội 
 </table>
 </div>
 
-Xem thêm cách [Thiết lập mục đích gửi khi tạo mẫu ZNS](https://zalo.cloud/blog/thiet-lap-muc-dich-gui-khi-tao-mau-zns/erug88djjgrd9r7zzj)
+Xem thêm cách [Thiết lập mục đích gửi khi tạo Tin nhắn ZBS Template](https://zalo.solutions/blog/thiet-lap-muc-dich-gui-khi-tao-mau-zns/erug88djjgrd9r7zzj)
 
 ## D. Quy định về hình thức của module hình ảnh
 
@@ -223,7 +223,7 @@ Xem thêm cách [Thiết lập mục đích gửi khi tạo mẫu ZNS](https://z
 
 _<p align="center">Với kích thước ảnh 1140px x 640px - kích thước thành phần chữ đề xuất ở mức tối thiểu 42pt - tối ưu nhất 56pt</p>_
 
-Các kích thước thành phần chữ không yêu cầu bắt buộc tương tự, nhưng cần đảm bảo các quy đinh và chính sách của sản phẩm ZNS.
+Các kích thước thành phần chữ không yêu cầu bắt buộc tương tự, nhưng cần đảm bảo các quy đinh và chính sách của sản phẩm Tin nhắn ZBS Template.
 
 ## E. Quy định về thương hiệu trong ảnh
 
@@ -269,7 +269,7 @@ Các kích thước thành phần chữ không yêu cầu bắt buộc tương t
 
 <div class="table">
 <table>
-  <tbody><tr><td colspan="2"><p style="text-align:center;"><strong>Quy định về nội dung</strong></p></td></tr><tr><td>Quy định chung về nội dung</td><td>Hình ảnh là nội dung bổ trợ/phụ trợ trong mẫu thông báo ZNS, vẫn phải đáp ứng chính sách và quy định của nền tảng Zalo nói chung.</td></tr><tr><td rowspan="17">Về nội dung hình ảnh chi tiết</td><td><p>Đối với việc sử dụng hình ảnh nhân vật/con người với mục đích quảng bá/tuyên truyền sản phẩm/dịch vụ/sự kiện, cần đính kèm thông tin:</p><ul><li>Thỏa thuận bằng văn bản hoặc hợp đồng có tính pháp lý trong việc sử dụng hình ảnh nhân vật kèm CMND/CCCD/Passport của nhân vật;</li><li>Hình ảnh trẻ em cần có sự đồng ý bằng văn bản của phụ huynh hoặc người giám hộ</li></ul></td></tr><tr><td>Hình ảnh được tạo bằng Artificial intelligence (AI) cần có nội dung thể hiện trong hình ảnh <u>hoặc</u> nội dung template ZNS để làm rõ vấn đề này (VD: "Hình ảnh được tạo bởi AI")</td></tr><tr><td>Không cho phép có thành phần nội dung chính của hình ảnh là mời follow OA</td></tr><tr><td>Không được sử dụng hình ảnh chụp giấy tờ, văn bản hành chính trên hình ảnh quảng cáo, bao gồm: Giấy chứng nhận quyền sử dụng đất (sổ đỏ), các loại giấy tờ từ cơ quan Nhà nước, giấy phép liên quan đến sản phẩm (Giấy xác nhận nội dung quảng cáo, giấy công bố, giấy an toàn vệ sinh thực phẩm…), thẻ bảo hiểm y tế, hợp đồng, và các loại giấy tờ tương tự khác.</td></tr><tr><td>Không được sử dụng các hình ảnh mồ mả, nghĩa trang, bia mộ hoặc những hình ảnh tương tự.</td></tr><tr><td>Không được sử dụng hình ảnh thuốc lá, khói thuốc lá, thuốc lá điện tử và các dạng thuốc lá khác.</td></tr><tr><td>Không sử dụng hình ảnh kim tiêm, ống chích, dao kéo, vũ khí.</td></tr><tr><td>Không sử dụng hình ảnh của lá cờ Việt Nam hoặc bản đồ hoặc tiền Việt Nam. Không dùng ảnh quân nhân, chính trị.</td></tr><tr><td>Hình ảnh không được khai thác các vấn đề chính sách, giới tính, tôn giáo, tình dục hoặc các vấn đề nhạy cảm khác.</td></tr><tr><td>Hình ảnh quảng cáo không được chứa bộ phận cơ thể được zoom in vượt quá 50% diện tích hình quảng cáo đó.</td></tr><tr><td>Hình ảnh không được gợi dục, ngụ ý khỏa thân, hở da, khoe thân hoặc tập trung một cách không cần thiết vào các bộ phận cơ thể, hình ảnh mô tả con người ở tư thế khiêu dâm, các hoạt động khêu gợi hoặc kích thích quá mức.</td></tr><tr><td>Không sử dụng hình ảnh gây cảm giác tiêu cực cho người xem. Ví dụ, người bệnh, chứng bệnh một cách không sạch sẽ: ví dụ người gầy trơ xương, lở loét, đau đớn, highlight chỗ đau bằng các vòng tròn đỏ, người bụng phệ chảy xệ, vết thương hở và máu me,…</td></tr><tr><td>Không được sử dụng hình ảnh chứa kết quả bất ngờ, không thể xảy ra.</td></tr><tr><td>Không được sử dụng các hình ảnh gây chấn động hoặc gây sợ hãi, hình ảnh chứa hoặc khơi gợi các từ ngữ, nội dung phản cảm, bạo lực, không thân thiện với bất kỳ nhóm người dùng nào.</td></tr><tr><td>Không được chứa sản phẩm (thuốc cấm, thực phẩm cấm, tiền ảo/crypto, vay cá nhân...) / dịch vụ / sản phẩm cấm nói chung.</td></tr><tr><td>Không cho phép hình ảnh có thông tin kêu gọi mời vào group chat. &nbsp;</td></tr><tr><td>Hình ảnh không được chưa các hình, biểu tưởng,... trái quy định của Pháp luật Việt Nam và các quy định khác của nền tảng Zalo tại thời điểm xét duyệt</td></tr></tbody>
+  <tbody><tr><td colspan="2"><p style="text-align:center;"><strong>Quy định về nội dung</strong></p></td></tr><tr><td>Quy định chung về nội dung</td><td>Hình ảnh là nội dung bổ trợ/phụ trợ trong Tin nhắn ZBS Template, vẫn phải đáp ứng chính sách và quy định của nền tảng Zalo nói chung.</td></tr><tr><td rowspan="17">Về nội dung hình ảnh chi tiết</td><td><p>Đối với việc sử dụng hình ảnh nhân vật/con người với mục đích quảng bá/tuyên truyền sản phẩm/dịch vụ/sự kiện, cần đính kèm thông tin:</p><ul><li>Thỏa thuận bằng văn bản hoặc hợp đồng có tính pháp lý trong việc sử dụng hình ảnh nhân vật kèm CMND/CCCD/Passport của nhân vật;</li><li>Hình ảnh trẻ em cần có sự đồng ý bằng văn bản của phụ huynh hoặc người giám hộ</li></ul></td></tr><tr><td>Hình ảnh được tạo bằng Artificial intelligence (AI) cần có nội dung thể hiện trong hình ảnh <u>hoặc</u> nội dung template ZNS để làm rõ vấn đề này (VD: "Hình ảnh được tạo bởi AI")</td></tr><tr><td>Không cho phép có thành phần nội dung chính của hình ảnh là mời follow OA</td></tr><tr><td>Không được sử dụng hình ảnh chụp giấy tờ, văn bản hành chính trên hình ảnh quảng cáo, bao gồm: Giấy chứng nhận quyền sử dụng đất (sổ đỏ), các loại giấy tờ từ cơ quan Nhà nước, giấy phép liên quan đến sản phẩm (Giấy xác nhận nội dung quảng cáo, giấy công bố, giấy an toàn vệ sinh thực phẩm…), thẻ bảo hiểm y tế, hợp đồng, và các loại giấy tờ tương tự khác.</td></tr><tr><td>Không được sử dụng các hình ảnh mồ mả, nghĩa trang, bia mộ hoặc những hình ảnh tương tự.</td></tr><tr><td>Không được sử dụng hình ảnh thuốc lá, khói thuốc lá, thuốc lá điện tử và các dạng thuốc lá khác.</td></tr><tr><td>Không sử dụng hình ảnh kim tiêm, ống chích, dao kéo, vũ khí.</td></tr><tr><td>Không sử dụng hình ảnh của lá cờ Việt Nam hoặc bản đồ hoặc tiền Việt Nam. Không dùng ảnh quân nhân, chính trị.</td></tr><tr><td>Hình ảnh không được khai thác các vấn đề chính sách, giới tính, tôn giáo, tình dục hoặc các vấn đề nhạy cảm khác.</td></tr><tr><td>Hình ảnh quảng cáo không được chứa bộ phận cơ thể được zoom in vượt quá 50% diện tích hình quảng cáo đó.</td></tr><tr><td>Hình ảnh không được gợi dục, ngụ ý khỏa thân, hở da, khoe thân hoặc tập trung một cách không cần thiết vào các bộ phận cơ thể, hình ảnh mô tả con người ở tư thế khiêu dâm, các hoạt động khêu gợi hoặc kích thích quá mức.</td></tr><tr><td>Không sử dụng hình ảnh gây cảm giác tiêu cực cho người xem. Ví dụ, người bệnh, chứng bệnh một cách không sạch sẽ: ví dụ người gầy trơ xương, lở loét, đau đớn, highlight chỗ đau bằng các vòng tròn đỏ, người bụng phệ chảy xệ, vết thương hở và máu me,…</td></tr><tr><td>Không được sử dụng hình ảnh chứa kết quả bất ngờ, không thể xảy ra.</td></tr><tr><td>Không được sử dụng các hình ảnh gây chấn động hoặc gây sợ hãi, hình ảnh chứa hoặc khơi gợi các từ ngữ, nội dung phản cảm, bạo lực, không thân thiện với bất kỳ nhóm người dùng nào.</td></tr><tr><td>Không được chứa sản phẩm (thuốc cấm, thực phẩm cấm, tiền ảo/crypto, vay cá nhân...) / dịch vụ / sản phẩm cấm nói chung.</td></tr><tr><td>Không cho phép hình ảnh có thông tin kêu gọi mời vào group chat. &nbsp;</td></tr><tr><td>Hình ảnh không được chưa các hình, biểu tưởng,... trái quy định của Pháp luật Việt Nam và các quy định khác của nền tảng Zalo tại thời điểm xét duyệt</td></tr></tbody>
 </table>
 </div>
 
