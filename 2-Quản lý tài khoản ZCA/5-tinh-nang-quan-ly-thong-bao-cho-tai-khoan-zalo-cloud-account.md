@@ -6,7 +6,7 @@ slug: /tinh-nang-quan-ly-thong-bao-cho-tai-khoan-zbs
 
 # <p align="center">Tính năng Quản lý thông báo cho tài khoản ZBS</p>
 
-Với tinh thần luôn luôn lắng nghe và thấu hiểu khách hàng, đội ngũ nghiên cứu và phát triển sản phẩm Zalo Business Solutions chính thức ra mắt tính năng mới, cho phép Quản trị viên của ZBS có thể quản lý các hạng mục thông báo về dịch vụ. Đây là một tính năng hữu ích và tiện lợi cho Quý đối tác trong quá trình vận hành và sử dụng dịch vụ của Zalo Business Solutions. 
+Với tinh thần luôn luôn lắng nghe và thấu hiểu khách hàng, đội ngũ nghiên cứu và phát triển sản phẩm Zalo Business Solutions chính thức ra mắt tính năng mới, cho phép Quản trị viên của tài khoản ZBS có thể quản lý các hạng mục thông báo về dịch vụ. Đây là một tính năng hữu ích và tiện lợi cho Quý đối tác trong quá trình vận hành và sử dụng dịch vụ của Zalo Business Solutions. 
 
 ## 1. Phân loại các hạn mục thông báo
 
