@@ -1,14 +1,14 @@
 ---
-id: phan-quyen-quan-li-ZCA
-title: Phân quyền Quản lý thành viên trên tài khoản ZCA
-slug: /phan-quyen-quan-li-ZCA
+id: phan-quyen-quan-li-zbs
+title: Phân quyền Quản lý thành viên trên tài khoản ZBS
+slug: /phan-quyen-quan-li-zbs
 ---
 
-# <p align="center">Phân quyền Quản lý thành viên trên tài khoản ZCA</p>
+# <p align="center">Phân quyền Quản lý thành viên trên tài khoản ZBS</p>
 
-ZCA là tài khoản quản lý số dư để sử dụng các tính năng tính phí của các tài khoản Zalo Official Account - Doanh Nghiệp (OA) và dịch vụ Zalo Notification Service (ZNS). Lưu ý: Mỗi số điện thoại chỉ được làm Quản trị viên cấp cao của tối đa 1 tài khoản ZCA.
+ZBS là tài khoản quản lý số dư để sử dụng các tính năng tính phí của các tài khoản Zalo Official Account - Doanh Nghiệp (OA) và dịch vụ tin nhắn ZBS Template. Lưu ý: Mỗi số điện thoại chỉ được làm Quản trị viên cấp cao của tối đa 1 tài khoản ZBS.
 
-## 1. Phân quyền thành viên trên tài khoản ZCA
+## 1. Phân quyền thành viên trên tài khoản ZBS
 
 <div class="table" align="center">
    <table class="ck-table-resized" style="background-color:transparent;"><colgroup><col style="width:25.8%;"><col style="width:74.2%;"></colgroup><tbody><tr><td style="background-color:transparent;border:1px solid rgb(0, 0, 0);padding:0px;width:85px;"><p style="margin-left:0px;text-align:center;"><strong>Ký hiệu</strong>&nbsp;</p></td><td style="background-color:transparent;border:1px solid rgb(0, 0, 0);padding:0px;width:234px;"><p style="margin-left:0px;text-align:center;"><strong>Lý giải</strong>&nbsp;</p></td></tr><tr><td style="background-color:transparent;border:1px solid rgb(0, 0, 0);padding:0px;width:85px;"><p style="margin-left:0px;text-align:center;"><img class="image_resized" style="width:33px;" src="https://stc-oa.zdn.vn/uploads/f4c84fec737173445771416805774d0a.png">&nbsp;</p></td><td style="background-color:transparent;border:1px solid rgb(0, 0, 0);padding:0px;width:234px;"><p style="margin-left:0px;text-align:center;">Được quyền thao tác&nbsp;</p></td></tr><tr><td style="background-color:transparent;border:1px solid rgb(0, 0, 0);padding:0px;width:85px;"><p style="margin-left:0px;text-align:center;"><img class="image_resized" style="width:32px;" src="https://stc-oa.zdn.vn/uploads/9b9685c94ab8f9ec9413adae867bff56.png">&nbsp;</p></td><td style="background-color:transparent;border:1px solid rgb(0, 0, 0);padding:0px;width:234px;"><p style="margin-left:0px;text-align:center;">Không được truy cập&nbsp;</p></td></tr><tr><td style="background-color:transparent;border:1px solid rgb(0, 0, 0);padding:0px;width:85px;"><p style="margin-left:0px;text-align:center;"><img class="image_resized" style="width:35px;" src="https://stc-oa.zdn.vn/uploads/c3ed980bdedbae00c7fa8cc33b09bd5c.png">&nbsp;</p></td><td style="background-color:transparent;border:1px solid rgb(0, 0, 0);padding:0px;width:234px;"><p style="margin-left:0px;text-align:center;">Được quyền xem&nbsp;</p></td></tr></tbody></table>
@@ -19,13 +19,13 @@ ZCA là tài khoản quản lý số dư để sử dụng các tính năng tín
 
 </div>
 
-Trong trường hợp Quý khách cần thay đổi **"Quản trị viên cấp cao"** của tài khoản ZCA vì bất kì lý do nào, Quý khách vui lòng tham khảo tài liệu [**Hướng dẫn thay đổi quyền quản trị viên cấp cao của tài khoản ZCA**](https://zalo.cloud/blog/huong-dan-thay-doi-quyen-quan-tri-vien-cap-cao-cua-tai-khoan-zca/z4ujvknzjwbnqavdkj).
+Trong trường hợp Quý khách cần thay đổi **"Quản trị viên cấp cao"** của tài khoản ZBS vì bất kì lý do nào, Quý khách vui lòng tham khảo tài liệu [**Hướng dẫn thay đổi quyền quản trị viên cấp cao của tài khoản ZBS**](https://zalo.cloud/blog/huong-dan-thay-doi-quyen-quan-tri-vien-cap-cao-cua-tai-khoan-zca/z4ujvknzjwbnqavdkj).
 
-## 2. Hướng dẫn xem “Danh sách thành viên” trên tài khoản ZCA
+## 2. Hướng dẫn xem “Danh sách thành viên” trên tài khoản ZBS
 
-Quý khách có thể kiểm tra Danh sách thành viên hiện tại trên tài khoản ZCA theo hướng dẫn chi tiết như sau:
+Quý khách có thể kiểm tra Danh sách thành viên hiện tại trên tài khoản ZBS theo hướng dẫn chi tiết như sau:
 
-**Bước 1:** Truy cập vào trang tài khoản [**ZCA**](https://account.zalo.cloud/spending/overview)
+**Bước 1:** Truy cập vào trang tài khoản [**ZBS**](https://account.zalo.cloud/spending/overview)
 
 **Bước 2:** Chọn mục **“Quản lý thành viên”**
 
@@ -33,7 +33,7 @@ Quý khách có thể kiểm tra Danh sách thành viên hiện tại trên tài
   <img src="https://stc-oa.zdn.vn/uploads/a6d74badcc87bc2d34179069b69966be.png" />
 </p>
 
-Tại đây, Quý khách sẽ xem được danh sách các thành viên có thể truy cập vào tài khoản ZCA ở thời điểm hiện tại.
+Tại đây, Quý khách sẽ xem được danh sách các thành viên có thể truy cập vào tài khoản ZBS ở thời điểm hiện tại.
 
 Nếu Quý khách muốn _**thêm thành viên**_ vào tài khoản ZCA, vui lòng thực hiện theo hướng dẫn sau đây:
 
