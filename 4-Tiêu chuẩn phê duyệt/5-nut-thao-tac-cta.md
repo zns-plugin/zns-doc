@@ -1,16 +1,16 @@
 ---
 id: nut-thao-tac-cta
-title: Nút thao tác CTA trong mẫu thông báo ZNS
+title: Nút thao tác CTA trong Tin nhắn ZBS Template
 slug: /nut-thao-tac-cta
 ---
 
-# <p align ="center">Nút thao tác CTA trong mẫu thông báo ZNS</p>
+# <p align ="center">Nút thao tác CTA trong Tin nhắn ZBS Template</p>
 
-Nhằm hỗ trợ khách hàng khai thác tối đa nội dung/mục đích và tối ưu hóa dịch vụ Zalo Notification Service (ZNS), Zalo Business Solutions giới thiệu nút thao tác (CTA) trong nội dung thông báo ZNS. Bài viết này sẽ hướng dẫn quý khách triển khai tính năng này hiệu quả nhất. 
+Nhằm hỗ trợ khách hàng khai thác tối đa nội dung/mục đích và tối ưu hóa dịch vụ Tin nhắn ZBS Template, Zalo Business Solutions giới thiệu nút thao tác (CTA) trong nội dung Tin nhắn ZBS Template. Bài viết này sẽ hướng dẫn quý khách triển khai tính năng này hiệu quả nhất. 
 
 ## 1. Giới thiệu về nút thao tác CTA:
 
-*   Nút thao tác (CTA – Call to Action) là nút gắn kèm trong nội dung mẫu thông báo ZNS, cho phép người nhận click để thực hiện các thao tác bao gồm:
+*   Nút thao tác (CTA – Call to Action) là nút gắn kèm trong nội dung Tin nhắn ZBS Template cho phép người nhận click để thực hiện các thao tác bao gồm:
 *   Gọi điện liên hệ số điện thoại được doanh nghiệp cung cấp
 *   Truy cập đường dẫn (link) được doanh nghiệp cung cấp
 *   Nội dung nút thao tác có thể được tùy chỉnh tùy theo nhu cầu sử dụng của doanh nghiệp. Với mỗi mẫu ZNS, bạn có thể thêm tối đa 2 nút thao tác (nút chính và nút phụ).
@@ -18,10 +18,10 @@ Nhằm hỗ trợ khách hàng khai thác tối đa nội dung/mục đích và 
 
 ## 2. Danh sách các loại Nút thao tác CTA:
 
-Xem thêm tại [**BẢNG GIÁ ZNS**](https://zalo.cloud/zns/pricing).
+Xem thêm tại [**BẢNG GIÁ TIN NHẮN ZBS TEMPLATE**](https://zalo.cloud/zns/pricing).
 
 
-## 3. Hướng dẫn thêm nút thao tác CTA vào mẫu tin ZNS:
+## 3. Hướng dẫn thêm nút thao tác CTA vào Tin nhắn ZBS Template:
 
 **Bước 1**. Click **“Nút thao tác”**.
 
@@ -45,11 +45,11 @@ Xem thêm tại [**BẢNG GIÁ ZNS**](https://zalo.cloud/zns/pricing).
 *   Gửi đường dẫn đăng nhập cho từng tài khoản độc lập
 *   Gửi số điện thoại CSKH theo từng khu vực
 
-_Xem thêm bài viết Tham số (Param) là gì? Thế nào là một tham số đúng quy chuẩn? tại_ [_**ĐÂY**_](https://zalo.cloud/blog/tham-so-param-la-gi-the-nao-la-mot-tham-so-dung-quy-chuan-/4kuprg64gyz88qewg).
+_Xem thêm bài viết Tham số (Param) là gì? Thế nào là một tham số đúng quy chuẩn? tại_ [_**ĐÂY**_](https://zalo.solutions/blog/tham-so-param-la-gi-the-nao-la-mot-tham-so-dung-quy-chuan-/4kuprg64gyz88qewg).
 
 **Bước 1:** Tạo nút liên kết (CTA) với tham số tương ứng và lưu nút thao tác.
 
-*   **Đối với đường dẫn liên kết:** Tham số cần nằm ở phần path của URL, không được trùng với tham số đã sử dụng trong các phần khác của tin ZNS, và dữ liệu tham số mặc định thuộc data type URL (200). Quý khách cần đảm bảo dữ liệu truyền về được mã hóa chuẩn UTF-8 trước khi truyền vào. 
+*   **Đối với đường dẫn liên kết:** Tham số cần nằm ở phần path của URL, không được trùng với tham số đã sử dụng trong các phần khác của Tin nhắn ZBS Template, và dữ liệu tham số mặc định thuộc data type URL (200). Quý khách cần đảm bảo dữ liệu truyền về được mã hóa chuẩn UTF-8 trước khi truyền vào. 
 
 ![](https://stc-oa.zdn.vn/uploads/2491f598361639034facc83b0b157ec5.png)
 
@@ -57,21 +57,21 @@ _Xem thêm bài viết Tham số (Param) là gì? Thế nào là một tham số
 
 ![](https://stc-oa.zdn.vn/uploads/32d1c365f4e8bcd2a20879a24d960ff3.png)
 
-_Hướng dẫn chi tiết Các định dạng dữ liệu khi truyền vào tham số trên nội dung ZNS có thể xem tại [**ĐÂY**](https://zalo.cloud/blog/cac-dinh-dang-du-lieu-khi-truyen-vao-tham-so-tren-noi-dung-zns/9gubbkay4yyrng86a)_.
+_Hướng dẫn chi tiết Các định dạng dữ liệu khi truyền vào tham số trên nội dung tin nhắn có thể xem tại [**ĐÂY**](https://zalo.solutions/blog/cac-dinh-dang-du-lieu-khi-truyen-vao-tham-so-tren-noi-dung-zns/9gubbkay4yyrng86a)_.
 
-#### **Bước 2:** Tạo mẫu ZNS thành công 
+#### **Bước 2:** Tạo Tin nhắn ZBS Template thành công 
 
 ![](https://stc-oa.zdn.vn/uploads/1f135d505e68a7b7d58e96257546aeef.png) 
 
-Sau khi tạo mẫu ZNS thành công, Quý khách vui lòng lưu ý xem mẫu ZNS hiển thị ghi chú yêu cầu đúng định dạng UTF-8. 
+Sau khi tạo Tin nhắn ZBS Template thành công, Quý khách vui lòng lưu ý xem Tin nhắn ZBS Template hiển thị ghi chú yêu cầu đúng định dạng UTF-8. 
 
-#### **Bước 3:** Truyền dữ liệu và gửi lệnh ZNS đến người dùng cuối 
+#### **Bước 3:** Truyền dữ liệu và gửi lệnh Tin nhắn ZBS Template đến người dùng cuối 
 
-Khi gửi thông báo ZNS, hệ thống sẽ kiểm tra tất cả các dữ liệu truyền vào các tham số. 
+Khi gửi tTin nhắn ZBS Template, hệ thống sẽ kiểm tra tất cả các dữ liệu truyền vào các tham số. 
 
 Với các dữ liệu truyền vào tham số (param) trong nút thao tác (CTA), dữ liệu cần chuẩn định dạng UTF-8. Nếu khách hàng chưa mã hoá hoặc mã hóa sai định dạng, hệ thống sẽ báo lỗi -132 Parameter invalid. 
 
-Tham khảo Bảng mã lỗi khi sử dụng dịch vụ Zalo Notification Service tại [**ĐÂY**](https://developers.zalo.me/docs/api/zalo-notification-service-api/phu-luc/bang-ma-loi-post-5233). 
+Tham khảo Bảng mã lỗi khi sử dụng dịch vụ Tin nhắn ZBS Template tại [**ĐÂY**](https://developers.zalo.me/docs/api/zalo-notification-service-api/phu-luc/bang-ma-loi-post-5233). 
 
 _Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://go.zalo.me/SupportZBS )**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
 
