@@ -35,7 +35,7 @@ Quý khách có thể kiểm tra Danh sách thành viên hiện tại trên tài
 
 Tại đây, Quý khách sẽ xem được danh sách các thành viên có thể truy cập vào tài khoản ZBS ở thời điểm hiện tại.
 
-Nếu Quý khách muốn _**thêm thành viên**_ vào tài khoản ZCA, vui lòng thực hiện theo hướng dẫn sau đây:
+Nếu Quý khách muốn _**thêm thành viên**_ vào tài khoản ZBS, vui lòng thực hiện theo hướng dẫn sau đây:
 
 **Bước 1:** Tại trang Quản lý thành viên, chọn mục **“Thêm thành viên”**
 
@@ -49,9 +49,9 @@ Nếu Quý khách muốn _**thêm thành viên**_ vào tài khoản ZCA, vui lò
   <img src="https://stc-oa.zdn.vn/uploads/27a94b9d1925fc703dc6e1d884b87b91.png" />
 </p>
 
-_**Lưu ý: Số điện thoại muốn cấp quyền cho tài khoản ZCA phải là số điện thoại đã có tài khoản Zalo cá nhân và còn sử dụng.**_
+_**Lưu ý: Số điện thoại muốn cấp quyền cho tài khoản ZBS phải là số điện thoại đã có tài khoản Zalo cá nhân và còn sử dụng.**_
 
-Nếu Quý khách muốn _**xoá thành viên**_ khỏi tài khoản ZCA, tại trang Quản lý thành viên, chọn thành viên muốn xoá và nhấn **“Xoá thành viên”**
+Nếu Quý khách muốn _**xoá thành viên**_ khỏi tài khoản ZBS, tại trang Quản lý thành viên, chọn thành viên muốn xoá và nhấn **“Xoá thành viên”**
 
 <p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/9ef00ab2b87152f3d5290ea3e2edebb9.png" />
