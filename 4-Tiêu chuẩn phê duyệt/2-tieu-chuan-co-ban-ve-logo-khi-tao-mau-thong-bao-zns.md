@@ -1,16 +1,16 @@
 ---
-id: tieu-chuan-co-ban-ve-logo-khi-tao-mau-thong-bao-zns
-title: Tiêu chuẩn cơ bản về logo khi tạo mẫu thông báo ZNS
-slug: /tieu-chuan-co-ban-ve-logo-khi-tao-mau-thong-bao-zns
+id: tieu-chuan-co-ban-ve-logo-khi-tao-zbs-template-message
+title: Tiêu chuẩn cơ bản về logo khi tạo Tin nhắn ZBS Template
+slug: /tieu-chuan-co-ban-ve-logo-khi-tao-zbs-template-message
 ---
 
-# <p style="text-align: center">Tiêu chuẩn cơ bản về logo khi tạo mẫu thông báo ZNS</p>
+# <p style="text-align: center">Tiêu chuẩn cơ bản về logo khi tạo Tin nhắn ZBS Template</p>
 
-_Logo doanh nghiệp là một thành phần không thể thiếu của mẫu thông báo ZNS. Để logo được xét duyệt nhanh chóng, Quý khách cần đáp ứng những tiêu chuẩn cơ bản về logo của Zalo Cloud như sau:_ 
+_Logo doanh nghiệp là một thành phần không thể thiếu của Tin nhắn ZBS Template. Để logo được xét duyệt nhanh chóng, Quý khách cần đáp ứng những tiêu chuẩn cơ bản về logo của ZBS như sau:_ 
 
-## A. Tiêu chuẩn logo trên mẫu thông báo ZNS
+## A. Tiêu chuẩn logo trên Tin nhắn ZBS Template
 
-Thiết kế logo theo tiêu chuẩn của Zalo Cloud sẽ giúp mẫu ZNS của doanh nghiệp được hiển thị đẹp hơn khi gửi đến người dùng cuối:  
+Thiết kế logo theo tiêu chuẩn của ZBS sẽ giúp mẫu ZNS của doanh nghiệp được hiển thị đẹp hơn khi gửi đến người dùng cuối:  
 
      **1. Canh lề trái: thẳng hàng với các dòng đầu tiên của nội dung**
 
@@ -53,9 +53,9 @@ Logo là “biểu tượng thương hiệu”, là một phần tử đồ họ
 
      **3. Quản lý logo**   
 
-Doanh nghiệp có thể theo dõi và quản lý các logo đã được tải lên ứng với tên hoặc ID của ứng dụng/OA trên tài khoản ZCA, bằng cách thực hiện các thao tác sau.  
+Doanh nghiệp có thể theo dõi và quản lý các logo đã được tải lên ứng với tên hoặc ID của ứng dụng/OA trên tài khoản ZBS, bằng cách thực hiện các thao tác sau.  
 
-**Bước 1:** Truy cập vào tài khoản ZCA tại [**ĐÂY**](https://account.zalo.cloud/QBU7GBG7N6WDDJAA8/spending/overview). → **“Công cụ” → “Dịch vụ ZNS”**  
+**Bước 1:** Truy cập vào tài khoản ZBS tại [**ĐÂY**](https://account.zalo.cloud/QBU7GBG7N6WDDJAA8/spending/overview). → **“Công cụ” → “Dịch vụ Tin nhắn ZBS Template”**  
 
 <p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/1076997b62f8dc88885d319cb59e49e4.png" />
