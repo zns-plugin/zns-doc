@@ -1,12 +1,12 @@
 ---
-id: tinh-nang-quan-ly-thong-bao-cho-tai-khoan-zalo-cloud-account
-title: Tính Năng Quản Lý Thông Báo Cho Tài Khoản ZCA
-slug: /tinh-nang-quan-ly-thong-bao-cho-tai-khoan-zalo-cloud-account
+id: tinh-nang-quan-ly-thong-bao-cho-tai-khoan-zbs
+title: Tính Năng Quản Lý Thông Báo Cho Tài Khoản ZBS
+slug: /tinh-nang-quan-ly-thong-bao-cho-tai-khoan-zbs
 ---
 
-# <p align="center">Tính năng Quản lý thông báo cho tài khoản ZCA</p>
+# <p align="center">Tính năng Quản lý thông báo cho tài khoản ZBS</p>
 
-Với tinh thần luôn luôn lắng nghe và thấu hiểu khách hàng, đội ngũ nghiên cứu và phát triển sản phẩm Zalo Business Solutions chính thức ra mắt tính năng mới, cho phép Quản trị viên của ZCA có thể quản lý các hạng mục thông báo về dịch vụ. Đây là một tính năng hữu ích và tiện lợi cho Quý đối tác trong quá trình vận hành và sử dụng dịch vụ của Zalo Business Solutions. 
+Với tinh thần luôn luôn lắng nghe và thấu hiểu khách hàng, đội ngũ nghiên cứu và phát triển sản phẩm Zalo Business Solutions chính thức ra mắt tính năng mới, cho phép Quản trị viên của ZBS có thể quản lý các hạng mục thông báo về dịch vụ. Đây là một tính năng hữu ích và tiện lợi cho Quý đối tác trong quá trình vận hành và sử dụng dịch vụ của Zalo Business Solutions. 
 
 ## 1. Phân loại các hạn mục thông báo
 
@@ -26,13 +26,13 @@ Khi chọn **“Bật”** nhận tin thông báo, Quý khách sẽ bắt đầu
   <img src="https://stc-oa.zdn.vn/uploads/9fceb5dd051fe39799ec67a86ce9e010.png" />
 </p>
 
-_<p align="center">Mẫu tin thông báo ZNS - Loại thông báo: Thông báo về ZNS (Trạng thái xét duyệt mẫu ZNS)</p>_
+_<p align="center">Tin nhắn ZBS Template - Loại thông báo: Thông báo về Tin nhắn ZBS Template (Trạng thái xét duyệt Tin nhắn ZBS Template)</p>_
 
 ### b. Quản lý việc nhận thông báo 
 
 Để đáp ứng nhu cầu riêng biệt của các Doanh nghiệp, Zalo Business Solutions cho phép người dùng tự điều chỉnh việc nhận từng loại thông báo theo các hạng mục
 
-Sau khi bật thông báo, user sẽ nhận tin ZNS để có thể đưa ra hướng xử lý phù hợp và nhanh nhất để tối ưu vận hành khi sử dụng dịch vụ của Zalo Business Solutions.
+Sau khi bật thông báo, user sẽ nhận Tin nhắn ZBS Template để có thể đưa ra hướng xử lý phù hợp và nhanh nhất để tối ưu vận hành khi sử dụng dịch vụ của Zalo Business Solutions.
 
 <p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/b0fe8f329326382b129c970ddb1d3713.png" />
@@ -46,9 +46,9 @@ _<p align="center">Giao diện Quản lý thông báo (Tài khoản trả sau)</
 
 _<p align="center">Giao diện Quản lý thông báo (Tài khoản trả trước)</p>_
 
-**Cách điều chỉnh: Truy cập** [**ZCA**](https://account.zalo.cloud/) → **Cài đặt** → [**Quản lý thông báo**](https://account.zalo.cloud/setting/notification)
+**Cách điều chỉnh: Truy cập** [**Tài khoản ZBS**](https://account.zalo.cloud/) → **Cài đặt** → [**Quản lý thông báo**](https://account.zalo.cloud/setting/notification)
 
-Tại đây **Quản trị viên và Quản trị viên cấp cao** của tài khoản Zalo Cloud Account có thể chỉnh sửa cài đặt thông báo:
+Tại đây **Quản trị viên và Quản trị viên cấp cao** của tài khoản ZBS có thể chỉnh sửa cài đặt thông báo:
 
 - Bật/tắt việc nhận thông báo
 - Chọn người nhận thông báo
