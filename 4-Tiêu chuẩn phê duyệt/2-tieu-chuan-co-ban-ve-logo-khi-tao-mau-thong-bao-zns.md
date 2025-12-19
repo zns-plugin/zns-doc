@@ -10,7 +10,7 @@ _Logo doanh nghiệp là một thành phần không thể thiếu của Tin nh�
 
 ## A. Tiêu chuẩn logo trên Tin nhắn ZBS Template
 
-Thiết kế logo theo tiêu chuẩn của ZBS sẽ giúp mẫu ZNS của doanh nghiệp được hiển thị đẹp hơn khi gửi đến người dùng cuối:  
+Thiết kế logo theo tiêu chuẩn của ZBS sẽ giúp Tin nhắn ZBS Template của doanh nghiệp được hiển thị đẹp hơn khi gửi đến người dùng cuối:  
 
      **1. Canh lề trái: thẳng hàng với các dòng đầu tiên của nội dung**
 
