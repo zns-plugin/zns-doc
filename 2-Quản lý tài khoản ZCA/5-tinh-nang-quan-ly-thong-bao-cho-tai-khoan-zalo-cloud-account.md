@@ -46,7 +46,7 @@ _<p align="center">Giao diện Quản lý thông báo (Tài khoản trả sau)</
 
 _<p align="center">Giao diện Quản lý thông báo (Tài khoản trả trước)</p>_
 
-**Cách điều chỉnh: Truy cập** [**Tài khoản ZBS**](https://account.zalo.cloud/) → **Cài đặt** → [**Quản lý thông báo**](https://account.zalo.cloud/setting/notification)
+**Cách điều chỉnh: Truy cập** [**Tài khoản ZBS**](https://account.zalo.solutions/) → **Cài đặt** → [**Quản lý thông báo**](https://account.zalo.solutions/setting/notification)
 
 Tại đây **Quản trị viên và Quản trị viên cấp cao** của tài khoản ZBS có thể chỉnh sửa cài đặt thông báo:
 
@@ -63,4 +63,4 @@ _(\*) Với loại Thông báo số dư tài khoản (Tài khoản Trả trướ
 
 _Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://go.zalo.me/SupportZBS )**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
 
-_**Lưu ý:**_ _Từ 06/08/2025, **Zalo Cloud** chính thức đổi tên thành **Zalo Business Solutions.** Việc ra mắt thương hiệu Zalo Business Solutions (ZBS) là sự thay đổi về mặt nhận diện thương hiệu, không làm thay đổi về mặt pháp lý đối với các hoạt động, giao dịch và cam kết đã có trước đây dưới tên gọi Zalo Cloud._
+
