@@ -19,13 +19,13 @@ ZBS là tài khoản quản lý số dư để sử dụng các tính năng tín
 
 </div>
 
-Trong trường hợp Quý khách cần thay đổi **"Quản trị viên cấp cao"** của tài khoản ZBS vì bất kì lý do nào, Quý khách vui lòng tham khảo tài liệu [**Hướng dẫn thay đổi quyền quản trị viên cấp cao của tài khoản ZBS**](https://zalo.cloud/blog/huong-dan-thay-doi-quyen-quan-tri-vien-cap-cao-cua-tai-khoan-zca/z4ujvknzjwbnqavdkj).
+Trong trường hợp Quý khách cần thay đổi **"Quản trị viên cấp cao"** của tài khoản ZBS vì bất kì lý do nào, Quý khách vui lòng tham khảo tài liệu [**Hướng dẫn thay đổi quyền quản trị viên cấp cao của tài khoản ZBS**](https://zalo.solutions/blog/huong-dan-thay-doi-quyen-quan-tri-vien-cap-cao-cua-tai-khoan-zca/z4ujvknzjwbnqavdkj).
 
 ## 2. Hướng dẫn xem “Danh sách thành viên” trên tài khoản ZBS
 
 Quý khách có thể kiểm tra Danh sách thành viên hiện tại trên tài khoản ZBS theo hướng dẫn chi tiết như sau:
 
-**Bước 1:** Truy cập vào trang tài khoản [**ZBS**](https://account.zalo.cloud/spending/overview)
+**Bước 1:** Truy cập vào trang tài khoản [**ZBS**](https://account.zalo.solutions/spending/overview)
 
 **Bước 2:** Chọn mục **“Quản lý thành viên”**
 
@@ -59,4 +59,3 @@ Nếu Quý khách muốn _**xoá thành viên**_ khỏi tài khoản ZBS, tại 
 
 _Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://go.zalo.me/SupportZBS )**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
 
-_**Lưu ý:**_ _Từ 06/08/2025, **Zalo Cloud** chính thức đổi tên thành **Zalo Business Solutions.** Việc ra mắt thương hiệu Zalo Business Solutions (ZBS) là sự thay đổi về mặt nhận diện thương hiệu, không làm thay đổi về mặt pháp lý đối với các hoạt động, giao dịch và cam kết đã có trước đây dưới tên gọi Zalo Cloud._
