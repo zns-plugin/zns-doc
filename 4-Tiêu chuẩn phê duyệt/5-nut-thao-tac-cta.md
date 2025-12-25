@@ -1,12 +1,12 @@
 ---
 id: nut-thao-tac-cta
-title: Nút thao tác CTA trong Tin nhắn ZBS Template
+title: Nút thao tác CTA trong Mẫu Tin nhắn ZBS
 slug: /nut-thao-tac-cta
 ---
 
-# <p align ="center">Nút thao tác CTA trong Tin nhắn ZBS Template</p>
+# <p align ="center">Nút thao tác CTA trong Mẫu Tin nhắn ZBS</p>
 
-Nhằm hỗ trợ khách hàng khai thác tối đa nội dung/mục đích và tối ưu hóa dịch vụ Tin nhắn ZBS Template, Zalo Business Solutions giới thiệu nút thao tác (CTA) trong nội dung Tin nhắn ZBS Template. Bài viết này sẽ hướng dẫn quý khách triển khai tính năng này hiệu quả nhất. 
+Nhằm hỗ trợ khách hàng khai thác tối đa nội dung/mục đích và tối ưu hóa dịch vụ Tin nhắn ZBS Template, Zalo Business Solutions giới thiệu nút thao tác (CTA) trong nội dung Mẫu Tin nhắn ZBS. Bài viết này sẽ hướng dẫn quý khách triển khai tính năng này hiệu quả nhất. 
 
 ## 1. Giới thiệu về nút thao tác CTA:
 
@@ -18,10 +18,10 @@ Nhằm hỗ trợ khách hàng khai thác tối đa nội dung/mục đích và 
 
 ## 2. Danh sách các loại Nút thao tác CTA:
 
-Xem thêm tại [**BẢNG GIÁ TIN NHẮN ZBS TEMPLATE**](https://zalo.cloud/zns/pricing).
+Xem thêm tại [**BẢNG GIÁ TIN NHẮN ZBS TEMPLATE**](https://zalo.solutions/zns/pricing).
 
 
-## 3. Hướng dẫn thêm nút thao tác CTA vào Tin nhắn ZBS Template:
+## 3. Hướng dẫn thêm nút thao tác CTA vào Mẫu Tin nhắn ZBS:
 
 **Bước 1**. Click **“Nút thao tác”**.
 
@@ -30,13 +30,13 @@ Xem thêm tại [**BẢNG GIÁ TIN NHẮN ZBS TEMPLATE**](https://zalo.cloud/zn
 
 **Bước 2**. Chọn loại nút thao tác theo nhu cầu, tạo đường dẫn liên kết/số điện thoại mới hoặc chọn từ dữ liệu được lưu từ các mẫu tin trước.
 
-  ![](https://content.zalo.cloud/uploads/image_fa118fa78b.png)![](https://stc-oa.zdn.vn/uploads/dfbde94e34e21269e42b7106e4a773bf.png)
+  ![](https://content.zalo.solutions/uploads/image_fa118fa78b.png)![](https://stc-oa.zdn.vn/uploads/dfbde94e34e21269e42b7106e4a773bf.png)
 
 
 **Bước 3.** Thêm nút thao tác thứ 2 theo nhu cầu, lặp lại các bước trước. 
 
 
-## 4. Hướng dẫn thêm nút thao tác CTA vào mẫu tin ZNS:
+## 4. Hướng dẫn thêm nút thao tác CTA vào Mẫu Tin nhắn ZBS:
 
 Để có thể hỗ trợ doanh nghiệp cá nhân hóa (customize) đường dẫn gửi cho từng người dùng, Zalo Business Solutions chính thức mở tích hợp khả năng truyền tham số (param) vào nút thao tác (CTA) khi tạo mẫu ZNS. Tính năng này phù hợp cho nhiều doanh nghiệp thuộc nhiều ngành hàng với các nhu cầu tiêu biểu bao gồm nhưng không giới hạn như: 
 
@@ -59,15 +59,15 @@ _Xem thêm bài viết Tham số (Param) là gì? Thế nào là một tham số
 
 _Hướng dẫn chi tiết Các định dạng dữ liệu khi truyền vào tham số trên nội dung tin nhắn có thể xem tại [**ĐÂY**](https://zalo.solutions/blog/cac-dinh-dang-du-lieu-khi-truyen-vao-tham-so-tren-noi-dung-zns/9gubbkay4yyrng86a)_.
 
-#### **Bước 2:** Tạo Tin nhắn ZBS Template thành công 
+#### **Bước 2:** Tạo Mẫu Tin nhắn ZBS thành công 
 
 ![](https://stc-oa.zdn.vn/uploads/1f135d505e68a7b7d58e96257546aeef.png) 
 
-Sau khi tạo Tin nhắn ZBS Template thành công, Quý khách vui lòng lưu ý xem Tin nhắn ZBS Template hiển thị ghi chú yêu cầu đúng định dạng UTF-8. 
+Sau khi tạo Mẫu Tin nhắn ZBS thành công, Quý khách vui lòng lưu ý xem Mẫu hiển thị ghi chú yêu cầu đúng định dạng UTF-8. 
 
 #### **Bước 3:** Truyền dữ liệu và gửi lệnh Tin nhắn ZBS Template đến người dùng cuối 
 
-Khi gửi tTin nhắn ZBS Template, hệ thống sẽ kiểm tra tất cả các dữ liệu truyền vào các tham số. 
+Khi gửi Tin nhắn ZBS Template, hệ thống sẽ kiểm tra tất cả các dữ liệu truyền vào các tham số. 
 
 Với các dữ liệu truyền vào tham số (param) trong nút thao tác (CTA), dữ liệu cần chuẩn định dạng UTF-8. Nếu khách hàng chưa mã hoá hoặc mã hóa sai định dạng, hệ thống sẽ báo lỗi -132 Parameter invalid. 
 
