@@ -4,7 +4,7 @@ title: Các quy định xét duyệt Tin nhắn ZBS Template chứa module hình
 slug: /cac-quy-dinh-xet-duyet-zbs-template-message-chua-module-hinh-anh
 ---
 
-# <p style="text-align: center">Các quy định xét duyệt Tin nhắn ZBS Template  chứa module hình ảnh</p>
+# <p style="text-align: center">Các quy định xét duyệt Tin nhắn ZBS Template chứa module hình ảnh</p>
 
 Với kế hoạch ra mắt tính năng cho phép bổ sung hình ảnh cho Tin nhắn ZBS Template để gia tăng tính tương tác giúp doanh nghiệp có thể truyền đạt thông điệp chăm sóc khách hàng của mình - ở đây là người dùng cuối (end-user).
 
@@ -275,4 +275,4 @@ Các kích thước thành phần chữ không yêu cầu bắt buộc tương t
 
 _Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://go.zalo.me/SupportZBS )**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
 
-_**Lưu ý:**_ _Từ 06/08/2025, **Zalo Cloud** chính thức đổi tên thành **Zalo Business Solutions.** Việc ra mắt thương hiệu Zalo Business Solutions (ZBS) là sự thay đổi về mặt nhận diện thương hiệu, không làm thay đổi về mặt pháp lý đối với các hoạt động, giao dịch và cam kết đã có trước đây dưới tên gọi Zalo Cloud._
+
