@@ -14,7 +14,7 @@ Quý khách có thể xem thêm [Tham số (Param) là gì? Thế nào là một
 
 ## 1. Hướng dẫn cài đặt kỹ thuật tham số
 
-Trong quá trình tạo mẫu ZNS, tại bước “Tạo nội dung” có phần cài đặt kĩ thuật cho tham số.  
+Trong quá trình tạo mẫu tin, tại bước “Tạo nội dung” có phần cài đặt kĩ thuật cho tham số.  
 
 Mỗi tham số sẽ có các cài đặt kĩ thuật khác nhau, tùy vào nhu cầu của doanh nghiệp sẽ có cách cài đặt khác nhau. Tuy nhiên, người dùng cần lưu ý chọn đúng cài đặt kĩ thuật cho từng tham số và truyền đúng định dạng, độ dài ký tự vào param.  
 
@@ -30,7 +30,7 @@ Mỗi tham số sẽ có các cài đặt kĩ thuật khác nhau, tùy vào nhu 
 _<p align="center">Tương ứng với từng tham số sẽ có các cài đặt kỹ thuật khác nhau</p>_
 
 
-## 2. Các định dạng của tham số khi tạo mẫu ZNS
+## 2. Các định dạng của tham số khi tạo mẫu tin
 
 ### a. Tham số trong nội dung chính
 
@@ -66,7 +66,7 @@ VD: Dữ liệu cần truyền vào tham số tại nút thao  là “Nguyễn 
 
 Sau khi định dạng các tham số, Liên kết (URL) truyền vào CTA sẽ có dạng là: https://example.com/param?customer\_name=<param1>&URL=<param2>
 
-_<p align="center">Xem chi tiết hướng dẫn truyền tham số vào link CTA tại_ [_ĐÂY_](https://zalo.cloud/blog/cap-nhat-tinh-nang-zns-cho-phep-truyen-tham-so-param-vao-nut-thao-tac-cta-/6vuz4a47rd86q99mwd).</p>
+_<p align="center">Xem chi tiết hướng dẫn truyền tham số vào link CTA tại_ [_ĐÂY_](https://zalo.solutions/blog/cap-nhat-tinh-nang-zns-cho-phep-truyen-tham-so-param-vao-nut-thao-tac-cta-/6vuz4a47rd86q99mwd).</p>
 
 
 ## 3. Các định dạng dữ liệu khác
@@ -81,9 +81,8 @@ Dành cho các KH có templates được tạo qua yêu cầu đặc biệt. 
 
 ## 4. Hướng dẫn xử lý mã lỗi liên quan thường gặp
 
-Xem thêm chi tiết và hướng dẫn xử lý các mã lỗi tại [ĐÂY](https://zalo.cloud/zns/guidelines/handle-error-code). 
+Xem thêm chi tiết và hướng dẫn xử lý các mã lỗi tại [ĐÂY](https://zalo.solutions/zns/guidelines/handle-error-code). 
  
 
 _Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://go.zalo.me/SupportZBS )**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
 
-_**Lưu ý:**_ _Từ 06/08/2025, **Zalo Cloud** chính thức đổi tên thành **Zalo Business Solutions.** Việc ra mắt thương hiệu Zalo Business Solutions (ZBS) là sự thay đổi về mặt nhận diện thương hiệu, không làm thay đổi về mặt pháp lý đối với các hoạt động, giao dịch và cam kết đã có trước đây dưới tên gọi Zalo Cloud._
