@@ -1,3 +1,7 @@
+id: quy-dinh-chung-khi-kiem-duyet-mau-zbs-template-message
+title: Quy định chung khi kiểm duyệt mẫu tin nhắn ZBS
+slug: /quy-dinh-chung-khi-kiem-duyet-mau-zbs-template-message
+
 Bước đầu tiên để bắt đầu sử dụng dịch vụ Tin nhắn ZBS Template là chuẩn bị nội dung mẫu template và gửi đến bộ phận kiểm duyệt. Thao tác này cần thực hiện để đảm bảo tính toàn diện, xác minh mục đích sử dụng và đảm bảo hình ảnh doanh nghiệp được trình bày một cách chuyên nghiệp, nhằm tạo ấn tượng tốt nhất đối với người dùng cuối.
 
 Nội dung mẫu template cần đảm bảo tất cả các yêu cầu được liệt kê về **Yêu cầu tổng quan,** **Yêu cầu theo mục đích, Quy định bổ sung với các mục đích đặc biệt & Yêu cầu và quy định với các nhóm ngành/nhóm sản phẩm đặc biệt** tương ứng  
