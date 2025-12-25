@@ -1,16 +1,16 @@
 ---
 id: tieu-chuan-co-ban-ve-logo-khi-tao-zbs-template-message
-title: Tiêu chuẩn cơ bản về logo khi tạo Tin nhắn ZBS Template
+title: Tiêu chuẩn cơ bản về logo khi tạo Mẫu Tin nhắn ZBS
 slug: /tieu-chuan-co-ban-ve-logo-khi-tao-zbs-template-message
 ---
 
 # <p style="text-align: center">Tiêu chuẩn cơ bản về logo khi tạo Tin nhắn ZBS Template</p>
 
-_Logo doanh nghiệp là một thành phần không thể thiếu của Tin nhắn ZBS Template. Để logo được xét duyệt nhanh chóng, Quý khách cần đáp ứng những tiêu chuẩn cơ bản về logo của ZBS như sau:_ 
+_Logo doanh nghiệp là một thành phần không thể thiếu của Mẫu Tin nhắn ZBS. Để logo được xét duyệt nhanh chóng, Quý khách cần đáp ứng những tiêu chuẩn cơ bản về logo của ZBS như sau:_ 
 
-## A. Tiêu chuẩn logo trên Tin nhắn ZBS Template
+## A. Tiêu chuẩn logo trên Mẫu Tin nhắn ZBS
 
-Thiết kế logo theo tiêu chuẩn của ZBS sẽ giúp Tin nhắn ZBS Template của doanh nghiệp được hiển thị đẹp hơn khi gửi đến người dùng cuối:  
+Thiết kế logo theo tiêu chuẩn của ZBS sẽ giúp Mẫu Tin nhắn ZBS của doanh nghiệp được hiển thị đẹp hơn khi gửi đến người dùng cuối:  
 
      **1. Canh lề trái: thẳng hàng với các dòng đầu tiên của nội dung**
 
@@ -55,7 +55,7 @@ Logo là “biểu tượng thương hiệu”, là một phần tử đồ họ
 
 Doanh nghiệp có thể theo dõi và quản lý các logo đã được tải lên ứng với tên hoặc ID của ứng dụng/OA trên tài khoản ZBS, bằng cách thực hiện các thao tác sau.  
 
-**Bước 1:** Truy cập vào tài khoản ZBS tại [**ĐÂY**](https://account.zalo.cloud/QBU7GBG7N6WDDJAA8/spending/overview). → **“Công cụ” → “Dịch vụ Tin nhắn ZBS Template”**  
+**Bước 1:** Truy cập vào tài khoản ZBS tại [**ĐÂY**](https://account.zalo.solutions/spending/overview). → **“Công cụ” → “Dịch vụ gửi tin”**  
 
 <p align="center">
   <img src="https://stc-oa.zdn.vn/uploads/1076997b62f8dc88885d319cb59e49e4.png" />
@@ -70,5 +70,3 @@ Doanh nghiệp có thể theo dõi và quản lý các logo đã được tải 
 
 
 _Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://go.zalo.me/SupportZBS )**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
-
-_**Lưu ý:**_ _Từ 06/08/2025, **Zalo Cloud** chính thức đổi tên thành **Zalo Business Solutions.** Việc ra mắt thương hiệu Zalo Business Solutions (ZBS) là sự thay đổi về mặt nhận diện thương hiệu, không làm thay đổi về mặt pháp lý đối với các hoạt động, giao dịch và cam kết đã có trước đây dưới tên gọi Zalo Cloud._
