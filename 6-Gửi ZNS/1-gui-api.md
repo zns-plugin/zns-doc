@@ -7,7 +7,7 @@ slug: /gui-api
 # <p align ="center">Hướng dẫn gửi API</p>
 
 
-## 1. Giới thiệu về các phương thức gửi ZNS
+## 1. Giới thiệu về các phương thức gửi Tin nhắn ZBS Template
 
 
 Có 2 hình thức gửi thông báo ZNS: 
@@ -18,7 +18,7 @@ Có 2 hình thức gửi thông báo ZNS: 
 
 <div class="table" align="center">
     <table>
-<table><tbody><tr><td style="text-align:center;"><strong>Qua API</strong></td><td style="text-align:center;"><strong>Theo chiến dịch (Không qua API)</strong></td></tr><tr><td><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Gửi qua API</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Cần nhân lực có kiến thức về kỹ thuật&nbsp;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Gửi số lượng lớn&nbsp;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Dữ liệu gửi API không được lưu trên ZCA</p></td><td><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Gửi qua file Excel tải lên ZCA</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Cần chuẩn bị file Excel&nbsp;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Gửi số lượng có hạn mức</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Dữ liệu gửi được lưu trên tài khoản ZCA</p></td></tr></tbody></table>
+<table><tbody><tr><td style="text-align:center;"><strong>Qua API</strong></td><td style="text-align:center;"><strong>Theo chiến dịch (Không qua API)</strong></td></tr><tr><td><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Gửi qua API</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Cần nhân lực có kiến thức về kỹ thuật&nbsp;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Gửi số lượng lớn&nbsp;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Dữ liệu gửi API không được lưu trên ZCA</p></td><td><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Gửi qua file Excel tải lên ZBS</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Cần chuẩn bị file Excel&nbsp;</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Gửi số lượng có hạn mức</p><p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Dữ liệu gửi được lưu trên tài khoản ZBS</p></td></tr></tbody></table>
 </div>
 
 
@@ -29,7 +29,7 @@ Có 2 hình thức gửi thông báo ZNS: 
 </p>
 
 
-_<p align="center">Sequence diagram API giữa Đối tác gửi tin, Zalo server và người nhận ZNS</p>_
+_<p align="center">Sequence diagram API giữa Đối tác gửi tin, Zalo server và người nhận tin</p>_
 
 
 **Miêu tả chi tiết:**
@@ -73,7 +73,7 @@ Sau khi yêu cầu được gửi đi, máy chủ Zalo sẽ phản hồi với c
 Xem chi tiết hơn về cấu trúc của request và response tại [**ĐÂY**](https://developers.zalo.me/docs/api/zalo-notification-service-api/gui-zns/gui-zns-post-5208).
 
 
-### c. Sự kiện gửi ZNS [](https://zalo.cloud/zns/guidelines/zns-api#3-s%E1%BB%B1-ki%E1%BB%87n-g%E1%BB%ADi-zns)
+### c. Sự kiện gửi ZNS [](https://zalo.solutions/zns/guidelines/zns-api#3-s%E1%BB%B1-ki%E1%BB%87n-g%E1%BB%ADi-zns)
 
 Nếu request thành công, tin ZNS sẽ được gửi tới người dùng:
 
