@@ -1,7 +1,7 @@
 ---
-id: cap-nhat-moi-zns-voucher-template-ra-mat-tren-zca
-title: Giới thiệu về mẫu thông báo ZNS Voucher Template (Ra mắt trên ZCA)
-slug: /cap-nhat-moi-zns-voucher-template-ra-mat-tren-zca
+id: cap-nhat-moi-mau-voucher
+title: Giới thiệu về Mẫu Voucher
+slug:/cap-nhat-moi-mau-voucher
 ---
 
 Với tinh thần luôn luôn lắng nghe và thấu hiểu nhu cầu của khách hàng muốn trải nghiệm mua sắm thuận tiện và dễ dàng, đội ngũ nghiên cứu và phát triển sản phẩm Zalo Business Solutions chính thức ra mắt mẫu Mẫu Voucher như một giải pháp toàn diện, giúp khách hàng dễ dàng nhận biết và sử dụng ưu đãi một cách thông minh. 
