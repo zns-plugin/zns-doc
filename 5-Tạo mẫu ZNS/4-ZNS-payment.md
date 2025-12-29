@@ -1,7 +1,7 @@
 ---
-id: cap-nhat-moi-zns-yeu-cau-thanh-toan-payment-request
-title: Giới thiệu về mẫu thông báo ZNS Yêu cầu thanh toán (Payment Request)
-slug: /cap-nhat-moi-zns-yeu-cau-thanh-toan-payment-request
+id: cap-nhat-moi-mau-yeu-cau-thanh-toan-payment-request
+title: Giới thiệu về Mẫu Yêu cầu thanh toán (Payment Request)
+slug: /cap-nhat-moi-mau-yeu-cau-thanh-toan-payment-request
 ---
 Với tinh thần luôn luôn lắng nghe và thấu hiểu nhu cầu của khách hàng muốn trải nghiệm mua sắm thuận tiện và dễ dàng, đội ngũ nghiên cứu và phát triển sản phẩm Zalo Business Solutions chính thức ra mắt Mẫu Yêu cầu thanh toán (Payment Request) như một giải pháp toàn diện, mang lại giải pháp Yêu cầu thanh toán tiện lợi, dễ hiểu giữa Doanh nghiệp và khách hàng của mình. 
 
