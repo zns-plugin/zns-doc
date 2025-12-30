@@ -35,7 +35,7 @@ Zalo Business Solutions sẽ chỉ hỗ trợ làm biên bản điều chỉnh h
 *   **Tiêu đề**: [Tên doanh nghiệp] Thông báo điều chỉnh thông tin hóa đơn
 *   **Nội dung**:
     *   **OA ID**:
-    *   **ZCA ID**:
+    *   **ZBS ID**:
 
 **Lưu ý:** 
 
@@ -47,11 +47,10 @@ Zalo Business Solutions sẽ chỉ hỗ trợ làm biên bản điều chỉnh h
   <img src="https://stc-oa.zdn.vn/uploads/2025/03/11/3762c20f165dd93d15234b9f2456601c.png" />
 </p>
 
-Xem thêm những lưu ý quan trọng về việc xuất hoá đơn tại [**ĐÂY**](https://zalo.cloud/blog/nhung-luu-y-quan-trong-ve-viec-xuat-hoa-don-tren-zalo-cloud/vvurkeybbvj7aa6r76).
+Xem thêm những lưu ý quan trọng về việc xuất hoá đơn tại [**ĐÂY**](https://zalo.solutions/blog/nhung-luu-y-quan-trong-ve-viec-xuat-hoa-don-tren-zalo-cloud/vvurkeybbvj7aa6r76).
 
-Xem thêm tài liệu [Hướng dẫn nạp tiền vào tài khoản ZCA](https://zalo.cloud/blog/huong-dan-nap-tien-vao-tai-khoan-zalo-cloud-account-zca-/dbuegyjqepvn9gk79q).  
+Xem thêm tài liệu [Hướng dẫn nạp tiền vào tài khoản ZCA](https://zalo.solutions/blog/huong-dan-nap-tien-vao-tai-khoan-zalo-cloud-account-zca-/dbuegyjqepvn9gk79q).  
  
 
 _Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://go.zalo.me/SupportZBS )**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
 
-_**Lưu ý:**_ _Từ 06/08/2025, **Zalo Cloud** chính thức đổi tên thành **Zalo Business Solutions.** Việc ra mắt thương hiệu Zalo Business Solutions (ZBS) là sự thay đổi về mặt nhận diện thương hiệu, không làm thay đổi về mặt pháp lý đối với các hoạt động, giao dịch và cam kết đã có trước đây dưới tên gọi Zalo Cloud._
