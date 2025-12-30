@@ -10,7 +10,7 @@ slug: /gui-api
 ## 1. Giới thiệu về các phương thức gửi Tin nhắn ZBS Template
 
 
-Có 2 hình thức gửi thông báo ZNS: 
+Có 2 hình thức gửi tin: 
 
 1.      **Qua API** 
 
