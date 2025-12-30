@@ -53,8 +53,8 @@ Xem thêm tại [Trường hợp nào được hỗ trợ điều chỉnh hoá �
 
 ## 6. Tra cứu hoá đơn_:
 
-- Hoá đơn sẽ được gửi về địa chỉ **email nhận hoá đơn** trong trường hợp người nhận chọn nhận hoá đơn khi nạp tiền vào ngày làm việc kế tiếp kể từ ngày giao dịch được ghi nhận thành công. Trong trường hợp người nhận chọn không nhận hoá đơn khi nạp tiền, hoá đơn chỉ xuất hiện trên mục **Quản lý hoá đơn** trên tài khoản ZCA
-- Quý khách có thể tra cứu hoá đơn trực tiếp trên ZCA tại mục **"Quản lý hoá đơn"** vào ngày làm việc kế sau đó
+- Hoá đơn sẽ được gửi về địa chỉ **email nhận hoá đơn** trong trường hợp người nhận chọn nhận hoá đơn khi nạp tiền vào ngày làm việc kế tiếp kể từ ngày giao dịch được ghi nhận thành công. Trong trường hợp người nhận chọn không nhận hoá đơn khi nạp tiền, hoá đơn chỉ xuất hiện trên mục **Quản lý hoá đơn** trên tài khoản ZBS
+- Quý khách có thể tra cứu hoá đơn trực tiếp trên ZBS tại mục **"Quản lý hoá đơn"** vào ngày làm việc kế sau đó
 Xem thêm tại bài viết:  [**Tra cứu hóa đơn nạp tiền dễ dàng hơn bao giờ hết**](https://zalo.solutions/blog/tra-cuu-hoa-don-nap-tien-de-dang-hon-bao-gio-het-cung-zca/it5rfsbhdopyqprwa9n9l20y)
 - ![image.png](https://content.zalo.cloud/uploads/image_1e731713ee.png)
 
