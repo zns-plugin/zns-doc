@@ -22,7 +22,7 @@ Zalo Business Solutions hỗ trợ khách hàng xuất hóa đơn cho số tiề
   - Email nhận hóa đơn 
  ![image.png](https://content.zalo.cloud/uploads/68747470733a2f2f7374632d6f612e7a646e2e766e2f75706c6f6164732f35363330636462356230326366396463303964393766653732346631613437622e6a7067_edffeadd82.jpg)
 
-- _**Cách cập nhật Thông tin tài khoản ZCA**:_  
+- _**Cách cập nhật Thông tin tài khoản ZBS**:_  
   Truy cập và đăng nhập [**ZBS**](https://account.zalo.solutions/) cần sử dụng > Chọn [**"Thông tin tài khoản"**](https://account.zalo.solutions/setting/info) tại thanh menu bên trái > Chọn **"Chỉnh sửa"**  
   **Kiểm tra và điều chỉnh thông tin nếu có** > Chọn **"Điều chỉnh thông tin"** để lưu lại.
 
