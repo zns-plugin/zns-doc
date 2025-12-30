@@ -34,7 +34,6 @@ Với mục đích cam kết chất lượng gửi tin, dịch vụ ZNS sẽ ch�
 
 _**<p align="center">Thời gian gửi tin ZNS \= delivery\_time – sent_time</p>**_   
  
-
 Nếu **Thời gian gửi tin >** **Timeout của loại ZNS**, tin ZNS sẽ không bị tính phí. Còn lại, nếu gửi thành công trong thời gian timeout quy định, tin ZNS sẽ được tính phí như thường lệ.
 
 
