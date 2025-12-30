@@ -1,14 +1,14 @@
 ---
-id: nhung-luu-y-quan-trong-ve-viec-xuat-hoa-don-tren-zalo-cloud
-title: Những lưu ý quan trọng về việc xuất hoá đơn trên ZCA
-slug: /nhung-luu-y-quan-trong-ve-viec-xuat-hoa-don-tren-zalo-cloud
+id: nhung-luu-y-quan-trong-ve-viec-xuat-hoa-don
+title: Những lưu ý quan trọng về việc xuất hoá đơn
+slug: /nhung-luu-y-quan-trong-ve-viec-xuat-hoa-don
 ---
 
-# <p align="center">Những lưu ý quan trọng về việc xuất hoá đơn trên ZCA</p>
+# <p align="center">Những lưu ý quan trọng về việc xuất hoá đơn</p>
 
-Zalo Business Solutions hỗ trợ khách hàng xuất hóa đơn cho số tiền nạp vào tài khoản ZCA. Khách hàng vui lòng xem kỹ các quy định xuất hóa đơn như theo thông tin bên dưới.
+Zalo Business Solutions hỗ trợ khách hàng xuất hóa đơn cho số tiền nạp vào tài khoản ZBS. Khách hàng vui lòng xem kỹ các quy định xuất hóa đơn như theo thông tin bên dưới.
 
-## 1. Đối với tất cả các hình thức nạp tiền, quý khách hàng cần lưu ý về thông tin xuất hóa đơn: [**Nạp tiền trực tuyến**](https://zalo.cloud/blog/huong-dan-nap-tien-vao-zalo-cloud-account-bang-phuong-thuc-nap-truc-tuyen/8bujyrzbeg498j8jw4)**,** [**Chuyển khoản nhanh**](https://zalo.cloud/blog/huong-dan-nap-tien-vao-zca-bang-phuong-thuc-chuyen-khoan-nhanh/wkugnnbdeezmjpnz4w)
+## 1. Đối với tất cả các hình thức nạp tiền, quý khách hàng cần lưu ý về thông tin xuất hóa đơn: [**Nạp tiền trực tuyến**](https://zalo.solutions/blog/huong-dan-nap-tien-vao-zalo-cloud-account-bang-phuong-thuc-nap-truc-tuyen/8bujyrzbeg498j8jw4)**,** [**Chuyển khoản nhanh**](https://zalo.solutions/blog/huong-dan-nap-tien-vao-zca-bang-phuong-thuc-chuyen-khoan-nhanh/wkugnnbdeezmjpnz4w)
 
 **Từ ngày 19/07/2025, hệ thống ZCA sẽ tiến hành áp dụng xuất hóa đơn tự động cho tất cả khoản nạp thành công theo thông tin như sau:**
 
@@ -23,7 +23,7 @@ Zalo Business Solutions hỗ trợ khách hàng xuất hóa đơn cho số tiề
  ![image.png](https://content.zalo.cloud/uploads/68747470733a2f2f7374632d6f612e7a646e2e766e2f75706c6f6164732f35363330636462356230326366396463303964393766653732346631613437622e6a7067_edffeadd82.jpg)
 
 - _**Cách cập nhật Thông tin tài khoản ZCA**:_  
-  Truy cập và đăng nhập [**ZCA**](https://account.zalo.cloud/) cần sử dụng > Chọn [**"Thông tin tài khoản"**](https://account.zalo.cloud/setting/info) tại thanh menu bên trái > Chọn **"Chỉnh sửa"**  
+  Truy cập và đăng nhập [**ZBS**](https://account.zalo.solutions/) cần sử dụng > Chọn [**"Thông tin tài khoản"**](https://account.zalo.solutions/setting/info) tại thanh menu bên trái > Chọn **"Chỉnh sửa"**  
   **Kiểm tra và điều chỉnh thông tin nếu có** > Chọn **"Điều chỉnh thông tin"** để lưu lại.
 
  ![image.png](https://content.zalo.cloud/uploads/large_image_1bdb9f7053.png)
@@ -55,7 +55,7 @@ Xem thêm tại [Trường hợp nào được hỗ trợ điều chỉnh hoá �
 
 - Hoá đơn sẽ được gửi về địa chỉ **email nhận hoá đơn** trong trường hợp người nhận chọn nhận hoá đơn khi nạp tiền vào ngày làm việc kế tiếp kể từ ngày giao dịch được ghi nhận thành công. Trong trường hợp người nhận chọn không nhận hoá đơn khi nạp tiền, hoá đơn chỉ xuất hiện trên mục **Quản lý hoá đơn** trên tài khoản ZCA
 - Quý khách có thể tra cứu hoá đơn trực tiếp trên ZCA tại mục **"Quản lý hoá đơn"** vào ngày làm việc kế sau đó
-Xem thêm tại bài viết:  [**Tra cứu hóa đơn nạp tiền dễ dàng hơn bao giờ hết cùng ZCA**](https://zalo.solutions/blog/tra-cuu-hoa-don-nap-tien-de-dang-hon-bao-gio-het-cung-zca/it5rfsbhdopyqprwa9n9l20y)
+Xem thêm tại bài viết:  [**Tra cứu hóa đơn nạp tiền dễ dàng hơn bao giờ hết**](https://zalo.solutions/blog/tra-cuu-hoa-don-nap-tien-de-dang-hon-bao-gio-het-cung-zca/it5rfsbhdopyqprwa9n9l20y)
 - ![image.png](https://content.zalo.cloud/uploads/image_1e731713ee.png)
 
 ## CÁC LƯU Ý CHUNG:
