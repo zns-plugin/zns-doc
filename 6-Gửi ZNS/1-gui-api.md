@@ -36,7 +36,7 @@ _<p align="center">Sequence diagram API giữa Đối tác gửi tin, Zalo serve
 
 ### a. Gửi request API
 
-Gửi request API theo hướng dẫn tại [**ĐÂY**](https://developers.zalo.me/docs/zalo-notification-service/gui-tin-zns/gui-zns) và [**lấy Access Token**](https://stc-developers.zdn.vn/docs/v2/official-account/bat-dau/xac-thuc-va-uy-quyen-cho-ung-dung-new) (Mã định danh để gửi ZNS) theo 1 trong 2 cách sau:
+Gửi request API theo hướng dẫn tại [**ĐÂY**](https://developers.zalo.me/docs/zalo-notification-service/gui-tin-zns/gui-zns) và [**lấy Access Token**](https://stc-developers.zdn.vn/docs/v2/official-account/bat-dau/xac-thuc-va-uy-quyen-cho-ung-dung-new) (Mã định danh để gửi tin) theo 1 trong 2 cách sau:
 
 
 *   Công cụ [API explorer](https://developers.zalo.me/docs/api/official-account-api/xac-thuc-va-uy-quyen/cach-2-xac-thuc-voi-cong-cu-api-explorer/phuong-thuc-lay-oa-access-token-su-dung-cong-cu-api-explorer-post-5004): _Dành cho Admin của OA/Ứng dụng lấy mã xác thực gửi tin._
@@ -50,7 +50,7 @@ Sau khi yêu cầu được gửi đi, máy chủ Zalo sẽ phản hồi với c
 
 <div class="table" align="center">
     <table>
-<table><tbody><tr><td style="text-align:center;"><strong>Tham số</strong></td><td style="text-align:center;"><strong>Mô tả</strong></td></tr><tr><td style="text-align:center;">error</td><td style="text-align:justify;">0 nếu request thành công<br>Ngược lại, xem Error Code chi tiết&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://developers.zalo.me/docs/api/zalo-notification-service-api/phu-luc/bang-ma-loi-post-5233">tại đây</a></td></tr><tr><td style="text-align:center;"><i>message</i></td><td style="text-align:justify;">Mô tả của lỗi tương ứng</td></tr><tr><td style="text-align:center;"><i>msg_id</i></td><td style="text-align:justify;">ID của tin ZNS<br><i>Lưu ý: chỉ trả về nếu yêu cầu thành công</i></td></tr><tr><td style="text-align:center;"><i>sent_time</i></td><td style="text-align:justify;">Thời gian máy chủ Zalo bắt đầu gửi ZNS (Định dạng timestamp)</td></tr><tr><td style="text-align:center;"><i>quota</i></td><td style="text-align:justify;">Thông tin quota của OA<br><i>Lưu ý: chỉ trả về nếu yêu cầu thành công</i></td></tr></tbody></table>
+<table><tbody><tr><td style="text-align:center;"><strong>Tham số</strong></td><td style="text-align:center;"><strong>Mô tả</strong></td></tr><tr><td style="text-align:center;">error</td><td style="text-align:justify;">0 nếu request thành công<br>Ngược lại, xem Error Code chi tiết&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://developers.zalo.me/docs/api/zalo-notification-service-api/phu-luc/bang-ma-loi-post-5233">tại đây</a></td></tr><tr><td style="text-align:center;"><i>message</i></td><td style="text-align:justify;">Mô tả của lỗi tương ứng</td></tr><tr><td style="text-align:center;"><i>msg_id</i></td><td style="text-align:justify;">ID của tin<br><i>Lưu ý: chỉ trả về nếu yêu cầu thành công</i></td></tr><tr><td style="text-align:center;"><i>sent_time</i></td><td style="text-align:justify;">Thời gian máy chủ Zalo bắt đầu gửi tin (Định dạng timestamp)</td></tr><tr><td style="text-align:center;"><i>quota</i></td><td style="text-align:justify;">Thông tin quota của OA<br><i>Lưu ý: chỉ trả về nếu yêu cầu thành công</i></td></tr></tbody></table>
 </div>
 
 **Example response**
@@ -73,19 +73,19 @@ Sau khi yêu cầu được gửi đi, máy chủ Zalo sẽ phản hồi với c
 Xem chi tiết hơn về cấu trúc của request và response tại [**ĐÂY**](https://developers.zalo.me/docs/api/zalo-notification-service-api/gui-zns/gui-zns-post-5208).
 
 
-### c. Sự kiện gửi ZNS [](https://zalo.solutions/zns/guidelines/zns-api#3-s%E1%BB%B1-ki%E1%BB%87n-g%E1%BB%ADi-zns)
+### c. Sự kiện gửi tin [](https://zalo.solutions/zns/guidelines/zns-api#3-s%E1%BB%B1-ki%E1%BB%87n-g%E1%BB%ADi-zns)
 
-Nếu request thành công, tin ZNS sẽ được gửi tới người dùng:
+Nếu request thành công, tin sẽ được gửi tới người dùng:
 
-·       **sent\_time:** Thời điểm máy chủ Zalo bắt đầu gửi ZNS.
+·       **sent\_time:** Thời điểm máy chủ Zalo bắt đầu gửi tin.
 
-·       **delivery\_time:** Thời gian người dùng nhận được ZNS trên thiết bị.
-
-
-### d. Sự kiện người dùng nhận được tin ZNS [](https://zalo.cloud/zns/guidelines/zns-api#4-s%E1%BB%B1-ki%E1%BB%87n-ng%C6%B0%E1%BB%9Di-d%C3%B9ng-nh%E1%BA%ADn-%C4%91%C6%B0%E1%BB%A3c-tin-zns)
+·       **delivery\_time:** Thời gian người dùng nhận được tin trên thiết bị.
 
 
-Nếu ZNS được gửi thành công trên thiết bị của người dùng, thì một sự kiện sẽ được gửi tới URL webhook của Doanh nghiệp.
+### d. Sự kiện người dùng nhận được tin [](https://zalo.solutions/zns/guidelines/zns-api#4-s%E1%BB%B1-ki%E1%BB%87n-ng%C6%B0%E1%BB%9Di-d%C3%B9ng-nh%E1%BA%ADn-%C4%91%C6%B0%E1%BB%A3c-tin-zns)
+
+
+Nếu tin được gửi thành công trên thiết bị của người dùng, thì một sự kiện sẽ được gửi tới URL webhook của Doanh nghiệp.
 
 <div class="table" align="center">
     <table>
