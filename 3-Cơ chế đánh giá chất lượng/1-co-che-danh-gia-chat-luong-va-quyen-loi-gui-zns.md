@@ -1,6 +1,6 @@
 ---
 id: co-che-danh-gia-chat-luong-va-quyen-loi-gui-zbs-template-message
-title: Cơ chế đánh giá chất lượng và quyền lợi gửi ZNS
+title: Cơ chế đánh giá chất lượng và quyền lợi gửi tin
 slug: /co-che-danh-gia-chat-luong-va-quyen-loi-gui-zbs-template-message
 ---
 
