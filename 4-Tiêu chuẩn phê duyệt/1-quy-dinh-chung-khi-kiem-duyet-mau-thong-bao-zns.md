@@ -57,8 +57,8 @@ Các mẫu tin nhắn ZBS mục đích Chúc mừng sinh nhật khách hàng th�
     *   Xem thêm [Quy định xét duyệt mẫu tin nhắn ZBS chứa hình ảnh](https://zalo.solutions/news/huong-dan-cac-quy-dinh-xet-duyet-template-zns-chua-module-hinh-anh/wku44wybagbqwyrqy)
 *   **Bắt buộc** kèm quà tặng/voucher  
     Trường hợp sử dụng mã giảm giá, voucher **bắt buộc** sử dụng template ZNS voucher (áp dụng bổ sung từ 15/08/2024)  
-    (VD1: Tặng voucher 10% áp dụng với tất cả đơn hàng từ 0Đ  
-    VD2: Tặng áo thun nữ size M cho tất cả khách hàng nhận được thông báo này)
+    (VD1: Tặng voucher 10% áp dụng cho khách hàng nhận được tin nhắn này 
+    VD2: Tặng áo thun nữ size M cho tất cả khách hàng nhận được tin nhắn này)
 *   **Bắt buộc** đính kèm thông tin chương trình loyalty/khách hàng thân thiết được công khai trên các kênh chính thức của doanh nghiệp
 
 **Lưu ý:**
