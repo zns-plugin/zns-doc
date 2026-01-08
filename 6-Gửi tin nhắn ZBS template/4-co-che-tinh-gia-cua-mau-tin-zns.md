@@ -23,12 +23,12 @@ Với mục đích cam kết chất lượng gửi tin, dịch vụ gửi tin nh
 
 <div class="table" align="center">
     <table>
-<table class="ck-table-resized"><colgroup><col style="width:41.06%;"><col style="width:58.94%;"></colgroup><tbody><tr><td style="background-color:hsl(0, 0%, 60%);text-align:center;"><strong>Loại ZNS</strong></td><td style="background-color:hsl(0, 0%, 60%);text-align:center;"><strong>Timeout (unit: giây/s)</strong></td></tr><tr><td style="text-align:center;">ZNS Xác thực</td><td style="text-align:center;">15</td></tr><tr><td style="text-align:center;">Các ZNS còn lại</td><td style="text-align:center;">7200</td></tr></tbody></table>
+<table class="ck-table-resized"><colgroup><col style="width:41.06%;"><col style="width:58.94%;"></colgroup><tbody><tr><td style="background-color:hsl(0, 0%, 60%);text-align:center;"><strong>Loại ZNS</strong></td><td style="background-color:hsl(0, 0%, 60%);text-align:center;"><strong>Timeout (unit: giây/s)</strong></td></tr><tr><td style="text-align:center;">ZNS Xác thực</td><td style="text-align:center;">15</td></tr><tr><td style="text-align:center;">Các tin còn lại</td><td style="text-align:center;">7200</td></tr></tbody></table>
 </div>
 
 *   _**Cách xác định thời gian gửi tin:**_
 
-1.  Khi gửi tin qua server Zalo thành công, nội dung response API sẽ bao gồm **sent\_time.** (Xem hướng dẫn [gửi ZNS qua API](https://developers.zalo.me/docs/zalo-notification-service/gui-tin-zns/gui-zns))
+1.  Khi gửi tin qua server Zalo thành công, nội dung response API sẽ bao gồm **sent\_time.** (Xem hướng dẫn [gửi tin nhắn ZBS Template qua API](https://developers.zalo.me/docs/zalo-notification-service/gui-tin-zns/gui-zns))
 2.  Khi tin được gửi đến máy user, Zalo bắn event về webhook bao gồm **delivery\_time**.   
     (Xem cách [truy xuất trạng thái gửi tin qua API](https://developers.zalo.me/docs/zalo-notification-service/truy-xuat-thong-tin/lay-thong-tin-trang-thai-zns))
 
