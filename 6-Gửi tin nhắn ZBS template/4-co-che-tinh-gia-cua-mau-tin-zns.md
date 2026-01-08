@@ -19,7 +19,7 @@ Thông tin chi tiết về bảng giá dịch vụ Tin nhắn ZBS Template, Quý
 ## 2. Cơ chế tính giá dựa trên timeout API:
 
 
-Với mục đích cam kết chất lượng gửi tin, dịch vụ ZNS sẽ chỉ được tính phí nếu thời gian gửi tin nằm trong khoảng thời gian timeout. Timeout của các loại tin như sau:
+Với mục đích cam kết chất lượng gửi tin, dịch vụ gửi tin nhắn ZBS template sẽ chỉ được tính phí nếu thời gian gửi tin nằm trong khoảng thời gian timeout. Timeout của các loại tin như sau:
 
 <div class="table" align="center">
     <table>
