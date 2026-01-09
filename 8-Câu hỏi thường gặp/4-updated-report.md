@@ -13,7 +13,7 @@ slug: /bao-xau-mau-tin-nhan-zbs-template-duoc-ghi-nhan-khi-nao
 1.  **Thay Đổi Entry Point Báo Xấu:** người dùng có thể báo xấu thông qua Chạm và giữ tin nhắn ZBS template
 2.  **Hành động Báo xấu và ngừng nhận tin được xác định là hai hành động độc lập:**
 
-    - Khi user báo xấu 1 tin nhắn ZBS template từ OA Brand A, hệ thống sẽ **KHÔNG tự động** ngừng nhận tin nhắn ZBS template từ OA này. Nếu user muốn ngừng nhận ZNS từ OA này, user có thể chủ động thao tác **“Chặn OA”**.
+    - Khi user báo xấu 1 tin nhắn ZBS template từ OA Brand A, hệ thống sẽ **KHÔNG tự động** ngừng nhận tin nhắn ZBS template từ OA này. Nếu user muốn ngừng nhận tin từ OA này, user có thể chủ động thao tác **“Chặn OA”**.
       Nếu user chọn “Nội dung tin không hiển thị hoặc hiển thị lỗi” hoặc “Lý do khác” _**=> Không tính vào tỉ lệ báo xấu (report rate) của OA.**_
 
 **Các lượt báo xấu sau 48 giờ từ lúc user nhận tin nhắn ZBS template sẽ không ảnh hưởng đến tỉ lệ report và chất lượng của OA.**
