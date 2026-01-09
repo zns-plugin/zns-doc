@@ -73,5 +73,4 @@ Với các dữ liệu truyền vào tham số (param) trong nút thao tác (CTA
 
 Tham khảo Bảng mã lỗi khi sử dụng dịch vụ Tin nhắn ZBS Template tại [**ĐÂY**](https://developers.zalo.me/docs/api/zalo-notification-service-api/phu-luc/bang-ma-loi-post-5233). 
 
-_Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://go.zalo.me/SupportZBS )**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
-
+_Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://zalo-solutions.freshdesk.com/en/support/tickets/new)**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
