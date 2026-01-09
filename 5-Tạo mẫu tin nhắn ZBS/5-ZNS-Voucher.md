@@ -109,4 +109,4 @@ _3\._ Điền thêm Thông tin voucher
 
 _Chi tiết quy định xem tại_ [_Quy định chung khi kiểm duyệt mẫu ZNS_](https://zalo.cloud/news/quy-dinh-chung-khi-kiem-duyet-mau-tin-zns/baujzpyvjjrz7776m) _(Mục 1: Yêu cầu tổng quan > Thiết lập)_  
   
-_Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua Biểu Mẫu:_ [_Mẫu hỗ trợ Zalo Business Solutions_](https://zalocloud.freshdesk.com/en/support/tickets/new)_. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
+_Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://zalo-solutions.freshdesk.com/en/support/tickets/new)**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
