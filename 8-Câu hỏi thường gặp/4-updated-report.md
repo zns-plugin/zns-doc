@@ -26,7 +26,7 @@ slug: /bao-xau-mau-tin-nhan-zbs-template-duoc-ghi-nhan-khi-nao
 ## 2. Cơ chế Ngừng nhận tin nhắn ZBS template từ OA:
 
 *   Khi đã thiết lập thành công việc cài đặt ngừng nhận tin từ OA, nếu muốn nhận lại tin nhắn ZBS template, người dùng cần chủ động truy cập trang OA, và tiến hành bỏ chặn OA.
-*   Các điểm (Entry point) Ngừng nhận thông báo/Nhận lại thông báo: Người dùng có thể truy cập tính nắng ngừng nhận/nhận lại tin nhắn ZBS template tại Trang cài đặt của Official Account (OA) > Chọn "Quản lý chặn"**.**
+*   Các điểm (Entry point) Ngừng nhận thông báo/Nhận lại thông báo: Người dùng có thể truy cập tính năng ngừng nhận/nhận lại tin nhắn ZBS template tại Trang cài đặt của Official Account (OA) > Chọn "Quản lý chặn"**.**
 
 <p align="center">
   <img src="https://content.zalo.cloud/uploads/image_e5ef2485a8.png" />
