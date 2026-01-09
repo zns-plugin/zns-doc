@@ -37,5 +37,4 @@ _**<p align="center">Thời gian gửi tin \= delivery\_time – sent_time</p>
 Nếu **Thời gian gửi tin >** **Timeout của loại tin**, tin sẽ không bị tính phí. Còn lại, nếu gửi thành công trong thời gian timeout quy định, tin sẽ được tính phí như thường lệ.
 
 
-_Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://go.zalo.me/SupportZBS )**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
-
+_Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://zalo-solutions.freshdesk.com/en/support/tickets/new)**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
