@@ -37,7 +37,7 @@ _<p align="center">Giao diện mở nhận lại tin nhắn tại Trang cài đ�
 **Ghi chú:**
 
 - User có thể tự thao tác trên thiết bị di động bất kì lúc nào (Zalo Business Solutions không hỗ trợ việc can thiệp quyền ngừng nhận ZNS của user).
-- Khi OA gửi tin nhắn ZBS template đến người dùng đã ngừng nhận thông báo ZNS từ OA, hệ thống sẽ trả về mã lỗi: _**\-141 User refused to receive ZNS**_. Mã lỗi này cho biết người dùng đã từ chối nhận tin nhắn ZBS template từ Official Account.>
+- Khi OA gửi tin nhắn ZBS template đến người dùng đã ngừng nhận tin từ OA, hệ thống sẽ trả về mã lỗi: _**\-141 User refused to receive ZNS**_. Mã lỗi này cho biết người dùng đã từ chối nhận tin nhắn ZBS template từ Official Account.>
 
 
 _Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://zalo-solutions.freshdesk.com/en/support/tickets/new)**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
