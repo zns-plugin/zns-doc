@@ -54,4 +54,4 @@ _**Bước 5:**_ Nhập nội dung truyền vào tham số, tick vào mục **�
 
 ![image.png](https://content.zalo.cloud/uploads/image_bf002a8eec.png)
 
-_Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua Biểu Mẫu:_ [_Mẫu hỗ trợ Zalo Business Solutions_](https://zalocloud.freshdesk.com/en/support/tickets/new)_. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
+_Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://zalo-solutions.freshdesk.com/en/support/tickets/new)**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
