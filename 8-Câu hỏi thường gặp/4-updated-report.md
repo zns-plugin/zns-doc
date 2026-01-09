@@ -29,10 +29,10 @@ slug: /bao-xau-mau-tin-nhan-zbs-template-duoc-ghi-nhan-khi-nao
 *   Các điểm (Entry point) Ngừng nhận thông báo/Nhận lại thông báo: Người dùng có thể truy cập tính nắng ngừng nhận/nhận lại tin nhắn ZBS template tại Trang cài đặt của Official Account (OA) > Chọn "Quản lý chặn"**.**
 
 <p align="center">
-  <img src="https://stc-oa.zdn.vn/uploads/2025/01/09/2a3bf36c22cb3cb664886f39a7c70e6d.png" />
+  <img src="https://content.zalo.cloud/uploads/image_e5ef2485a8.png" />
 </p>
 
-_<p align="center">Giao diện mở nhận lại thông báo tại Trang cài đặt của Official Account (OA)</p>_
+_<p align="center">Giao diện mở nhận lại tin nhắn tại Trang cài đặt của Official Account (OA)</p>_
 
 **Ghi chú:**
 
