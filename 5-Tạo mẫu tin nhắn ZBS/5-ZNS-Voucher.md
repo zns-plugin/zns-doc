@@ -42,9 +42,9 @@ Sau đó, khi có nhu cầu tra cứu các mã Voucher đã lưu, người dùng
   
  
 
-### **2-b. Cách sao chép/copy mã voucher từ MẫuVoucher?**
+### **2-b. Cách sao chép/copy mã voucher từ Mẫu Voucher?**
 
-Không chỉ có thể sử dụng mã voucher như một thẻ có mã khuyến mãi vật lý, người dùng có thể copy mã voucher trong ZNS Voucher để có thể sử dụng trực tuyến.
+Không chỉ có thể sử dụng mã voucher như một thẻ có mã khuyến mãi vật lý, người dùng có thể copy mã voucher trong Mẫu Voucher để có thể sử dụng trực tuyến.
 
 Chỉ cần Click vào **Mã Voucher (phần được hiển thị nổi bật với màu xanh)**, màn hình sẽ hiển thị thông báo **“Đã sao chép mã”** khi mã Voucher được sao chép thành công.
 
@@ -80,16 +80,16 @@ _Hình ảnh chỉ có tính chất minh họa giao diện_
 **5\. Cách đăng ký mẫu thông báo Mẫu Voucher?**
 -----------------------------------------------
 
-Mẫu này áp dụng các **Quy định chung khi kiểm duyệt mẫu ZNS**, quý khách có thể xem thêm [**tại đây**](https://zalo.solutions/news/quy-dinh-chung-khi-kiem-duyet-mau-tin-zns/baujzpyvjjrz7776m).
+Mẫu này áp dụng các **Quy định chung khi kiểm duyệt mẫu**, quý khách có thể xem thêm [**tại đây**](https://zalo.solutions/news/quy-dinh-chung-khi-kiem-duyet-mau-tin-zns/baujzpyvjjrz7776m).
 
-**Hướng dẫn đăng ký mẫu ZNS Yêu cầu thanh toán:** 
+**Hướng dẫn đăng ký mẫu Yêu cầu Voucher:** 
 
 1\. Tại trang [Dịch vụ gửi tin](https://account.zalo.solutions/tool/zns/manage/template) \> chọn Tạo Template > Chọn **Mẫu voucher**
 
 ![image.png](https://content.zalo.cloud/uploads/image_d82cdd6cd1.png)
 
 2\. Với **Mẫu Voucher**, quý khách cần sử dụng Logo hoặc Hình ảnh. Ngoài ra, quý khách có thể tùy chỉnh số lượng Văn bản và Bảng, sử dụng tùy chọn CTA theo nhu cầu.  
-_Xem thêm:_ [_Hướng dẫn các quy định xét duyệt Template ZNS chứa module hình ảnh_](https://zalo.cloud/news/huong-dan-cac-quy-dinh-xet-duyet-template-zns-chua-module-hinh-anh/wku44wybagbqwyrqy)
+_Xem thêm:_ [_Hướng dẫn các quy định xét duyệt Template chứa module hình ảnh_](https://zalo.cloud/news/huong-dan-cac-quy-dinh-xet-duyet-template-zns-chua-module-hinh-anh/wku44wybagbqwyrqy)
 
 _3\._ Điền thêm Thông tin voucher  
  
@@ -105,8 +105,8 @@ _3\._ Điền thêm Thông tin voucher
 **6\. Chuẩn hóa các Mẫu mục đích gửi mã giảm giá, voucher**
 -----------------------------------------------------------
 
-Để chuẩn hóa và tối ưu sản phẩm, từ 15/08/2024, tất cả mẫu ZNS với mục đích gửi mã giảm giá, voucher ở tất cả mục đích (tag) **bắt buộc** sử dụng ZNS voucher. 
+Để chuẩn hóa và tối ưu sản phẩm, từ 15/08/2024, tất cả mẫu tin với mục đích gửi mã giảm giá, voucher ở tất cả mục đích (tag) **bắt buộc** sử dụng Mẫu voucher. 
 
-_Chi tiết quy định xem tại_ [_Quy định chung khi kiểm duyệt mẫu ZNS_](https://zalo.cloud/news/quy-dinh-chung-khi-kiem-duyet-mau-tin-zns/baujzpyvjjrz7776m) _(Mục 1: Yêu cầu tổng quan > Thiết lập)_  
+_Chi tiết quy định xem tại_ [_Quy định chung khi kiểm duyệt mẫu_](https://zalo.cloud/news/quy-dinh-chung-khi-kiem-duyet-mau-tin-zns/baujzpyvjjrz7776m) _(Mục 1: Yêu cầu tổng quan > Thiết lập)_  
   
 _Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://zalo-solutions.freshdesk.com/en/support/tickets/new)**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
