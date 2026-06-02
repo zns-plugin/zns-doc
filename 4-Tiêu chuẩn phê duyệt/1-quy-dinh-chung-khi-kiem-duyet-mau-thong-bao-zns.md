@@ -3,15 +3,15 @@ id: quy-dinh-chung-khi-kiem-duyet-mau-zbs-template-message
 title: Quy định chung khi kiểm duyệt mẫu tin nhắn ZBS
 slug: /quy-dinh-chung-khi-kiem-duyet-mau-zbs-template-message
 ---
-**Quy định chung khi kiểm duyệt mẫu tin nhắn ZBS** 
+
+# <p align="center">Quy định chung khi kiểm duyệt mẫu tin nhắn ZBS</p>
 
 Bước đầu tiên để bắt đầu sử dụng dịch vụ Tin nhắn ZBS Template là chuẩn bị nội dung mẫu template và gửi đến bộ phận kiểm duyệt. Thao tác này cần thực hiện để đảm bảo tính toàn diện, xác minh mục đích sử dụng và đảm bảo hình ảnh doanh nghiệp được trình bày một cách chuyên nghiệp, nhằm tạo ấn tượng tốt nhất đối với người dùng cuối.
 
 Nội dung mẫu template cần đảm bảo tất cả các yêu cầu được liệt kê về **Yêu cầu tổng quan,** **Yêu cầu theo mục đích, Quy định bổ sung với các mục đích đặc biệt & Yêu cầu và quy định với các nhóm ngành/nhóm sản phẩm đặc biệt** tương ứng  
 Chúng tôi có quyền từ chối các mẫu template có nội dung chưa phù hợp, thiếu thông tin thể hiện rõ ràng bối cảnh và mục đích mẫu tin.
 
-**I. Cách phân loại mục đích (Tag):**
-=====================================
+## I. Cách phân loại mục đích (Tag):
 
 Nhằm mục đích nâng cao trải nghiệm của người dùng cuối và doanh nghiệp, tất cả ZBS Message Template đều phải được phân loại theo các khái niệm sau:
 
@@ -84,11 +84,9 @@ Nhằm mục đích nâng cao trải nghiệm của người dùng cuối và do
     Ngoại lệ duy nhất là gửi mã xác thực cho khách hàng tạo tài khoản mới.
     
 
-**II. Quy định kiểm duyệt chi tiết**
-====================================
+## II. Quy định kiểm duyệt chi tiết
 
-**1\. Yêu cầu tổng quan**
--------------------------
+## 1. Yêu cầu tổng quan
 
 <figure class="table">
 <table class="ck-table-resized">
@@ -132,8 +130,7 @@ Nhằm mục đích nâng cao trải nghiệm của người dùng cuối và do
     2.  TH2: Cung cấp được văn bản thể hiện mối quan hệ giữa chủ tài khoản với doanh nghiệp/doanh nghiệp ủy quyền cho cá nhân đó thu hộ
         
 
-**2\. Yêu cầu theo mục đích**
------------------------------
+## 2. Yêu cầu theo mục đích
 
 <figure class="table">
 <table class="ck-table-resized">
@@ -176,10 +173,9 @@ _**Lưu ý khi xác định tag của mẫu tin nhắn ZBS:**_
         \=> Gắn ở Tag 2 – Chăm sóc khách hàng 
         
 
-**3\. Quy định bổ sung với các mục đích đặc biệt**
---------------------------------------------------
+## 3. Quy định bổ sung với các mục đích đặc biệt
 
-### **3-a. Mục đích Chúc mừng sinh nhật khách hàng thân thiết**
+### 3-a. Mục đích Chúc mừng sinh nhật khách hàng thân thiết
 
 *   Các mẫu tin nhắn ZBS mục đích Chúc mừng sinh nhật khách hàng thân thiết cần thỏa tất cả các quy định bổ sung dưới đây:
     
@@ -202,7 +198,7 @@ _**Lưu ý khi xác định tag của mẫu tin nhắn ZBS:**_
 *   **Không hỗ trợ** các mục đích Chúc mừng sinh nhật khách hàng thân thiết mà không kèm thông tin khuyến mãi/voucher/ưu đãi hợp lệ cho khách hàng
     
 
-### **3-b. Mục đích Chúc mừng Lễ Tết - Chương trình hậu mãi mùa Lễ Tết**
+### 3-b. Mục đích Chúc mừng Lễ Tết - Chương trình hậu mãi mùa Lễ Tết
 
 *   Các mẫu tin mục đích Chúc mừng Lễ Tết / Chương trình hậu mãi mùa Lễ Tết cần thỏa tất cả các quy định bổ sung dưới đây:
     
@@ -242,10 +238,9 @@ _**Lưu ý khi xác định tag của mẫu tin nhắn ZBS:**_
 *   Các chương trình này phải có tên, thể lệ khuyến mãi độc lập không gây hiểu nhầm là chương trình khuyến mãi dịp Lễ Tết
     
 
-**4\. Yêu cầu và quy định với các nhóm ngành/nhóm sản phẩm đặc biệt**
----------------------------------------------------------------------
+## 4. Yêu cầu và quy định với các nhóm ngành/nhóm sản phẩm đặc biệt
 
-**a. Nhóm ngành mỹ phẩm, thẩm mỹ viện:**
+### a. Nhóm ngành mỹ phẩm, thẩm mỹ viện:
 
 *   Khi gửi các mẫu tin Tag 3 (Hậu mãi): **Bắt buộc** cung cấp thông tin chương trình và sản phẩm công khai trên website bán hàng chính thức của doanh nghiệp khi đăng ký mẫu.
     
@@ -257,17 +252,17 @@ _**Lưu ý khi xác định tag của mẫu tin nhắn ZBS:**_
 *   Đồng thời, Zalo Business Solutions có thể yêu cầu cung cấp các thông tin khác tùy theo nhu cầu
     
 
-**b. Nhóm ngành kinh doanh sản phẩm sinh lý, phẫu thuật thẩm mỹ sinh lý:**
+### b. Nhóm ngành kinh doanh sản phẩm sinh lý, phẫu thuật thẩm mỹ sinh lý:
 
 *   **Không hỗ trợ** xét duyệt và đăng ký các mẫu Tag 3 (Hậu mãi) - áp dụng với tất cả các mục đích Tag 3.
     
 
-**c. Nhóm ngành dịch vụ tang lễ và dịch vụ phục vụ tang lễ:**
+### c. Nhóm ngành dịch vụ tang lễ và dịch vụ phục vụ tang lễ:
 
 *   **Không hỗ trợ** xét duyệt và đăng ký các mẫu Tag 3 (Hậu mãi) - áp dụng với tất cả các mục đích Tag 3.
     
 
-**d. Nhóm ngành rượu, bia, đồ uống có cồn (dưới 5.5 độ)**
+### d. Nhóm ngành rượu, bia, đồ uống có cồn (dưới 5.5 độ)
 
 Với mẫu Tag 3 (Hậu mãi):
 
@@ -280,12 +275,12 @@ Với mẫu Tag 3 (Hậu mãi):
 
 ![image.png](https://content.zalo.cloud/uploads/image_0163706424.png)
 
-**e. Nhóm ngành rượu, bia, đồ uống có cồn (từ 5.5 độ - dưới 15 độ và từ 15 độ)**
+### e. Nhóm ngành rượu, bia, đồ uống có cồn (từ 5.5 độ - dưới 15 độ và từ 15 độ)
 
 *   **Không hỗ trợ** xét duyệt và đăng ký các mẫu Tag 3 (Hậu mãi) - áp dụng với tất cả các mục đích Tag 3.
     
 
-**f. Nhóm ngành thực phẩm chức năng (Bao gồm thực phẩm bảo vệ sức khỏe, thực phẩm dinh dưỡng, thực phẩm dành cho chế độ ăn đặc biệt,…)**
+### f. Nhóm ngành thực phẩm chức năng (Bao gồm thực phẩm bảo vệ sức khỏe, thực phẩm dinh dưỡng, thực phẩm dành cho chế độ ăn đặc biệt,…)
 
 Nội dung Tag 3 (Hậu mãi) cần đảm bảo tất cả điều kiện bổ sung sau:
 
@@ -298,7 +293,7 @@ Nội dung Tag 3 (Hậu mãi) cần đảm bảo tất cả điều kiện bổ 
     *   **Bắt buộc** cung cấp thông tin chương trình và sản phẩm công khai trên website bán hàng chính thức của doanh nghiệp khi đăng ký mẫu.
         
 
-**g. Nhóm sản phẩm/dịch vụ liên quan đến phong thủy/tử vi**
+### g. Nhóm sản phẩm/dịch vụ liên quan đến phong thủy/tử vi
 
 Với mẫu Tag 3 (Hậu mãi):
 
@@ -307,7 +302,7 @@ Với mẫu Tag 3 (Hậu mãi):
     *   _VD vi phạm:_ giải hạn, giải vận, giàu phất lên nhờ mua nhẫn, vòng,…
         
 
-**h. Nhóm sản phẩm thuốc không kê đơn:**
+### h. Nhóm sản phẩm thuốc không kê đơn:
 
 Với mẫu Tag 3 (Hậu mãi), doanh nghiệp **bắt buộc** cung cấp đầy đủ các văn bản/giấy phép hợp lệ sau:
 
@@ -327,7 +322,7 @@ Lưu ý: 
 *   Các loại thuốc không kê đơn nhưng được cơ quan nhà nước có thẩm quyền khuyến cáo hạn chế sử dụng hoặc sử dụng có sự giám sát của thầy thuốc sẽ **KHÔNG ĐƯỢC** đăng ký các mục đích ở tag 3.
     
 
-**i. Các nhóm sản phẩm khác cấm/không hỗ trợ đăng ký mẫu Tag 3 với mục đích quảng bá, đề xuất, mời sử dụng cho khách hàng cũ:**
+### i. Các nhóm sản phẩm khác cấm/không hỗ trợ đăng ký mẫu Tag 3 với mục đích quảng bá, đề xuất, mời sử dụng cho khách hàng cũ:
 
 *   Sản phẩm sữa thay thế sữa mẹ dùng cho trẻ dưới 24 tháng tuổi, sản phẩm dinh dưỡng bổ sung dùng cho trẻ dưới 06 tháng tuổi, bình bú và vú ngậm nhân tạo.
     
