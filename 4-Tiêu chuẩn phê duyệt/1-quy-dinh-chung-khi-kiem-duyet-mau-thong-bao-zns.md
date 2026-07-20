@@ -3,119 +3,392 @@ id: quy-dinh-chung-khi-kiem-duyet-mau-zbs-template-message
 title: Quy định chung khi kiểm duyệt mẫu tin nhắn ZBS
 slug: /quy-dinh-chung-khi-kiem-duyet-mau-zbs-template-message
 ---
-<h1>Quy định chung khi kiểm duyệt mẫu tin nhắn ZBS</h1>
-<p>Bước đầu tiên để bắt đầu sử dụng dịch vụ Tin nhắn ZBS Template là chuẩn bị nội dung mẫu template và gửi đến bộ phận kiểm duyệt. Thao tác này cần thực hiện để đảm bảo tính toàn diện, xác minh mục đích sử dụng và đảm bảo hình ảnh doanh nghiệp được trình bày một cách chuyên nghiệp, nhằm tạo ấn tượng tốt nhất đối với người dùng cuối.</p>
-<p>Nội dung mẫu template cần đảm bảo tất cả các yêu cầu được liệt kê về <strong>Yêu cầu tổng quan,</strong> <strong>Yêu cầu theo mục đích, Quy định bổ sung với các mục đích đặc biệt &amp; Yêu cầu và quy định với các nhóm ngành/nhóm sản phẩm đặc biệt</strong> tương ứng<br>Chúng tôi có quyền từ chối các mẫu template có nội dung chưa phù hợp, thiếu thông tin thể hiện rõ ràng bối cảnh và mục đích mẫu tin.</p>
-<h2><strong>I. Cách phân loại mục đích (Tag):</strong></h2>
-<p>Nhằm mục đích nâng cao trải nghiệm của người dùng cuối và doanh nghiệp, tất cả ZBS Message Template đều phải được phân loại theo các khái niệm sau:</p>
-<table style="border-collapse:collapse;width:100%;max-width:100%;margin:12px 0;"><tr><th style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word;background-color:#f5f5f5;text-align:center"><p style="text-align:center"><strong>Khái niệm Tag mới</strong></p></th><th style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word;background-color:#f5f5f5;text-align:center"><p style="text-align:center"><strong>Định nghĩa cơ bản</strong></p></th></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p><span style="color:#121317">Tag 1 – GIAO DỊCH </span></p>
-<p><span style="color:#121317"> (TRANSACTION) </span></p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Các nội dung cần liên quan<strong> </strong><strong><u>đến cụ thể từng/các giao dịch</u></strong> cụ thể</p>
-<p><u>VD minh họa:</u> Gửi mã xác thực; Biến động số dư ; Xác nhận đặt hàng/đặt lịch hẹn/đặt chỗ; Thông báo trạng thái giao dịch; Yêu cầu thanh toán cho dịch vụ đã sử dụng; ...</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p><span style="color:#121317">Tag 2 – CHĂM SÓC KHÁCH HÀNG </span></p>
-<p><span style="color:#121317">(CUSTOMER_CARE) </span></p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Các nội dung liên quan đến:</p>
-<ul><li>Cập nhật hoạt động/chính sách của dịch vụ/doanh nghiệp <strong><u>(không liên quan</u></strong> các hoạt động upsell/cross-sell/hậu mãi...)</li><li>Thông báo liên quan đến cập nhật của tài khoản</li><li>Khảo sát nhu cầu/đánh giá dịch vụ</li><li>Các quyền lợi khách hàng thân thiết (loyalty) mà khách hàng đã và đang tham gia (có thể lệ rõ ràng và cụ thể)</li></ul>
-<p><u>VD minh họa:</u> Thay đổi chính sách dịch vụ; Cảnh báo rủi ro liên quan đến quá trình sử dụng dịch vụ; Chúc mừng sinh nhật khách hàng thân thiết kèm quà tặng theo chính sách loyalty; Khảo sát/đánh giá về dịch vụ....</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p><span style="color:#121317">Tag 3 – HẬU MÃI </span></p>
-<p><span style="color:#121317">(PROMOTION) </span></p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Các nội dung liên quan đến:</p>
-<ul><li>Quảng bá / upsell (bán thêm) / cross sell (bán chéo) sản phẩm/dịch vụ của doanh nghiệp</li><li>Mời tải/sử dụng tính năng/kênh/ứng dụng của doanh nghiệp</li><li>Mời tái tục/gia hạn dịch vụ</li><li>Các chương trình hậu mãi khác của doanh nghiệp</li></ul>
-<p><u>VD minh họa:</u> Mời khách hàng cũ mua bộ sản phẩm mới của doanh nghiệp; Tặng voucher mời khách hàng cũ dùng dịch vụ; Gửi chương trình khuyến mãi Lễ Tết cho khách hàng; Mời tải app mới: Mời quan tâm OA<u>.</u></p></td></tr></table>
-<p><span style="color:#ff0000"><strong><u>Lưu ý: </u></strong></span></p>
-<ul><li><span style="color:#ff0000"><strong>Thông tin trên là định nghĩa chung để phân biệt Tag của template, tùy thuộc vào phân loại Tag và mục đích cụ thể của template, sẽ có thể có các yêu cầu cùng quy định kiểm duyệt tương ứng.</strong></span><br><strong>=&gt; Vui lòng tra cứu chi tiết tại phần II. Quy định kiểm duyệt chi tiết</strong></li><li>Dịch vụ ZBS Template Message hiện chỉ hỗ trợ gửi đến gửi đến người dùng cuối <strong><u>đã phát sinh giao dịch</u></strong> với doanh nghiệp. <br>Ngoại lệ duy nhất là gửi mã xác thực cho khách hàng tạo tài khoản mới.</li></ul>
-<h2><strong>II. Quy định kiểm duyệt chi tiết</strong></h2>
-<h3><strong>1. Yêu cầu tổng quan</strong></h3>
-<table style="border-collapse:collapse;width:100%;max-width:100%;margin:12px 0;"><tr><th style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word;background-color:#f5f5f5;text-align:center"><p style="text-align:center"><strong>Hạng mục</strong></p></th><th style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word;background-color:#f5f5f5;text-align:center"><p style="text-align:center"><strong>Yêu cầu</strong></p></th></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p><strong>Thể hiện đúng mục đích</strong></p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Tham khảo cách thiết lập mục đích gửi khi tạo mẫu tại đây:<a href="https://zalo.solutions/blog/thiet-lap-muc-dich-gui-khi-tao-mau-zns/jnb3n2isrtlb21vts4dpiyzb"> </a><a href="https://zalo.solutions/blog/thiet-lap-muc-dich-gui-khi-tao-mau-zns/jnb3n2isrtlb21vts4dpiyzb"><span style="color:#1155cc"><u>LINK</u></span></a></p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p><strong>Đối tượng nhận tin</strong></p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Mẫu tin cần thể hiện user (đối tượng nhận tin) đã từng có giao dịch với doanh nghiệp.</p></td></tr><tr><td rowspan="11" style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p><strong>Ngôn ngữ / Văn phong / Nội dung chung</strong></p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Đúng chính tả</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Không có lỗi đánh máy (typo)</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Với nội dung Tiếng Việt: Sử dụng Tiếng Việt có dấu</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Nội dung mẫu tin cần sử dụng đồng nhất MỘT ngôn ngữ, không pha trộn nhiều ngôn ngữ (VD: Anh-Việt,…)</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Nội dung cần thể hiện rõ ràng mục đích, không gây khó hiểu cho người nhận</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Nội dung cần đảm bảo có văn phong tương ứng với mỗi mục đích gửi tin (Tag)</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Nội dung không được phép chèn link hoặc số điện thoại</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Hạn chế viết tắt</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Không sử dụng icon, kí tự đặc biệt</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Không sử dụng các câu chữ, văn phong <strong><u>MANG TÍNH CHẤT (hoặc gây hiểu lầm là)</u></strong> mê tín, lừa gạt người dùng, mang tính chất thần thánh hóa sản phẩm/dịch vụ được cung cấp</p>
-<p>VD vi phạm: tín chủ, thầy pháp, bùa ngãi, …</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Văn phong, cách dùng từ và nội dung cần đảm bảo tính chuyên nghiệp, đồng bộ, cụ thể để diễn giải đúng và chính xác bối cảnh và mục đích của mẫu tin</p></td></tr><tr><td rowspan="7" style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p><strong>Logo</strong></p>
-<p>Xem thêm tại<a href="https://zalo.solutions/blog/nhung-luu-y-ve-logo-khi-tao-mau-thong-bao-zns-/e0pyiy0f87qm90g0488yjj09"> </a><a href="https://zalo.solutions/blog/nhung-luu-y-ve-logo-khi-tao-mau-thong-bao-zns-/e0pyiy0f87qm90g0488yjj09"><span style="color:#1155cc"><u>LINK</u></span></a></p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Logo cần canh sát lề trái</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Logo cần thể hiện rõ ràng và có phiên bản phù hợp cho light mode &amp; dark mode</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Màu sắc và hình ảnh trên logo không bị lỗi (lem, loang lỗ nền, bẹp…)</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Tuân theo tiêu chuẩn về kích thước</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Logo trùng tên OA hoặc doanh nghiệp cần sở hữu/có quyền sử dụng logo (1)</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Logo <strong><u>không</u></strong> đính kèm SĐT hoặc đường dẫn (link)</p>
-<p>Ngoại trừ trường hợp: thiết kế của logo mặc định bao gồm có SĐT và/hoặc đường dẫn (thiết kế này được công khai tại website chính thức của doanh nghiệp)</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Logo darkmode và lightmode tỉ lệ và kích thước cần tương đương nhau</p></td></tr><tr><td rowspan="5" style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p><strong>Tham số</strong></p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Không đặt tham số có dấu, không sử dụng dấu cách, dấu gạch nối</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Mỗi từ trong tham số được ngăn cách nhau bằng dấu gạch dưới (_)​</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Tham số bắt đầu bằng dấu “&lt;” và kết thúc bằng dấu “&gt;”​</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Không dùng các cụm "anh/chị" để xưng hô, cần sử dụng biến giới tính hoặc các từ trung tính (VD: bạn, quý khách, khách hàng, hội viên, nhân viên,...)</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Cần có tiền tố trình bày rõ thông tin của từng tham số vào nội dung</p>
-<p>VD: Cảm ơn quý khách có <strong>mã hội viên</strong> &lt;member_code&gt;</p></td></tr><tr><td rowspan="9" style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p><strong>Nút thao tác (CTA)</strong></p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Link và số điện thoại/hotline <strong><u>bắt buộc</u></strong> phải đặt ở Nút thao tác (CTA) - <strong><u>Không được</u></strong> nằm ở phần nội dung mẫu tin</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Không được phép sử dụng đường dẫn rút gọn (shorten link: bitly, onelink,…) hoặc các đường dẫn bị cảnh báo truy cập</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Không được phép dùng các đường dẫn không khả dụng (không truy cập được; bị lỗi hoặc chưa có thông tin công khai rõ ràng).</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Không dùng các link điều hướng đến các nhóm (group)/nhóm chat (group chat) trên các nền tảng Mạng xã hội (Zalo, Facebook, Telegram,...), chat Messenger, Zalo cá nhân</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Nội dung/thông tin trong mẫu tin nhắn ZBS nếu nhắc đến app/kênh/phương thức thì cần có CTA dẫn đến app/kênh/phương thức tương ứng</p>
-<p>*Trường hợp OA là doanh nghiệp cung cấp kinh doanh điện/nước sinh hoạt: Duy nhất với mục đích thông báo hóa đơn điện/nước, chỉ cần liệt kê danh sách kênh thanh toán, không bắt buộc dẫn link CTA tới app/kênh/phương thức thanh toán tương ứng</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Các mẫu template không phải Tag Hậu mãi: Link CTA không sử dụng thông tin ưu đãi không liên quan hay gây hiểu lầm là khuyến mãi, quảng cáo, mời gọi mua hàng, mời gọi đăng ký, mời gọi tải app,...</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p><strong><u>Không hỗ trợ</u></strong> các đường link CTA dẫn đến kịch bản chatbot</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Link CTA cần liên quan hoặc có mối quan hệ với nội dung mẫu tin</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Với nút CTA phân loại Hạng mục của Đối tác Dịch vụ cần được sở hữu/đăng ký sử dụng bởi chính tư cách pháp nhân của Đối tác Dịch vụ; hoặc đối chiếu <strong>phần chính (Brand name)</strong> của domain với tên doanh nghiệp/đối tác đăng ký sử dụng dịch vụ hoặc giấy tờ chứng minh quyền sử dụng tên miền Website/App tương ứng. (*) Brand name của domain phải khớp với tên OA (đồng nhất về ngôn ngữ)</p>
+
+# Quy định chung khi kiểm duyệt mẫu tin nhắn ZBS
+
+Bước đầu tiên để bắt đầu sử dụng dịch vụ Tin nhắn ZBS Template là chuẩn bị nội dung mẫu template và gửi đến bộ phận kiểm duyệt. Thao tác này cần thực hiện để đảm bảo tính toàn diện, xác minh mục đích sử dụng và đảm bảo hình ảnh doanh nghiệp được trình bày một cách chuyên nghiệp, nhằm tạo ấn tượng tốt nhất đối với người dùng cuối.
+
+Nội dung mẫu template cần đảm bảo tất cả các yêu cầu được liệt kê về **Yêu cầu tổng quan,** **Yêu cầu theo mục đích, Quy định bổ sung với các mục đích đặc biệt & Yêu cầu và quy định với các nhóm ngành/nhóm sản phẩm đặc biệt** tương ứng  
+Chúng tôi có quyền từ chối các mẫu template có nội dung chưa phù hợp, thiếu thông tin thể hiện rõ ràng bối cảnh và mục đích mẫu tin.
+
+## **I. Cách phân loại mục đích (Tag):**
+
+Nhằm mục đích nâng cao trải nghiệm của người dùng cuối và doanh nghiệp, tất cả ZBS Message Template đều phải được phân loại theo các khái niệm sau:
+
+| **Khái niệm Tag mới** | **Định nghĩa cơ bản** |
+| --- | --- |
+| Tag 1 – GIAO DỊCH<br>(TRANSACTION) | Các nội dung cần liên quan **_đến cụ thể từng/các giao dịch_** cụ thể<br>_VD minh họa:_ Gửi mã xác thực; Biến động số dư ; Xác nhận đặt hàng/đặt lịch hẹn/đặt chỗ; Thông báo trạng thái giao dịch; Yêu cầu thanh toán cho dịch vụ đã sử dụng; ... |
+| Tag 2 – CHĂM SÓC KHÁCH HÀNG<br>(CUSTOMER_CARE) | Các nội dung liên quan đến:<br>  * Cập nhật hoạt động/chính sách của dịch vụ/doanh nghiệp **_(không liên quan_** các hoạt động upsell/cross-sell/hậu mãi...)<br>  * Thông báo liên quan đến cập nhật của tài khoản<br>  * Khảo sát nhu cầu/đánh giá dịch vụ<br>  * Các quyền lợi khách hàng thân thiết (loyalty) mà khách hàng đã và đang tham gia (có thể lệ rõ ràng và cụ thể)<br>_VD minh họa:_ Thay đổi chính sách dịch vụ; Cảnh báo rủi ro liên quan đến quá trình sử dụng dịch vụ; Chúc mừng sinh nhật khách hàng thân thiết kèm quà tặng theo chính sách loyalty; Khảo sát/đánh giá về dịch vụ.... |
+| Tag 3 – HẬU MÃI<br>(PROMOTION) | Các nội dung liên quan đến:<br>  * Quảng bá / upsell (bán thêm) / cross sell (bán chéo) sản phẩm/dịch vụ của doanh nghiệp<br>  * Mời tải/sử dụng tính năng/kênh/ứng dụng của doanh nghiệp<br>  * Mời tái tục/gia hạn dịch vụ<br>  * Các chương trình hậu mãi khác của doanh nghiệp<br>_VD minh họa:_ Mời khách hàng cũ mua bộ sản phẩm mới của doanh nghiệp; Tặng voucher mời khách hàng cũ dùng dịch vụ; Gửi chương trình khuyến mãi Lễ Tết cho khách hàng; Mời tải app mới: Mời quan tâm OA _._ |
+
+**_Lưu ý:_**
+
+  * **Thông tin trên là định nghĩa chung để phân biệt Tag của template, tùy thuộc vào phân loại Tag và mục đích cụ thể của template, sẽ có thể có các yêu cầu cùng quy định kiểm duyệt tương ứng.**  
+**= > Vui lòng tra cứu chi tiết tại phần II. Quy định kiểm duyệt chi tiết**
+  * Dịch vụ ZBS Template Message hiện chỉ hỗ trợ gửi đến gửi đến người dùng cuối **_đã phát sinh giao dịch_** với doanh nghiệp.   
+Ngoại lệ duy nhất là gửi mã xác thực cho khách hàng tạo tài khoản mới.
+
+## **II. Quy định kiểm duyệt chi tiết**
+
+### **1\. Yêu cầu tổng quan**
+
+<table>
+  <tr>
+    <th><p style="text-align:center"><strong>Hạng mục</strong></p></th>
+    <th><p style="text-align:center"><strong>Yêu cầu</strong></p></th>
+  </tr>
+  <tr>
+    <td><p><strong>Thể hiện đúng mục đích</strong></p></td>
+    <td><p>Tham khảo cách thiết lập mục đích gửi khi tạo mẫu tại đây:<a href="https://zalo.solutions/blog/thiet-lap-muc-dich-gui-khi-tao-mau-zns/jnb3n2isrtlb21vts4dpiyzb"> </a><a href="https://zalo.solutions/blog/thiet-lap-muc-dich-gui-khi-tao-mau-zns/jnb3n2isrtlb21vts4dpiyzb"><u>LINK</u></a></p></td>
+  </tr>
+  <tr>
+    <td><p><strong>Đối tượng nhận tin</strong></p></td>
+    <td><p>Mẫu tin cần thể hiện user (đối tượng nhận tin) đã từng có giao dịch với doanh nghiệp.</p></td>
+  </tr>
+  <tr>
+    <td rowspan="11"><p><strong>Ngôn ngữ / Văn phong / Nội dung chung</strong></p></td>
+    <td><p>Đúng chính tả</p></td>
+  </tr>
+  <tr>
+    <td><p>Không có lỗi đánh máy (typo)</p></td>
+  </tr>
+  <tr>
+    <td><p>Với nội dung Tiếng Việt: Sử dụng Tiếng Việt có dấu</p></td>
+  </tr>
+  <tr>
+    <td><p>Nội dung mẫu tin cần sử dụng đồng nhất MỘT ngôn ngữ, không pha trộn nhiều ngôn ngữ (VD: Anh-Việt,…)</p></td>
+  </tr>
+  <tr>
+    <td><p>Nội dung cần thể hiện rõ ràng mục đích, không gây khó hiểu cho người nhận</p></td>
+  </tr>
+  <tr>
+    <td><p>Nội dung cần đảm bảo có văn phong tương ứng với mỗi mục đích gửi tin (Tag)</p></td>
+  </tr>
+  <tr>
+    <td><p>Nội dung không được phép chèn link hoặc số điện thoại</p></td>
+  </tr>
+  <tr>
+    <td><p>Hạn chế viết tắt</p></td>
+  </tr>
+  <tr>
+    <td><p>Không sử dụng icon, kí tự đặc biệt</p></td>
+  </tr>
+  <tr>
+    <td><p>Không sử dụng các câu chữ, văn phong <strong><u>MANG TÍNH CHẤT (hoặc gây hiểu lầm là)</u></strong> mê tín, lừa gạt người dùng, mang tính chất thần thánh hóa sản phẩm/dịch vụ được cung cấp</p>
+<p>VD vi phạm: tín chủ, thầy pháp, bùa ngãi, …</p></td>
+  </tr>
+  <tr>
+    <td><p>Văn phong, cách dùng từ và nội dung cần đảm bảo tính chuyên nghiệp, đồng bộ, cụ thể để diễn giải đúng và chính xác bối cảnh và mục đích của mẫu tin</p></td>
+  </tr>
+  <tr>
+    <td rowspan="7"><p><strong>Logo</strong></p>
+<p>Xem thêm tại<a href="https://zalo.solutions/blog/nhung-luu-y-ve-logo-khi-tao-mau-thong-bao-zns-/e0pyiy0f87qm90g0488yjj09"> </a><a href="https://zalo.solutions/blog/nhung-luu-y-ve-logo-khi-tao-mau-thong-bao-zns-/e0pyiy0f87qm90g0488yjj09"><u>LINK</u></a></p></td>
+    <td><p>Logo cần canh sát lề trái</p></td>
+  </tr>
+  <tr>
+    <td><p>Logo cần thể hiện rõ ràng và có phiên bản phù hợp cho light mode &amp; dark mode</p></td>
+  </tr>
+  <tr>
+    <td><p>Màu sắc và hình ảnh trên logo không bị lỗi (lem, loang lỗ nền, bẹp…)</p></td>
+  </tr>
+  <tr>
+    <td><p>Tuân theo tiêu chuẩn về kích thước</p></td>
+  </tr>
+  <tr>
+    <td><p>Logo trùng tên OA hoặc doanh nghiệp cần sở hữu/có quyền sử dụng logo (1)</p></td>
+  </tr>
+  <tr>
+    <td><p>Logo <strong><u>không</u></strong> đính kèm SĐT hoặc đường dẫn (link)</p>
+<p>Ngoại trừ trường hợp: thiết kế của logo mặc định bao gồm có SĐT và/hoặc đường dẫn (thiết kế này được công khai tại website chính thức của doanh nghiệp)</p></td>
+  </tr>
+  <tr>
+    <td><p>Logo darkmode và lightmode tỉ lệ và kích thước cần tương đương nhau</p></td>
+  </tr>
+  <tr>
+    <td rowspan="5"><p><strong>Tham số</strong></p></td>
+    <td><p>Không đặt tham số có dấu, không sử dụng dấu cách, dấu gạch nối</p></td>
+  </tr>
+  <tr>
+    <td><p>Mỗi từ trong tham số được ngăn cách nhau bằng dấu gạch dưới (_)​</p></td>
+  </tr>
+  <tr>
+    <td><p>Tham số bắt đầu bằng dấu “&lt;” và kết thúc bằng dấu “&gt;”​</p></td>
+  </tr>
+  <tr>
+    <td><p>Không dùng các cụm "anh/chị" để xưng hô, cần sử dụng biến giới tính hoặc các từ trung tính (VD: bạn, quý khách, khách hàng, hội viên, nhân viên,...)</p></td>
+  </tr>
+  <tr>
+    <td><p>Cần có tiền tố trình bày rõ thông tin của từng tham số vào nội dung</p>
+<p>VD: Cảm ơn quý khách có <strong>mã hội viên</strong> &lt;member_code&gt;</p></td>
+  </tr>
+  <tr>
+    <td rowspan="9"><p><strong>Nút thao tác (CTA)</strong></p></td>
+    <td><p>Link và số điện thoại/hotline <strong><u>bắt buộc</u></strong> phải đặt ở Nút thao tác (CTA) - <strong><u>Không được</u></strong> nằm ở phần nội dung mẫu tin</p></td>
+  </tr>
+  <tr>
+    <td><p>Không được phép sử dụng đường dẫn rút gọn (shorten link: bitly, onelink,…) hoặc các đường dẫn bị cảnh báo truy cập</p></td>
+  </tr>
+  <tr>
+    <td><p>Không được phép dùng các đường dẫn không khả dụng (không truy cập được; bị lỗi hoặc chưa có thông tin công khai rõ ràng).</p></td>
+  </tr>
+  <tr>
+    <td><p>Không dùng các link điều hướng đến các nhóm (group)/nhóm chat (group chat) trên các nền tảng Mạng xã hội (Zalo, Facebook, Telegram,...), chat Messenger, Zalo cá nhân</p></td>
+  </tr>
+  <tr>
+    <td><p>Nội dung/thông tin trong mẫu tin nhắn ZBS nếu nhắc đến app/kênh/phương thức thì cần có CTA dẫn đến app/kênh/phương thức tương ứng</p>
+<p>*Trường hợp OA là doanh nghiệp cung cấp kinh doanh điện/nước sinh hoạt: Duy nhất với mục đích thông báo hóa đơn điện/nước, chỉ cần liệt kê danh sách kênh thanh toán, không bắt buộc dẫn link CTA tới app/kênh/phương thức thanh toán tương ứng</p></td>
+  </tr>
+  <tr>
+    <td><p>Các mẫu template không phải Tag Hậu mãi: Link CTA không sử dụng thông tin ưu đãi không liên quan hay gây hiểu lầm là khuyến mãi, quảng cáo, mời gọi mua hàng, mời gọi đăng ký, mời gọi tải app,...</p></td>
+  </tr>
+  <tr>
+    <td><p><strong><u>Không hỗ trợ</u></strong> các đường link CTA dẫn đến kịch bản chatbot</p></td>
+  </tr>
+  <tr>
+    <td><p>Link CTA cần liên quan hoặc có mối quan hệ với nội dung mẫu tin</p></td>
+  </tr>
+  <tr>
+    <td><p>Với nút CTA phân loại Hạng mục của Đối tác Dịch vụ cần được sở hữu/đăng ký sử dụng bởi chính tư cách pháp nhân của Đối tác Dịch vụ; hoặc đối chiếu <strong>phần chính (Brand name)</strong> của domain với tên doanh nghiệp/đối tác đăng ký sử dụng dịch vụ hoặc giấy tờ chứng minh quyền sử dụng tên miền Website/App tương ứng. (*) Brand name của domain phải khớp với tên OA (đồng nhất về ngôn ngữ)</p>
 <p><u>Hoặc</u> có ủy quyền từ doanh nghiệp sở hữu/đăng ký sử dụng tên miền Website/App tương ứng.</p>
-<p><em>Tham khảo</em><a href="https://docs.google.com/document/d/1F-oHvoGvGQ6jddKAzI0-65PObYRyr8n-/edit?usp=drive_link&ouid=112147757009206945282&rtpof=true&sd=true"><em> </em></a><a href="https://docs.google.com/document/d/1F-oHvoGvGQ6jddKAzI0-65PObYRyr8n-/edit?usp=drive_link&ouid=112147757009206945282&rtpof=true&sd=true"><span style="color:#1155cc"><em><u>Mẫu ủy quyền sử dụng tên miền</u></em></span></a></p>
-<p>Các trường hợp khác vui lòng chọn phân loại Hạng mục không phải của Đối tác Dịch vụ cho nút CTA tương ứng.</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p><strong>Thiết lập</strong></p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Tất cả mẫu tin nhắn ZBS với mục đích gửi mã giảm giá, voucher <strong>ở tất cả mục đích (tag)</strong> <strong><u>bắt buộc</u></strong> sử dụng Mẫu voucher</p>
+<p><em>Tham khảo</em><a href="https://docs.google.com/document/d/1F-oHvoGvGQ6jddKAzI0-65PObYRyr8n-/edit?usp=drive_link&amp;ouid=112147757009206945282&amp;rtpof=true&amp;sd=true"> </a><a href="https://docs.google.com/document/d/1F-oHvoGvGQ6jddKAzI0-65PObYRyr8n-/edit?usp=drive_link&amp;ouid=112147757009206945282&amp;rtpof=true&amp;sd=true"><em><u>Mẫu ủy quyền sử dụng tên miền</u></em></a></p>
+<p>Các trường hợp khác vui lòng chọn phân loại Hạng mục không phải của Đối tác Dịch vụ cho nút CTA tương ứng.</p></td>
+  </tr>
+  <tr>
+    <td><p><strong>Thiết lập</strong></p></td>
+    <td><p>Tất cả mẫu tin nhắn ZBS với mục đích gửi mã giảm giá, voucher <strong>ở tất cả mục đích (tag)</strong> <strong><u>bắt buộc</u></strong> sử dụng Mẫu voucher</p>
 <p>Các trường hợp <strong>không bắt buộc</strong> dùng Mẫu voucher:</p>
-<ul><li>Doanh nghiệp gửi <strong>nhiều hơn 1 voucher cho user</strong> trong nội dung tin nhắn</li><li><strong>Không có mã giảm giá, voucher code cụ thể</strong>, user đổi, nhận mã giảm giá, voucher code tại app/mini-app/kênh (nội dung template <strong><u>bắt buộc</u></strong> nêu rõ cách thức sử dụng <strong><u>và</u></strong> dẫn CTA đến app/mini-app/kênh tương ứng)</li></ul></td></tr><tr><td rowspan="6" style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p><strong>Khác</strong></p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Cần đảm bảo chính sách chung của nền tảng Zalo (<a href="https://help.zalo.me/huong-dan/chuyen-muc/chinh-sach-cong-dong-zalo/"><span style="color:#1155cc"><u>LINK</u></span></a>) và chính sách dịch vụ ZBS Template Message (<a href="https://help.zalo.me/huong-dan/chuyen-muc/chinh-sach-cong-dong-zalo/"><span style="color:#1155cc"><u>LINK</u></span></a>)</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Trường hợp nội dung mẫu tin có nhắc đến tên/thương hiệu của doanh nghiệp khác, cần cung cấp thông tin hợp tác xác thực mối quan hệ hợp tác:</p>
-<ul><li>Văn bản hợp tác hoặc;</li><li>Thông tin công khai trên website/kênh thông bán hàng chính thức của doanh nghiệp và;</li><li>Các văn bản khác để đảm bảo tính pháp lý (nếu có)</li></ul></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Không hỗ trợ các nội dung, mục đích điều hướng đến các nhóm (group)/nhóm chat (group chat) trên các nền tảng Mạng xã hội (Zalo, Facebook, Telegram,...), chat Messenger, Zalo cá nhân.</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Với các ngành nghề kinh doanh bao gồm nhưng không giới hạn phân loại ngành nghề có điều kiện, hoặc các trường hợp cần hậu kiểm Zalo Business Solutions có quyền yêu cầu cung cấp các thông tin (bao gồm tham số, nội dung)/văn bản/giấy phép,... để đảm bảo tính xác minh và pháp lý</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Thông tin chuyển khoản bao gồm: Số tài khoản (STK) ngân hàng &amp; chủ tài khoản ngân hàng cần là thông tin của chính doanh nghiệp sở hữu OA (2)</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Với các nội dung thông báo nội bộ cho nhân viên của chính doanh nghiệp: cần bổ sung vào nội dung thể hiện rõ "Thông báo nội bộ"</p></td></tr></table>
-<p><strong><u>Ghi chú:</u></strong><br>(1) Đối với các trường hợp logo không khớp với tên OA​<br>Cần cung cấp thông tin giấy phép thể hiện OA sở hữu/được ủy quyền sử dụng logo qua mục ghi chú:<br>- Giấy chứng nhận đăng ký nhãn hiệu do Cục Sở Hữu Trí Tuệ cấp​<br>- Giấy ủy quyền từ Doanh nghiệp sở hữu logo cho phép Doanh nghiệp/HKD đăng ký OA sử dụng logo này (có chữ ký và dấu mộc của Doanh nghiệp sở hữu logo)​<br>- Hợp đồng Doanh nghiệp sở hữu logo cho phép Doanh nghiệp/HKD đăng ký OA được phép sử dụng logo này (có dấu mộc của 2 bên)​<br>- Giấy chứng nhận tác giả của Doanh nghiệp/HKD đăng ký OA…​</p>
-<p>(2) Đối với các trường hợp thông tin STK ngân hàng không phải là STK của doanh nghiệp sở hữu OA, vui lòng cung cấp bổ sung vào phần note:<br>- TH1: Chủ tài khoản là chủ doanh nghiệp/người đại diện pháp lý của doanh nghiệp (yêu cầu cung cấp văn bản/giấy tờ chứng minh)​<br>- TH2: Cung cấp được văn bản thể hiện mối quan hệ giữa chủ tài khoản với doanh nghiệp/doanh nghiệp ủy quyền cho cá nhân đó thu hộ</p>
-<h3><strong>2. Yêu cầu theo mục đích</strong></h3>
-<table style="border-collapse:collapse;width:100%;max-width:100%;margin:12px 0;"><tr><th style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word;background-color:#f5f5f5;text-align:center"><p><strong>Khái niệm Tag</strong></p></th><th style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word;background-color:#f5f5f5;text-align:center"><p><strong>Yêu cầu cơ bản</strong></p></th><th style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word;background-color:#f5f5f5;text-align:center"><p><strong>Một số trường hợp sử dụng &amp; quy chuẩn tương ứng</strong></p></th></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Tag 1 – GIAO DỊCH</p>
-<p>(TRANSACTION)</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><ul><li>Mục đích cần liên quan đến giao dịch.</li><li><strong><u>BẮT BUỘC</u></strong> có tên khách hàng <strong><u>và</u></strong> ít nhất 1 tham số định danh / tham số xác định giao dịch.<br>VD tham số định danh: mã đăng ký &lt;register_code&gt;, mã đơn hàng &lt;customer_code&gt;, mã hóa đơn &lt;bill_id&gt;, mã khách hàng &lt;customer_code&gt;, ngày mua hàng gần nhất &lt;order_date&gt;....</li><li>Số lượng tham số định danh / tham số xác định giao dịch yêu cầu hoặc sử dụng nội dung để thể hiện được phát sinh giao dịch. Ví dụ: Thông báo tình trạng đơn hàng/Thông báo đơn hàng (dịch vụ)/ Nội dung thể hiện đã sử dụng dịch vụ của người dùng cho từng mẫu tin được xác định trên cơ sở làm rõ nội dung, mục đích, nhu cầu và mối quan hệ của doanh nghiệp khi gửi đến user.</li><li>Trường hợp doanh nghiệp vì trường hợp bất khả kháng, không thể cung cấp tham số tên khách hàng, thì <strong>số lượng tham số định danh/tham số xác định giao dịch cần có tổng cộng ít nhất </strong><strong><u>3</u></strong><strong> tham số phù hợp</strong>.</li></ul></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Xác thực</p>
-<ul><li>Xác thực tài khoản</li><li>Xác thực giao dịch</li></ul>
-<p>Xác nhận</p>
-<ul><li>Xác nhận đặt hàng/đặt lịch hẹn/đặt chỗ</li><li>Xác nhận thông tin giao dịch</li><li>Xác nhận đăng ký dịch vụ/sự kiện (Không mời gọi tham gia sự kiện)</li><li>Xác nhận đăng ký tham gia CTKM thành công      có các thông tin tham số thể hiện rõ giao dịch. Ví dụ: thời gian đăng kí để thể hiện được người dùng đã có phát sinh giao dịch, sử dụng nội dung để thể hiện được phát sinh giao dịch, VD: Cảm ơn/Chúc mừng đã đăng kí nhận voucher/coupon,...) - <strong><u>Bắt buộc</u></strong> cung cấp cách thức user đăng ký tham gia để đánh giá ở tại mục Ghi chú kiểm duyệt cung cấp cách thức user đăng ký tham gia để đánh giá</li><li>Xác nhận giao dịch hoàn thành</li></ul>
-<p>Nhắc hẹn</p>
-<ul><li>Nhắc hẹn cho một sự kiện (Ví dụ: Tái khám, bảo dưỡng định kỳ, thanh toán, tham gia sự kiện).</li></ul>
-<p><strong><u>KHÔNG</u></strong> bao gồm các trường hợp nhắc tái tục (mục đích nhắc tái tục được định nghĩa theo Tag 3 – HẬU MÃI)</p>
-<p>Thông báo</p>
-<ul><li>Thông báo trạng thái giao dịch (Ví dụ: Trạng thái đơn hàng)</li><li>Thông báo thời gian thực hiện giao dịch (Ví dụ: Thời gian giao hàng)</li><li>Thông báo thanh toán thành công</li><li>Thông báo biến động số dư</li></ul>
-<p>Yêu cầu thanh toán, trả cước, trả phí,..</p>
-<ul><li>Mẫu tin nhắn ZBS có mục đích Yêu cầu thanh toán, trả cước, trả phí đến một số tài khoản ngân hàng nhất định <strong><u>bắt buộc sử dụng Mẫu Yêu cầu thanh toán</u></strong>. <br><em>Xem thêm</em><a href="https://zalo.solutions/news/cap-nhat-moi-zns-yeu-cau-thanh-toan-payment-request/v02ab1fwp4z3yycknnvb7g3x"><em> </em></a><a href="https://zalo.solutions/news/cap-nhat-moi-zns-yeu-cau-thanh-toan-payment-request/v02ab1fwp4z3yycknnvb7g3x"><span style="color:#1155cc"><em><u>Cách đăng ký và tổng quan về Mẫu Yêu cầu thanh toán</u></em></span></a></li><li>Trường hợp Mẫu tin có mục đích Yêu cầu thanh toán, trả cước, trả phí trên một Kênh thanh toán độc lập (khác tài khoản ngân hàng), có thể sử dụng Mẫu Tùy chỉnh nhưng <strong><u>bắt buộc</u></strong> dẫn link CTA về kênh thanh toán tương ứng - thay vì dùng Mẫu Yêu cầu thanh toán.</li><li>Quý khách vui lòng kiểm tra kĩ thông tin thanh toán, <strong>Zalo không chịu trách nhiệm nếu thông tin thanh toán không chính xác</strong>.</li><li>Trường hợp OA là doanh nghiệp cung cấp kinh doanh điện/nước sinh hoạt<strong> và không sử dụng yêu cầu thanh toán đến tài khoản ngân hàng</strong>, chỉ cần liệt kê danh sách kênh thanh toán, không bắt buộc dẫn link CTA tới app/kênh/phương thức thanh toán tương ứng</li><li><strong><u>Lưu ý:</u></strong> Thông tin chuyển khoản bao gồm: Số tài khoản (STK) ngân hàng &amp; chủ tài khoản ngân hàng cần là thông tin của chính doanh nghiệp sở hữu OA<br><em>Xem thêm tại phần 1. Yêu cầu tổng quan &gt; Khác</em></li></ul></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Tag 2 – CHĂM SÓC KHÁCH HÀNG</p>
-<p>(CUSTOMER_CARE)</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><ul><li>Cập nhật thông tin doanh nghiệp &amp; thông báo các chương trình chăm sóc khách hàng cho người dùng cuối</li><li><strong><u>BẮT BUỘC</u></strong> có tên khách hàng <strong><u>và</u></strong> ít nhất 1 tham số định danh / tham số xác định giao dịch.<br>VD: mã đăng ký &lt;register_code&gt;, mã đơn hàng &lt;customer_code&gt;, mã hóa đơn &lt;bill_id&gt;, mã khách hàng &lt;customer_code&gt;, ngày mua hàng gần nhất &lt;order_date&gt;....</li><li>Số lượng  tham số định danh / tham số xác định giao dịch yêu cầu cho từng Mẫu được xác định trên cơ sở làm rõ nội dung, mục đích, nhu cầu và mối quan hệ của doanh nghiệp khi gửi đến user.</li><li>Trường hợp doanh nghiệp vì trường hợp bất khả kháng, không thể cung cấp tham số tên khách hàng, thì <strong>số lượng tham số định danh/tham số xác định giao dịch cần có tổng cộng ít nhất </strong><strong><u>3</u></strong><strong> tham số phù hợp</strong>.</li></ul></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Thông báo/Cập nhật</p>
-<ul><li>Thông báo tích lũy điểm thưởng (có thể có thông tin đổi điểm khách hàng thân thiết/loyalty) (<strong><u>KHÔNG</u></strong> giới thiệu sản phẩm/dịch vụ khác)</li><li>Thông báo tình hình học tập</li></ul>
-<p>Thông báo chuyển đổi kênh/website/app thành một kênh/website/app khác với chức năng tương tự đang tồn tại trước đó</p>
-<ul><li><strong><u>Bắt buộc</u></strong> có thông báo chính thức đăng tải trên website/kênh công khai của doanh nghiệp (thể hiện bằng cách gắn link CTA về thông báo này <strong><u>hoặc</u></strong> đính kèm tại phần ghi chú kiểm duyệt)</li><li>Với trường hợp chuyển đổi từ kênh khác sang kênh Zalo OA, <strong><u>không</u></strong> dẫn CTA mời quan tâm OA (tránh gây hiểu lầm với mục đích mời quan tâm OA - Tag Hậu mãi)</li><li>VD hợp lệ:<ul><li>TH1: Ngân hàng ra mắt website riêng cho nhóm khách hàng doanh nghiệp (trước đó tất cả nhóm khách hàng đều sử dụng chung 1 website) - CTA dẫn về link thông báo chuyển đổi chính thức tại website hiện tại của ngân hàng</li><li>TH2: Doanh nghiệp chuyển đổi kênh chăm sóc khách hàng từ Hotline sang Zalo OA. - Không dẫn CTA mời quan tâm OA</li></ul></li></ul>
-<p>Yêu cầu</p>
-<ul><li>Cập nhật hoạt động/chính sách của dịch vụ/doanh nghiệp (Ví dụ: Thay đổi chính sách, bảo trì hệ thống,...)</li><li>Cập nhật thông tin tài khoản/ hạng tài khoản</li><li>Cập nhật liên quan đến tình trạng tài sản của người dùng cuối (Biến động số dư/hạn mức tài khoản, quyền lợi khách hàng thân thiết/loyalty)</li><li>Đổi/đóng địa điểm kinh doanh</li></ul>
-<p>Hỗ trợ/Hướng dẫn</p>
-<ul><li>Cung cấp hỗ trợ và hướng dẫn sử dụng sản phẩm/dịch vụ khách hàng đã mua/sử dụng (có đủ biến xác định đã sở hữu/sử dụng sản phẩm/dịch vụ đó)</li><li>Cảnh báo rủi ro (cho trường hợp có khả năng xảy ra)</li></ul>
-<p>Khảo sát</p>
-<ul><li>Khảo sát nhu cầu/đánh giá dịch vụ ý kiến của khách hàng về dịch vụ (cần có phát dinh giao dịch rõ ràng)</li><li>Với trường hợp có quà tặng/voucher cho khách hàng làm khảo sát cần đủ thông tin về thể lệ và cách thức nhận quà tặng/voucher (mức khuyến mãi, điều kiện áp dụng và HSD)</li></ul>
-<p>Quyền lợi khách hàng thân thiết</p>
-<ul><li>Chúc mừng sinh nhật khách hàng (<strong><u>bắt buộc</u></strong> kèm hình ảnh và quà tặng hoặc thông báo về quyền lợi khách hàng trong dịp sinh nhật hoặc theo chương trình loyalty của doanh nghiệp - theo chính sách cụ thể được công khai của doanh nghiệp)</li></ul>
-<ul><li>Thông báo quyền lợi tài khoản (có sẵn trong tài khoản của người dùng cuối khi sử dụng dịch vụ của doanh nghiệp được công khai tại trang chính sách của doanh nghiệp)</li></ul>
-<ul><li>Thông báo trả thưởng: Doanh nghiệp trả thưởng cho người dùng đạt đủ điều kiện/đã tham gia : Nội dung cần thể hiện rõ việc user đã tham gia chương trình tương ứng<br>- <strong>Bắt buộc</strong> đính kèm thông tin chi tiết chương trình tại phần Ghi chú kiểm duyệt</li><li>Thông báo tặng voucher ngay sau giao dịch: <strong>Nội dung chính mẫu tin: xác nhận đơn hàng/Tích điểm thành công/Tặng voucher xin lỗi sau khi đánh giá tệ đi kèm tặng voucher mục đích phụ (</strong>nội dung cần đảm bảo các tham số xác định giao dịch thể hiện thông tin đơn hàng: Mã đơn hàng/ Ngày mua hàng/Ngày đánh giá/...) - LƯU Ý: Cần sử dụng mẫu tin voucher</li></ul></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Tag 3 – HẬU MÃI</p>
-<p>(PROMOTION)</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><ul><li>Quảng bá / upsell (bán thêm) / cross sell (bán chéo) sản phẩm/dịch vụ của doanh nghiệp.</li><li>CTA dẫn về Hotline/ Số điện thoại (SĐT) doanh nghiệp: cần sử dụng SĐT có định dạng tổng đài với đầu số 1800 hoặc 1900<br>Trường hợp doanh nghiệp sử dụng số bàn/ số điện thoại cá nhân hoặc đầu số khác: cần cũng cấp thông tin chứng minh là SĐT này là số hotline của doanh nghiệp <br>(VD: SĐT này được đăng tải công khai là số hotline trên website hoặc trên các kênh chính thống của doanh nghiệp và đính kèm link tại mục note khi tạo temp)</li><li>Không viết tắt</li><li>Mục đích: Chúc mừng lễ tết =&gt; Bắt buộc áp dụng điều kiện bổ sung (Xem thêm tại phần 3.)</li><li>Với các mục đích khuyến mãi, ưu đãi: nội dung mẫu template cần thể hiện rõ thể lệ, điều kiện áp dụng, hạn sử dụng chương trình khuyến mãi</li><li><strong><u>Bắt buộc</u></strong> bao gồm tên khách hàng;</li><li>Số lượng  tham số định danh / tham số xác định giao dịch yêu cầu cho từng template được xác định trên cơ sở làm rõ nội dung, mục đích, nhu cầu và mối quan hệ của doanh nghiệp khi gửi đến user.</li><li>Không chứa các từ “nhất”, “duy nhất”, “tốt nhất”, “số một” hoặc từ ngữ, số liệu có ý nghĩa tương tự mà không có tài liệu chứng minh, kiểm chứng theo quy định của Bộ Văn hóa, Thể thao và Du lịch</li><li>Không chứa các từ ngữ như “cam kết”, “nặng mấy cũng khỏi”, “chắc chắn sẽ hết bệnh” hoặc các từ ngữ liên quan đến việc chắc chắn trong việc điều trị các loại bệnh và triệu chứng mà không có tài liệu chứng minh, kiểm chứng</li></ul></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Hậu mãi</p>
-<ul><li>Giới thiệu sản phẩm/dịch vụ cũ và mới của doanh nghiệp</li><li>Thông báo mã giảm giá và ưu đãi đặc biệt cho người dùng</li><li>Thông báo chương trình khuyến mãi</li><li>Chương trình hậu mãi/khuyến mãi mùa Lễ Tết</li><li>Thông báo mở mới/mở rộng dịch vụ/sản phẩm</li><li>Quảng bá kênh mới (chỉ cho phép quảng bá kênh Zalo OA - kêu gọi quan tâm Zalo OA và Zalo Mini App)</li></ul>
-<p>Mời tái tục, gia hạn dịch vụ</p>
-<ul><li>Template có mục đích Yêu cầu thanh toán, trả cước, trả phí (với mục đích tái tục) đến một số tài khoản ngân hàng nhất định <strong><u>bắt buộc sử dụng Mẫu Yêu cầu thanh toán</u></strong>. <br><em>Xem thêm</em><a href="https://zalo.solutions/news/cap-nhat-moi-zns-yeu-cau-thanh-toan-payment-request/qbu7mzk8yr8njzzav6"><em> </em></a><a href="https://zalo.solutions/news/cap-nhat-moi-zns-yeu-cau-thanh-toan-payment-request/qbu7mzk8yr8njzzav6"><span style="color:#1155cc"><em><u>Cách đăng ký và tổng quan về Mẫu Yêu cầu thanh toán</u></em></span></a><em> </em></li></ul></td></tr></table>
-<p><strong><em>Lưu ý khi xác định tag của mẫu tin nhắn ZBS:</em></strong></p>
-<ul><li>Tất cả mọi mẫu đều cần gắn 1 trong 3 Tag</li><li>Nếu một mẫu có chứa mục đích được định nghĩa/liên quan ở/với nhiều (&gt;1) phân loại tag khác nhau:<ul><li>TH 1: Mẫu có bất kỳ mục đích nào được xác định hoặc gây hiểu nhầm là Tag hậu mãi <br>=&gt; Gắn Tag 3 – Hậu mãi.</li><li>TH 2: Mẫu có tổ hợp mục đích gồm mục đích được xác định là Tag 1 - Giao dịch và mục đích được xác định là Tag 2 - Chăm sóc khách hàng<br>=&gt; Gắn Tag 1 – Giao dịch</li></ul></li><li>Với các mục đích đặc biệt:<ul><li>Mẫu Xác thực <br>=&gt; Gắn ở Tag 1 – Giao dịch</li><li>Mẫu Đánh giá dịch vụ <br>=&gt; Gắn ở Tag 2 – Chăm sóc khách hàng</li></ul></li></ul>
-<h3><strong>3. Quy định bổ sung với các mục đích đặc biệt</strong></h3>
-<h4><strong>3-a. Mục đích Chúc mừng sinh nhật khách hàng thân thiết</strong></h4>
-<p>Các mẫu tin nhắn ZBS mục đích Chúc mừng sinh nhật khách hàng thân thiết cần thỏa tất cả các quy định bổ sung dưới đây:</p>
-<ul><li><strong><u>Bắt buộc</u></strong> sử dụng hình ảnh trong mẫu<ul><li>Xem thêm<a href="https://zalo.solutions/news/ra-mat-tinh-nang-thiet-lap-hinh-anh-trong-mau-tin-zns/vvupr9ymqqbvdm96by"> </a><a href="https://zalo.solutions/news/ra-mat-tinh-nang-thiet-lap-hinh-anh-trong-mau-tin-zns/vvupr9ymqqbvdm96by"><span style="color:#1155cc"><u>Hướng dẫn thiết lập hình ảnh trong mẫu tin nhắn ZBS</u></span></a></li><li>Xem thêm<a href="https://zalo.solutions/news/huong-dan-cac-quy-dinh-xet-duyet-template-zns-chua-module-hinh-anh/wku44wybagbqwyrqy"> </a><a href="https://zalo.solutions/news/huong-dan-cac-quy-dinh-xet-duyet-template-zns-chua-module-hinh-anh/wku44wybagbqwyrqy"><span style="color:#1155cc"><u>Quy định xét duyệt mẫu tin nhắn ZBS chứa hình ảnh</u></span></a></li></ul></li><li><strong><u>Bắt buộc</u></strong> Trường hợp sử dụng mã giảm giá, voucher <strong>bắt buộc</strong> sử dụng mẫu voucher<ul><li>VD1: Tặng voucher 50%, cho đơn hàng từ xxx, áp dụng cho khách hàng nhận được tin nhắn này (Áp dụng từ 12/1/2026 )</li><li>VD2: Tặng áo thun nữ size M cho tất cả khách hàng nhận được tin nhắn này</li></ul></li><li><strong><u>Bắt buộc</u></strong> đính kèm thông tin chương trình loyalty/khách hàng thân thiết được công khai trên các kênh chính thức của doanh nghiệp</li></ul>
-<p><strong><u>Lưu ý:</u></strong></p>
-<ul><li><strong><u>Không hỗ trợ</u></strong> các mục đích Chúc mừng sinh nhật khách hàng thân thiết mà <u>không kèm</u> thông tin khuyến mãi/voucher/ưu đãi hợp lệ cho khách hàng</li></ul>
-<h4><strong>3-b. Mục đích Chúc mừng Lễ Tết - Chương trình hậu mãi mùa Lễ Tết</strong></h4>
-<p>Các mẫu tin mục đích Chúc mừng Lễ Tết / Chương trình hậu mãi mùa Lễ Tết cần thỏa tất cả các quy định bổ sung dưới đây:</p>
-<ul><li><strong><u>Bắt buộc</u></strong> sử dụng hình ảnh trong template<ul><li>Xem thêm<a href="https://zalo.solutions/news/ra-mat-tinh-nang-thiet-lap-hinh-anh-trong-mau-tin-zns/vvupr9ymqqbvdm96by"> </a><a href="https://zalo.solutions/news/ra-mat-tinh-nang-thiet-lap-hinh-anh-trong-mau-tin-zns/vvupr9ymqqbvdm96by"><span style="color:#1155cc"><u>Hướng dẫn thiết lập hình ảnh trong mẫu tin nhắn ZBS</u></span></a></li><li>Xem thêm<a href="https://zalo.solutions/news/huong-dan-cac-quy-dinh-xet-duyet-template-zns-chua-module-hinh-anh/wku44wybagbqwyrqy"> </a><a href="https://zalo.solutions/news/huong-dan-cac-quy-dinh-xet-duyet-template-zns-chua-module-hinh-anh/wku44wybagbqwyrqy"><span style="color:#1155cc"><u>Quy định xét duyệt mẫu tin chứa hình ảnh</u></span></a></li></ul></li><li><strong><u>Bắt buộc</u></strong> kèm thông tin quà tặng/voucher/chương trình hợp lệ trong nội dung mẫu tin</li><li>Danh sách các dịp Lễ Tết áp dụng:</li></ul>
-<table style="border-collapse:collapse;width:100%;max-width:100%;margin:12px 0;"><tr><th style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word;background-color:#f5f5f5;text-align:center"><p style="text-align:center"><strong>Dịp Lễ Tết</strong></p></th><th style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word;background-color:#f5f5f5;text-align:center"><p style="text-align:center"><strong>Thời gian</strong></p></th></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Tết Dương Lịch</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>31/12 &amp; 01/01 Hàng năm</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Tết Nguyên Đán</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>23/12 - 07/01 Âm lịch hàng năm <br>(23 tháng Chạp đến hết ngày 7 tháng Giêng âm lịch)</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Ngày Lễ Tình nhân</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>14/02 Hàng năm</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Ngày Quốc tế phụ nữ</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>08/03 Hàng năm</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Ngày Giỗ Tổ Hùng Vương</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>29/04 Hàng năm</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Ngày Giải Phóng miền Nam</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>30/04 Hàng năm</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Quốc tế lao động</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>01/05 Hàng năm</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Ngày của mẹ</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Chủ nhật thứ 2 của tháng 5 Hàng năm</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Quốc tế Thiếu nhi</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>01/06 Hàng năm</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Ngày của cha</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Chủ nhật thứ 3 của tháng 6 Hàng năm</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Quốc khánh Việt Nam</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>02/09 Hàng năm</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Tết Trung thu</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>15/8 Âm lịch hàng năm</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Ngày Phụ nữ Việt Nam</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>20/10 Hàng năm</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Halloween</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>31/10 Hàng năm</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Ngày Nhà giáo Việt Nam</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>20/11 Hàng năm</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Black Friday</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Ngày thứ 6 lần thứ 4 của tháng 11</p></td></tr><tr><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>Giáng sinh</p></td><td style="border:1px solid #bfbfbf;padding:6px 10px;vertical-align:top;overflow-wrap:break-word"><p>24-25/12 Hàng năm</p></td></tr></table>
-<p><strong><u>Lưu ý:</u></strong></p>
-<ul><li><strong><u>Không hỗ trợ</u></strong> các mục đích Chúc mừng Lễ Tết <u>không kèm</u> thông tin khuyến mãi/voucher/ưu đãi hợp lệ cho khách hàng</li><li>Với các chương trình khuyến mãi độc lập diễn ra trùng với các dịp Lễ Tết trên sẽ <strong><u>không bắt buộc</u></strong> áp dụng yêu cầu bổ sung<ul><li>Các chương trình này phải có tên, thể lệ khuyến mãi độc lập không gây hiểu nhầm là chương trình khuyến mãi dịp Lễ Tết</li></ul></li></ul>
-<h3><strong>4. Yêu cầu và quy định với các nhóm ngành/nhóm sản phẩm đặc biệt</strong></h3>
-<ul><li><strong>a. Nhóm ngành thẩm mỹ viện:</strong>Khi đăng ký nội dung Temp Hậu mãi: <strong><u>Bắt buộc</u></strong> cung cấp các giấy phép/văn bản sau:Chứng chỉ hành nghề khám bệnh, chữa bệnh của bác sĩ đứng tên dịch vụ <strong><u>VÀ</u></strong> Giấy phép hoạt động khám bệnh, chữa bệnh (kèm tài liệu phê duyệt đính kèm Giấy phép hoạt động khám, chữa bệnh);</li><li>– (Hoặc) Giấy xác nhận nội dung quảng cáo.</li></ul>
-<p>Trong trường hợp tên thương hiệu khác so với tên trên giấy phép hoạt động khám chữa bệnh do yếu tố sở hữu, mối quan hệ công ty mẹ – công ty con; hoặc do quy cách đặt tên trên giấy phép không đề cập đến tên thương hiệu, Nhà quảng cáo có thể minh chứng tính xác thực mối quan hệ giữa tên thương hiệu và giấy phép bằng việc bổ sung các minh chứng sau:</p>
-<ul><li>Giấy chứng nhận đăng ký nhãn hiệu (trường hợp đặt tên theo giấy chứng nhận)</li><li>(Hoặc) Giấy ĐKKD (trường hợp đặt tên thương hiệu theo ĐKKD)</li><li>(Hoặc) 02 trong các yếu tố xác thực dưới đây có chứng minh được mối liên hệ phù hợp:</li><li>Hình ảnh bảng hiệu tại địa điểm kinh doanh có thông tin về doanh nghiệp trên GPHĐ/GPQC (tên/địa chỉ/mã số GPHĐ…) và tên thương hiệu;</li><li>Hình ảnh và link website có thông tin về doanh nghiệp trên GPHĐ/GPQC (tên/địa chỉ/mã số GPHĐ…) và tên thương hiệu;</li><li>Hình ảnh và link bài báo có thể hiện mối liên hệ giữa doanh nghiệp trên GPHĐ/GPQC (tên/địa chỉ/mã số GPHĐ…) và tên thương hiệu ;</li><li>Hình ảnh và link website có dấu Bộ Công thương;</li><li>Hình ảnh và link website đã đăng ký VNNIC;</li><li>Hình ảnh và link website đã được cấp bởi NCSC;</li><li>Hình ảnh và link ứng dụng đã đăng ký trên App Store hoặc Google Play ;</li><li>Hình ảnh và link Tiện ích (Extension) đã đăng ký trên trình duyệt Chrome, Cốc Cốc hoặc các trình duyệt khác.</li></ul>
-<p><strong>b. Nhóm ngành </strong><strong>S</strong><strong>pa</strong><strong> (và cơ sở dịch vụ xăm hình)</strong><strong>:</strong></p>
-<p>Khi đăng ký nội dung Temp Hậu mãi: <strong><u>Bắt buộc</u></strong> cung cấp các giấy phép/văn bản sau theo từng phân loại hoạt động kinh doanh:</p>
-<p>Spa có bao gồm hoạt động massage có vật lý trị liệu:</p>
-<ul><li>Giấy phép kinh doanh;</li><li>(Và) Chứng chỉ hành nghề bác sĩ của người chịu trách nhiệm chuyên môn kỹ thuật (Sử dụng phương pháp vật lý trị liệu).</li></ul>
-<p>Spa có hoạt động phun, xăm, thêu trên da (không sử dụng gây tê dạng tiêm):</p>
-<ul><li>Giấy phép kinh doanh;</li><li>(Và) Chứng nhận/ chứng chỉ đào tạo, dạy nghề phun, xăm, thêu trên da do cơ sở đào tạo/ dạy nghề hợp pháp cấp;</li><li>(Và) Link công khai giấy chứng nhận đăng ký hoạt động giáo dục nghề nghiệp của cơ sở cấp chứng nhận/ chứng chỉ (Hoặc) Link công bố danh sách cơ sở hợp pháp từ cơ quan có thẩm quyền.</li></ul>
-<p>Spa (và cơ sở dịch vụ xăm hình):</p>
-<ul><li>Giấy phép hoạt động cấp bởi Sở Y Tế (nếu bao gồm dịch vụ xăm, phun, thêu trên da có sử dụng thuốc gây tê dạng tiêm).</li></ul>
-<p>Spa, cơ sở cắt tóc, gội đầu, làm móng (không bao gồm vật lý trị liệu) &amp; Spa thú cưng (có các hoạt động như cắt, tỉa lông, móng tay móng chân, tắm rửa, làm sạch,… cho thú cưng): Chưa cần cung cấp bổ sung văn bản/giấy phép</p>
-<p><strong>c. Nhóm ngành kinh doanh sản phẩm sinh lý, phẫu thuật thẩm mỹ sinh lý:</strong></p>
-<p><strong><u>Không hỗ trợ</u></strong> xét duyệt và đăng ký các mẫu Tag 3 (Hậu mãi) <strong>d. Nhóm ngành rượu, bia, đồ uống có cồn (nồng độ cồn dưới 15 độ)</strong></p>
-<p>Với mẫu Tag 3 (Hậu mãi):</p>
-<ul><li>Nội dung mẫu <strong><u>bắt buộc</u></strong> bổ sung cụm nội dung: <strong>“Sản phẩm không dành cho người dưới 18 tuổi</strong>”</li><li>Có đầy đủ thông tin về nồng độ cồn tại trang thông tin sản phẩm</li></ul>
-<p><strong>e. Nhóm ngành mỹ phẩm</strong></p>
-<p>Với mẫu Tag 3 (Hậu mãi):</p>
-<ul><li>Sản phẩm cần được hoàn tất công bố và có thể tra cứu tại các trang chính thức của Sở/Bộ/Ban ngành có thẩm quyền (VD: <a href="https://tracuu.medinet.org.vn/category/cosodulieukhac/congbo-mypham">https://tracuu.medinet.org.vn/category/cosodulieukhac/congbo-mypham</a>) - Cung cấp thông tin tại phần ghi chú kiểm duyệt</li><li>(Hoặc) Cung cấp Phiếu công bố sản phẩm mỹ phẩm</li></ul>
-<p><strong>f. Nhóm ngành thực phẩm chức năng (Bao gồm thực phẩm bảo vệ sức khỏe, thực phẩm dinh dưỡng, thực phẩm dành cho chế độ ăn đặc biệt,…); thực phẩm bảo vệ sức khỏe, thực phẩm dinh dưỡng y học, thực phẩm dùng cho chế độ ăn đặc biệt, sữa, sản phẩm dinh dưỡng dùng cho trẻ nhỏ đến 36 tháng tuổi</strong></p>
-<p>Nội dung Tag 3 (Hậu mãi) cần đảm bảo tất cả điều kiện bổ sung sau:</p>
-<ul><li><strong><u>Bắt buộc</u></strong> miêu tả rõ chức năng của thực phẩm chức năng, tác dụng của sản phẩm</li><li>Không có các cụm nội dung gây hiểu nhầm sản phẩm là thuốc hay mang tính chất (hoặc gây hiểu lầm) là thuốc trong nội dung mẫu và CTA</li><li><strong><u>Bắt buộc</u></strong> cung cấp các giấy phép/văn bản như sau:<ul><li>Giấy xác nhận nội dung quảng cáo;</li><li>(Và) Giấy tiếp nhận bản công bố hợp quy;<ul><li>Hoặc) Giấy xác nhận công bố phù hợp quy định an toàn thực phẩm;</li><li>(Hoặc) Giấy tiếp nhận đăng ký bản công bố sản phẩm.</li></ul></li></ul></li></ul>
-<p><strong>g. Nhóm sản phẩm/dịch vụ liên quan đến phong thủy/tử vi</strong></p>
-<p>Với mẫu Tag 3 (Hậu mãi):</p>
-<ul><li>Chỉ cho phép các nội dung giới thiệu trang sức/vật phẩm/dịch vụ phong thủy/tử vi <strong><u>KHÔNG MANG TÍNH CHẤT (hoặc gây hiểu lầm là)</u></strong> mê tín, lừa gạt người dùng, mang tính chất thần thánh hóa sản phẩm/dịch vụ được cung cấp ra.<ul><li><em><u>VD vi phạm:</u></em> giải hạn, giải vận, giàu phất lên nhờ mua nhẫn, vòng,…</li></ul></li></ul>
-<p><strong>h. Nhóm ngành kinh doanh thuốc,  dịch vụ khám chữa bệnh, thiết bị y tế:</strong></p>
-<p>Với mẫu Tag 3 (Hậu mãi), doanh nghiệp bắt buộc cung cấp đầy đủ các văn bản/giấy phép hợp lệ theo từ trường hợp sau:</p>
-<p>Quảng bá/giới thiệu thuốc không kê đơn: Giấy xác nhận nội dung quảng cáo.</p>
-<p>Quảng bá/giới thiệu thuốc thú y: Giấy xác nhận nội dung quảng cáo và Giấy chứng nhận lưu hành thuốc thú y.</p>
-<p>Quảng bá/giới thiệu phòng khám thú y:</p>
-<ul><li>Giấy phép kinh doanh;</li><li>(Và) Chứng chỉ hành nghề thú y đứng tên người quản lý/ người trực tiếp bán thuốc thú y;</li><li>(Và) Giấy chứng nhận đủ điều kiện buôn bán thuốc thú y (Nếu phòng khám có thêm hoạt động buôn bán thuốc thú y trên giấy phép kinh doanh).</li></ul>
-<p>Quảng bá/giới thiệu dịch vụ khám bệnh, chữa bệnh (nha khoa, phòng khám, <u>bệnh viện</u> thẩm mỹ, các loại hình bệnh viện, trung tâm xét nghiệm gen/ ADN…):</p>
-<ul><li>Giấy xác nhận nội dung quảng cáo;</li><li>(Hoặc) Văn bản chấp thuận nội dung quảng cáo dịch vụ khám bệnh, chữa bệnh trực thuộc Sở Y tế và do Sở Y tế cấp;</li><li>(Hoặc) Giấy phép hoạt động khám, chữa bệnh (kèm tài liệu phê duyệt đính kèm Giấy phép hoạt động khám, chữa bệnh) và Chứng chỉ hành nghề khám, chữa bệnh của bác sĩ đứng tên dịch vụ.</li></ul>
-<p><u>Lưu ý:</u></p>
-<ul><li>Các loại thuốc không kê đơn nhưng được cơ quan nhà nước có thẩm quyền khuyến cáo hạn chế sử dụng hoặc sử dụng có sự giám sát của thầy thuốc sẽ <strong><u>KHÔNG ĐƯỢC</u></strong> đăng ký các mục đích ở tag 3.</li></ul>
-<p><strong>i. Các nhóm sản phẩm khác </strong><strong><u>cấm/không hỗ trợ</u></strong><strong> đăng ký mẫu Tag 3 với mục đích quảng bá, đề xuất, mời sử dụng cho khách hàng cũ:</strong></p>
-<ul><li>Thức uống có nồng độ cồn từ 15 độ trở lên.</li><li>Sản phẩm sữa thay thế sữa mẹ dùng cho trẻ dưới 24 tháng tuổi, sản phẩm dinh dưỡng bổ sung dùng cho trẻ dưới 06 tháng tuổi, bình bú và vú ngậm nhân tạo.</li><li>Thuốc trái phép, thuốc theo toa hoặc thuốc kích thích.</li><li>Thuốc kê đơn; thuốc không kê đơn nhưng được cơ quan nhà nước có thẩm quyền khuyến cáo hạn chế sử dụng hoặc sử dụng có sự giám sát của thầy thuốc.</li><li>Các loại sản phẩm, hàng hóa có tính chất kích dục. Đồ chơi tình dục hoặc các sản phẩm tập trung vào khoái cảm tình dục (bao cao su tăng khoái cảm, gel bôi trơn, nước hoa kích thích hưng phấn…).</li><li>Các sản phẩm hoặc dịch vụ người lớn (ngoại trừ quảng cáo về kế hoạch hóa gia đình và sản phẩm tránh thai).</li><li>Sản phẩm thuốc lá và liên quan đến thuốc lá.</li><li>Vũ khí, đạn dược, chất gây cháy nổ và các loại sản phẩm, hàng hóa có tính chất kích động bạo lực.</li><li>Các dịch vụ, ấn bản phẩm (sách, báo, trò chơi điện tử, trang thông tin điện tử…) không có giấy phép phát hành.</li><li>Thiết bị, phần mềm ngụy trang dùng để ghi âm, ghi hình khi chưa được cấp hoặc bị thu hồi Giấy chứng nhận đủ điều kiện về an ninh, trật tự.</li><li>Sản phẩm liên quan đến thực vật rừng, động vật rừng nguy cấp, quý, hiếm.</li><li>Dịch vụ kinh doanh, cung ứng dịch vụ vàng và ngoại hối trong nước và nước ngoài mà chưa được Ngân hàng Nhà nước Việt Nam chấp thuận bằng văn bản.</li><li>Các sản phẩm và dịch vụ tài chính có các cách quảng bá/đề xuất/giới thiệu gây nhầm lẫn hoặc lừa đảo, chẳng hạn như quyền chọn nhị phân, phát hành tiền ảo lần đầu tiên ra công chúng, hoặc các vấn đề về đồng tiền ảo nói chung, đấu giá kiểu thầu hoặc các mô hình kinh doanh tương tự khác.</li><li>Quảng bá mô hình kinh doanh kiếm lời nhanh mà chỉ phải đầu tư ít một cách bất hợp lý, bao gồm nhưng không giới hạn cơ hội tiếp thị đa cấp, cơ hội thu nhập nhưng không mô tả đầy đủ mô hình kinh doanh hoặc sản phẩm liên quan và không yêu cầu nhiều nhưng hứa hẹn mức thù lao cao một cách bất hợp lý.</li><li>Mô hình đầu tư hợp đồng kỳ nghỉ (timeshare).</li><li>Các trò chơi có tính may rủi (cá cược thể thao, bingo hoặc poker, bet.).</li><li>Các sản phẩm hàng giả, hàng nhái làm cho người dùng nhầm lẫn với nhãn hiệu nổi tiếng đang có trên thị trường</li><li>Các sản phẩm có tính chất mê tín dị đoan.</li><li>Các sản phẩm, hàng hóa, dịch vụ cấm quảng cáo/quảng bá khác do Chính phủ hoặc cơ quan có thẩm quyền quy định khi có phát sinh trên thực tế.</li><li>Các sản phẩm khác mà Zalo Business Solutions nhận định là không an toàn, không phù hợp với người dùng theo quy định và đánh giá riêng hoặc theo tư vấn của đội ngũ pháp lý.</li></ul>
-<p><span style="color:#343436"><em>Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua </em></span><span style="color:#343436"><strong><em>Biểu Mẫu:</em></strong></span><a href="https://go.zalo.me/SupportZBS"><strong><em> </em></strong></a><a href="https://go.zalo.me/SupportZBS"><span style="color:#343436"><strong><em><u>Mẫu hỗ trợ Zalo Business Solutions</u></em></strong></span></a><span style="color:#343436"><em>. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo.</em></span></p>
+<ul><li>Doanh nghiệp gửi <strong>nhiều hơn 1 voucher cho user</strong> trong nội dung tin nhắn</li><li><strong>Không có mã giảm giá, voucher code cụ thể</strong>, user đổi, nhận mã giảm giá, voucher code tại app/mini-app/kênh (nội dung template <strong><u>bắt buộc</u></strong> nêu rõ cách thức sử dụng <strong><u>và</u></strong> dẫn CTA đến app/mini-app/kênh tương ứng)</li></ul></td>
+  </tr>
+  <tr>
+    <td rowspan="6"><p><strong>Khác</strong></p></td>
+    <td><p>Cần đảm bảo chính sách chung của nền tảng Zalo (<a href="https://help.zalo.me/huong-dan/chuyen-muc/chinh-sach-cong-dong-zalo/"><u>LINK</u></a>) và chính sách dịch vụ ZBS Template Message (<a href="https://help.zalo.me/huong-dan/chuyen-muc/chinh-sach-cong-dong-zalo/"><u>LINK</u></a>)</p></td>
+  </tr>
+  <tr>
+    <td><p>Trường hợp nội dung mẫu tin có nhắc đến tên/thương hiệu của doanh nghiệp khác, cần cung cấp thông tin hợp tác xác thực mối quan hệ hợp tác:</p>
+<ul><li>Văn bản hợp tác hoặc;</li><li>Thông tin công khai trên website/kênh thông bán hàng chính thức của doanh nghiệp và;</li><li>Các văn bản khác để đảm bảo tính pháp lý (nếu có)</li></ul></td>
+  </tr>
+  <tr>
+    <td><p>Không hỗ trợ các nội dung, mục đích điều hướng đến các nhóm (group)/nhóm chat (group chat) trên các nền tảng Mạng xã hội (Zalo, Facebook, Telegram,...), chat Messenger, Zalo cá nhân.</p></td>
+  </tr>
+  <tr>
+    <td><p>Với các ngành nghề kinh doanh bao gồm nhưng không giới hạn phân loại ngành nghề có điều kiện, hoặc các trường hợp cần hậu kiểm Zalo Business Solutions có quyền yêu cầu cung cấp các thông tin (bao gồm tham số, nội dung)/văn bản/giấy phép,... để đảm bảo tính xác minh và pháp lý</p></td>
+  </tr>
+  <tr>
+    <td><p>Thông tin chuyển khoản bao gồm: Số tài khoản (STK) ngân hàng &amp; chủ tài khoản ngân hàng cần là thông tin của chính doanh nghiệp sở hữu OA (2)</p></td>
+  </tr>
+  <tr>
+    <td><p>Với các nội dung thông báo nội bộ cho nhân viên của chính doanh nghiệp: cần bổ sung vào nội dung thể hiện rõ "Thông báo nội bộ"</p></td>
+  </tr>
+</table>
+
+**_Ghi chú:_**  
+(1) Đối với các trường hợp logo không khớp với tên OA​  
+Cần cung cấp thông tin giấy phép thể hiện OA sở hữu/được ủy quyền sử dụng logo qua mục ghi chú:  
+\- Giấy chứng nhận đăng ký nhãn hiệu do Cục Sở Hữu Trí Tuệ cấp​  
+\- Giấy ủy quyền từ Doanh nghiệp sở hữu logo cho phép Doanh nghiệp/HKD đăng ký OA sử dụng logo này (có chữ ký và dấu mộc của Doanh nghiệp sở hữu logo)​  
+\- Hợp đồng Doanh nghiệp sở hữu logo cho phép Doanh nghiệp/HKD đăng ký OA được phép sử dụng logo này (có dấu mộc của 2 bên)​  
+\- Giấy chứng nhận tác giả của Doanh nghiệp/HKD đăng ký OA…​
+
+(2) Đối với các trường hợp thông tin STK ngân hàng không phải là STK của doanh nghiệp sở hữu OA, vui lòng cung cấp bổ sung vào phần note:  
+\- TH1: Chủ tài khoản là chủ doanh nghiệp/người đại diện pháp lý của doanh nghiệp (yêu cầu cung cấp văn bản/giấy tờ chứng minh)​  
+\- TH2: Cung cấp được văn bản thể hiện mối quan hệ giữa chủ tài khoản với doanh nghiệp/doanh nghiệp ủy quyền cho cá nhân đó thu hộ
+
+### **2\. Yêu cầu theo mục đích**
+
+| **Khái niệm Tag** | **Yêu cầu cơ bản** | **Một số trường hợp sử dụng & quy chuẩn tương ứng** |
+| --- | --- | --- |
+| Tag 1 – GIAO DỊCH<br>(TRANSACTION) |   * Mục đích cần liên quan đến giao dịch.<br>  * **_BẮT BUỘC_** có tên khách hàng **_và_** ít nhất 1 tham số định danh / tham số xác định giao dịch.<br>VD tham số định danh: mã đăng ký <register_code>, mã đơn hàng <customer_code>, mã hóa đơn <bill_id>, mã khách hàng <customer_code>, ngày mua hàng gần nhất <order_date>....<br>  * Số lượng tham số định danh / tham số xác định giao dịch yêu cầu hoặc sử dụng nội dung để thể hiện được phát sinh giao dịch. Ví dụ: Thông báo tình trạng đơn hàng/Thông báo đơn hàng (dịch vụ)/ Nội dung thể hiện đã sử dụng dịch vụ của người dùng cho từng mẫu tin được xác định trên cơ sở làm rõ nội dung, mục đích, nhu cầu và mối quan hệ của doanh nghiệp khi gửi đến user.<br>  * Trường hợp doanh nghiệp vì trường hợp bất khả kháng, không thể cung cấp tham số tên khách hàng, thì **số lượng tham số định danh/tham số xác định giao dịch cần có tổng cộng ít nhất _3_ tham số phù hợp**. | Xác thực<br>  * Xác thực tài khoản<br>  * Xác thực giao dịch<br>Xác nhận<br>  * Xác nhận đặt hàng/đặt lịch hẹn/đặt chỗ<br>  * Xác nhận thông tin giao dịch<br>  * Xác nhận đăng ký dịch vụ/sự kiện (Không mời gọi tham gia sự kiện)<br>  * Xác nhận đăng ký tham gia CTKM thành công có các thông tin tham số thể hiện rõ giao dịch. Ví dụ: thời gian đăng kí để thể hiện được người dùng đã có phát sinh giao dịch, sử dụng nội dung để thể hiện được phát sinh giao dịch, VD: Cảm ơn/Chúc mừng đã đăng kí nhận voucher/coupon,...) - **_Bắt buộc_** cung cấp cách thức user đăng ký tham gia để đánh giá ở tại mục Ghi chú kiểm duyệt cung cấp cách thức user đăng ký tham gia để đánh giá<br>  * Xác nhận giao dịch hoàn thành<br>Nhắc hẹn<br>  * Nhắc hẹn cho một sự kiện (Ví dụ: Tái khám, bảo dưỡng định kỳ, thanh toán, tham gia sự kiện).<br>**_KHÔNG_** bao gồm các trường hợp nhắc tái tục (mục đích nhắc tái tục được định nghĩa theo Tag 3 – HẬU MÃI)<br>Thông báo<br>  * Thông báo trạng thái giao dịch (Ví dụ: Trạng thái đơn hàng)<br>  * Thông báo thời gian thực hiện giao dịch (Ví dụ: Thời gian giao hàng)<br>  * Thông báo thanh toán thành công<br>  * Thông báo biến động số dư<br>Yêu cầu thanh toán, trả cước, trả phí,..<br>  * Mẫu tin nhắn ZBS có mục đích Yêu cầu thanh toán, trả cước, trả phí đến một số tài khoản ngân hàng nhất định **_bắt buộc sử dụng Mẫu Yêu cầu thanh toán_**.<br>_Xem thêm_[ ](https://zalo.solutions/news/cap-nhat-moi-zns-yeu-cau-thanh-toan-payment-request/v02ab1fwp4z3yycknnvb7g3x)[__Cách đăng ký và tổng quan về Mẫu Yêu cầu thanh toán__](https://zalo.solutions/news/cap-nhat-moi-zns-yeu-cau-thanh-toan-payment-request/v02ab1fwp4z3yycknnvb7g3x)<br>  * Trường hợp Mẫu tin có mục đích Yêu cầu thanh toán, trả cước, trả phí trên một Kênh thanh toán độc lập (khác tài khoản ngân hàng), có thể sử dụng Mẫu Tùy chỉnh nhưng **_bắt buộc_** dẫn link CTA về kênh thanh toán tương ứng - thay vì dùng Mẫu Yêu cầu thanh toán.<br>  * Quý khách vui lòng kiểm tra kĩ thông tin thanh toán, **Zalo không chịu trách nhiệm nếu thông tin thanh toán không chính xác**.<br>  * Trường hợp OA là doanh nghiệp cung cấp kinh doanh điện/nước sinh hoạt**và không sử dụng yêu cầu thanh toán đến tài khoản ngân hàng** , chỉ cần liệt kê danh sách kênh thanh toán, không bắt buộc dẫn link CTA tới app/kênh/phương thức thanh toán tương ứng<br>  * ** _Lưu ý:_** Thông tin chuyển khoản bao gồm: Số tài khoản (STK) ngân hàng & chủ tài khoản ngân hàng cần là thông tin của chính doanh nghiệp sở hữu OA<br> _Xem thêm tại phần 1. Yêu cầu tổng quan > Khác_ |
+| Tag 2 – CHĂM SÓC KHÁCH HÀNG<br>(CUSTOMER_CARE) |   * Cập nhật thông tin doanh nghiệp & thông báo các chương trình chăm sóc khách hàng cho người dùng cuối<br>  * ** _BẮT BUỘC_** có tên khách hàng **_và_** ít nhất 1 tham số định danh / tham số xác định giao dịch.<br>VD: mã đăng ký <register_code>, mã đơn hàng <customer_code>, mã hóa đơn <bill_id>, mã khách hàng <customer_code>, ngày mua hàng gần nhất <order_date>....<br>  * Số lượng tham số định danh / tham số xác định giao dịch yêu cầu cho từng Mẫu được xác định trên cơ sở làm rõ nội dung, mục đích, nhu cầu và mối quan hệ của doanh nghiệp khi gửi đến user.<br>  * Trường hợp doanh nghiệp vì trường hợp bất khả kháng, không thể cung cấp tham số tên khách hàng, thì **số lượng tham số định danh/tham số xác định giao dịch cần có tổng cộng ít nhất _3_ tham số phù hợp**. | Thông báo/Cập nhật<br>  * Thông báo tích lũy điểm thưởng (có thể có thông tin đổi điểm khách hàng thân thiết/loyalty) (**_KHÔNG_** giới thiệu sản phẩm/dịch vụ khác)<br>  * Thông báo tình hình học tập<br>Thông báo chuyển đổi kênh/website/app thành một kênh/website/app khác với chức năng tương tự đang tồn tại trước đó<br>  * **_Bắt buộc_** có thông báo chính thức đăng tải trên website/kênh công khai của doanh nghiệp (thể hiện bằng cách gắn link CTA về thông báo này **_hoặc_** đính kèm tại phần ghi chú kiểm duyệt)<br>  * Với trường hợp chuyển đổi từ kênh khác sang kênh Zalo OA, **_không_** dẫn CTA mời quan tâm OA (tránh gây hiểu lầm với mục đích mời quan tâm OA - Tag Hậu mãi)<br>  * VD hợp lệ:<br>    * TH1: Ngân hàng ra mắt website riêng cho nhóm khách hàng doanh nghiệp (trước đó tất cả nhóm khách hàng đều sử dụng chung 1 website) - CTA dẫn về link thông báo chuyển đổi chính thức tại website hiện tại của ngân hàng<br>    * TH2: Doanh nghiệp chuyển đổi kênh chăm sóc khách hàng từ Hotline sang Zalo OA. - Không dẫn CTA mời quan tâm OA<br>Yêu cầu<br>  * Cập nhật hoạt động/chính sách của dịch vụ/doanh nghiệp (Ví dụ: Thay đổi chính sách, bảo trì hệ thống,...)<br>  * Cập nhật thông tin tài khoản/ hạng tài khoản<br>  * Cập nhật liên quan đến tình trạng tài sản của người dùng cuối (Biến động số dư/hạn mức tài khoản, quyền lợi khách hàng thân thiết/loyalty)<br>  * Đổi/đóng địa điểm kinh doanh<br>Hỗ trợ/Hướng dẫn<br>  * Cung cấp hỗ trợ và hướng dẫn sử dụng sản phẩm/dịch vụ khách hàng đã mua/sử dụng (có đủ biến xác định đã sở hữu/sử dụng sản phẩm/dịch vụ đó)<br>  * Cảnh báo rủi ro (cho trường hợp có khả năng xảy ra)<br>Khảo sát<br>  * Khảo sát nhu cầu/đánh giá dịch vụ ý kiến của khách hàng về dịch vụ (cần có phát dinh giao dịch rõ ràng)<br>  * Với trường hợp có quà tặng/voucher cho khách hàng làm khảo sát cần đủ thông tin về thể lệ và cách thức nhận quà tặng/voucher (mức khuyến mãi, điều kiện áp dụng và HSD)<br>Quyền lợi khách hàng thân thiết<br>  * Chúc mừng sinh nhật khách hàng (**_bắt buộc_** kèm hình ảnh và quà tặng hoặc thông báo về quyền lợi khách hàng trong dịp sinh nhật hoặc theo chương trình loyalty của doanh nghiệp - theo chính sách cụ thể được công khai của doanh nghiệp)<br>  * Thông báo quyền lợi tài khoản (có sẵn trong tài khoản của người dùng cuối khi sử dụng dịch vụ của doanh nghiệp được công khai tại trang chính sách của doanh nghiệp)<br>  * Thông báo trả thưởng: Doanh nghiệp trả thưởng cho người dùng đạt đủ điều kiện/đã tham gia : Nội dung cần thể hiện rõ việc user đã tham gia chương trình tương ứng<br>\- **Bắt buộc** đính kèm thông tin chi tiết chương trình tại phần Ghi chú kiểm duyệt<br>  * Thông báo tặng voucher ngay sau giao dịch: **Nội dung chính mẫu tin: xác nhận đơn hàng/Tích điểm thành công/Tặng voucher xin lỗi sau khi đánh giá tệ đi kèm tặng voucher mục đích phụ (** nội dung cần đảm bảo các tham số xác định giao dịch thể hiện thông tin đơn hàng: Mã đơn hàng/ Ngày mua hàng/Ngày đánh giá/...) - LƯU Ý: Cần sử dụng mẫu tin voucher |
+| Tag 3 – HẬU MÃI<br>(PROMOTION) |   * Quảng bá / upsell (bán thêm) / cross sell (bán chéo) sản phẩm/dịch vụ của doanh nghiệp.<br>  * CTA dẫn về Hotline/ Số điện thoại (SĐT) doanh nghiệp: cần sử dụng SĐT có định dạng tổng đài với đầu số 1800 hoặc 1900<br>Trường hợp doanh nghiệp sử dụng số bàn/ số điện thoại cá nhân hoặc đầu số khác: cần cũng cấp thông tin chứng minh là SĐT này là số hotline của doanh nghiệp<br>(VD: SĐT này được đăng tải công khai là số hotline trên website hoặc trên các kênh chính thống của doanh nghiệp và đính kèm link tại mục note khi tạo temp)<br>  * Không viết tắt<br>  * Mục đích: Chúc mừng lễ tết => Bắt buộc áp dụng điều kiện bổ sung (Xem thêm tại phần 3.)<br>  * Với các mục đích khuyến mãi, ưu đãi: nội dung mẫu template cần thể hiện rõ thể lệ, điều kiện áp dụng, hạn sử dụng chương trình khuyến mãi<br>  * ** _Bắt buộc_** bao gồm tên khách hàng;<br>  * Số lượng tham số định danh / tham số xác định giao dịch yêu cầu cho từng template được xác định trên cơ sở làm rõ nội dung, mục đích, nhu cầu và mối quan hệ của doanh nghiệp khi gửi đến user.<br>  * Không chứa các từ “nhất”, “duy nhất”, “tốt nhất”, “số một” hoặc từ ngữ, số liệu có ý nghĩa tương tự mà không có tài liệu chứng minh, kiểm chứng theo quy định của Bộ Văn hóa, Thể thao và Du lịch<br>  * Không chứa các từ ngữ như “cam kết”, “nặng mấy cũng khỏi”, “chắc chắn sẽ hết bệnh” hoặc các từ ngữ liên quan đến việc chắc chắn trong việc điều trị các loại bệnh và triệu chứng mà không có tài liệu chứng minh, kiểm chứng | Hậu mãi<br>  * Giới thiệu sản phẩm/dịch vụ cũ và mới của doanh nghiệp<br>  * Thông báo mã giảm giá và ưu đãi đặc biệt cho người dùng<br>  * Thông báo chương trình khuyến mãi<br>  * Chương trình hậu mãi/khuyến mãi mùa Lễ Tết<br>  * Thông báo mở mới/mở rộng dịch vụ/sản phẩm<br>  * Quảng bá kênh mới (chỉ cho phép quảng bá kênh Zalo OA - kêu gọi quan tâm Zalo OA và Zalo Mini App)<br>Mời tái tục, gia hạn dịch vụ<br>  * Template có mục đích Yêu cầu thanh toán, trả cước, trả phí (với mục đích tái tục) đến một số tài khoản ngân hàng nhất định **_bắt buộc sử dụng Mẫu Yêu cầu thanh toán_**.<br>_Xem thêm_[ ](https://zalo.solutions/news/cap-nhat-moi-zns-yeu-cau-thanh-toan-payment-request/qbu7mzk8yr8njzzav6)[__Cách đăng ký và tổng quan về Mẫu Yêu cầu thanh toán__](https://zalo.solutions/news/cap-nhat-moi-zns-yeu-cau-thanh-toan-payment-request/qbu7mzk8yr8njzzav6) |
+
+**_Lưu ý khi xác định tag của mẫu tin nhắn ZBS:_**
+
+  * Tất cả mọi mẫu đều cần gắn 1 trong 3 Tag
+  * Nếu một mẫu có chứa mục đích được định nghĩa/liên quan ở/với nhiều (>1) phân loại tag khác nhau:
+    * TH 1: Mẫu có bất kỳ mục đích nào được xác định hoặc gây hiểu nhầm là Tag hậu mãi   
+=> Gắn Tag 3 – Hậu mãi.
+    * TH 2: Mẫu có tổ hợp mục đích gồm mục đích được xác định là Tag 1 - Giao dịch và mục đích được xác định là Tag 2 - Chăm sóc khách hàng  
+=> Gắn Tag 1 – Giao dịch
+  * Với các mục đích đặc biệt:
+    * Mẫu Xác thực   
+=> Gắn ở Tag 1 – Giao dịch
+    * Mẫu Đánh giá dịch vụ   
+=> Gắn ở Tag 2 – Chăm sóc khách hàng
+
+### **3\. Quy định bổ sung với các mục đích đặc biệt**
+
+#### **3-a. Mục đích Chúc mừng sinh nhật khách hàng thân thiết**
+
+Các mẫu tin nhắn ZBS mục đích Chúc mừng sinh nhật khách hàng thân thiết cần thỏa tất cả các quy định bổ sung dưới đây:
+
+  * **_Bắt buộc_** sử dụng hình ảnh trong mẫu
+    * Xem thêm[ ](https://zalo.solutions/news/ra-mat-tinh-nang-thiet-lap-hinh-anh-trong-mau-tin-zns/vvupr9ymqqbvdm96by)[_Hướng dẫn thiết lập hình ảnh trong mẫu tin nhắn ZBS_](https://zalo.solutions/news/ra-mat-tinh-nang-thiet-lap-hinh-anh-trong-mau-tin-zns/vvupr9ymqqbvdm96by)
+    * Xem thêm[ ](https://zalo.solutions/news/huong-dan-cac-quy-dinh-xet-duyet-template-zns-chua-module-hinh-anh/wku44wybagbqwyrqy)[_Quy định xét duyệt mẫu tin nhắn ZBS chứa hình ảnh_](https://zalo.solutions/news/huong-dan-cac-quy-dinh-xet-duyet-template-zns-chua-module-hinh-anh/wku44wybagbqwyrqy)
+  * ** _Bắt buộc_** Trường hợp sử dụng mã giảm giá, voucher **bắt buộc** sử dụng mẫu voucher
+    * VD1: Tặng voucher 50%, cho đơn hàng từ xxx, áp dụng cho khách hàng nhận được tin nhắn này (Áp dụng từ 12/1/2026 )
+    * VD2: Tặng áo thun nữ size M cho tất cả khách hàng nhận được tin nhắn này
+  * ** _Bắt buộc_** đính kèm thông tin chương trình loyalty/khách hàng thân thiết được công khai trên các kênh chính thức của doanh nghiệp
+
+**_Lưu ý:_**
+
+  * **_Không hỗ trợ_** các mục đích Chúc mừng sinh nhật khách hàng thân thiết mà _không kèm_ thông tin khuyến mãi/voucher/ưu đãi hợp lệ cho khách hàng
+
+#### **3-b. Mục đích Chúc mừng Lễ Tết - Chương trình hậu mãi mùa Lễ Tết**
+
+Các mẫu tin mục đích Chúc mừng Lễ Tết / Chương trình hậu mãi mùa Lễ Tết cần thỏa tất cả các quy định bổ sung dưới đây:
+
+  * **_Bắt buộc_** sử dụng hình ảnh trong template
+    * Xem thêm[ ](https://zalo.solutions/news/ra-mat-tinh-nang-thiet-lap-hinh-anh-trong-mau-tin-zns/vvupr9ymqqbvdm96by)[_Hướng dẫn thiết lập hình ảnh trong mẫu tin nhắn ZBS_](https://zalo.solutions/news/ra-mat-tinh-nang-thiet-lap-hinh-anh-trong-mau-tin-zns/vvupr9ymqqbvdm96by)
+    * Xem thêm[ ](https://zalo.solutions/news/huong-dan-cac-quy-dinh-xet-duyet-template-zns-chua-module-hinh-anh/wku44wybagbqwyrqy)[_Quy định xét duyệt mẫu tin chứa hình ảnh_](https://zalo.solutions/news/huong-dan-cac-quy-dinh-xet-duyet-template-zns-chua-module-hinh-anh/wku44wybagbqwyrqy)
+  * ** _Bắt buộc_** kèm thông tin quà tặng/voucher/chương trình hợp lệ trong nội dung mẫu tin
+  * Danh sách các dịp Lễ Tết áp dụng:
+
+| **Dịp Lễ Tết** | **Thời gian** |
+| --- | --- |
+| Tết Dương Lịch | 31/12 & 01/01 Hàng năm |
+| Tết Nguyên Đán | 23/12 - 07/01 Âm lịch hàng năm<br>(23 tháng Chạp đến hết ngày 7 tháng Giêng âm lịch) |
+| Ngày Lễ Tình nhân | 14/02 Hàng năm |
+| Ngày Quốc tế phụ nữ | 08/03 Hàng năm |
+| Ngày Giỗ Tổ Hùng Vương | 29/04 Hàng năm |
+| Ngày Giải Phóng miền Nam | 30/04 Hàng năm |
+| Quốc tế lao động | 01/05 Hàng năm |
+| Ngày của mẹ | Chủ nhật thứ 2 của tháng 5 Hàng năm |
+| Quốc tế Thiếu nhi | 01/06 Hàng năm |
+| Ngày của cha | Chủ nhật thứ 3 của tháng 6 Hàng năm |
+| Quốc khánh Việt Nam | 02/09 Hàng năm |
+| Tết Trung thu | 15/8 Âm lịch hàng năm |
+| Ngày Phụ nữ Việt Nam | 20/10 Hàng năm |
+| Halloween | 31/10 Hàng năm |
+| Ngày Nhà giáo Việt Nam | 20/11 Hàng năm |
+| Black Friday | Ngày thứ 6 lần thứ 4 của tháng 11 |
+| Giáng sinh | 24-25/12 Hàng năm |
+
+**_Lưu ý:_**
+
+  * **_Không hỗ trợ_** các mục đích Chúc mừng Lễ Tết _không kèm_ thông tin khuyến mãi/voucher/ưu đãi hợp lệ cho khách hàng
+  * Với các chương trình khuyến mãi độc lập diễn ra trùng với các dịp Lễ Tết trên sẽ **_không bắt buộc_** áp dụng yêu cầu bổ sung
+    * Các chương trình này phải có tên, thể lệ khuyến mãi độc lập không gây hiểu nhầm là chương trình khuyến mãi dịp Lễ Tết
+
+### **4\. Yêu cầu và quy định với các nhóm ngành/nhóm sản phẩm đặc biệt**
+
+  * **a. Nhóm ngành thẩm mỹ viện:** Khi đăng ký nội dung Temp Hậu mãi: **_Bắt buộc_** cung cấp các giấy phép/văn bản sau:Chứng chỉ hành nghề khám bệnh, chữa bệnh của bác sĩ đứng tên dịch vụ **_VÀ_** Giấy phép hoạt động khám bệnh, chữa bệnh (kèm tài liệu phê duyệt đính kèm Giấy phép hoạt động khám, chữa bệnh);
+  * – (Hoặc) Giấy xác nhận nội dung quảng cáo.
+
+Trong trường hợp tên thương hiệu khác so với tên trên giấy phép hoạt động khám chữa bệnh do yếu tố sở hữu, mối quan hệ công ty mẹ – công ty con; hoặc do quy cách đặt tên trên giấy phép không đề cập đến tên thương hiệu, Nhà quảng cáo có thể minh chứng tính xác thực mối quan hệ giữa tên thương hiệu và giấy phép bằng việc bổ sung các minh chứng sau:
+
+  * Giấy chứng nhận đăng ký nhãn hiệu (trường hợp đặt tên theo giấy chứng nhận)
+  * (Hoặc) Giấy ĐKKD (trường hợp đặt tên thương hiệu theo ĐKKD)
+  * (Hoặc) 02 trong các yếu tố xác thực dưới đây có chứng minh được mối liên hệ phù hợp:
+  * Hình ảnh bảng hiệu tại địa điểm kinh doanh có thông tin về doanh nghiệp trên GPHĐ/GPQC (tên/địa chỉ/mã số GPHĐ…) và tên thương hiệu;
+  * Hình ảnh và link website có thông tin về doanh nghiệp trên GPHĐ/GPQC (tên/địa chỉ/mã số GPHĐ…) và tên thương hiệu;
+  * Hình ảnh và link bài báo có thể hiện mối liên hệ giữa doanh nghiệp trên GPHĐ/GPQC (tên/địa chỉ/mã số GPHĐ…) và tên thương hiệu ;
+  * Hình ảnh và link website có dấu Bộ Công thương;
+  * Hình ảnh và link website đã đăng ký VNNIC;
+  * Hình ảnh và link website đã được cấp bởi NCSC;
+  * Hình ảnh và link ứng dụng đã đăng ký trên App Store hoặc Google Play ;
+  * Hình ảnh và link Tiện ích (Extension) đã đăng ký trên trình duyệt Chrome, Cốc Cốc hoặc các trình duyệt khác.
+
+**b. Nhóm ngành Spa (và cơ sở dịch vụ xăm hình):**
+
+Khi đăng ký nội dung Temp Hậu mãi: **_Bắt buộc_** cung cấp các giấy phép/văn bản sau theo từng phân loại hoạt động kinh doanh:
+
+Spa có bao gồm hoạt động massage có vật lý trị liệu:
+
+  * Giấy phép kinh doanh;
+  * (Và) Chứng chỉ hành nghề bác sĩ của người chịu trách nhiệm chuyên môn kỹ thuật (Sử dụng phương pháp vật lý trị liệu).
+
+Spa có hoạt động phun, xăm, thêu trên da (không sử dụng gây tê dạng tiêm):
+
+  * Giấy phép kinh doanh;
+  * (Và) Chứng nhận/ chứng chỉ đào tạo, dạy nghề phun, xăm, thêu trên da do cơ sở đào tạo/ dạy nghề hợp pháp cấp;
+  * (Và) Link công khai giấy chứng nhận đăng ký hoạt động giáo dục nghề nghiệp của cơ sở cấp chứng nhận/ chứng chỉ (Hoặc) Link công bố danh sách cơ sở hợp pháp từ cơ quan có thẩm quyền.
+
+Spa (và cơ sở dịch vụ xăm hình):
+
+  * Giấy phép hoạt động cấp bởi Sở Y Tế (nếu bao gồm dịch vụ xăm, phun, thêu trên da có sử dụng thuốc gây tê dạng tiêm).
+
+Spa, cơ sở cắt tóc, gội đầu, làm móng (không bao gồm vật lý trị liệu) & Spa thú cưng (có các hoạt động như cắt, tỉa lông, móng tay móng chân, tắm rửa, làm sạch,… cho thú cưng): Chưa cần cung cấp bổ sung văn bản/giấy phép
+
+**c. Nhóm ngành kinh doanh sản phẩm sinh lý, phẫu thuật thẩm mỹ sinh lý:**
+
+**_Không hỗ trợ_** xét duyệt và đăng ký các mẫu Tag 3 (Hậu mãi) **d. Nhóm ngành rượu, bia, đồ uống có cồn (nồng độ cồn dưới 15 độ)**
+
+Với mẫu Tag 3 (Hậu mãi):
+
+  * Nội dung mẫu **_bắt buộc_** bổ sung cụm nội dung: **“Sản phẩm không dành cho người dưới 18 tuổi** ”
+  * Có đầy đủ thông tin về nồng độ cồn tại trang thông tin sản phẩm
+
+**e. Nhóm ngành mỹ phẩm**
+
+Với mẫu Tag 3 (Hậu mãi):
+
+  * Sản phẩm cần được hoàn tất công bố và có thể tra cứu tại các trang chính thức của Sở/Bộ/Ban ngành có thẩm quyền (VD: [https://tracuu.medinet.org.vn/category/cosodulieukhac/congbo-mypham](https://tracuu.medinet.org.vn/category/cosodulieukhac/congbo-mypham)) - Cung cấp thông tin tại phần ghi chú kiểm duyệt
+  * (Hoặc) Cung cấp Phiếu công bố sản phẩm mỹ phẩm
+
+**f. Nhóm ngành thực phẩm chức năng (Bao gồm thực phẩm bảo vệ sức khỏe, thực phẩm dinh dưỡng, thực phẩm dành cho chế độ ăn đặc biệt,…); thực phẩm bảo vệ sức khỏe, thực phẩm dinh dưỡng y học, thực phẩm dùng cho chế độ ăn đặc biệt, sữa, sản phẩm dinh dưỡng dùng cho trẻ nhỏ đến 36 tháng tuổi**
+
+Nội dung Tag 3 (Hậu mãi) cần đảm bảo tất cả điều kiện bổ sung sau:
+
+  * **_Bắt buộc_** miêu tả rõ chức năng của thực phẩm chức năng, tác dụng của sản phẩm
+  * Không có các cụm nội dung gây hiểu nhầm sản phẩm là thuốc hay mang tính chất (hoặc gây hiểu lầm) là thuốc trong nội dung mẫu và CTA
+  * ** _Bắt buộc_** cung cấp các giấy phép/văn bản như sau:
+    * Giấy xác nhận nội dung quảng cáo;
+    * (Và) Giấy tiếp nhận bản công bố hợp quy;
+      * Hoặc) Giấy xác nhận công bố phù hợp quy định an toàn thực phẩm;
+      * (Hoặc) Giấy tiếp nhận đăng ký bản công bố sản phẩm.
+
+**g. Nhóm sản phẩm/dịch vụ liên quan đến phong thủy/tử vi**
+
+Với mẫu Tag 3 (Hậu mãi):
+
+  * Chỉ cho phép các nội dung giới thiệu trang sức/vật phẩm/dịch vụ phong thủy/tử vi **_KHÔNG MANG TÍNH CHẤT (hoặc gây hiểu lầm là)_** mê tín, lừa gạt người dùng, mang tính chất thần thánh hóa sản phẩm/dịch vụ được cung cấp ra.
+    * __VD vi phạm:__ giải hạn, giải vận, giàu phất lên nhờ mua nhẫn, vòng,…
+
+**h. Nhóm ngành kinh doanh thuốc, dịch vụ khám chữa bệnh, thiết bị y tế:**
+
+Với mẫu Tag 3 (Hậu mãi), doanh nghiệp bắt buộc cung cấp đầy đủ các văn bản/giấy phép hợp lệ theo từ trường hợp sau:
+
+Quảng bá/giới thiệu thuốc không kê đơn: Giấy xác nhận nội dung quảng cáo.
+
+Quảng bá/giới thiệu thuốc thú y: Giấy xác nhận nội dung quảng cáo và Giấy chứng nhận lưu hành thuốc thú y.
+
+Quảng bá/giới thiệu phòng khám thú y:
+
+  * Giấy phép kinh doanh;
+  * (Và) Chứng chỉ hành nghề thú y đứng tên người quản lý/ người trực tiếp bán thuốc thú y;
+  * (Và) Giấy chứng nhận đủ điều kiện buôn bán thuốc thú y (Nếu phòng khám có thêm hoạt động buôn bán thuốc thú y trên giấy phép kinh doanh).
+
+Quảng bá/giới thiệu dịch vụ khám bệnh, chữa bệnh (nha khoa, phòng khám, _bệnh viện_ thẩm mỹ, các loại hình bệnh viện, trung tâm xét nghiệm gen/ ADN…):
+
+  * Giấy xác nhận nội dung quảng cáo;
+  * (Hoặc) Văn bản chấp thuận nội dung quảng cáo dịch vụ khám bệnh, chữa bệnh trực thuộc Sở Y tế và do Sở Y tế cấp;
+  * (Hoặc) Giấy phép hoạt động khám, chữa bệnh (kèm tài liệu phê duyệt đính kèm Giấy phép hoạt động khám, chữa bệnh) và Chứng chỉ hành nghề khám, chữa bệnh của bác sĩ đứng tên dịch vụ.
+
+_Lưu ý:_
+
+  * Các loại thuốc không kê đơn nhưng được cơ quan nhà nước có thẩm quyền khuyến cáo hạn chế sử dụng hoặc sử dụng có sự giám sát của thầy thuốc sẽ **_KHÔNG ĐƯỢC_** đăng ký các mục đích ở tag 3.
+
+**i. Các nhóm sản phẩm khác _cấm/không hỗ trợ_ đăng ký mẫu Tag 3 với mục đích quảng bá, đề xuất, mời sử dụng cho khách hàng cũ:**
+
+  * Thức uống có nồng độ cồn từ 15 độ trở lên.
+  * Sản phẩm sữa thay thế sữa mẹ dùng cho trẻ dưới 24 tháng tuổi, sản phẩm dinh dưỡng bổ sung dùng cho trẻ dưới 06 tháng tuổi, bình bú và vú ngậm nhân tạo.
+  * Thuốc trái phép, thuốc theo toa hoặc thuốc kích thích.
+  * Thuốc kê đơn; thuốc không kê đơn nhưng được cơ quan nhà nước có thẩm quyền khuyến cáo hạn chế sử dụng hoặc sử dụng có sự giám sát của thầy thuốc.
+  * Các loại sản phẩm, hàng hóa có tính chất kích dục. Đồ chơi tình dục hoặc các sản phẩm tập trung vào khoái cảm tình dục (bao cao su tăng khoái cảm, gel bôi trơn, nước hoa kích thích hưng phấn…).
+  * Các sản phẩm hoặc dịch vụ người lớn (ngoại trừ quảng cáo về kế hoạch hóa gia đình và sản phẩm tránh thai).
+  * Sản phẩm thuốc lá và liên quan đến thuốc lá.
+  * Vũ khí, đạn dược, chất gây cháy nổ và các loại sản phẩm, hàng hóa có tính chất kích động bạo lực.
+  * Các dịch vụ, ấn bản phẩm (sách, báo, trò chơi điện tử, trang thông tin điện tử…) không có giấy phép phát hành.
+  * Thiết bị, phần mềm ngụy trang dùng để ghi âm, ghi hình khi chưa được cấp hoặc bị thu hồi Giấy chứng nhận đủ điều kiện về an ninh, trật tự.
+  * Sản phẩm liên quan đến thực vật rừng, động vật rừng nguy cấp, quý, hiếm.
+  * Dịch vụ kinh doanh, cung ứng dịch vụ vàng và ngoại hối trong nước và nước ngoài mà chưa được Ngân hàng Nhà nước Việt Nam chấp thuận bằng văn bản.
+  * Các sản phẩm và dịch vụ tài chính có các cách quảng bá/đề xuất/giới thiệu gây nhầm lẫn hoặc lừa đảo, chẳng hạn như quyền chọn nhị phân, phát hành tiền ảo lần đầu tiên ra công chúng, hoặc các vấn đề về đồng tiền ảo nói chung, đấu giá kiểu thầu hoặc các mô hình kinh doanh tương tự khác.
+  * Quảng bá mô hình kinh doanh kiếm lời nhanh mà chỉ phải đầu tư ít một cách bất hợp lý, bao gồm nhưng không giới hạn cơ hội tiếp thị đa cấp, cơ hội thu nhập nhưng không mô tả đầy đủ mô hình kinh doanh hoặc sản phẩm liên quan và không yêu cầu nhiều nhưng hứa hẹn mức thù lao cao một cách bất hợp lý.
+  * Mô hình đầu tư hợp đồng kỳ nghỉ (timeshare).
+  * Các trò chơi có tính may rủi (cá cược thể thao, bingo hoặc poker, bet.).
+  * Các sản phẩm hàng giả, hàng nhái làm cho người dùng nhầm lẫn với nhãn hiệu nổi tiếng đang có trên thị trường
+  * Các sản phẩm có tính chất mê tín dị đoan.
+  * Các sản phẩm, hàng hóa, dịch vụ cấm quảng cáo/quảng bá khác do Chính phủ hoặc cơ quan có thẩm quyền quy định khi có phát sinh trên thực tế.
+  * Các sản phẩm khác mà Zalo Business Solutions nhận định là không an toàn, không phù hợp với người dùng theo quy định và đánh giá riêng hoặc theo tư vấn của đội ngũ pháp lý.
+
+_Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua_** _Biểu Mẫu:_**[ ](https://go.zalo.me/SupportZBS)[**__Mẫu hỗ trợ Zalo Business Solutions__**](https://go.zalo.me/SupportZBS) _. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
