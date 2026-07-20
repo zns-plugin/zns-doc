@@ -201,8 +201,7 @@ Xem thêm cách [Thiết lập mục đích gửi khi tạo Tin nhắn ZBS Templ
     </tr>
     <tr>
       <td>
-        Không cho phép hình ảnh có thông tin mời liên hệ Số điện thoại (SĐT cần
-        được dẫn tại Nút thao tác - CTA)&nbsp;
+        Link và số điện thoại/hotline bắt buộc phải đặt ở Nút thao tác (CTA) - Không được nằm ở phần nội dung mẫu tin)&nbsp;
       </td>
     </tr>
     <tr>
