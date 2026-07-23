@@ -269,8 +269,10 @@ Các mẫu tin mục đích Chúc mừng Lễ Tết / Chương trình hậu mãi
 
 ### **4\. Yêu cầu và quy định với các nhóm ngành/nhóm sản phẩm đặc biệt**
 
-  * **a. Nhóm ngành thẩm mỹ viện:** Khi đăng ký nội dung Temp Hậu mãi: **_Bắt buộc_** cung cấp các giấy phép/văn bản sau:Chứng chỉ hành nghề khám bệnh, chữa bệnh của bác sĩ đứng tên dịch vụ **_VÀ_** Giấy phép hoạt động khám bệnh, chữa bệnh (kèm tài liệu phê duyệt đính kèm Giấy phép hoạt động khám, chữa bệnh);
-  * – (Hoặc) Giấy xác nhận nội dung quảng cáo.
+  * **a. Nhóm ngành thẩm mỹ viện:** Khi đăng ký nội dung Temp Hậu mãi:
+  * **_Bắt buộc_** cung cấp các giấy phép/văn bản sau:Chứng chỉ hành nghề khám bệnh, chữa bệnh của bác sĩ đứng tên dịch vụ
+  * **_VÀ_** Giấy phép hoạt động khám bệnh, chữa bệnh (kèm tài liệu phê duyệt đính kèm Giấy phép hoạt động khám, chữa bệnh);
+  * (Hoặc) Giấy xác nhận nội dung quảng cáo.
 
 Trong trường hợp tên thương hiệu khác so với tên trên giấy phép hoạt động khám chữa bệnh do yếu tố sở hữu, mối quan hệ công ty mẹ – công ty con; hoặc do quy cách đặt tên trên giấy phép không đề cập đến tên thương hiệu, Nhà quảng cáo có thể minh chứng tính xác thực mối quan hệ giữa tên thương hiệu và giấy phép bằng việc bổ sung các minh chứng sau:
 
