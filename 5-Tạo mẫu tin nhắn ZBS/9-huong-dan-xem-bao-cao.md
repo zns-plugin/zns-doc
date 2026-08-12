@@ -47,3 +47,5 @@ File báo cáo ở trên cho bạn biết nội dung phản hồi, nhưng lại 
 ![image.png](https://content.zalo.cloud/uploads/image_0d9273a1a9.png)
 
 **Bước 2 - Nối dữ liệu bằng messageId:** Lấy cột MsgID (với Rating) hoặc message\_id (với Response) trong file báo cáo, đối chiếu với cột MsgId trong file CampaignDetail. Hai giá trị trùng nhau nghĩa là cùng một tin nhắn, từ đó bạn xác định được chính xác số điện thoại tương ứng với dòng phản hồi/đánh giá đó.
+
+_Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://zalo-solutions.freshdesk.com/en/support/tickets/new)**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
