@@ -1,5 +1,5 @@
 ---
-id: huong-dan-tai-bao-cao-mapping-ket-qua-phan-hoi-template-rating-template-response_ykdwo79en4o1uyc81zp5aayj
+id: huong-dan-tai-bao-cao-mapping-ket-qua-phan-hoi-template-rating-template-response
 title: Hướng dẫn tải báo cáo & mapping kết quả phản hồi - Template Rating & Template Response
 ---
 _Áp dụng cho cả Template Rating (mẫu đánh giá dịch vụ) và Template Response (mẫu phản hồi nhanh)_
