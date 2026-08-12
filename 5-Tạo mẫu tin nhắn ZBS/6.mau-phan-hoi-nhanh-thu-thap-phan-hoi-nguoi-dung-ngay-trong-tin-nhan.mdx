@@ -1,0 +1,93 @@
+---
+id: cap-nhat-moi-ra-mat-mau-phan-hoi-nhanh-thu-thap-phan-hoi-nguoi-dung-ngay-trong-tin-nhan
+title: Cập nhật mới: Ra mắt Mẫu Phản hồi nhanh: Thu thập phản hồi người dùng ngay trong tin nhắn
+---
+Với mong muốn giúp doanh nghiệp kết nối, tăng cường tương tác với khách hàng hiệu quả hơn ngay trên ZBS Template Message, Zalo Business Solutions giới thiệu Mẫu Phản hồi nhanh – giải pháp hỗ trợ thu thập phản hồi nhanh chóng, thuận tiện và liền mạch ngay trong cuộc trò chuyện (dự kiến ra mắt từ 03/08/2026)
+
+Mẫu Phản hồi nhanh (Template Response) hỗ trợ việc rút mọi thứ về đúng một chạm: khách hàng chọn ngay trên tin nhắn, doanh nghiệp nhận phản hồi tức thời. 
+
+![1.png](https://content.zalo.cloud/uploads/1_b5ca345c1f.png)
+
+Nội dung và giao diện template chỉ mang tính chất minh họa.    
+Nội dung khi đăng ký cần đảm bảo [Quy định kiểm duyệt](https://zalo.solutions/business-message/guidelines/quy-dinh-chung-khi-kiem-duyet-mau-zbs-template-message) theo thời điểm hiện hành.
+
+1\.  Mẫu Phản hồi nhanh là gì và cách ứng dụng cho doanh nghiệp  
+-----------------------------------------------------------------
+
+**Mẫu Phản hồi nhanh (Template Response)** cho phép doanh nghiệp thu thập phản hồi nhanh từ khách hàng (lựa chọn, xác nhận, khảo sát đơn giản) ngay trên tin nhắn. Thay vì các nút CTA thông thường dẫn đến link hay số điện thoại, toàn bộ nút trong mẫu tin này là nút Phản hồi (Response Button) - **khách hàng chỉ cần một chạm để gửi lựa chọn của mình về cho doanh nghiệp**.  
+
+![2.png](https://content.zalo.cloud/uploads/2_0d1730db66.png)
+
+Nội dung và giao diện template chỉ mang tính chất minh họa.    
+Nội dung khi đăng ký cần đảm bảo [Quy định kiểm duyệt](https://zalo.solutions/business-message/guidelines/quy-dinh-chung-khi-kiem-duyet-mau-zbs-template-message) theo thời điểm hiện hành.
+
+_Với các mục đích cụ thể khác như chuyển khoản/gửi mã ưu đãi/gửi mã xác thực/..., Quý khách có thể tham khảo các_ [_Mẫu Yêu cầu chuyển khoản_](https://zalo.solutions/business-message/guidelines/cap-nhat-moi-mau-yeu-cau-chuyen-khoan-request-to-transfer)_,_ [_Mẫu Voucher_](https://zalo.solutions/business-message/guidelines/cap-nhat-moi-mau-voucher)_,_ [_mẫu Xác thực_](https://zalo.solutions/business-message/guidelines/cach-su-dung-va-ung-dung-cua-mau-xac-thuc)_,..._
+
+So với các phương thức thu thập phản hồi truyền thống, Mẫu Phản hồi nhanh mang lại rất nhiều lợi ích nổi bật:
+
+*   **Phản hồi chỉ với một chạm:** khách hàng (người dùng cuối) chọn ngay trên tin nhắn, không cần mở link hay điền form, giúp tăng tỷ lệ hoàn thành phản hồi.
+*   **Nhận kết quả tức thời:** ngay khi người dùng cuối nhấn nút, hệ thống gửi thông tin lựa chọn về doanh nghiệp qua webhook hoặc trang Quản lý mẫu Template, giúp doanh nghiệp xử lý kịp thời theo phản hồi.   
+    _Để tối ưu và tự động hóa việc ghi nhận phản hồi, doanh nghiệp nên cân nhắc gửi tin và nhận webhook thông qua hình thức API._
+*   **Linh hoạt theo kịch bản:** hỗ trợ từ 1 đến 5 nút phản hồi trong một mẫu tin, phù hợp cho cả xác nhận Có/Không lẫn khảo sát nhiều lựa chọn.
+*   **Trải nghiệm minh bạch**: sau khi chọn, khách hàng nhận được tin nhắn xác nhận "Bạn đã chọn \[nội dung nút\]", đảm bảo cả hai phía đều nắm rõ lựa chọn đã gửi.
+
+2\. Cơ chế hoạt động và yêu cầu kỹ thuật
+----------------------------------------
+
+### 2.1 Lưu ý chung và cấu trúc của mẫu tin:
+
+*   **Cơ chế gửi:** Chỉ hỗ trợ gửi qua luồng số điện thoại (chưa hỗ trợ gửi qua luồng UID)
+*   **Cơ chế tạo:** Chỉ hỗ trợ tạo qua ZBS Account (chưa hỗ trợ tạo qua API). (Tính năng tạo mẫu tin qua API sẽ được cập nhật trong thời gian tới.)
+
+**Cấu trúc mẫu tin:** phần logo/hình ảnh và nội dung tương tự như Mẫu tin Tùy chỉnh. Bổ sung phần “Nút thao tác” chi tiết như bên dưới:
+
+*   **Toàn bộ nút trong mẫu tin là nút Phản hồi**, không kết hợp chung với các loại CTA khác (link, gọi điện, thanh toán...).
+*   **Số lượng nút:** tối thiểu 1, tối đa 5 nút.
+*   **Nội dung nút:** văn bản cố định từ 5 đến 30 ký tự & không hỗ trợ tham số cá nhân hóa (param).
+*   **Chế độ nút:** Cho phép chọn chế độ "Làm nổi bật" nút phản hồi đầu tiên
+
+![4.png](https://content.zalo.cloud/uploads/4_595f2e26c1.png)
+
+Nội dung và giao diện template chỉ mang tính chất minh họa.    
+Nội dung khi đăng ký cần đảm bảo [Quy định kiểm duyệt](https://zalo.solutions/business-message/guidelines/quy-dinh-chung-khi-kiem-duyet-mau-zbs-template-message) theo thời điểm hiện hành.
+
+### 2.2 Cơ chế tương tác của khách hàng:  
+
+*   **Mỗi khách hàng được chọn tối đa** **1 lần** **trên cùng một tin**. Sau khi chọn, nút được chọn chuyển sang trạng thái đã chọn, các nút còn lại vô hiệu hóa.
+*   **Thời hạn tương tác là** **7 ngày** **kể từ khi người dùng cuối nhận tin thành công**. Sau thời hạn này, các nút không còn nhấn được.
+
+![3.png](https://content.zalo.cloud/uploads/3_b1513dddb0.png)
+
+Nội dung và giao diện template chỉ mang tính chất minh họa.    
+Nội dung khi đăng ký cần đảm bảo [Quy định kiểm duyệt](https://zalo.solutions/business-message/guidelines/quy-dinh-chung-khi-kiem-duyet-mau-zbs-template-message) theo thời điểm hiện hành.
+
+### 2.3 Cách nhận và theo dõi phản hồi: 
+
+Doanh nghiệp có thể nhận phản hồi theo hai cách:
+
+*   **Tải báo cáo**: vào Quản lý template → Tải báo cáo để tải file .xlsx tổng hợp toàn bộ phản hồi của từng mẫu tin, gồm tracking ID, thời gian và nội dung phản hồi. 
+*   ![image.png](https://content.zalo.cloud/uploads/image_018dd9faf8.png)
+    
+*   **Qua webhook**: hệ thống gửi sự kiện user\_click\_response\_button kèm nội dung lựa chọn, thời điểm phản hồi và tracking ID về hệ thống của doanh nghiệp ngay khi khách hàng nhấn nút.  
+    _Xem thêm tại_ [_Sự kiện người dùng phản hồi template phản hồi nhanh_](https://developers.zalo.me/docs/zbs-template-message/quan-ly-template/template-webhook/su-kien-nguoi-dung-phan-hoi-template-phan-hoi-nhanh)
+*   **Qua API:** chủ động truy xuất thông tin phản hồi nhanh của khách hàng qua API tiện lợi và dễ dàng  
+    _Xem thêm tại_ [_API Lấy thông tin phản hồi nhanh của khách hàng_](https://developers.zalo.me/docs/zbs-template-message/quan-ly-template/template-api/api-lay-thong-tin-phan-hoi-nhanh-cua-khach-hang)
+
+3\. Hướng dẫn tạo Mẫu Phản hồi nhanh
+------------------------------------
+
+Bước 1: Truy cập [ZBS Account](https://account.zalo.solutions/spending/overview) > Tại trang "Dịch vụ gửi tin" -> Chọn ["Tạo Template"](https://account.zalo.solutions/tool/zns/createTemplate)  
+
+Bước 2: Điền các thông tin cần thiết của template
+
+Bước 3: Chọn loại "Mẫu Phản hồi nhanh" để tạo
+
+![image.png](https://content.zalo.cloud/uploads/image_a4612e5af8.png)  
+  
+Bước 4: Thiết lập nội dung mẫu tin và các nút phản hồi (từ 1 đến 5 nút, nội dung mỗi nút từ 5–30 ký tự)
+
+![image.png](https://content.zalo.cloud/uploads/image_0180706c16.png)
+
+Bước 5: Sau khi thiết lập hoàn tất → nhấn tiếp tục để thực hiện các bước tiếp theo của quy trình tạo mẫu tin bình thường
+
+Nếu có bất kì yêu cầu hỗ trợ, Quý Khách hàng có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua [Cổng thông tin hỗ trợ ZBS](https://zalo-solutions.freshdesk.com/support/tickets/new). Đội ngũ ZBS sẽ phản hồi trong vòng 24 giờ làm việc tiếp theo.
