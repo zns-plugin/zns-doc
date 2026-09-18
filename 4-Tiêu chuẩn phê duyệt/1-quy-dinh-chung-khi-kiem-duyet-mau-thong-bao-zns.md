@@ -260,4 +260,4 @@ Lưu ý:
 *   Các sản phẩm, hàng hóa, dịch vụ cấm quảng cáo/quảng bá khác do Chính phủ hoặc cơ quan có thẩm quyền quy định khi có phát sinh trên thực tế.
 *   Các sản phẩm khác mà Zalo Business Solutions nhận định là không an toàn, không phù hợp với người dùng theo quy định và đánh giá riêng hoặc theo tư vấn của đội ngũ pháp lý.
 
-_Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu:**_[**Mẫu hỗ trợ Zalo Business Solutions**](https://go.zalo.me/SupportZBS)_. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
+_Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu:** _[**Mẫu hỗ trợ Zalo Business Solutions**](https://go.zalo.me/SupportZBS)_. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
