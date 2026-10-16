@@ -19,7 +19,7 @@ ZBS là tài khoản quản lý số dư để sử dụng các tính năng tín
 
 </div>
 
-Trong trường hợp Quý khách cần thay đổi **"Quản trị viên cấp cao"** của tài khoản ZBS vì bất kì lý do nào, Quý khách vui lòng tham khảo tài liệu [**Hướng dẫn thay đổi quyền quản trị viên cấp cao của tài khoản ZBS**](https://zalo.solutions/blog/huong-dan-thay-doi-quyen-quan-tri-vien-cap-cao-cua-tai-khoan-zca/z4ujvknzjwbnqavdkj).
+Trong trường hợp Quý khách cần thay đổi **"Quản trị viên cấp cao"** của tài khoản ZBS vì bất kì lý do nào, Quý khách vui lòng tham khảo tài liệu [**Hướng dẫn thay đổi quyền quản trị viên cấp cao của tài khoản ZBS**](https://zalo.solutions/business-message/guidelines/membership-control).
 
 ## 2. Hướng dẫn xem “Danh sách thành viên” trên tài khoản ZBS
 
