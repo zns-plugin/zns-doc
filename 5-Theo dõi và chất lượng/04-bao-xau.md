@@ -1,10 +1,10 @@
 ---
 id: bao-xau-mau-tin-nhan-zbs-template-duoc-ghi-nhan-khi-nao
-title: Báo xấu tin nhắn ZBS Template được ghi nhận khi nào?
+title: Khi nào tin bị ghi nhận báo xấu?
 slug: /bao-xau-mau-tin-nhan-zbs-template-duoc-ghi-nhan-khi-nao
 ---
 
-# <p align="center">Báo xấu tin nhắn ZBS Template được ghi nhận khi nào?</p>
+# <p align="center">Khi nào tin bị ghi nhận báo xấu?</p>
 
 Để đảm bảo trải nghiệm của người dùng cuối (end-user), user có quyền lựa chọn báo xấu các tin nhắn ZBS template đã nhận để phản ánh chất lượng dịch vụ.
 
