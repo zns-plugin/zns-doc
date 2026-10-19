@@ -1,10 +1,10 @@
 ---
 id: nut-thao-tac-cta
-title: Nút thao tác CTA trong Mẫu Tin nhắn ZBS
+title: Thiết lập nút thao tác (CTA)
 slug: /nut-thao-tac-cta
 ---
 
-# <p align ="center">Nút thao tác CTA trong Mẫu Tin nhắn ZBS</p>
+# <p align ="center">Thiết lập nút thao tác (CTA)</p>
 
 Nhằm hỗ trợ khách hàng khai thác tối đa nội dung/mục đích và tối ưu hóa dịch vụ Tin nhắn ZBS Template, Zalo Business Solutions giới thiệu nút thao tác (CTA) trong nội dung Mẫu Tin nhắn ZBS. Bài viết này sẽ hướng dẫn quý khách triển khai tính năng này hiệu quả nhất. 
 
