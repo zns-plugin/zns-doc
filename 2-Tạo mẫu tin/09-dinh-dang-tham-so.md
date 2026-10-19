@@ -1,10 +1,10 @@
 ---
 id: cac-dinh-dang-du-lieu-khi-truyen-vao-tham-so-tren-noi-dung-zbs-template-message
-title: Các định dạng dữ liệu khi truyền vào tham số trên nội dung tin nhắn ZBS Template
+title: Định dạng dữ liệu cho tham số
 slug: /cac-dinh-dang-du-lieu-khi-truyen-vao-tham-so-tren-noi-dung-zbs-template-message
 ---
 
-# <p align="center">Các định dạng dữ liệu khi truyền vào tham số trên nội dung tin nhắn ZBS Template</p>
+# <p align="center">Định dạng dữ liệu cho tham số</p>
 
 
 Dữ liệu khi truyền vào tham số (param) được hệ thống cài đặt với một số định dạng nhất định. Trong bài viết này, đội ngũ hỗ trợ khách hàng Zalo Business Solutions sẽ liệt kê các dạng khi truyền vào tham số và cách hiển thị của trên tin nhắn ZBS Template gửi đến người nhận nhằm mục đích giúp đối tác hiểu rõ hơn về cách định dạng dữ liệu trước khi truyền vào tham số cũng như các định dạng sẽ hiển thị của tin nhắn ZBS Template khi đến máy người dùng (người nhận tin nhắn ZBS Template).  
