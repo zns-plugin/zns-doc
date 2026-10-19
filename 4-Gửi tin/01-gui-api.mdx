@@ -1,0 +1,91 @@
+---
+id: gui-api
+title: Gửi tin qua API
+slug: /gui-api
+---
+
+# <p align="center">Gửi tin qua API</p>
+
+Quý khách có 2 cách gửi Tin nhắn ZBS Template: **gửi qua API** hoặc **gửi theo chiến dịch** (không cần API). Bài này hướng dẫn luồng gửi tin qua API, từ lấy Access Token đến nhận sự kiện khi người dùng nhận được tin.
+
+## Chọn cách gửi tin phù hợp
+
+<div style={{ overflowX: "auto" }}><table style={{ width: "100%", borderCollapse: "collapse", margin: "8px 0 14px", fontSize: "16px" }}><thead><tr><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Tiêu chí</th><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Gửi qua API</th><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Gửi theo chiến dịch (không qua API)</th></tr></thead><tbody><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Cách gửi</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Gửi qua API</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Gửi qua file Excel tải lên tài khoản ZBS</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Yêu cầu</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Cần nhân lực có kiến thức về kỹ thuật</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Cần chuẩn bị file Excel</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Số lượng</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Gửi số lượng lớn</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Gửi số lượng có hạn mức</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Dữ liệu gửi</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Không được lưu trên tài khoản ZBS</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Được lưu trên tài khoản ZBS</td></tr></tbody></table></div>
+
+Không có đội kỹ thuật? Quý khách xem [Gửi tin theo chiến dịch (không cần API)](https://zalo.solutions/business-message/guidelines/huong-dan-su-dung-tinh-nang-gui-theo-chien-dich-khong-can-thong-qua-api).
+
+## Luồng gửi tin qua API
+
+<div style={{ margin: "16px 0 8px", padding: "10px", background: "#F4F7FB", border: "1px solid #E3E9F2", borderRadius: "14px" }}><figure className="image" style={{ margin: "0", width: "100%" }}><img src="https://stc-oa.zdn.vn/uploads/046b14d8a00bee14b617f6dc541a2bd0.png" alt="Sequence diagram API giữa đối tác gửi tin, máy chủ Zalo và người nhận tin" style={{ display: "block", width: "100%", height: "auto", borderRadius: "8px", border: "1px solid #E3E9F2" }} /></figure><p style={{ margin: "8px 4px 0", fontSize: "14px", lineHeight: "1.5", color: "#5B6578" }}><em>Luồng API giữa đối tác gửi tin, máy chủ Zalo và người nhận tin.</em></p></div>
+
+### Bước 1 · Lấy Access Token
+
+Access Token là mã định danh để Ứng dụng (AppID) gửi tin thay mặt OA. Quý khách lấy Access Token theo 1 trong 2 cách:
+
+- **Công cụ API Explorer:** dành cho Admin của OA hoặc Ứng dụng. Xem hướng dẫn tại [Uỷ quyền Ứng dụng (AppID) cho OA](https://zalo.solutions/business-message/guidelines/huong-dan-uy-quyen-oa-cho-ung-dung-appid).
+- **Giao thức OAuth:** dành cho người có kiến thức lập trình, hoặc khi doanh nghiệp dùng Ứng dụng của bên thứ 3. Xem tại [Xác thực và uỷ quyền cho Ứng dụng](https://developers.zalo.me/docs/official-account/bat-dau/xac-thuc-va-uy-quyen-cho-ung-dung-new).
+
+<blockquote style={{ margin: "16px 0", padding: "14px 16px", borderRadius: "12px", background: "#EEF5FF", border: "1px solid #CFE0FF", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0" }}><strong>Lưu ý:</strong> Access Token có hiệu lực 25 giờ. Khi hết hạn, Quý khách dùng Refresh Token (hiệu lực 3 tháng) để tạo lại Access Token mới.</p></blockquote>
+
+### Bước 2 · Gửi request API
+
+Gửi request `POST` đến `https://business.openapi.zalo.me/message/template`, kèm `access_token` ở header và các thông tin sau ở body:
+
+<div style={{ overflowX: "auto" }}><table style={{ width: "100%", borderCollapse: "collapse", margin: "8px 0 14px", fontSize: "16px" }}><thead><tr><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Tham số</th><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Bắt buộc</th><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Mô tả</th></tr></thead><tbody><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`phone`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Có</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Số điện thoại người nhận, đã liên kết với tài khoản Zalo, viết theo mã quốc gia. Ví dụ: 0987654321 viết thành 84987654321</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`template_id`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Có</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>ID của mẫu tin đã được duyệt</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`template_data`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Có</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Dữ liệu truyền vào các tham số của mẫu</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`tracking_id`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Có</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Mã do doanh nghiệp tự đặt để đối soát từng lần gửi, nên dài tối đa 48 ký tự và không chứa ký tự đặc biệt</td></tr></tbody></table></div>
+
+Cấu trúc request đầy đủ xem tại [API Gửi tin trên Zalo for Developers](https://developers.zalo.me/docs/zbs-template-message/gui-tin-template-qua-sdt/api-gui-tin-qua-sdt/api-gui-tin).
+
+### Bước 3 · Nhận phản hồi (response)
+
+Sau khi request được gửi đi, máy chủ Zalo phản hồi với các thông tin sau:
+
+<div style={{ overflowX: "auto" }}><table style={{ width: "100%", borderCollapse: "collapse", margin: "8px 0 14px", fontSize: "16px" }}><thead><tr><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Tham số</th><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Mô tả</th></tr></thead><tbody><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`error`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>0 nếu request thành công. Mã khác 0 là mã lỗi, xem cách xử lý tại <a href="https://zalo.solutions/business-message/guidelines/huong-dan-xu-ly-ma-loi" target="_blank" rel="noopener" style={{ color: "#0068FF", fontWeight: "600", textDecoration: "none" }}>Xử lý mã lỗi</a></td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`message`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Mô tả của lỗi tương ứng</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`msg_id`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>ID của tin. Chỉ trả về nếu request thành công</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`sent_time`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Thời gian máy chủ Zalo bắt đầu gửi tin (định dạng timestamp)</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`quota`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Thông tin hạn mức gửi tin của OA: `dailyQuota` là số tin được gửi trong ngày, `remainingQuota` là số tin còn lại trong ngày. Chỉ trả về nếu request thành công</td></tr></tbody></table></div>
+
+**Ví dụ response:**
+
+```json
+{
+  "error": 0,
+  "message": "Success",
+  "data": {
+    "msg_id": "a4d0243feee163bd3af2",
+    "sent_time": "1626926349402",
+    "quota": {
+      "dailyQuota": "500",
+      "remainingQuota": "499"
+    }
+  }
+}
+```
+
+### Bước 4 · Theo dõi sự kiện gửi tin
+
+Nếu request thành công, tin sẽ được gửi tới người dùng:
+
+- `sent_time`: thời điểm máy chủ Zalo bắt đầu gửi tin.
+- `delivery_time`: thời điểm người dùng nhận được tin trên thiết bị.
+
+### Bước 5 · Nhận sự kiện người dùng nhận được tin
+
+Khi tin đến thiết bị của người dùng, hệ thống gửi sự kiện `user_received_message` tới Webhook URL của Ứng dụng với các thông tin:
+
+<div style={{ overflowX: "auto" }}><table style={{ width: "100%", borderCollapse: "collapse", margin: "8px 0 14px", fontSize: "16px" }}><thead><tr><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Tham số</th><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Mô tả</th></tr></thead><tbody><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`sender.id`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>ID của Official Account gửi tin</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`recipient.id`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Số điện thoại người dùng nhận tin</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`event_name`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Tên sự kiện: `user_received_message`</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`message.delivery_time`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Thời gian thiết bị của người dùng nhận được tin</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`message.msg_id`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>ID của tin</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`message.tracking_id`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Mã đánh dấu lần gọi API, do doanh nghiệp tự đặt ở bước gửi request</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`app_id`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>ID của Ứng dụng gửi tin (Ứng dụng đã được OA cấp quyền)</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>`timestamp`</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Thời điểm gửi sự kiện</td></tr></tbody></table></div>
+
+<blockquote style={{ margin: "16px 0", padding: "14px 16px", borderRadius: "12px", background: "#FFF7E8", border: "1px solid #F3D9A4", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0" }}><strong>Lưu ý:</strong> Thời điểm người dùng nhận tin là giá trị của `delivery_time`, không phải thời điểm webhook nhận sự kiện hay giá trị `timestamp`.</p></blockquote>
+
+Chi tiết sự kiện xem tại [Sự kiện người dùng nhận tin qua SĐT](https://developers.zalo.me/docs/zbs-template-message/gui-tin-template-qua-sdt/webhook-gui-tin-qua-sdt/su-kien-nguoi-dung-nhan-tin-qua-sdt).
+
+## Câu hỏi thường gặp
+
+<details style={{ margin: "0 0 10px", padding: "14px 16px", border: "1px solid #E3E9F2", borderRadius: "12px", background: "#fff" }}><summary style={{ cursor: "pointer", fontWeight: "600", color: "#121A2B" }}>Gửi tin bị báo lỗi thì xử lý thế nào?</summary><div style={{ margin: "10px 0 0", color: "#1B2433" }}><p style={{ margin: "0 0 10px" }}>Quý khách xem giá trị `error` trong response và tra cách xử lý tại <a href="https://zalo.solutions/business-message/guidelines/huong-dan-xu-ly-ma-loi" target="_blank" rel="noopener" style={{ color: "#0068FF", fontWeight: "600", textDecoration: "none" }}>Xử lý mã lỗi</a>.</p></div></details>
+
+<details style={{ margin: "0 0 10px", padding: "14px 16px", border: "1px solid #E3E9F2", borderRadius: "12px", background: "#fff" }}><summary style={{ cursor: "pointer", fontWeight: "600", color: "#121A2B" }}>Chi phí gửi tin qua API tính thế nào?</summary><div style={{ margin: "10px 0 0", color: "#1B2433" }}><p style={{ margin: "0 0 10px" }}>Chi phí tính theo từng tin gửi thành công, tuỳ loại mẫu và thành phần trong mẫu. Quý khách xem tại <a href="https://zalo.solutions/business-message/guidelines/co-che-tinh-gia-cua-mau-tin-nhan-zbs" target="_blank" rel="noopener" style={{ color: "#0068FF", fontWeight: "600", textDecoration: "none" }}>Cơ chế tính giá tin nhắn</a>.</p></div></details>
+
+### Bài viết liên quan
+
+- [Uỷ quyền Ứng dụng (AppID) cho OA](https://zalo.solutions/business-message/guidelines/huong-dan-uy-quyen-oa-cho-ung-dung-appid)
+- [Gửi tin theo chiến dịch (không cần API)](https://zalo.solutions/business-message/guidelines/huong-dan-su-dung-tinh-nang-gui-theo-chien-dich-khong-can-thong-qua-api)
+- [Xử lý mã lỗi](https://zalo.solutions/business-message/guidelines/huong-dan-xu-ly-ma-loi)
+- [Định dạng dữ liệu cho tham số](https://zalo.solutions/business-message/guidelines/cac-dinh-dang-du-lieu-khi-truyen-vao-tham-so-tren-noi-dung-zbs-template-message)
+
+<blockquote style={{ margin: "40px 0 0", padding: "20px 22px", borderRadius: "16px", background: "#121A2B", color: "#fff", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0 0 4px", fontWeight: "700", fontSize: "17px" }}><strong>Cần hỗ trợ thêm?</strong></p><p style={{ margin: "0" }}>Gửi yêu cầu qua <a href="https://zalo-solutions.freshdesk.com/en/support/tickets/new" target="_blank" rel="noopener" style={{ color: "#8EC0FF", fontWeight: "600" }}>Mẫu hỗ trợ Zalo Business Solutions</a>. Đội ngũ chăm sóc khách hàng sẽ phản hồi trong vòng 24 giờ làm việc.</p></blockquote>
