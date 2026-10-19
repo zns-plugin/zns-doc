@@ -1,6 +1,6 @@
 ---
 id: cai-dat-ki-thuat-trong-mau-tin-nhan-zbs
-title: Cài đặt kĩ thuật trong Mẫu Tin nhắn ZBS
+title: Cài đặt kỹ thuật cho tham số
 slug: /cai-dat-ki-thuat-trong-mau-tin-nhan-zbs
 ---
 
