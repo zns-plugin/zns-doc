@@ -1,10 +1,10 @@
 ---
 id: nhung-luu-y-quan-trong-ve-viec-xuat-hoa-don
-title: Những lưu ý quan trọng về việc xuất hoá đơn
+title: Lưu ý khi xuất hoá đơn
 slug: /nhung-luu-y-quan-trong-ve-viec-xuat-hoa-don
 ---
 
-# <p align="center">Những lưu ý quan trọng về việc xuất hoá đơn</p>
+# <p align="center">Lưu ý khi xuất hoá đơn</p>
 
 Zalo Business Solutions hỗ trợ khách hàng xuất hóa đơn cho số tiền nạp vào tài khoản ZBS. Khách hàng vui lòng xem kỹ các quy định xuất hóa đơn như theo thông tin bên dưới.
 
