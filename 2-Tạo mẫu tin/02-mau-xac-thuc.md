@@ -1,6 +1,6 @@
 ---
 id: cach-su-dung-va-ung-dung-cua-mau-xac-thuc
-title: Cách sử dụng và ứng dụng của Mẫu Xác thực
+title: Tạo Mẫu xác thực (OTP)
 slug: /cach-su-dung-va-ung-dung-cua-mau-xac-thuc
 ---
      **1. Mẫu Xác thực là gì? Cách ứng dụng Mẫu Xác thực:**
