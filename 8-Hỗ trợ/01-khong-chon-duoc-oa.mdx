@@ -6,25 +6,67 @@ slug: /tai-sao-khong-chon-duoc-oa-trong-qua-trinh-tao-mau
 
 # <p align="center">Không chọn được OA khi tạo mẫu?</p>
 
+Đang tạo mẫu tin mà ô **Chọn OA** bị mờ hoặc không có OA Quý khách cần? Đừng lo, đây là tình huống khá thường gặp. Danh sách ở ô này chỉ hiển thị những OA **đã uỷ quyền cho Ứng dụng (AppID)** mà Quý khách vừa chọn. Bài viết giúp Quý khách tìm ra nguyên nhân và xử lý chỉ trong vài phút.
 
-_Khi tạo và gửi duyệt mẫu Tin nhắn ZBS, doanh nghiệp thường dừng lại ngay sau bước chọn ứng dụng (App ID) vì không thể thao tác chọn OA. Để chọn được OA trong quá trình gửi Tin nhắn ZBS Template, Quý khách cần **đảm bảo OA đã ủy quyền cho ứng dụng.** Trong bài viết này, đội ngũ hỗ trợ khách hàng của Zalo Business Solutions sẽ hướng dẫn quý khách chi tiết các bước để hoàn thành những điều kiện trên._
+## Vì sao không chọn được OA?
 
-## Hướng dẫn Ủy quyền cho Ứng dụng (AppID) trong tài khoản OA
+Ở màn hình **Thông tin chung**, Quý khách chọn **Ứng dụng (AppID)** trước (2), sau đó hệ thống mới hiển thị các OA dùng được ở ô **Chọn OA** (3).
 
-**Ứng dụng (AppID)** là đơn vị đại diện của một hoặc nhiều **Zalo Official Account (OA)** để gửi thông báo ZNS và truy cập các API được cung cấp bởi Zalo. Việc uỷ quyền ứng dụng (AppID) cho phép các ứng dụng truy cập và sử dụng các API của Zalo để gửi thông báo và tương tác với người dùng thông qua các tài khoản OA.
+<div style={{ margin: "16px 0 8px", padding: "10px", background: "#F4F7FB", border: "1px solid #E3E9F2", borderRadius: "14px" }}><figure className="image" style={{ margin: "0", width: "100%" }}><img src="https://content.zalo.cloud/uploads/tao_mau_02_thong_tin_chung_1c0d21b9c3.png" alt="Màn hình Thông tin chung với 3 trường Tên mẫu, Ứng dụng và OA được đánh số" style={{ display: "block", width: "100%", height: "auto", borderRadius: "8px", border: "1px solid #E3E9F2" }} /></figure><p style={{ margin: "8px 4px 0", fontSize: "14px", lineHeight: "1.5", color: "#5B6578" }}><em>Ô Chọn OA phụ thuộc vào Ứng dụng đã chọn ở ô phía trên.</em></p></div>
 
-Để bắt đầu sử dụng hệ thống Tin nhắn ZBS Template API, OA của Quý khách cần xác thực và ủy quyền cho ứng dụng và lấy **Access token (mã truy cập)**.
+Quý khách đối chiếu dấu hiệu đang gặp với bảng dưới đây để biết cách xử lý nhé:
 
-Lưu ý:
+<div style={{ overflowX: "auto" }}><table style={{ width: "100%", borderCollapse: "collapse", margin: "8px 0 14px", fontSize: "16px" }}><thead><tr><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Dấu hiệu</th><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Nguyên nhân thường gặp</th><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Cách xử lý</th></tr></thead><tbody><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Ô <strong>Chọn OA</strong> bị mờ, không bấm được</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Chưa chọn Ứng dụng (AppID)</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Chọn Ứng dụng ở ô phía trên trước</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Không có Ứng dụng cần dùng trong ô <strong>Chọn App</strong></td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Ứng dụng chưa liên kết vào tài khoản ZBS</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Xem <a href="https://zalo.solutions/business-message/guidelines/huong-dan-lien-ket-ung-dung-appid-vao-tai-khoan-zbs" target="_blank" rel="noopener" style={{ color: "#0068FF", fontWeight: "600", textDecoration: "none" }}>Liên kết Ứng dụng (AppID) vào tài khoản ZBS</a></td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Danh sách OA trống hoặc thiếu OA cần dùng</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>OA chưa uỷ quyền cho Ứng dụng đã chọn</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Làm theo 3 bước bên dưới</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>OA đã uỷ quyền nhưng vẫn không thấy</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>OA uỷ quyền cho một Ứng dụng khác</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Chọn đúng Ứng dụng mà OA đã uỷ quyền</td></tr></tbody></table></div>
 
-*   Ứng dụng (AppID) của Quý khách cần đã được thiết lập và liên kết thành công vào ZBS ([Bấm xem hướng dẫn](https://zalo.solutions/zns/guidelines/huong-dan-lien-ket-ung-dung-appid-vao-tai-khoan-zalo-cloud-account-zca#3-li%C3%AAn-k%E1%BA%BFt-%E1%BB%A9ng-d%E1%BB%A5ng-appid-v%E1%BB%9Bi-t%C3%A0i-kho%E1%BA%A3n-zalo-cloud-account-zca))
-*   OA có thể ủy quyền cùng lúc cho nhiều ứng dụng
-*   Quý khách cần đồng thời là Quản trị viên của OA và Quản trị viên của Ứng dụng để hoàn tất thao tác Ủy quyền
-*   Khi gửi tin thông qua API cần lưu ý các thông tin về thuật ngữ và thời hạn của Access token và Refresh token (Xem thêm tại [LINK](https://developers.zalo.me/docs/official-account/bat-dau/xac-thuc-va-uy-quyen-cho-ung-dung-new))
+<div style={{ margin: "48px 0 8px", padding: "22px 24px", borderRadius: "16px", background: "#EAF2FF", border: "1px solid #CFE0FF" }}><strong style={{ display: "block", margin: "0 0 4px", fontSize: "13px", fontWeight: "700", letterSpacing: ".06em", textTransform: "uppercase", color: "#0068FF" }}>Cách xử lý</strong><h2 style={{ margin: "0 0 6px", fontSize: "24px", lineHeight: "1.3", fontWeight: "700", color: "#121A2B" }}>Kiểm tra và uỷ quyền OA cho Ứng dụng</h2><p style={{ margin: "0", color: "#5B6578" }}>Thực hiện trên <a href="https://developers.zalo.me/apps" target="_blank" rel="noopener" style={{ color: "#0068FF", fontWeight: "600", textDecoration: "none" }}>Zalo for Developers</a> bằng tài khoản Zalo <strong>vừa là Admin của OA, vừa là Quản trị viên của Ứng dụng</strong>.</p></div>
 
-**‼️ Việc ủy quyền này có thể thao tác bằng 1 trong 2 cách sau:**
+### Bước 1 · Kiểm tra OA đã uỷ quyền cho Ứng dụng chưa
 
-*   [Cách A: Sử dụng giao thức OAuth v4](https://zalo.cloud/zns/guidelines/huong-dan-lien-ket-zalo-oa-vao-tai-khoan-zca-va-uy-quyen-cho-ung-dung-appid#c%C3%A1ch-1-s%E1%BB%AD-d%E1%BB%A5ng-giao-th%E1%BB%A9c-oauth-v4)
-*   [Cách B: Sử dụng công cụ Zalo API Explorer (Cách đơn giản không thông qua API)](https://zalo.cloud/zns/guidelines/huong-dan-lien-ket-zalo-oa-vao-tai-khoan-zca-va-uy-quyen-cho-ung-dung-appid#c%C3%A1ch-2-s%E1%BB%AD-d%E1%BB%A5ng-c%C3%B4ng-c%E1%BB%A5-zalo-api-explorer-c%C3%A1ch-%C4%91%C6%A1n-gi%E1%BA%A3n-kh%C3%B4ng-th%C3%B4ng-qua-api)
+1. Mở [Zalo for Developers](https://developers.zalo.me/apps) và chọn Ứng dụng Quý khách dùng để tạo mẫu.
+2. Ở menu bên trái, chọn **Official Account** → **Quản lý OA** (1).
+3. Xem mục **Danh sách OA đã cấp quyền** (2). Có OA cần dùng thì chuyển sang bước 3; chưa có thì làm tiếp bước 2.
 
-_Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://zalo-solutions.freshdesk.com/en/support/tickets/new)**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
+<div style={{ margin: "16px 0 8px", padding: "10px", background: "#F4F7FB", border: "1px solid #E3E9F2", borderRadius: "14px" }}><figure className="image" style={{ margin: "0", width: "100%" }}><img src="https://content.zalo.cloud/uploads/ho_tro_oa_01_danh_sach_oa_da_cap_quyen_9e4f30d59a.png" alt="Trang Quản lý OA trên Zalo for Developers, đánh dấu menu Quản lý OA và mục Danh sách OA đã cấp quyền" style={{ display: "block", width: "100%", height: "auto", borderRadius: "8px", border: "1px solid #E3E9F2" }} /></figure><p style={{ margin: "8px 4px 0", fontSize: "14px", lineHeight: "1.5", color: "#5B6578" }}><em>Số đỏ trên ảnh tương ứng với số thứ tự của từng thao tác ở trên.</em></p></div>
+
+### Bước 2 · Uỷ quyền OA cho Ứng dụng
+
+Cách nhanh nhất là dùng công cụ [API Explorer](https://developers.zalo.me/tools/explorer/), không cần lập trình:
+
+1. Ở ô **Chọn ứng dụng**, chọn đúng Ứng dụng đã kiểm tra ở bước 1.
+2. Ở ô **Loại access token**, chuyển sang **OA Access Token**.
+3. Nhấn **Lấy Access Token**, chọn OA cần uỷ quyền rồi bấm **Cấp quyền**.
+
+<div style={{ margin: "16px 0 8px", padding: "10px", background: "#F4F7FB", border: "1px solid #E3E9F2", borderRadius: "14px" }}><figure className="image" style={{ margin: "0", width: "100%" }}><img src="https://content.zalo.cloud/uploads/01_chon_app_loai_token_1811fef9c2.png" alt="Khung Lấy Access Token trên API Explorer, đánh số 1–3 theo thứ tự thao tác" style={{ display: "block", width: "100%", height: "auto", borderRadius: "8px", border: "1px solid #E3E9F2" }} /></figure><p style={{ margin: "8px 4px 0", fontSize: "14px", lineHeight: "1.5", color: "#5B6578" }}><em>Khung Lấy Access Token trên API Explorer.</em></p></div>
+
+<blockquote style={{ margin: "16px 0", padding: "14px 16px", borderRadius: "12px", background: "#EEF5FF", border: "1px solid #CFE0FF", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0" }}><strong>Xem chi tiết:</strong> Hướng dẫn đầy đủ từng bước có hình minh hoạ, kể cả cách uỷ quyền bằng OAuth v4 cho đội kỹ thuật, Quý khách xem tại <a href="https://zalo.solutions/business-message/guidelines/huong-dan-uy-quyen-oa-cho-ung-dung-appid" target="_blank" rel="noopener" style={{ color: "#0068FF", fontWeight: "600", textDecoration: "none" }}>Uỷ quyền Ứng dụng (AppID) cho OA</a>.</p></blockquote>
+
+### Bước 3 · Quay lại tạo mẫu và chọn lại OA
+
+Quay lại trang **Tạo Template**, chọn lại Ứng dụng ở ô **Chọn App**. OA vừa uỷ quyền sẽ hiện trong ô **Chọn OA**. Nếu chưa thấy, Quý khách bấm **Thoát** rồi mở lại trang Tạo Template là được.
+
+<blockquote style={{ margin: "16px 0", padding: "14px 16px", borderRadius: "12px", background: "#ECF8F1", border: "1px solid #BFE6CE", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0" }}><strong>Xong rồi!</strong> Quý khách đã chọn được OA và có thể tiếp tục khai báo nội dung mẫu.</p></blockquote>
+
+## Câu hỏi thường gặp
+
+<details style={{ margin: "0 0 10px", padding: "14px 16px", border: "1px solid #E3E9F2", borderRadius: "12px", background: "#fff" }}><summary style={{ cursor: "pointer", fontWeight: "600", color: "#121A2B" }}>Không thấy OA trong danh sách khi uỷ quyền trên API Explorer?</summary><div style={{ margin: "10px 0 0", color: "#1B2433" }}><p style={{ margin: "0 0 10px" }}>Thường là do tài khoản Zalo đang dùng chưa phải Admin của OA đó. Quý khách nhờ Admin hiện tại thêm Quý khách làm Quản trị viên theo <a href="https://oa.zalo.me/home/documents/guides/quan-ly-admin-oa_83" target="_blank" rel="noopener" style={{ color: "#0068FF", fontWeight: "600", textDecoration: "none" }}>Quản lý Admin OA</a>, rồi tải lại trang API Explorer.</p></div></details>
+
+<details style={{ margin: "0 0 10px", padding: "14px 16px", border: "1px solid #E3E9F2", borderRadius: "12px", background: "#fff" }}><summary style={{ cursor: "pointer", fontWeight: "600", color: "#121A2B" }}>Một OA có uỷ quyền cho nhiều Ứng dụng được không?</summary><div style={{ margin: "10px 0 0", color: "#1B2433" }}><p style={{ margin: "0 0 10px" }}>Được ạ. Quý khách chỉ cần chọn đúng Ứng dụng đã được OA uỷ quyền khi tạo mẫu.</p></div></details>
+
+<details style={{ margin: "0 0 10px", padding: "14px 16px", border: "1px solid #E3E9F2", borderRadius: "12px", background: "#fff" }}><summary style={{ cursor: "pointer", fontWeight: "600", color: "#121A2B" }}>Đã làm đủ các bước mà vẫn không chọn được OA?</summary><div style={{ margin: "10px 0 0", color: "#1B2433" }}><p style={{ margin: "0 0 10px" }}>Quý khách gửi yêu cầu hỗ trợ kèm <strong>AppID</strong>, <strong>OA ID</strong> và ảnh chụp màn hình Tạo Template để đội ngũ ZBS kiểm tra giúp nhé.</p></div></details>
+
+## Bước tiếp theo
+
+Chọn được OA rồi, Quý khách tiếp tục tạo mẫu tin:
+
+<div style={{ margin: "0 0 10px", padding: "14px 16px", border: "1px solid #E3E9F2", borderRadius: "12px", backgroundColor: "#fff" }}><p style={{ margin: "0" }}><strong style={{ color: "#0068FF" }}>1.</strong> <a href="https://zalo.solutions/business-message/guidelines/huong-dan-tao-zbs-template-message" target="_blank" rel="noopener" style={{ color: "#0068FF", fontWeight: "600", textDecoration: "none" }}>Tạo Mẫu tuỳ chỉnh</a></p></div>
+
+<div style={{ margin: "0 0 10px", padding: "14px 16px", border: "1px solid #E3E9F2", borderRadius: "12px", backgroundColor: "#fff" }}><p style={{ margin: "0" }}><strong style={{ color: "#0068FF" }}>2.</strong> <a href="https://zalo.solutions/business-message/guidelines/cach-su-dung-va-ung-dung-cua-mau-xac-thuc" target="_blank" rel="noopener" style={{ color: "#0068FF", fontWeight: "600", textDecoration: "none" }}>Tạo Mẫu xác thực (OTP)</a></p></div>
+
+### Bài viết liên quan
+
+- [Liên kết Ứng dụng (AppID) vào tài khoản ZBS](https://zalo.solutions/business-message/guidelines/huong-dan-lien-ket-ung-dung-appid-vao-tai-khoan-zbs)
+- [Liên kết Zalo OA vào tài khoản ZBS](https://zalo.solutions/business-message/guidelines/huong-dan-lien-ket-zalo-oa-vao-tai-khoan-zbs-va-uy-quyen-cho-ung-dung-appid)
+- [Uỷ quyền Ứng dụng (AppID) cho OA](https://zalo.solutions/business-message/guidelines/huong-dan-uy-quyen-oa-cho-ung-dung-appid)
+- [Quản lý liên kết Ứng dụng/OA](https://zalo.solutions/business-message/guidelines/quan-ly-danh-sach-lien-ket-ung-dung-oa)
+
+<blockquote style={{ margin: "40px 0 0", padding: "20px 22px", borderRadius: "16px", background: "#121A2B", color: "#fff", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0 0 4px", fontWeight: "700", fontSize: "17px" }}><strong>Cần hỗ trợ thêm?</strong></p><p style={{ margin: "0" }}>Gửi yêu cầu qua <a href="https://zalo-solutions.freshdesk.com/en/support/tickets/new" target="_blank" rel="noopener" style={{ color: "#8EC0FF", fontWeight: "600" }}>Mẫu hỗ trợ Zalo Business Solutions</a>. Đội ngũ chăm sóc khách hàng sẽ phản hồi trong vòng 24 giờ làm việc.</p></blockquote>
