@@ -6,8 +6,34 @@ slug: /huong-dan-xu-ly-ma-loi
 
 # <p align="center">Xử lý mã lỗi</p>
 
-Trong quá trình thiết lập và sử dụng ZBS Template Message, việc gặp phải các lỗi là điều không thể tránh khỏi. Hiểu và xử lý chính xác những mã lỗi này sẽ giúp doanh nghiệp của bạn tận dụng tối đa khả năng của ZBS Template Message, đảm bảo quá trình chăm sóc khách hàng diễn ra suôn sẻ và hiệu quả. Bài viết này sẽ cung cấp hướng dẫn về cách xử lý các mã lỗi phổ biến nhất mà Quý khách có thể gặp phải trong quá trình sử dụng dịch vụ.
+Khi tin gửi không thành công, hệ thống trả về **mã lỗi** cho biết nguyên nhân. Bài này hướng dẫn cách xem mã lỗi của tin gửi lỗi và tra cứu cách xử lý.
 
-Để xem danh sách đầy đủ các mã lỗi và cách khắc phục, Quý khách vui lòng truy cập vào [**ĐÂY**](https://developers.zalo.me/docs/zalo-notification-service/phu-luc/bang-ma-loi).
+## Cách tra mã lỗi
 
-_Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://zalo-solutions.freshdesk.com/en/support/tickets/new)**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
+<blockquote style={{ margin: "16px 0", padding: "14px 16px", borderRadius: "12px", background: "#EEF5FF", border: "1px solid #CFE0FF", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0" }}><strong>Bảng mã lỗi:</strong> Danh sách mã lỗi đầy đủ, ý nghĩa và cách xử lý được cập nhật tại <a href="https://developers.zalo.me/docs/zbs-template-message/bang-ma-loi/" target="_blank" rel="noopener" style={{ color: "#0068FF", fontWeight: "600", textDecoration: "none" }}>Bảng mã lỗi trên Zalo for Developers</a>.</p></blockquote>
+
+**Khi gửi theo chiến dịch**
+
+1. Vào trang **Gửi theo chiến dịch** trên tài khoản ZBS và chọn chiến dịch cần kiểm tra.
+2. Tải **báo cáo chiến dịch** về máy.
+3. Trong báo cáo, xem **mã lỗi** của các tin gửi không thành công.
+4. Tra mã lỗi tại [Bảng mã lỗi trên Zalo for Developers](https://developers.zalo.me/docs/zbs-template-message/bang-ma-loi/) và xử lý theo hướng dẫn.
+
+Hướng dẫn tạo và theo dõi chiến dịch xem tại [Gửi tin theo chiến dịch (không cần API)](https://zalo.solutions/business-message/guidelines/huong-dan-su-dung-tinh-nang-gui-theo-chien-dich-khong-can-thong-qua-api).
+
+**Khi gửi qua API**
+
+Xem giá trị `error` và `message` trong response của API: **0** là thành công, các giá trị khác là mã lỗi. Tra mã lỗi tại [Bảng mã lỗi trên Zalo for Developers](https://developers.zalo.me/docs/zbs-template-message/bang-ma-loi/).
+
+## Câu hỏi thường gặp
+
+<details style={{ margin: "0 0 10px", padding: "14px 16px", border: "1px solid #E3E9F2", borderRadius: "12px", background: "#fff" }}><summary style={{ cursor: "pointer", fontWeight: "600", color: "#121A2B" }}>Không tìm thấy mã lỗi hoặc đã xử lý nhưng vẫn lỗi?</summary><div style={{ margin: "10px 0 0", color: "#1B2433" }}><p style={{ margin: "0 0 10px" }}>Quý khách gửi yêu cầu hỗ trợ qua <a href="https://zalo-solutions.freshdesk.com/en/support/tickets/new" target="_blank" rel="noopener" style={{ color: "#0068FF", fontWeight: "600", textDecoration: "none" }}>Mẫu hỗ trợ Zalo Business Solutions</a>, kèm mã lỗi, thời điểm gửi và tên chiến dịch hoặc `tracking_id`.</p></div></details>
+
+### Bài viết liên quan
+
+- [Gửi tin qua API](https://zalo.solutions/business-message/guidelines/gui-api)
+- [Định dạng dữ liệu cho tham số](https://zalo.solutions/business-message/guidelines/cac-dinh-dang-du-lieu-khi-truyen-vao-tham-so-tren-noi-dung-zbs-template-message)
+- [Thiết lập nút thao tác (CTA)](https://zalo.solutions/business-message/guidelines/nut-thao-tac-cta)
+- [Cơ chế đánh giá chất lượng gửi tin](https://zalo.solutions/business-message/guidelines/co-che-danh-gia-chat-luong-va-quyen-loi-gui-zbs-template-message)
+
+<blockquote style={{ margin: "40px 0 0", padding: "20px 22px", borderRadius: "16px", background: "#121A2B", color: "#fff", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0 0 4px", fontWeight: "700", fontSize: "17px" }}><strong>Cần hỗ trợ thêm?</strong></p><p style={{ margin: "0" }}>Gửi yêu cầu qua <a href="https://zalo-solutions.freshdesk.com/en/support/tickets/new" target="_blank" rel="noopener" style={{ color: "#8EC0FF", fontWeight: "600" }}>Mẫu hỗ trợ Zalo Business Solutions</a>. Đội ngũ chăm sóc khách hàng sẽ phản hồi trong vòng 24 giờ làm việc.</p></blockquote>
