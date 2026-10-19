@@ -1,6 +1,6 @@
 ---
 id: huong-dan-su-dung-thu-vien-mau
-title: Hướng dẫn sử dụng thư viện template
+title: Dùng Thư viện Template
 slug: /huong-dan-su-dung-thu-vien-mau
 ---
 Zalo Business Solutions bổ sung tính năng **Thư viện template** cho phép người dùng mới chọn các mẫu tin nhắn ZBS có nội dung được định sẵn mà không cần phải biên soạn lại từ đầu và có thể kết hợp chỉnh sửa nếu cần thiết. Trong bài viết này, đội ngũ Chăm sóc khách hàng Zalo Business Solutions sẽ hướng dẫn Quý khách sử dụng tính năng mới này một cách hiệu quả và tối ưu nhất.
