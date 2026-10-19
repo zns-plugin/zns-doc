@@ -1,6 +1,6 @@
 ---
 id: co-che-danh-gia-chat-luong-va-quyen-loi-gui-zbs-template-message
-title: Cơ chế đánh giá chất lượng và quyền lợi gửi tin
+title: Cơ chế đánh giá chất lượng gửi tin
 slug: /co-che-danh-gia-chat-luong-va-quyen-loi-gui-zbs-template-message
 ---
 Trong hoạt động gửi thông báo chăm sóc khách hàng qua Zalo, tỷ lệ báo xấu (phản hồi tiêu cực) của người nhận tin nhắn ZBS Template sẽ ảnh hưởng đến quyền lợi của doanh nghiệp vì liên quan trực tiếp đến số lượng tin được gửi mỗi ngày. Để có thể nắm các thông tin về cơ chế đánh giá chất lượng và quyền lợi gửi tin nhắn ZBS Template, quý doanh nghiệp vui lòng tham khảo bài viết sau đây.
