@@ -1,10 +1,10 @@
 ---
 id: truong-hop-nao-duoc-ho-tro-dieu-chinh-hoa-don-doanh-nghiep
-title: Trường hợp nào được hỗ trợ điều chỉnh hóa đơn doanh nghiệp?
+title: Các trường hợp được điều chỉnh hoá đơn
 slug: /truong-hop-nao-duoc-ho-tro-dieu-chinh-hoa-don-doanh-nghiep
 ---
 
-# <p align="center">Trường hợp nào được hỗ trợ điều chỉnh hoá đơn doanh nghiệp?</p>
+# <p align="center">Các trường hợp được điều chỉnh hoá đơn</p>
 
 
 Nội dung trên hóa đơn được xuất tự động dựa trên thông tin Quý công ty cung cấp cho Zalo Business Solutions trước đó trong quá trình nạp tiền. Quý khách có thể đối chiếu lại mục **"Thông tin xuất hóa đơn"**, vì vậy, trong quá trình nạp tiền, vui lòng kiểm tra/điều chỉnh lại chính xác các thông tin để tránh sai sót khi xuất hóa đơn thành công.
