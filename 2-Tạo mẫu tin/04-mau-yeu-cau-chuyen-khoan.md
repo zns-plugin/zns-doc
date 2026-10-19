@@ -1,6 +1,6 @@
 ---
 id: cap-nhat-moi-mau-yeu-cau-chuyen-khoan-request-to-transfer
-title: Giới thiệu về Mẫu Yêu cầu chuyển khoản (Request to Transfer)
+title: Tìm hiểu Mẫu yêu cầu chuyển khoản
 slug: /cap-nhat-moi-mau-yeu-cau-chuyen-khoan-request-to-transfer
 ---
 Với tinh thần luôn luôn lắng nghe và thấu hiểu nhu cầu của khách hàng muốn trải nghiệm mua sắm thuận tiện và dễ dàng, đội ngũ nghiên cứu và phát triển sản phẩm Zalo Business Solutions chính thức ra mắt Mẫu Yêu cầu chuyển khoản (Request to Transfer) như một giải pháp toàn diện, mang lại giải pháp Yêu cầu chuyển khoản tiện lợi, dễ hiểu giữa Doanh nghiệp và khách hàng của mình. 
