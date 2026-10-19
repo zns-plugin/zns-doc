@@ -1,10 +1,10 @@
 ---
 id: tieu-chuan-co-ban-ve-logo-khi-tao-zbs-template-message
-title: Tiêu chuẩn cơ bản về logo khi tạo Mẫu Tin nhắn ZBS
+title: Tiêu chuẩn logo trong mẫu
 slug: /tieu-chuan-co-ban-ve-logo-khi-tao-zbs-template-message
 ---
 
-# <p style="text-align: center">Tiêu chuẩn cơ bản về logo khi tạo Tin nhắn ZBS Template</p>
+# <p style="text-align: center">Tiêu chuẩn logo trong mẫu</p>
 
 _Logo doanh nghiệp là một thành phần không thể thiếu của Mẫu Tin nhắn ZBS. Để logo được xét duyệt nhanh chóng, Quý khách cần đáp ứng những tiêu chuẩn cơ bản về logo của ZBS như sau:_ 
 
