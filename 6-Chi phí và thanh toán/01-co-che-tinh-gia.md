@@ -1,10 +1,10 @@
 ---
 id: co-che-tinh-gia-cua-mau-tin-nhan-zbs
-title: Cơ chế tính giá của Tin nhắn ZBS Template
+title: Cơ chế tính giá tin nhắn
 slug: /co-che-tinh-gia-cua-mau-tin-nhan-zbs
 ---
 
-# <p align="center">Cơ chế tính giá của Tin nhắn ZBS Template</p>
+# <p align="center">Cơ chế tính giá tin nhắn</p>
 
 
 Với mục đích cam kết chất lượng gửi tin, dịch vụ Tin nhắn ZBS Template sẽ không tính phí nếu thời gian gửi tin vượt quá một mốc thời gian nhất định. Vui lòng tham khảo thêm trong bài viết dưới đây.   
