@@ -1,10 +1,10 @@
 ---
 id: gui-api
-title: Hướng dẫn gửi API
+title: Gửi tin qua API
 slug: /gui-api
 ---
 
-# <p align ="center">Hướng dẫn gửi API</p>
+# <p align ="center">Gửi tin qua API</p>
 
 
 ## 1. Giới thiệu về các phương thức gửi Tin nhắn ZBS Template
