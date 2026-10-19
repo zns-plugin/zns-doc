@@ -1,6 +1,6 @@
 ---
 id: quy-dinh-chung-khi-kiem-duyet-mau-zbs-template-message
-title: Quy định chung khi kiểm duyệt mẫu tin nhắn ZBS
+title: Quy định chung khi duyệt mẫu
 slug: /quy-dinh-chung-khi-kiem-duyet-mau-zbs-template-message
 ---
 
