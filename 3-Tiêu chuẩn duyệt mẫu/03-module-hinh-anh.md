@@ -1,10 +1,10 @@
 ---
 id: cac-quy-dinh-xet-duyet-zbs-template-message-chua-module-hinh-anh
-title: Các quy định xét duyệt Tin nhắn ZBS Template chứa module hình ảnh
+title: Quy định với mẫu có hình ảnh
 slug: /cac-quy-dinh-xet-duyet-zbs-template-message-chua-module-hinh-anh
 ---
 
-# <p style="text-align: center">Các quy định xét duyệt Tin nhắn ZBS Template chứa module hình ảnh</p>
+# <p style="text-align: center">Quy định với mẫu có hình ảnh</p>
 
 Với kế hoạch ra mắt tính năng cho phép bổ sung hình ảnh cho Tin nhắn ZBS Template để gia tăng tính tương tác giúp doanh nghiệp có thể truyền đạt thông điệp chăm sóc khách hàng của mình - ở đây là người dùng cuối (end-user).
 
