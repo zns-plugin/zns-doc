@@ -1,10 +1,10 @@
 ---
 id: phan-quyen-quan-li-zbs
-title: Phân quyền Quản lý thành viên trên tài khoản ZBS
+title: Phân quyền thành viên
 slug: /phan-quyen-quan-li-zbs
 ---
 
-# <p align="center">Phân quyền Quản lý thành viên trên tài khoản ZBS</p>
+# <p align="center">Phân quyền thành viên</p>
 
 ZBS là tài khoản quản lý số dư để sử dụng các tính năng tính phí của các tài khoản Zalo Official Account - Doanh Nghiệp (OA) và dịch vụ tin nhắn ZBS Template. Lưu ý: Mỗi số điện thoại chỉ được làm Quản trị viên cấp cao của tối đa 1 tài khoản ZBS.
 
