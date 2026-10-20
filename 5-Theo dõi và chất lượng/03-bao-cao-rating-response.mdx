@@ -1,0 +1,61 @@
+---
+id: huong-dan-tai-bao-cao-mapping-ket-qua-phan-hoi-template-rating-template-response
+title: Tải báo cáo Mẫu đánh giá và Phản hồi nhanh
+slug: /huong-dan-tai-bao-cao-mapping-ket-qua-phan-hoi-template-rating-template-response
+---
+
+# <p align="center">Tải báo cáo Mẫu đánh giá và Phản hồi nhanh</p>
+
+Sau khi gửi Mẫu đánh giá dịch vụ (Rating) hoặc Mẫu phản hồi nhanh (Response), Quý khách có thể tải báo cáo để biết có bao nhiêu người đã tương tác, họ đánh giá hoặc phản hồi thế nào, và cụ thể là số điện thoại nào. Quy trình ở 2 loại mẫu về cơ bản giống nhau nên bài này trình bày chung cho cả hai.
+
+## Tải báo cáo kết quả phản hồi
+
+### Bước 1 · Mở Quản lý Template
+
+Ở menu bên trái của trang ZBS Template Message, Quý khách chọn **Quản lý Template** **(1)**.
+
+### Bước 2 · Lọc theo loại mẫu
+
+Ở bộ lọc **Lọc theo loại mẫu ZBS** bên phải **(2)**, chọn **Mẫu đánh giá dịch vụ** để xem báo cáo Rating, hoặc **Mẫu phản hồi nhanh** để xem báo cáo Response. Quý khách có thể lọc thêm theo trạng thái **Đã duyệt** để thu hẹp kết quả.
+
+### Bước 3 · Tải báo cáo
+
+Tại dòng mẫu cần xem, bấm biểu tượng **[...]** cạnh nút **Xem chi tiết** **(3)**, rồi chọn **Tải báo cáo** **(4)**.
+
+<div style={{ margin: "16px 0 8px", padding: "10px", background: "#F4F7FB", border: "1px solid #E3E9F2", borderRadius: "14px" }}><figure className="image" style={{ margin: "0", width: "100%" }}><img src="https://content.zalo.cloud/uploads/bao_cao_rating_01_tai_bao_cao_a3d846e990.png" alt="Trang Quản lý Template lọc theo Mẫu đánh giá dịch vụ, với menu Tải báo cáo" style={{ display: "block", width: "100%", height: "auto", borderRadius: "8px", border: "1px solid #E3E9F2" }} /></figure><p style={{ margin: "8px 4px 0", fontSize: "14px", lineHeight: "1.5", color: "#5B6578" }}><em>Lọc theo loại mẫu và tải báo cáo của mẫu.</em></p></div>
+
+## Nội dung file báo cáo
+
+File tải về có tên **ReportRateTemplate** (với Rating) hoặc **ReportResponseTemplate** (với Response). Vì cơ chế giống nhau nên phần lớn các cột trùng tên hoặc trùng ý nghĩa. Bảng dưới đây liệt kê đầy đủ các cột dùng chung và các cột chỉ có ở một loại mẫu:
+
+<div style={{ overflowX: "auto" }}><table style={{ width: "100%", borderCollapse: "collapse", margin: "8px 0 14px", fontSize: "16px" }}><thead><tr><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Cột (Rating)</th><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Cột (Response)</th><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Ý nghĩa</th><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Dùng cho</th></tr></thead><tbody><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>STT</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>STT</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Số thứ tự dòng trong file</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Cả hai</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>SubmitDate</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>submit_time</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Thời điểm người dùng gửi đánh giá hoặc gửi phản hồi</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Cả hai</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>MsgID (messageId)</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>message_id</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Mã tin nhắn, dùng để nối với số điện thoại (xem mục bên dưới)</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Cả hai</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>TrackingID</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>tracking_id</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Mã tracking do doanh nghiệp tự truyền vào lúc gửi tin (nếu có)</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Cả hai</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Rating</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>–</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Mức đánh giá người dùng chọn (số sao)</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Chỉ Rating</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Detailed_feedback</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>–</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Nội dung phản hồi chi tiết người dùng nhập</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Chỉ Rating</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Các cột tiêu chí (ví dụ: đóng gói hàng tốt hơn, chất lượng sản phẩm tốt hơn…)</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>–</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Các tiêu chí đánh giá đã cấu hình sẵn trong mẫu. Tên cột là tên tiêu chí, giá trị cho biết người dùng có chọn tiêu chí đó hay không. Số cột tuỳ vào cấu hình từng mẫu và từng mức sao</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Chỉ Rating</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>–</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Response(Data)</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Nội dung người dùng phản hồi (nút đã bấm hoặc tin nhắn đã gửi)</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Chỉ Response</td></tr></tbody></table></div>
+
+<blockquote style={{ margin: "16px 0", padding: "14px 16px", borderRadius: "12px", background: "#EEF5FF", border: "1px solid #CFE0FF", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0" }}><strong>Lưu ý:</strong> File báo cáo chỉ ghi nhận những tin đã có phản hồi. Những tin đã gửi nhưng chưa có người tương tác sẽ không xuất hiện trong file.</p></blockquote>
+
+## Xác định số điện thoại đã tương tác
+
+File báo cáo cho biết nội dung phản hồi nhưng chưa có số điện thoại. Nếu cần biết cụ thể ai đã đánh giá hoặc phản hồi, ví dụ để chăm sóc lại khách hàng hay xử lý yêu cầu họ gửi, Quý khách nối dữ liệu dựa trên mã tin nhắn như sau.
+
+### Bước 4 · Tải file CampaignDetail
+
+Vào **Công cụ gửi tin SĐT** → **Gửi theo chiến dịch**, tìm đúng chiến dịch đã gửi mẫu tin (Rating hoặc Response) **(1)** và bấm biểu tượng tải về **(2)** để tải báo cáo chi tiết. File tải về có tên `CampaignDetail_<CampaignId>.xlsx`, Quý khách chỉ cần 2 cột **Phone** và **MsgId**. Nếu mẫu tin được gửi qua nhiều chiến dịch, Quý khách tải toàn bộ rồi gộp lại thành một bảng tra cứu chung.
+
+<div style={{ margin: "16px 0 8px", padding: "10px", background: "#F4F7FB", border: "1px solid #E3E9F2", borderRadius: "14px" }}><figure className="image" style={{ margin: "0", width: "100%" }}><img src="https://content.zalo.cloud/uploads/chien_dich_07_bao_cao_1018a79306.png" alt="Danh sách chiến dịch với trạng thái Hoàn tất và biểu tượng tải báo cáo" style={{ display: "block", width: "100%", height: "auto", borderRadius: "8px", border: "1px solid #E3E9F2" }} /></figure><p style={{ margin: "8px 4px 0", fontSize: "14px", lineHeight: "1.5", color: "#5B6578" }}><em>Tải báo cáo chi tiết của chiến dịch.</em></p></div>
+
+### Bước 5 · Nối dữ liệu bằng messageId
+
+Lấy cột **MsgID** (với Rating) hoặc **message_id** (với Response) trong file báo cáo, đối chiếu với cột **MsgId** trong file CampaignDetail. Hai giá trị trùng nhau nghĩa là cùng một tin nhắn, từ đó Quý khách xác định được chính xác số điện thoại tương ứng với dòng đánh giá hoặc phản hồi đó.
+
+## Câu hỏi thường gặp
+
+<details style={{ margin: "0 0 10px", padding: "14px 16px", border: "1px solid #E3E9F2", borderRadius: "12px", background: "#fff" }}><summary style={{ cursor: "pointer", fontWeight: "600", color: "#121A2B" }}>Vì sao file báo cáo ít dòng hơn số tin đã gửi?</summary><div style={{ margin: "10px 0 0", color: "#1B2433" }}><p style={{ margin: "0 0 10px" }}>File báo cáo chỉ ghi nhận những tin đã có phản hồi. Tin đã gửi nhưng chưa có người tương tác sẽ không xuất hiện trong file.</p></div></details>
+
+<details style={{ margin: "0 0 10px", padding: "14px 16px", border: "1px solid #E3E9F2", borderRadius: "12px", background: "#fff" }}><summary style={{ cursor: "pointer", fontWeight: "600", color: "#121A2B" }}>Báo cáo chiến dịch chưa tải được?</summary><div style={{ margin: "10px 0 0", color: "#1B2433" }}><p style={{ margin: "0 0 10px" }}>Quý khách chỉ có thể tải về báo cáo của chiến dịch sau khi hệ thống báo <strong>Hoàn tất</strong>. Xem thêm <a href="https://zalo.solutions/business-message/guidelines/huong-dan-su-dung-tinh-nang-gui-theo-chien-dich-khong-can-thong-qua-api" target="_blank" rel="noopener" style={{ color: "#0068FF", fontWeight: "600", textDecoration: "none" }}>Gửi tin theo chiến dịch (không cần API)</a>.</p></div></details>
+
+### Bài viết liên quan
+
+- [Tạo Mẫu đánh giá dịch vụ](https://zalo.solutions/business-message/guidelines/huong-dan-tao-mau-danh-gia-dich-vu)
+- [Tìm hiểu Mẫu phản hồi nhanh](https://zalo.solutions/business-message/guidelines/cap-nhat-moi-ra-mat-mau-phan-hoi-nhanh)
+- [Gửi tin theo chiến dịch (không cần API)](https://zalo.solutions/business-message/guidelines/huong-dan-su-dung-tinh-nang-gui-theo-chien-dich-khong-can-thong-qua-api)
+
+<blockquote style={{ margin: "40px 0 0", padding: "20px 22px", borderRadius: "16px", background: "#121A2B", color: "#fff", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0 0 4px", fontWeight: "700", fontSize: "17px" }}><strong>Cần hỗ trợ thêm?</strong></p><p style={{ margin: "0" }}>Gửi yêu cầu qua <a href="https://zalo-solutions.freshdesk.com/en/support/tickets/new" target="_blank" rel="noopener" style={{ color: "#8EC0FF", fontWeight: "600" }}>Mẫu hỗ trợ Zalo Business Solutions</a>. Đội ngũ chăm sóc khách hàng sẽ phản hồi trong vòng 24 giờ làm việc.</p></blockquote>
