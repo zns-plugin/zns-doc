@@ -1,0 +1,48 @@
+---
+id: bao-xau-mau-tin-nhan-zbs-template-duoc-ghi-nhan-khi-nao
+title: Khi nào tin bị ghi nhận báo xấu?
+slug: /bao-xau-mau-tin-nhan-zbs-template-duoc-ghi-nhan-khi-nao
+---
+
+# <p align="center">Khi nào tin bị ghi nhận báo xấu?</p>
+
+Để đảm bảo trải nghiệm của người dùng cuối (end-user), user có quyền lựa chọn báo xấu các tin nhắn ZBS Template đã nhận để phản ánh chất lượng dịch vụ. Bài này giúp Quý khách nắm cách hệ thống ghi nhận báo xấu và cơ chế ngừng nhận tin của người dùng.
+
+## Cơ chế báo xấu (Report)
+
+1. **Thay đổi entry point báo xấu:** người dùng có thể báo xấu thông qua Chạm và giữ tin nhắn ZBS Template.
+2. **Hành động Báo xấu và ngừng nhận tin được xác định là hai hành động độc lập:** Khi user báo xấu 1 tin nhắn ZBS Template từ OA Brand A, hệ thống sẽ **KHÔNG tự động** ngừng nhận tin nhắn ZBS Template từ OA này. Nếu user muốn ngừng nhận tin từ OA này, user có thể chủ động thao tác **“Chặn OA”**.
+
+<blockquote style={{ margin: "16px 0", padding: "14px 16px", borderRadius: "12px", background: "#ECF8F1", border: "1px solid #BFE6CE", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0" }}><strong>Không tính vào tỉ lệ báo xấu:</strong> Nếu user chọn “Nội dung tin không hiển thị hoặc hiển thị lỗi” hoặc “Lý do khác” =&gt; Không tính vào tỉ lệ báo xấu (report rate) của OA.</p></blockquote>
+
+<blockquote style={{ margin: "16px 0", padding: "14px 16px", borderRadius: "12px", background: "#FFF7E8", border: "1px solid #F3D9A4", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0" }}><strong>Lưu ý:</strong> Các lượt báo xấu sau 48 giờ từ lúc user nhận tin nhắn ZBS Template sẽ không ảnh hưởng đến tỉ lệ report và chất lượng của OA.</p></blockquote>
+
+Ngoài ra, giao diện báo xấu mới sẽ được đồng bộ với giao diện báo xấu của tin UID, bao gồm danh sách lý do báo xấu.
+
+**Lưu ý:** Sản phẩm và giao diện thực tế có thể được điều chỉnh để đáp ứng yêu cầu vận hành và cải thiện trải nghiệm của người dùng cuối.
+
+## Cơ chế ngừng nhận Tin nhắn ZBS Template từ OA
+
+- Khi đã thiết lập thành công việc cài đặt ngừng nhận tin từ OA, nếu muốn nhận lại tin nhắn ZBS Template, người dùng cần chủ động truy cập trang OA, và tiến hành bỏ chặn OA.
+- Các điểm (Entry point) Ngừng nhận thông báo/Nhận lại thông báo: Người dùng có thể truy cập tính năng ngừng nhận/nhận lại tin nhắn ZBS Template tại Trang cài đặt của Official Account (OA) > Chọn **“Quản lý chặn”**.
+
+<div style={{ margin: "16px 0 8px", padding: "10px", background: "#F4F7FB", border: "1px solid #E3E9F2", borderRadius: "14px" }}><figure className="image" style={{ margin: "0", width: "100%" }}><img src="https://content.zalo.cloud/uploads/image_e5ef2485a8.png" alt="Trang cài đặt của OA với mục Quản lý chặn và tuỳ chọn Chặn OA" style={{ display: "block", width: "100%", height: "auto", borderRadius: "8px", border: "1px solid #E3E9F2" }} /></figure><p style={{ margin: "8px 4px 0", fontSize: "14px", lineHeight: "1.5", color: "#5B6578" }}><em>Giao diện mở nhận lại tin nhắn tại Trang cài đặt của Official Account (OA).</em></p></div>
+
+**Ghi chú:**
+
+- User có thể tự thao tác trên thiết bị di động bất kì lúc nào (Zalo Business Solutions không hỗ trợ việc can thiệp quyền ngừng nhận tin của user).
+- Khi OA gửi tin nhắn ZBS Template đến người dùng đã ngừng nhận tin từ OA, hệ thống sẽ trả về mã lỗi **-141**. Mã lỗi này cho biết người dùng đã từ chối nhận tin nhắn ZBS Template từ Official Account. Xem thêm [Xử lý mã lỗi](https://zalo.solutions/business-message/guidelines/huong-dan-xu-ly-ma-loi).
+
+## Câu hỏi thường gặp
+
+<details style={{ margin: "0 0 10px", padding: "14px 16px", border: "1px solid #E3E9F2", borderRadius: "12px", background: "#fff" }}><summary style={{ cursor: "pointer", fontWeight: "600", color: "#121A2B" }}>Người dùng báo xấu thì có ngừng nhận tin từ OA không?</summary><div style={{ margin: "10px 0 0", color: "#1B2433" }}><p style={{ margin: "0 0 10px" }}>Không. Hành động Báo xấu và ngừng nhận tin là hai hành động độc lập. Người dùng chỉ ngừng nhận tin khi chủ động thao tác <strong>“Chặn OA”</strong>.</p></div></details>
+
+<details style={{ margin: "0 0 10px", padding: "14px 16px", border: "1px solid #E3E9F2", borderRadius: "12px", background: "#fff" }}><summary style={{ cursor: "pointer", fontWeight: "600", color: "#121A2B" }}>Doanh nghiệp có thể bỏ chặn giúp người dùng không?</summary><div style={{ margin: "10px 0 0", color: "#1B2433" }}><p style={{ margin: "0 0 10px" }}>Không. Người dùng tự thao tác bỏ chặn tại Trang cài đặt của OA &gt; <strong>“Quản lý chặn”</strong>. Zalo Business Solutions không hỗ trợ việc can thiệp quyền ngừng nhận tin của user.</p></div></details>
+
+### Bài viết liên quan
+
+- [Cơ chế đánh giá chất lượng gửi tin](https://zalo.solutions/business-message/guidelines/co-che-danh-gia-chat-luong-va-quyen-loi-gui-zbs-template-message)
+- [Xem báo cáo chất lượng gửi tin](https://zalo.solutions/business-message/guidelines/quality-sendout-report)
+- [Xử lý mã lỗi](https://zalo.solutions/business-message/guidelines/huong-dan-xu-ly-ma-loi)
+
+<blockquote style={{ margin: "40px 0 0", padding: "20px 22px", borderRadius: "16px", background: "#121A2B", color: "#fff", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0 0 4px", fontWeight: "700", fontSize: "17px" }}><strong>Cần hỗ trợ thêm?</strong></p><p style={{ margin: "0" }}>Gửi yêu cầu qua <a href="https://zalo-solutions.freshdesk.com/en/support/tickets/new" target="_blank" rel="noopener" style={{ color: "#8EC0FF", fontWeight: "600" }}>Mẫu hỗ trợ Zalo Business Solutions</a>. Đội ngũ chăm sóc khách hàng sẽ phản hồi trong vòng 24 giờ làm việc.</p></blockquote>
