@@ -3,36 +3,91 @@ id: huong-dan-su-dung-tinh-nang-gui-theo-chien-dich-khong-can-thong-qua-api
 title: Gửi tin theo chiến dịch (không cần API)
 slug: /huong-dan-su-dung-tinh-nang-gui-theo-chien-dich-khong-can-thong-qua-api
 ---
-_Tính năng **“Gửi theo chiến dịch”** trong trang Dịch vụ gửi tin tại tài khoản ZBS là_ _**một** giải pháp giúp doanh nghiệp dễ dàng quản lý và chủ động hơn trong việc gửi các chiến dịch gửi tin chăm sóc khách hàng không cần thông qua tích hợp API. Trong bài viết này, đội ngũ hỗ trợ khách hàng của **Zalo Business Solutions** sẽ hướng dẫn quý khách quy trình gửi tin nhắn ZBS template không thông qua API. Chi tiết cụ thể như sau:_ 
 
-### **Bước 1:** Truy cập vào “**Gửi theo chiến dịch”** ở đường dẫn: [https://account.zalo.solutions/tool/zns/campaign](https://account.zalo.cloud/tool/zns/campaign)  **\->** **“Tạo chiến dịch”**  
+# <p align="center">Gửi tin theo chiến dịch (không cần API)</p>
 
-![image.png](https://content.zalo.cloud/uploads/image_98688775c9.png)
+Tính năng **Gửi theo chiến dịch** trên tài khoản ZBS giúp doanh nghiệp gửi Tin nhắn ZBS Template đến danh sách khách hàng bằng tệp dữ liệu, không cần tích hợp API. Bài này hướng dẫn Quý khách tạo một chiến dịch, gửi tin và tải báo cáo sau khi gửi.
 
-### **Bước 2:** Đặt tên cho chiến dịch và nhấp vào “**Tạo chiến dịch”** 
+## Trước khi bắt đầu
 
-#### ![](https://stc-oa.zdn.vn/uploads/b5ef612e1334d42ee18d52943b9bfb1e.png) 
+- Tài khoản ZBS đã liên kết Official Account (OA) và Ứng dụng (AppID). Xem [Liên kết Ứng dụng (AppID) vào tài khoản ZBS](https://zalo.solutions/business-message/guidelines/huong-dan-lien-ket-ung-dung-appid-vao-tai-khoan-zbs).
+- Có mẫu tin đã được duyệt. Nếu chưa có, Quý khách khởi tạo và gửi duyệt mẫu theo [Hướng dẫn tạo ZBS Template Message](https://zalo.solutions/business-message/guidelines/huong-dan-tao-zbs-template-message).
+- Tài khoản ZBS đủ số dư để gửi chiến dịch. Xem [Nạp tiền vào tài khoản ZBS](https://zalo.solutions/business-message/guidelines/huong-dan-nap-tien-vao-tai-khoan-zbs).
 
-### **Bước 3:** Chọn **Mẫu tin nhắn ZBS** muốn gửi 
+## Các bước gửi theo chiến dịch
 
-**Lưu ý:** Ở bước này, nếu quý khách chưa có Mẫu tin nhắn ZBS, quý khách cần khởi tạo và gửi duyệt Mẫu trước. Xem hướng dẫn tạo Mẫu [**tại ĐÂY**](https://zalo.cloud/blog/huong-dan-tao-mau-thong-bao-zns/aeubd8edy4g6bggevv)**.**
+### Bước 1 · Mở trang Gửi theo chiến dịch
 
-![image.png](https://content.zalo.cloud/uploads/image_24a34c8d5b.png)
+Tại trang [Gửi theo chiến dịch](https://account.zalo.solutions/tool/zns/campaign), Quý khách chọn **Gửi theo chiến dịch** ở menu bên trái **(1)**, rồi bấm **Tạo chiến dịch** **(2)**.
 
-### **Bước 4:** "Tải tệp mẫu" về và nhập liệu thông tin người nhận và các biến số (tương ứng với nội dung mẫu đã gửi duyệt) và "Tải danh sách" đã nhập đầy đủ thông tin lên
+<div style={{ margin: "16px 0 8px", padding: "10px", background: "#F4F7FB", border: "1px solid #E3E9F2", borderRadius: "14px" }}><figure className="image" style={{ margin: "0", width: "100%" }}><img src="https://content.zalo.cloud/uploads/chien_dich_01_tao_7992ac5746.png" alt="Trang Gửi theo chiến dịch với danh sách chiến dịch và nút Tạo chiến dịch" style={{ display: "block", width: "100%", height: "auto", borderRadius: "8px", border: "1px solid #E3E9F2" }} /></figure><p style={{ margin: "8px 4px 0", fontSize: "14px", lineHeight: "1.5", color: "#5B6578" }}><em>Danh sách chiến dịch và nút Tạo chiến dịch.</em></p></div>
 
-![image.png](https://content.zalo.cloud/uploads/image_d81ea682bf.png)
+### Bước 2 · Đặt tên chiến dịch
 
-### **Bước 5:** Quý khách có thể Chọn Ứng dụng (AppID) và Thiết lập thời gian gửi chiến dịch mong muốn hoặc chọn **“Gửi ngay”** 
+Nhập **Tên chiến dịch** **(1)**, dài từ 10 đến 80 ký tự, rồi bấm **Tạo chiến dịch** **(2)**.
 
-![image.png](https://content.zalo.cloud/uploads/image_b2423dd650.png)
+<div style={{ margin: "16px 0 8px", padding: "10px", background: "#F4F7FB", border: "1px solid #E3E9F2", borderRadius: "14px" }}><figure className="image" style={{ margin: "0", width: "100%" }}><img src="https://content.zalo.cloud/uploads/chien_dich_02_dat_ten_a499b7f34b.png" alt="Hộp thoại đặt tên chiến dịch" style={{ display: "block", width: "100%", height: "auto", borderRadius: "8px", border: "1px solid #E3E9F2" }} /></figure><p style={{ margin: "8px 4px 0", fontSize: "14px", lineHeight: "1.5", color: "#5B6578" }}><em>Đặt tên cho chiến dịch.</em></p></div>
 
-### **Bước 6:** Kiểm tra lại các thông tin, xác nhận đã đọc và đồng ý với Điều khoản và chính sách sử dụng của Zalo. Sau đấy bấm **"Hoàn tất và gửi"** 
+### Bước 3 · Chọn mẫu gửi
 
-![image.png](https://content.zalo.cloud/uploads/image_e2ed69c41c.png)
+Tìm mẫu theo tên hoặc ID **(1)**, rồi bấm **Chọn mẫu** **(2)** ở mẫu muốn gửi. Quý khách có thể bấm **Gửi thử** để xem tin hiển thị thế nào trước khi chọn.
 
-Sau khi nhấn “Hoàn tất và gửi”, quá trình gửi chiến dịch của quý khách có thể kéo dài đến 24 giờ. Quý khác có thể kiểm tra trạng thái (Thất bại, Đang gửi, Hoàn tất) của chiến dịch đã gửi tại trang [**Danh sách chiến dịch**](https://zns.oa.zalo.me/zns/campaign)**.**
+<div style={{ margin: "16px 0 8px", padding: "10px", background: "#F4F7FB", border: "1px solid #E3E9F2", borderRadius: "14px" }}><figure className="image" style={{ margin: "0", width: "100%" }}><img src="https://content.zalo.cloud/uploads/chien_dich_03_chon_mau_cec2d49794.png" alt="Danh sách mẫu tin đã duyệt để chọn gửi" style={{ display: "block", width: "100%", height: "auto", borderRadius: "8px", border: "1px solid #E3E9F2" }} /></figure><p style={{ margin: "8px 4px 0", fontSize: "14px", lineHeight: "1.5", color: "#5B6578" }}><em>Chọn mẫu tin đã được duyệt.</em></p></div>
 
-**Lưu ý:**  Khách hàng chỉ có thể tải về báo cáo của chiến dịch sau khi hệ thống báo **“Hoàn tất”** 
+<blockquote style={{ margin: "16px 0", padding: "14px 16px", borderRadius: "12px", background: "#EEF5FF", border: "1px solid #CFE0FF", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0" }}><strong>Lưu ý:</strong> Ở bước này, nếu Quý khách chưa có Mẫu tin nhắn ZBS, Quý khách cần khởi tạo và gửi duyệt mẫu trước. Xem <a href="https://zalo.solutions/business-message/guidelines/huong-dan-tao-zbs-template-message" target="_blank" rel="noopener" style={{ color: "#0068FF", fontWeight: "600", textDecoration: "none" }}>Hướng dẫn tạo ZBS Template Message</a>.</p></blockquote>
 
-_Nếu có bất kì yêu cầu hỗ trợ, Quý khách có thể liên hệ với đội ngũ hỗ trợ và chăm sóc khách hàng của chúng tôi qua **Biểu Mẫu: [Mẫu hỗ trợ Zalo Business Solutions](https://zalo-solutions.freshdesk.com/en/support/tickets/new)**. Chúng tôi sẽ phản hồi Quý khách trong vòng 24h làm việc tiếp theo._
+### Bước 4 · Thiết lập danh sách người nhận
+
+1. Kiểm tra quy định của tệp danh sách **(1)**: định dạng CSV, XLS, XLSX; tối đa 100.000 dòng; tên cột trùng với tên tham số; không chứa dòng dữ liệu trùng lặp.
+2. Bấm **Tải tệp mẫu** **(2)**, nhập số điện thoại người nhận và dữ liệu cho các tham số, đúng thứ tự cột như bảng **Nội dung tệp mẫu**.
+3. Kéo thả hoặc bấm **tải danh sách lên** **(3)** để tải tệp đã nhập đầy đủ thông tin.
+
+<div style={{ margin: "16px 0 8px", padding: "10px", background: "#F4F7FB", border: "1px solid #E3E9F2", borderRadius: "14px" }}><figure className="image" style={{ margin: "0", width: "100%" }}><img src="https://content.zalo.cloud/uploads/chien_dich_04_danh_sach_fa3d95d6a6.png" alt="Bước Thiết lập danh sách với quy định tệp, nút Tải tệp mẫu và vùng tải danh sách" style={{ display: "block", width: "100%", height: "auto", borderRadius: "8px", border: "1px solid #E3E9F2" }} /></figure><p style={{ margin: "8px 4px 0", fontSize: "14px", lineHeight: "1.5", color: "#5B6578" }}><em>Tải tệp mẫu và tải danh sách người nhận.</em></p></div>
+
+<blockquote style={{ margin: "16px 0", padding: "14px 16px", borderRadius: "12px", background: "#EEF5FF", border: "1px solid #CFE0FF", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0" }}><strong>Lưu ý:</strong> Số điện thoại viết theo mã quốc gia. Ví dụ: 0912345678 viết thành 84912345678.</p></blockquote>
+
+### Bước 5 · Xác nhận dữ liệu
+
+Sau khi tải tệp, hệ thống hiển thị bảng **Xác nhận dữ liệu**. Quý khách kiểm tra **Tổng số dòng**, **Số dòng hợp lệ** **(1)** và mục **Dữ liệu lỗi** **(2)**. Nếu có dòng lỗi, Quý khách sửa tệp rồi tải lên lại. Khi dữ liệu đã đúng, bấm **Xác nhận** **(3)**, rồi bấm **Tiếp tục**.
+
+<div style={{ margin: "16px 0 8px", padding: "10px", background: "#F4F7FB", border: "1px solid #E3E9F2", borderRadius: "14px" }}><figure className="image" style={{ margin: "0", width: "100%" }}><img src="https://content.zalo.cloud/uploads/chien_dich_05_xac_nhan_du_lieu_35d48b539a.png" alt="Hộp thoại Xác nhận dữ liệu với số dòng hợp lệ và dữ liệu lỗi" style={{ display: "block", width: "100%", height: "auto", borderRadius: "8px", border: "1px solid #E3E9F2" }} /></figure><p style={{ margin: "8px 4px 0", fontSize: "14px", lineHeight: "1.5", color: "#5B6578" }}><em>Kiểm tra dữ liệu trước khi tiếp tục.</em></p></div>
+
+### Bước 6 · Hoàn tất và gửi
+
+1. Chọn **Ứng dụng** (AppID) dùng để gửi tin **(1)**.
+2. Chọn **Thời gian gửi** **(2)**: **Gửi ngay lập tức**, hoặc **Cài đặt ngày giờ gửi** (tối thiểu 30 phút từ thời điểm cài đặt).
+3. Kiểm tra lại các thông tin: mẫu, đơn giá, số lượng người nhận và chi phí dự kiến. Quý khách có thể dùng mục **Gửi thử với dữ liệu thật** để gửi thử tin trước.
+4. Đánh dấu đã đọc và đồng ý với Điều khoản và Chính sách sử dụng của Zalo Business Solutions **(3)**, rồi bấm **Hoàn tất và gửi** **(4)**.
+
+<div style={{ margin: "16px 0 8px", padding: "10px", background: "#F4F7FB", border: "1px solid #E3E9F2", borderRadius: "14px" }}><figure className="image" style={{ margin: "0", width: "100%" }}><img src="https://content.zalo.cloud/uploads/chien_dich_06_hoan_tat_a2ab46f994.png" alt="Bước Hoàn tất và gửi với chọn Ứng dụng, thời gian gửi và nút Hoàn tất và gửi" style={{ display: "block", width: "100%", height: "auto", borderRadius: "8px", border: "1px solid #E3E9F2" }} /></figure><p style={{ margin: "8px 4px 0", fontSize: "14px", lineHeight: "1.5", color: "#5B6578" }}><em>Chọn Ứng dụng, thời gian gửi và hoàn tất.</em></p></div>
+
+<blockquote style={{ margin: "16px 0", padding: "14px 16px", borderRadius: "12px", background: "#FFF7E8", border: "1px solid #F3D9A4", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0" }}><strong>Lưu ý:</strong> Chiến dịch sau khi xác nhận sẽ tiến hành gửi và không thể dừng quá trình này lại giữa chừng. Quý khách kiểm tra kỹ thông tin trước khi bấm <strong>Hoàn tất và gửi</strong>.</p></blockquote>
+
+## Theo dõi chiến dịch và tải báo cáo
+
+Sau khi nhấn **Hoàn tất và gửi**, quá trình gửi chiến dịch có thể kéo dài đến 24 giờ. Quý khách kiểm tra trạng thái của chiến dịch (**Thất bại**, **Đang gửi**, **Hoàn tất**) tại trang [Gửi theo chiến dịch](https://account.zalo.solutions/tool/zns/campaign).
+
+Khi chiến dịch ở trạng thái **Hoàn tất** **(1)**, Quý khách bấm biểu tượng tải về **(2)** để tải báo cáo chiến dịch.
+
+<div style={{ margin: "16px 0 8px", padding: "10px", background: "#F4F7FB", border: "1px solid #E3E9F2", borderRadius: "14px" }}><figure className="image" style={{ margin: "0", width: "100%" }}><img src="https://content.zalo.cloud/uploads/chien_dich_07_bao_cao_1018a79306.png" alt="Danh sách chiến dịch với trạng thái Hoàn tất và biểu tượng tải báo cáo" style={{ display: "block", width: "100%", height: "auto", borderRadius: "8px", border: "1px solid #E3E9F2" }} /></figure><p style={{ margin: "8px 4px 0", fontSize: "14px", lineHeight: "1.5", color: "#5B6578" }}><em>Tải báo cáo khi chiến dịch đã hoàn tất.</em></p></div>
+
+<blockquote style={{ margin: "16px 0", padding: "14px 16px", borderRadius: "12px", background: "#EEF5FF", border: "1px solid #CFE0FF", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0" }}><strong>Lưu ý:</strong> Quý khách chỉ có thể tải về báo cáo của chiến dịch sau khi hệ thống báo <strong>Hoàn tất</strong>.</p></blockquote>
+
+Với các tin gửi lỗi, Quý khách xem mã lỗi trong báo cáo và tra cách xử lý tại [Xử lý mã lỗi](https://zalo.solutions/business-message/guidelines/huong-dan-xu-ly-ma-loi).
+
+## Câu hỏi thường gặp
+
+<details style={{ margin: "0 0 10px", padding: "14px 16px", border: "1px solid #E3E9F2", borderRadius: "12px", background: "#fff" }}><summary style={{ cursor: "pointer", fontWeight: "600", color: "#121A2B" }}>Gửi theo chiến dịch khác gửi qua API thế nào?</summary><div style={{ margin: "10px 0 0", color: "#1B2433" }}><p style={{ margin: "0 0 10px" }}>Gửi theo chiến dịch dùng tệp danh sách tải lên tài khoản ZBS, không cần nhân lực kỹ thuật và dữ liệu gửi được lưu trên tài khoản ZBS. Gửi qua API phù hợp khi doanh nghiệp cần tích hợp hệ thống và gửi số lượng lớn. Xem <a href="https://zalo.solutions/business-message/guidelines/gui-api" target="_blank" rel="noopener" style={{ color: "#0068FF", fontWeight: "600", textDecoration: "none" }}>Gửi tin qua API</a>.</p></div></details>
+
+<details style={{ margin: "0 0 10px", padding: "14px 16px", border: "1px solid #E3E9F2", borderRadius: "12px", background: "#fff" }}><summary style={{ cursor: "pointer", fontWeight: "600", color: "#121A2B" }}>Có dừng được chiến dịch đang gửi không?</summary><div style={{ margin: "10px 0 0", color: "#1B2433" }}><p style={{ margin: "0 0 10px" }}>Không. Chiến dịch sau khi xác nhận sẽ tiến hành gửi và không thể dừng giữa chừng. Quý khách nên dùng <strong>Gửi thử với dữ liệu thật</strong> và kiểm tra kỹ thông tin trước khi bấm <strong>Hoàn tất và gửi</strong>.</p></div></details>
+
+<details style={{ margin: "0 0 10px", padding: "14px 16px", border: "1px solid #E3E9F2", borderRadius: "12px", background: "#fff" }}><summary style={{ cursor: "pointer", fontWeight: "600", color: "#121A2B" }}>Chi phí chiến dịch tính thế nào?</summary><div style={{ margin: "10px 0 0", color: "#1B2433" }}><p style={{ margin: "0 0 10px" }}>Chi phí dự kiến hiển thị ở bước <strong>Hoàn tất và gửi</strong>, theo đơn giá của mẫu và số lượng người nhận. Cách tính giá xem tại <a href="https://zalo.solutions/business-message/guidelines/co-che-tinh-gia-cua-mau-tin-nhan-zbs" target="_blank" rel="noopener" style={{ color: "#0068FF", fontWeight: "600", textDecoration: "none" }}>Cơ chế tính giá tin nhắn</a>.</p></div></details>
+
+### Bài viết liên quan
+
+- [Hướng dẫn tạo ZBS Template Message](https://zalo.solutions/business-message/guidelines/huong-dan-tao-zbs-template-message)
+- [Gửi tin qua API](https://zalo.solutions/business-message/guidelines/gui-api)
+- [Xử lý mã lỗi](https://zalo.solutions/business-message/guidelines/huong-dan-xu-ly-ma-loi)
+- [Nạp tiền vào tài khoản ZBS](https://zalo.solutions/business-message/guidelines/huong-dan-nap-tien-vao-tai-khoan-zbs)
+
+<blockquote style={{ margin: "40px 0 0", padding: "20px 22px", borderRadius: "16px", background: "#121A2B", color: "#fff", fontStyle: "normal", quotes: "none" }}><p style={{ margin: "0 0 4px", fontWeight: "700", fontSize: "17px" }}><strong>Cần hỗ trợ thêm?</strong></p><p style={{ margin: "0" }}>Gửi yêu cầu qua <a href="https://zalo-solutions.freshdesk.com/en/support/tickets/new" target="_blank" rel="noopener" style={{ color: "#8EC0FF", fontWeight: "600" }}>Mẫu hỗ trợ Zalo Business Solutions</a>. Đội ngũ chăm sóc khách hàng sẽ phản hồi trong vòng 24 giờ làm việc.</p></blockquote>
