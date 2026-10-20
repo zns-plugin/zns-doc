@@ -14,7 +14,7 @@ Thông tin chi tiết về bảng giá dịch vụ Tin nhắn ZBS Template, Quý
 
 ## Cơ chế tính giá dựa trên timeout API
 
-Với mục đích cam kết chất lượng gửi tin, dịch vụ gửi tin nhắn ZBS Template sẽ chỉ được tính phí nếu thời gian gửi tin nằm trong khoảng thời gian timeout. Timeout của các loại tin như sau:
+Với mục đích cam kết chất lượng gửi tin, dịch vụ gửi tin nhắn ZBS Template qua **số điện thoại** sẽ chỉ được tính phí nếu thời gian gửi tin nằm trong khoảng thời gian timeout. Với tin gửi qua **UID**, tin được tính phí khi server Zalo xử lý thành công. Timeout của các loại tin gửi qua số điện thoại như sau:
 
 <div style={{ overflowX: "auto" }}><table style={{ width: "100%", borderCollapse: "collapse", margin: "8px 0 14px", fontSize: "16px" }}><thead><tr><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Loại tin</th><th style={{ textAlign: "left", padding: "10px 12px", background: "#F4F7FB", borderBottom: "1px solid #E3E9F2", fontWeight: "600" }}>Timeout (đơn vị: giây)</th></tr></thead><tbody><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Tin Xác thực</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>15</td></tr><tr><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>Các tin còn lại</td><td style={{ padding: "10px 12px", borderBottom: "1px solid #E3E9F2", verticalAlign: "top" }}>7200</td></tr></tbody></table></div>
 
